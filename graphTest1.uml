@@ -1,4 +1,4 @@
-<img src='https://g.gravizo.com/svg?
+<img src='http://g.gravizo.com/svg?
 @startuml;
 # Define the objects
 object(O,"o:Toolkit");
