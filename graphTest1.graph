@@ -1,9 +1,11 @@
+<img src='https://g.gravizo.com/svg?
+@startuml;
 # Define the objects
 object(O,"o:Toolkit");
 placeholder_object(P);
 step();
 
-# Activation and messages
+# Activation and messages;
 active(O);
 message(O,O,"callbackLoop()");
 create_message(O,P,"p:Peer");
@@ -14,6 +16,9 @@ inactive(P);
 destroy_message(O,P);
 inactive(O);
 
-# Complete the lifeline of O
+# Complete the lifeline of O;
 step();
 complete(O);
+
+@enduml
+'>
