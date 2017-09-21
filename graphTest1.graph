@@ -1,0 +1,19 @@
+# Define the objects
+object(O,"o:Toolkit");
+placeholder_object(P);
+step();
+
+# Activation and messages
+active(O);
+message(O,O,"callbackLoop()");
+create_message(O,P,"p:Peer");
+message(O,P,"handleExpose()");
+active(P);
+return_message(P,O,"");
+inactive(P);
+destroy_message(O,P);
+inactive(O);
+
+# Complete the lifeline of O
+step();
+complete(O);
