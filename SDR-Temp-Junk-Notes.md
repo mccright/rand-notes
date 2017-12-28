@@ -51,32 +51,32 @@ Then tried it later in the next port:
 [ 1285.424154] usb 3-1: device descriptor read/64, error -71  
 [ 1285.660163] usb 3-1: device descriptor read/64, error -71  
 [ 1285.768137] usb usb3-port1: unable to enumerate USB device  
+    
   
-
-**HP ZBook 17, Windows 10 Enterprise: Fail Unknown USB Device (Device Descriptor Request Failed)**
-Device USB\VID_0000&PID_0002\5&6a10740&0&6 was configured.
-
-Driver Name: usb.inf
-Class Guid: {36FC9E60-C465-11CF-8056-444553540000}
-Driver Date: 06/21/2006
-Driver Version: 10.0.14393.1794
-Driver Provider: Microsoft
-Driver Section: BADDEVICE.Dev.NT
-Driver Rank: 0xFF0000
-Matching Device Id: USB\DEVICE_DESCRIPTOR_FAILURE
-Outranked Drivers: usb.inf:USB\DEVICE_DESCRIPTOR_FAILURE:00FF2000
-Device Updated: false
-Parent Device: USB\ROOT_HUB30\4&2f849cbc&0&0
-
-Device USB\VID_0000&PID_0002\5&6a10740&0&6 had a problem starting.
-
-Driver Name: usb.inf
-Class Guid: {36FC9E60-C465-11CF-8056-444553540000}
-Service: 
+**HP ZBook 17, Windows 10 Enterprise: Fail Unknown USB Device (Device Descriptor Request Failed)**  
+Device USB\VID_0000&PID_0002\5&6a10740&0&6 was configured.  
+  
+Driver Name: usb.inf  
+Class Guid: {36FC9E60-C465-11CF-8056-444553540000}  
+Driver Date: 06/21/2006  
+Driver Version: 10.0.14393.1794  
+Driver Provider: Microsoft  
+Driver Section: BADDEVICE.Dev.NT  
+Driver Rank: 0xFF0000  
+Matching Device Id: USB\DEVICE_DESCRIPTOR_FAILURE  
+Outranked Drivers: usb.inf:USB\DEVICE_DESCRIPTOR_FAILURE:00FF2000  
+Device Updated: false  
+Parent Device: USB\ROOT_HUB30\4&2f849cbc&0&0  
+  
+Device USB\VID_0000&PID_0002\5&6a10740&0&6 had a problem starting.  
+  
+Driver Name: usb.inf  
+Class Guid: {36FC9E60-C465-11CF-8056-444553540000}  
+Service:   
 Lower Filters: 
 Upper Filters: 
-Problem: 0x2B
-Problem Status: 0x0
+Problem: 0x2B  
+Problem Status: 0x0  
   
   
 ***SDR Temp Junk Notes***
@@ -120,9 +120,9 @@ From Fedora 27, Ubuntu 16.10, and Lubuntu 16.10 and on three different laptops, 
 [    4.432082] usb 3-2: device not accepting address 5, error -71  
 [    4.432214] usb usb3-port2: unable to enumerate USB device  
   
-root@kali1520:~# echo -1 >/sys/module/usbcore/parameters/autosuspend  
-root@kali1520:~# echo Y > /sys/module/usbcore/parameters/old_scheme_first  
-  
+root@hostname:~ echo -1 >/sys/module/usbcore/parameters/autosuspend  
+root@hostname:~ echo Y > /sys/module/usbcore/parameters/old_scheme_first  
+    
 Then tried it later in the next port:  
 [ 1283.632194] usb 3-1: new full-speed USB device number 6 using uhci_hcd  
 [ 1284.048199] usb 3-1: device not accepting address 6, error -71  
