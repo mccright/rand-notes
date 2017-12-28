@@ -200,31 +200,31 @@ Then tried it later in the next port:
 [ 1285.660163] usb 3-1: device descriptor read/64, error -71  
 [ 1285.768137] usb usb3-port1: unable to enumerate USB device  
   
-
-**HP ZBook 17, Windows 10 Enterprise: Fail Unknown USB Device (Device Descriptor Request Failed)**
-Device USB\VID_0000&PID_0002\5&6a10740&0&6 was configured.
-
-Driver Name: usb.inf
-Class Guid: {36FC9E60-C465-11CF-8056-444553540000}
-Driver Date: 06/21/2006
-Driver Version: 10.0.14393.1794
-Driver Provider: Microsoft
-Driver Section: BADDEVICE.Dev.NT
-Driver Rank: 0xFF0000
-Matching Device Id: USB\DEVICE_DESCRIPTOR_FAILURE
-Outranked Drivers: usb.inf:USB\DEVICE_DESCRIPTOR_FAILURE:00FF2000
-Device Updated: false
-Parent Device: USB\ROOT_HUB30\4&2f849cbc&0&0
-
-Device USB\VID_0000&PID_0002\5&6a10740&0&6 had a problem starting.
-
-Driver Name: usb.inf
-Class Guid: {36FC9E60-C465-11CF-8056-444553540000}
-Service: 
-Lower Filters: 
-Upper Filters: 
-Problem: 0x2B
-Problem Status: 0x0
+  
+**HP ZBook 17, Windows 10 Enterprise: Fail Unknown USB Device (Device Descriptor Request Failed)**  
+Device USB\VID_0000&PID_0002\5&6a10740&0&6 was configured.  
+  
+Driver Name: usb.inf  
+Class Guid: {36FC9E60-C465-11CF-8056-444553540000}  
+Driver Date: 06/21/2006  
+Driver Version: 10.0.14393.1794  
+Driver Provider: Microsoft  
+Driver Section: BADDEVICE.Dev.NT  
+Driver Rank: 0xFF0000  
+Matching Device Id: USB\DEVICE_DESCRIPTOR_FAILURE  
+Outranked Drivers: usb.inf:USB\DEVICE_DESCRIPTOR_FAILURE:00FF2000  
+Device Updated: false  
+Parent Device: USB\ROOT_HUB30\4&2f849cbc&0&0  
+  
+Device USB\VID_0000&PID_0002\5&6a10740&0&6 had a problem starting.  
+  
+Driver Name: usb.inf  
+Class Guid: {36FC9E60-C465-11CF-8056-444553540000}  
+Service:   
+Lower Filters:  
+Upper Filters:   
+Problem: 0x2B  
+Problem Status: 0x0  
   
   
 
