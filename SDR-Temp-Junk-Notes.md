@@ -52,6 +52,20 @@ Then tried it later in the next port:
 [ 1285.660163] usb 3-1: device descriptor read/64, error -71  
 [ 1285.768137] usb usb3-port1: unable to enumerate USB device  
     
+root@hostname:~ grep -i usb /boot/config-$(uname -r) | grep -i rtl  
+CONFIG_BT_HCIBTUSB_RTL=y  
+CONFIG_USB_RTL8150=m  
+CONFIG_USB_RTL8152=m  
+CONFIG_RTLWIFI_USB=m  
+CONFIG_DVB_USB_RTL28XXU=m  
+root@hostname:~  grep -i sdr /boot/config-$(uname -r) | more  
+CONFIG_MEDIA_SDR_SUPPORT=y  
+CONFIG_DVB_RTL2832_SDR=m  
+CONFIG_MMC_SDRICOH_CS=m  
+root@hostname:~ grep -i dvb /boot/config-$(uname -r) | wc -l  
+191  
+root@hostname:~    
+  
   
 **HP ZBook 17, Windows 10 Enterprise: Fail Unknown USB Device (Device Descriptor Request Failed)**  
 Device USB\VID_0000&PID_0002\5&6a10740&0&6 was configured.  
