@@ -112,8 +112,8 @@ root@lubuntu:~ dmesg | tail -n 15
 [  115.207223] usb 2-3: new full-speed USB device number 8 using xhci_hcd  
 [  115.207439] usb 2-3: Device not responding to setup address.  
 [  115.411474] usb 2-3: Device not responding to setup address.  
-[  115.615380] usb 2-3: device not accepting address 8, error -71
-[  115.615451] usb usb2-port3: unable to enumerate USB device
+[  115.615380] usb 2-3: device not accepting address 8, error -71  
+[  115.615451] usb usb2-port3: unable to enumerate USB device  
 root@lubuntu:~  
   
   
