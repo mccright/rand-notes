@@ -75,6 +75,48 @@ root@hostname:~
 When the setting is y, it is built in the kernel, when set to m, it is a loadable module.  
   
   
+**Toshiba Satellite S55-B5280 using Lubuntu 16.10**  
+*Before plugging in the NESDR SMArt:*  
+root@lubuntu:~$ lsusb  
+Bus 001 Device 002: ID 8087:8000 Intel Corp.   
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub  
+Bus 003 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub  
+Bus 002 Device 004: ID 04f2:b446 Chicony Electronics Co., Ltd   
+Bus 002 Device 003: ID 8087:07dc Intel Corp.  
+Bus 002 Device 002: ID 05dc:a710 Lexar Media, Inc.  
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub  
+root@lubuntu:~$ lsusb  
+*After plugging in the NESDR SMArt (it is still plugged into the USB slot):*  
+root@lubuntu:~$ lsusb  
+Bus 001 Device 002: ID 8087:8000 Intel Corp.  
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub  
+Bus 003 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub  
+Bus 002 Device 004: ID 04f2:b446 Chicony Electronics Co., Ltd   
+Bus 002 Device 003: ID 8087:07dc Intel Corp.   
+Bus 002 Device 002: ID 05dc:a710 Lexar Media, Inc.   
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub  
+root@lubuntu:~$  
+  
+*dmesg after pluging in the NESDR SMArt:*   
+root@lubuntu:~$ dmesg | tail -n 15  
+[  113.598347] usb 2-3: new full-speed USB device number 5 using xhci_hcd  
+[  113.710456] usb 2-3: device descriptor read/64, error -71  
+[  113.926546] usb 2-3: device descriptor read/64, error -71  
+[  114.142618] usb 2-3: new full-speed USB device number 6 using xhci_hcd  
+[  114.254705] usb 2-3: device descriptor read/64, error -71  
+[  114.470786] usb 2-3: device descriptor read/64, error -71  
+[  114.686889] usb 2-3: new full-speed USB device number 7 using xhci_hcd  
+[  114.687061] usb 2-3: Device not responding to setup address.  
+[  114.891211] usb 2-3: Device not responding to setup address.  
+[  115.095117] usb 2-3: device not accepting address 7, error -71  
+[  115.207223] usb 2-3: new full-speed USB device number 8 using xhci_hcd  
+[  115.207439] usb 2-3: Device not responding to setup address.  
+[  115.411474] usb 2-3: Device not responding to setup address.  
+[  115.615380] usb 2-3: device not accepting address 8, error -71
+[  115.615451] usb usb2-port3: unable to enumerate USB device
+root@lubuntu:~$  
+  
+  
 **HP ZBook 17, Windows 10 Enterprise: Fail Unknown USB Device (Device Descriptor Request Failed)**  
 Device USB\VID_0000&PID_0002\5&6a10740&0&6 was configured.  
   
