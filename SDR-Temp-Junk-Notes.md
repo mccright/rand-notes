@@ -54,7 +54,8 @@ Then tried it later in the next port:
     
 Driver 'ohci-...' means it is USB 1.1 interface.  
 Driver 'uhci-...' also means USB 1.1.  
-USB 2.0 uses 'ehci-...' driver.  
+USB 2.0 uses 'ehci-...' driver.   
+USB 3.0 must use 'xhci_...' driver?  
 I've read that some have addressed problems having this symptom by switching the IOMMU option to "enabled" (or the  "iommu=soft" option) and boot option to "legacy only."  Do I need to do that for this SDR hardware?  
   
 root@hostname:~ grep -i usb /boot/config-$(uname -r) | grep -i rtl  
