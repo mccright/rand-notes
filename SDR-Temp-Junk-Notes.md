@@ -52,6 +52,11 @@ Then tried it later in the next port:
 [ 1285.660163] usb 3-1: device descriptor read/64, error -71  
 [ 1285.768137] usb usb3-port1: unable to enumerate USB device  
     
+Driver 'ohci-...' means it is USB 1.1 interface.  
+Driver 'uhci-...' also means USB 1.1.  
+USB 2.0 uses 'ehci-...' driver.  
+I've read that some have addressed problems having this symptom by switching the IOMMU option to "enabled" (or the  "iommu=soft" option) and boot option to "legacy only."  Do I need to do that for this SDR hardware?  
+  
 root@hostname:~ grep -i usb /boot/config-$(uname -r) | grep -i rtl  
 CONFIG_BT_HCIBTUSB_RTL=y  
 CONFIG_USB_RTL8150=m  
@@ -65,6 +70,8 @@ CONFIG_MMC_SDRICOH_CS=m
 root@hostname:~ grep -i dvb /boot/config-$(uname -r) | wc -l  
 191  
 root@hostname:~    
+  
+When the setting is y, it is built in the kernel, when set to m, it is a loadable module.  
   
   
 **HP ZBook 17, Windows 10 Enterprise: Fail Unknown USB Device (Device Descriptor Request Failed)**  
