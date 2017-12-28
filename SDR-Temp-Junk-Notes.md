@@ -77,7 +77,7 @@ When the setting is y, it is built in the kernel, when set to m, it is a loadabl
   
 **Toshiba Satellite S55-B5280 using Lubuntu 16.10**  
 *Before plugging in the NESDR SMArt:*  
-root@lubuntu:~$ lsusb  
+root@lubuntu:~ lsusb  
 Bus 001 Device 002: ID 8087:8000 Intel Corp.   
 Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub  
 Bus 003 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub  
@@ -85,9 +85,9 @@ Bus 002 Device 004: ID 04f2:b446 Chicony Electronics Co., Ltd
 Bus 002 Device 003: ID 8087:07dc Intel Corp.  
 Bus 002 Device 002: ID 05dc:a710 Lexar Media, Inc.  
 Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub  
-root@lubuntu:~$ lsusb  
+root@lubuntu:~ lsusb  
 *After plugging in the NESDR SMArt (it is still plugged into the USB slot):*  
-root@lubuntu:~$ lsusb  
+root@lubuntu:~ lsusb  
 Bus 001 Device 002: ID 8087:8000 Intel Corp.  
 Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub  
 Bus 003 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub  
@@ -95,10 +95,10 @@ Bus 002 Device 004: ID 04f2:b446 Chicony Electronics Co., Ltd
 Bus 002 Device 003: ID 8087:07dc Intel Corp.   
 Bus 002 Device 002: ID 05dc:a710 Lexar Media, Inc.   
 Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub  
-root@lubuntu:~$  
+root@lubuntu:~  
   
 *dmesg after pluging in the NESDR SMArt:*   
-root@lubuntu:~$ dmesg | tail -n 15  
+root@lubuntu:~ dmesg | tail -n 15  
 [  113.598347] usb 2-3: new full-speed USB device number 5 using xhci_hcd  
 [  113.710456] usb 2-3: device descriptor read/64, error -71  
 [  113.926546] usb 2-3: device descriptor read/64, error -71  
@@ -114,7 +114,7 @@ root@lubuntu:~$ dmesg | tail -n 15
 [  115.411474] usb 2-3: Device not responding to setup address.  
 [  115.615380] usb 2-3: device not accepting address 8, error -71
 [  115.615451] usb usb2-port3: unable to enumerate USB device
-root@lubuntu:~$  
+root@lubuntu:~  
   
   
 **HP ZBook 17, Windows 10 Enterprise: Fail Unknown USB Device (Device Descriptor Request Failed)**  
