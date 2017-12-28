@@ -36,8 +36,8 @@ From Fedora 27, Ubuntu 17.04, and Lubuntu 16.10 and on three different laptops, 
 [    4.432082] usb 3-2: device not accepting address 5, error -71  
 [    4.432214] usb usb3-port2: unable to enumerate USB device  
   
-root@kali1520:~# echo -1 >/sys/module/usbcore/parameters/autosuspend  
-root@kali1520:~# echo Y > /sys/module/usbcore/parameters/old_scheme_first  
+root@hostname:~ echo -1 >/sys/module/usbcore/parameters/autosuspend  
+root@hostname:~ echo Y > /sys/module/usbcore/parameters/old_scheme_first  
   
 Then tried it later in the next port:  
 [ 1283.632194] usb 3-1: new full-speed USB device number 6 using uhci_hcd  
