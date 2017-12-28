@@ -4,7 +4,7 @@ Part of a new NooElec NESDR SMArt Bundle (Premium RTL-SDR w/ Aluminum Enclosure,
 http://www.nooelec.com/store/sdr/sdr-receivers/nesdr/nesdr-smart.html  
    
 **Error Message Summary**  
-From Fedora 27, Ubuntu 16.10, and Lubuntu 16.10 and on three different laptops, trying USB 1.1, 2.0, & 3.0 ports, I received the same series of usb device error messages:  
+From Fedora 27, Ubuntu 17.04, and Lubuntu 16.10 and on three different laptops, trying USB 1.1, 2.0, & 3.0 ports, I received the same series of usb device error messages:  
 *  new full-speed USB device number <#> using uhci_hcd  
 *  device descriptor read/64, error -71   
 *  unable to enumerate USB device  
@@ -118,7 +118,7 @@ From Windows 10 Enterprise on an HP ZBook Workstation and Windows 10 Home on a 2
 *  Fail Unknown USB Device (Device Descriptor Request Failed)  
   
 **Error Message Summary, Supporting Details**
-From Fedora 27, Ubuntu 16.10, and Lubuntu 16.10 and on three different laptops, trying USB 1.1, 2.0, & 3.0 ports, I received the same series of usb device error messages:  
+From Fedora 27, Ubuntu 17.04, and Lubuntu 16.10 and on three different laptops, trying USB 1.1, 2.0, & 3.0 ports, I received the same series of usb device error messages:  
 
 ***From dmesg***  
 [    1.664555] uhci_hcd 0000:00:1d.0: new USB bus registered, assigned bus number 3  
