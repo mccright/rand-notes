@@ -3,6 +3,22 @@
 Part of a new NooElec NESDR SMArt Bundle (Premium RTL-SDR w/ Aluminum Enclosure, 0.5PPM TCXO, SMA Input & 3 Antennas. RTL2832U & R820T2-Based, plus, re-designed antenna base, and 3 antenna masts).  
 http://www.nooelec.com/store/sdr/sdr-receivers/nesdr/nesdr-smart.html  
    
+I plugged in the device (Fedore 27) and it worked perfectly.  
+  
+SpyServer from: https://airspy.com/download/  
+Then set up the Pi as an SDR streaming server: https://eliaselectronics.com/rtlsdr/2014/11/19/raspi-rtl-streaming-server.html  
+  
+**Planning for GPS reception**  
+Antenna Notes:  
+Here is a relevant blog: (https://eliaselectronics.com/rtlsdr/2015/04/26/crude-skewed-wheel-antenna-gps.html)[https://eliaselectronics.com/rtlsdr/2015/04/26/crude-skewed-wheel-antenna-gps.html]  
+and for more detail, see Skew-Planar Wheel Antenna (http://www.slvrc.org/902band/skewplanar.htm)[http://www.slvrc.org/902band/skewplanar.htm]  
+N.B. Testing and analysis has shown that the elements should be slightly more than one wavelength long ( WL x 1.0443 ).
+The factors to use are:  31329 / F (centimeters) or 12334 / F (inches) long.  
+
+
+
+
+***Originally had a DoA Device (below)***  
 **Error Message Summary**  
 From Fedora 27, Ubuntu 17.04, and Lubuntu 16.10 and on three different laptops, trying USB 1.1, 2.0, & 3.0 ports, I received the same series of usb device error messages:  
 *  new full-speed USB device number <#> using uhci_hcd  
