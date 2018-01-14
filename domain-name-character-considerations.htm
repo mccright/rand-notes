@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" >
+<meta name="apple-mobile-web-app-capable" content="yes" >
+<meta name="apple-mobile-web-app-status-bar-style" content="black" >
+<title>Domain Name Character Considerations</title>
+<link rel="shortcut icon" href="/favicon.ico" />
+
+</head>
+<body>
+
+<div>
+<h1>Domain Name Character Considerations</h1>
+<h2>Characters Supported When Naming a Domain</h2>
+</div>
+<p>A domain name can have up to 59 characters.  Domain names can only use letters, numbers, and hyphens ("-"). Spaces, punctuation marks, and other symbols are not allowed. A domain name cannot begin or end with a hyphen. IDN (International Domain Names) for .com, .info, .net, .org, .biz, .cc, .tv and .ws can contain <b>ä, ö and ü</b> symbols.</p>
+
+<p>Below is a table of permitted special characters for a number of common domain extensions.  Hostile parties can include them in "look-alike" domain names that they employ in various social engineering exercises.</p>
+
+<p>
+    There are like to be use cases where it is advisable to consider the presence of the characters in the table below as indicators of elevated risk.  For example, what if a given "completosec.com" web service or on-boarding application ingested an email address for "completoşec.com?"  At a minimum, might that be a signal for a security investigation or maybe some sort of brand-related research and follow-up?
+</p>
+    
+<p>
+A simple regex test could be used to verify the presence or absence of specific sets of characters that may signal elevated risk for your use case.
+</p>
+
+<div>
+<div>
+
+<table border="black">
+<thead>
+<tr>
+<th>Domain Extension</th>
+<th>Permitted special characters</th>
+</tr></thead>
+
+<tbody>
+<tr class="row1">
+<td class="first-cell">.com </td>
+<td>á à ă â å ä ã ą ā æ ć ĉ č ċ ç ď đ é è ĕ ê ě ë ė ę ē ğ ĝ ġ ģ ĥ ħ í ì ĭ î ï ĩ į ī ı ĵ ķ ĺ ľ ļ ł ń ň ñ ņ ŋ ó ò ŏ ô ö ő õ ø ō œ ĸ ŕ ř ŗ ś ŝ š ş ť ţ ŧ ú ù ŭ û ů ü ű ũ ų ū ŵ ý ŷ ÿ ź ž ż ð þ ß</td>
+</tr>
+<tr class="row0">
+<td class="first-cell">.ch and .li</td>
+<td>à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ø ù ú û ü ý þ ÿ</td>
+</tr>
+<tr class="row1">
+<td class="first-cell">.at</td>
+<td>à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ø ù ú û ü ý þ ÿ œ š ž</td>
+</tr>
+<tr class="row0">
+<td class="first-cell">.eu </td>
+<td>à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ø ù ú û ü ý þ ÿ ā ă ą ć ĉ ċ č ď đ ē ĕ ė ę ě ĝ ğ ġ ģ ĥ ħ ĩ ī ĭ į ı ĵ ķ ĺ ļ ľ ŀ ł ń ņ ň ŉ ŋ ō ŏ ő œ ŕ ŗ ř ś ŝ š ť ŧ ũ ū ŭ ů ų ŵ ŷ ź ż ž ș ț ΐ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ </td>
+</tr>
+<tr class="row1">
+<td class="first-cell">.ws</td>
+<td>à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ø ù ú û ü ý þ ÿ<br>
+ā ă ą ć ĉ ċ č ď đ ē ĕ ė ę ě ĝ ğ ġ ģ ĥ ħ ĩ ī ĭ į ı ĵ ķ ĺ ļ ľ ŀ ł ń ņ ň ŉ ŋ ō ŏ ő œ ŕ ŗ ř ś ŝ š ť ŧ ũ ū ŭ ů ű ų ŵ ŷ ź ż ž ș ț ΐ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ<br>
+<br>
+</td>
+</tr>
+<tr class="row0">
+<td class="first-cell">.info </td>
+<td>á ä å æ é í ð ñ ó ö ø ú ü ý þ ā ą ć č ē ė ę ģ ī į ķ ļ ł ń ņ ō ő ŗ ś š ū ű ų ź ż ž</td>
+</tr>
+<tr class="row1">
+<td class="first-cell">.org </td>
+<td>ä ö ü</td>
+</tr>
+<tr class="row0">
+<td class="first-cell">.biz</td>
+<td>á ą ä ć é ę í ł ń ñ ó ö ś ú ü ź ż</td>
+</tr>
+<tr class="row1">
+<td class="first-cell">.com, .net, .tv, .cc, and .name</td>
+<td>à á â ã ä å ā ă ą æ ç ć ĉ ċ č ď đ è é ê ë ē ĕ ė ę ě ŋ ð ĝ ğ ġ ģ ĥ ħ ì í î ï ĩ ī ĭ į ı ĵ ķ ĸ ĺ ļ ľ ł ñ ń ņ ň ò ó ô õ ö ø ō ŏ ő œ ŕ ŗ ř ś ŝ ş š ţ ť ŧ þ ù ú û ü ũ ū ŭ ů ű ų ŵ ý ÿ ŷ ź ż ž</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
