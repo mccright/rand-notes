@@ -1,0 +1,977 @@
+<html>
+<head>
+<title>NIST 800-53R4</title>
+<meta charset="UTF-8" /> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<style>
+table, th, td {
+  border: .5px solid gray;
+  border-collapse: collapse;
+  background-color: #eee3;
+}
+th {
+  text-align: center;
+}
+th, td {
+  padding: 5px;
+}
+</style>
+</head>
+<body>
+<h1>Controls List NIST Pub 800-53 Rev4</h1>
+<p>
+Security control families and controls in the <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf">NIST Special Publication 800-53 Rev4</a> Assessment Cases.  Each has a number of separate assessment cases.  The lists below identify each family and each top level Control Name within that particular family.  [Reference: <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf</a> and <a href="https://nvd.nist.gov/static/feeds/xml/sp80053/rev4/800-53-controls.txt">https://nvd.nist.gov/static/feeds/xml/sp80053/rev4/800-53-controls.txt</a> downloaded 04-09-2019]  These controls may be useful in any discussion about how to engineer security into a proposed application, infrastructure, and/or services.  There are 922 controls in the list below.  There are 1682 numbered controls in the full list. 
+</p>
+
+<strong>18 Control Families in NIST Pub 800-53 Rev4</strong>
+<ul>
+<li><a href="#AC">AC-1	Access Control</a></li>
+<li><a href="#AT">AT-1	Awareness And Training</a></li>
+<li><a href="#AU">AU-1	Audit And Accountability</a></li>
+<li><a href="#CA">CA-1	Security Assessment And Authorization</a></li>
+<li><a href="#CM">CM-1	Configuration Management</a></li>
+<li><a href="#CP">CP-1	Contingency Planning</a></li>
+<li><a href="#IA">IA-1	Identification And Authentication</a></li>
+<li><a href="#IR">IR-1	Incident Response</a></li>
+<li><a href="#MA">MA-1	Maintenance</a></li>
+<li><a href="#MP">MP-1	Media Protection</a></li>
+<li><a href="#PE">PE-1	Physical And Environmental Protection</a></li>
+<li><a href="#PL">PL-1	Planning</a></li>
+<li><a href="#PS">PS-1	Personnel Security</a></li>
+<li><a href="#RA">RA-1	Risk Assessment</a></li>
+<li><a href="#SA">SA-1	System And Services Acquisition</a></li>
+<li><a href="#SC">SC-1	System And Communications Protection</a></li>
+<li><a href="#SI">SI-1	System And Information Integrity</a></li>
+<li><a href="#PM">PM-1	Program Management</a></li>
+</ul>
+
+<table>
+<caption>NIST Special Publication 800-53 Rev4 First & Second Level Assessment Cases </caption>
+<tr><th>Name</th><th>Family</th><th>Title</th>
+
+<tr id="AC"><td>AC-1</td><td>Access Control</td><td>Access Control Policy And Procedures</td></tr>
+<tr><td>AC-2</td><td>Access Control</td><td>Account Management</td></tr>
+<tr><td>AC-2 (1)</td><td>Access Control</td><td>Automated System Account Management</td></tr>
+<tr><td>AC-2 (2)</td><td>Access Control</td><td>Removal Of Temporary / Emergency Accounts</td></tr>
+<tr><td>AC-2 (3)</td><td>Access Control</td><td>Disable Inactive Accounts</td></tr>
+<tr><td>AC-2 (4)</td><td>Access Control</td><td>Automated Audit Actions</td></tr>
+<tr><td>AC-2 (5)</td><td>Access Control</td><td>Inactivity Logout</td></tr>
+<tr><td>AC-2 (6)</td><td>Access Control</td><td>Dynamic Privilege Management</td></tr>
+<tr><td>AC-2 (7)</td><td>Access Control</td><td>Role-Based Schemes</td></tr>
+<tr><td>AC-2 (8)</td><td>Access Control</td><td>Dynamic Account Creation</td></tr>
+<tr><td>AC-2 (9)</td><td>Access Control</td><td>Restrictions On Use Of Shared / Group Accounts</td></tr>
+<tr><td>AC-2 (10)</td><td>Access Control</td><td>Shared / Group Account Credential Termination</td></tr>
+<tr><td>AC-2 (11)</td><td>Access Control</td><td>Usage Conditions</td></tr>
+<tr><td>AC-2 (12)</td><td>Access Control</td><td>Account Monitoring / Atypical Usage</td></tr>
+<tr><td>AC-2 (13)</td><td>Access Control</td><td>Disable Accounts For High-Risk Individuals</td></tr>
+<tr><td>AC-3</td><td>Access Control</td><td>Access Enforcement</td></tr>
+<tr><td>AC-3 (1)</td><td>Access Control</td><td>Restricted Access To Privileged Functions</td></tr>
+<tr><td>AC-3 (2)</td><td>Access Control</td><td>Dual Authorization</td></tr>
+<tr><td>AC-3 (3)</td><td>Access Control</td><td>Mandatory Access Control</td></tr>
+<tr><td>AC-3 (4)</td><td>Access Control</td><td>Discretionary Access Control</td></tr>
+<tr><td>AC-3 (5)</td><td>Access Control</td><td>Security-Relevant Information</td></tr>
+<tr><td>AC-3 (6)</td><td>Access Control</td><td>Protection Of User And System Information</td></tr>
+<tr><td>AC-3 (7)</td><td>Access Control</td><td>Role-Based Access Control</td></tr>
+<tr><td>AC-3 (8)</td><td>Access Control</td><td>Revocation Of Access Authorizations</td></tr>
+<tr><td>AC-3 (9)</td><td>Access Control</td><td>Controlled Release</td></tr>
+<tr><td>AC-3 (10)</td><td>Access Control</td><td>Audited Override Of Access Control Mechanisms</td></tr>
+<tr><td>AC-4</td><td>Access Control</td><td>Information Flow Enforcement</td></tr>
+<tr><td>AC-4 (1)</td><td>Access Control</td><td>Object Security Attributes</td></tr>
+<tr><td>AC-4 (2)</td><td>Access Control</td><td>Processing Domains</td></tr>
+<tr><td>AC-4 (3)</td><td>Access Control</td><td>Dynamic Information Flow Control</td></tr>
+<tr><td>AC-4 (4)</td><td>Access Control</td><td>Content Check Encrypted Information</td></tr>
+<tr><td>AC-4 (5)</td><td>Access Control</td><td>Embedded Data Types</td></tr>
+<tr><td>AC-4 (6)</td><td>Access Control</td><td>Metadata</td></tr>
+<tr><td>AC-4 (7)</td><td>Access Control</td><td>One-Way Flow Mechanisms</td></tr>
+<tr><td>AC-4 (8)</td><td>Access Control</td><td>Security Policy Filters</td></tr>
+<tr><td>AC-4 (9)</td><td>Access Control</td><td>Human Reviews</td></tr>
+<tr><td>AC-4 (10)</td><td>Access Control</td><td>Enable / Disable Security Policy Filters</td></tr>
+<tr><td>AC-4 (11)</td><td>Access Control</td><td>Configuration Of Security Policy Filters</td></tr>
+<tr><td>AC-4 (12)</td><td>Access Control</td><td>Data Type Identifiers</td></tr>
+<tr><td>AC-4 (13)</td><td>Access Control</td><td>Decomposition Into Policy-Relevant Subcomponents</td></tr>
+<tr><td>AC-4 (14)</td><td>Access Control</td><td>Security Policy Filter Constraints</td></tr>
+<tr><td>AC-4 (15)</td><td>Access Control</td><td>Detection Of Unsanctioned Information</td></tr>
+<tr><td>AC-4 (16)</td><td>Access Control</td><td>Information Transfers On Interconnected Systems</td></tr>
+<tr><td>AC-4 (17)</td><td>Access Control</td><td>Domain Authentication</td></tr>
+<tr><td>AC-4 (18)</td><td>Access Control</td><td>Security Attribute Binding</td></tr>
+<tr><td>AC-4 (19)</td><td>Access Control</td><td>Validation Of Metadata</td></tr>
+<tr><td>AC-4 (20)</td><td>Access Control</td><td>Approved Solutions</td></tr>
+<tr><td>AC-4 (21)</td><td>Access Control</td><td>Physical / Logical Separation Of Information Flows</td></tr>
+<tr><td>AC-4 (22)</td><td>Access Control</td><td>Access Only</td></tr>
+<tr><td>AC-5</td><td>Access Control</td><td>Separation Of Duties</td></tr>
+<tr><td>AC-6</td><td>Access Control</td><td>Least Privilege</td></tr>
+<tr><td>AC-6 (1)</td><td>Access Control</td><td>Authorize Access To Security Functions</td></tr>
+<tr><td>AC-6 (2)</td><td>Access Control</td><td>Non-Privileged Access For Nonsecurity Functions</td></tr>
+<tr><td>AC-6 (3)</td><td>Access Control</td><td>Network Access To Privileged Commands</td></tr>
+<tr><td>AC-6 (4)</td><td>Access Control</td><td>Separate Processing Domains</td></tr>
+<tr><td>AC-6 (5)</td><td>Access Control</td><td>Privileged Accounts</td></tr>
+<tr><td>AC-6 (6)</td><td>Access Control</td><td>Privileged Access By Non-Organizational Users</td></tr>
+<tr><td>AC-6 (7)</td><td>Access Control</td><td>Review Of User Privileges</td></tr>
+<tr><td>AC-6 (8)</td><td>Access Control</td><td>Privilege Levels For Code Execution</td></tr>
+<tr><td>AC-6 (9)</td><td>Access Control</td><td>Auditing Use Of Privileged Functions</td></tr>
+<tr><td>AC-6 (10)</td><td>Access Control</td><td>Prohibit Non-Privileged Users From Executing Privileged Functions</td></tr>
+<tr><td>AC-7</td><td>Access Control</td><td>Unsuccessful Logon Attempts</td></tr>
+<tr><td>AC-7 (1)</td><td>Access Control</td><td>Automatic Account Lock</td></tr>
+<tr><td>AC-7 (2)</td><td>Access Control</td><td>Purge / Wipe Mobile Device</td></tr>
+<tr><td>AC-8</td><td>Access Control</td><td>System Use Notification</td></tr>
+<tr><td>AC-9</td><td>Access Control</td><td>Previous Logon (Access) Notification</td></tr>
+<tr><td>AC-9 (1)</td><td>Access Control</td><td>Unsuccessful Logons</td></tr>
+<tr><td>AC-9 (2)</td><td>Access Control</td><td>Successful / Unsuccessful Logons</td></tr>
+<tr><td>AC-9 (3)</td><td>Access Control</td><td>Notification Of Account Changes</td></tr>
+<tr><td>AC-9 (4)</td><td>Access Control</td><td>Additional Logon Information</td></tr>
+<tr><td>AC-10</td><td>Access Control</td><td>Concurrent Session Control</td></tr>
+<tr><td>AC-11</td><td>Access Control</td><td>Session Lock</td></tr>
+<tr><td>AC-11 (1)</td><td>Access Control</td><td>Pattern-Hiding Displays</td></tr>
+<tr><td>AC-12</td><td>Access Control</td><td>Session Termination</td></tr>
+<tr><td>AC-12 (1)</td><td>Access Control</td><td>User-Initiated Logouts / Message Displays</td></tr>
+<tr><td>AC-13</td><td>Access Control</td><td>Supervision And Review - Access Control</td></tr>
+<tr><td>AC-14</td><td>Access Control</td><td>Permitted Actions Without Identification Or Authentication</td></tr>
+<tr><td>AC-14 (1)</td><td>Access Control</td><td>Necessary Uses</td></tr>
+<tr><td>AC-15</td><td>Access Control</td><td>Automated Marking</td></tr>
+<tr><td>AC-16</td><td>Access Control</td><td>Security Attributes</td></tr>
+<tr><td>AC-16 (1)</td><td>Access Control</td><td>Dynamic Attribute Association</td></tr>
+<tr><td>AC-16 (2)</td><td>Access Control</td><td>Attribute Value Changes By Authorized Individuals</td></tr>
+<tr><td>AC-16 (3)</td><td>Access Control</td><td>Maintenance Of Attribute Associations By Information System</td></tr>
+<tr><td>AC-16 (4)</td><td>Access Control</td><td>Association Of Attributes By Authorized Individuals</td></tr>
+<tr><td>AC-16 (5)</td><td>Access Control</td><td>Attribute Displays For Output Devices</td></tr>
+<tr><td>AC-16 (6)</td><td>Access Control</td><td>Maintenance Of Attribute Association By Organization</td></tr>
+<tr><td>AC-16 (7)</td><td>Access Control</td><td>Consistent Attribute Interpretation</td></tr>
+<tr><td>AC-16 (8)</td><td>Access Control</td><td>Association Techniques / Technologies</td></tr>
+<tr><td>AC-16 (9)</td><td>Access Control</td><td>Attribute Reassignment</td></tr>
+<tr><td>AC-16 (10)</td><td>Access Control</td><td>Attribute Configuration By Authorized Individuals</td></tr>
+<tr><td>AC-17</td><td>Access Control</td><td>Remote Access</td></tr>
+<tr><td>AC-17 (1)</td><td>Access Control</td><td>Automated Monitoring / Control</td></tr>
+<tr><td>AC-17 (2)</td><td>Access Control</td><td>Protection Of Confidentiality / Integrity Using Encryption</td></tr>
+<tr><td>AC-17 (3)</td><td>Access Control</td><td>Managed Access Control Points</td></tr>
+<tr><td>AC-17 (4)</td><td>Access Control</td><td>Privileged Commands / Access</td></tr>
+<tr><td>AC-17 (5)</td><td>Access Control</td><td>Monitoring For Unauthorized Connections</td></tr>
+<tr><td>AC-17 (6)</td><td>Access Control</td><td>Protection Of Information</td></tr>
+<tr><td>AC-17 (7)</td><td>Access Control</td><td>Additional Protection For Security Function Access</td></tr>
+<tr><td>AC-17 (8)</td><td>Access Control</td><td>Disable Nonsecure Network Protocols</td></tr>
+<tr><td>AC-17 (9)</td><td>Access Control</td><td>Disconnect / Disable Access</td></tr>
+<tr><td>AC-18</td><td>Access Control</td><td>Wireless Access</td></tr>
+<tr><td>AC-18 (1)</td><td>Access Control</td><td>Authentication And Encryption</td></tr>
+<tr><td>AC-18 (2)</td><td>Access Control</td><td>Monitoring Unauthorized Connections</td></tr>
+<tr><td>AC-18 (3)</td><td>Access Control</td><td>Disable Wireless Networking</td></tr>
+<tr><td>AC-18 (4)</td><td>Access Control</td><td>Restrict Configurations By Users</td></tr>
+<tr><td>AC-18 (5)</td><td>Access Control</td><td>Antennas / Transmission Power Levels</td></tr>
+<tr><td>AC-19</td><td>Access Control</td><td>Access Control For Mobile Devices</td></tr>
+<tr><td>AC-19 (1)</td><td>Access Control</td><td>Use Of  Writable / Portable Storage Devices</td></tr>
+<tr><td>AC-19 (2)</td><td>Access Control</td><td>Use Of Personally Owned Portable Storage Devices</td></tr>
+<tr><td>AC-19 (3)</td><td>Access Control</td><td>Use Of Portable Storage Devices With No Identifiable Owner</td></tr>
+<tr><td>AC-19 (4)</td><td>Access Control</td><td>Restrictions For Classified Information</td></tr>
+<tr><td>AC-19 (5)</td><td>Access Control</td><td>Full Device / Container-Based  Encryption</td></tr>
+<tr><td>AC-20</td><td>Access Control</td><td>Use Of External Information Systems</td></tr>
+<tr><td>AC-20 (1)</td><td>Access Control</td><td>Limits On Authorized Use</td></tr>
+<tr><td>AC-20 (2)</td><td>Access Control</td><td>Portable Storage Devices</td></tr>
+<tr><td>AC-20 (3)</td><td>Access Control</td><td>Non-Organizationally Owned Systems / Components / Devices</td></tr>
+<tr><td>AC-20 (4)</td><td>Access Control</td><td>Network Accessible Storage Devices</td></tr>
+<tr><td>AC-21</td><td>Access Control</td><td>Information Sharing</td></tr>
+<tr><td>AC-21 (1)</td><td>Access Control</td><td>Automated Decision Support</td></tr>
+<tr><td>AC-21 (2)</td><td>Access Control</td><td>Information Search And Retrieval</td></tr>
+<tr><td>AC-22</td><td>Access Control</td><td>Publicly Accessible Content</td></tr>
+<tr><td>AC-23</td><td>Access Control</td><td>Data Mining Protection</td></tr>
+<tr><td>AC-24</td><td>Access Control</td><td>Access Control Decisions</td></tr>
+<tr><td>AC-24 (1)</td><td>Access Control</td><td>Transmit Access Authorization Information</td></tr>
+<tr><td>AC-24 (2)</td><td>Access Control</td><td>No User Or Process Identity</td></tr>
+<tr><td>AC-25</td><td>Access Control</td><td>Reference Monitor</td></tr>
+<tr id="AT"><td>AT-1</td><td>Awareness And Training</td><td>Security Awareness And Training Policy And Procedures</td></tr>
+<tr><td>AT-2</td><td>Awareness And Training</td><td>Security Awareness Training</td></tr>
+<tr><td>AT-2 (1)</td><td>Awareness And Training</td><td>Practical Exercises</td></tr>
+<tr><td>AT-2 (2)</td><td>Awareness And Training</td><td>Insider Threat</td></tr>
+<tr><td>AT-3</td><td>Awareness And Training</td><td>Role-Based Security Training</td></tr>
+<tr><td>AT-3 (1)</td><td>Awareness And Training</td><td>Environmental Controls</td></tr>
+<tr><td>AT-3 (2)</td><td>Awareness And Training</td><td>Physical Security Controls</td></tr>
+<tr><td>AT-3 (3)</td><td>Awareness And Training</td><td>Practical Exercises</td></tr>
+<tr><td>AT-3 (4)</td><td>Awareness And Training</td><td>Suspicious Communications And Anomalous System Behavior</td></tr>
+<tr><td>AT-4</td><td>Awareness And Training</td><td>Security Training Records</td></tr>
+<tr><td>AT-5</td><td>Awareness And Training</td><td>Contacts With Security Groups And Associations</td></tr>
+<tr id="AU"><td>AU-1</td><td>Audit And Accountability</td><td>Audit And Accountability Policy And Procedures</td></tr>
+<tr><td>AU-2</td><td>Audit And Accountability</td><td>Audit Events</td></tr>
+<tr><td>AU-2 (1)</td><td>Audit And Accountability</td><td>Compilation Of Audit Records From Multiple Sources</td></tr>
+<tr><td>AU-2 (2)</td><td>Audit And Accountability</td><td>Selection Of Audit Events By Component</td></tr>
+<tr><td>AU-2 (3)</td><td>Audit And Accountability</td><td>Reviews And Updates</td></tr>
+<tr><td>AU-2 (4)</td><td>Audit And Accountability</td><td>Privileged Functions</td></tr>
+<tr><td>AU-3</td><td>Audit And Accountability</td><td>Content Of Audit Records</td></tr>
+<tr><td>AU-3 (1)</td><td>Audit And Accountability</td><td>Additional Audit Information</td></tr>
+<tr><td>AU-3 (2)</td><td>Audit And Accountability</td><td>Centralized Management Of Planned Audit Record Content</td></tr>
+<tr><td>AU-4</td><td>Audit And Accountability</td><td>Audit Storage Capacity</td></tr>
+<tr><td>AU-4 (1)</td><td>Audit And Accountability</td><td>Transfer To Alternate Storage</td></tr>
+<tr><td>AU-5</td><td>Audit And Accountability</td><td>Response To Audit Processing Failures</td></tr>
+<tr><td>AU-5 (1)</td><td>Audit And Accountability</td><td>Audit Storage Capacity</td></tr>
+<tr><td>AU-5 (2)</td><td>Audit And Accountability</td><td>Real-Time Alerts</td></tr>
+<tr><td>AU-5 (3)</td><td>Audit And Accountability</td><td>Configurable Traffic Volume Thresholds</td></tr>
+<tr><td>AU-5 (4)</td><td>Audit And Accountability</td><td>Shutdown On Failure</td></tr>
+<tr><td>AU-6</td><td>Audit And Accountability</td><td>"Audit Review, Analysis And Reporting"</td></tr>
+<tr><td>AU-6 (1)</td><td>Audit And Accountability</td><td>Process Integration</td></tr>
+<tr><td>AU-6 (2)</td><td>Audit And Accountability</td><td>Automated Security Alerts</td></tr>
+<tr><td>AU-6 (3)</td><td>Audit And Accountability</td><td>Correlate Audit Repositories</td></tr>
+<tr><td>AU-6 (4)</td><td>Audit And Accountability</td><td>Central Review And Analysis</td></tr>
+<tr><td>AU-6 (5)</td><td>Audit And Accountability</td><td>Integration / Scanning And Monitoring Capabilities</td></tr>
+<tr><td>AU-6 (6)</td><td>Audit And Accountability</td><td>Correlation With Physical Monitoring</td></tr>
+<tr><td>AU-6 (7)</td><td>Audit And Accountability</td><td>Permitted Actions</td></tr>
+<tr><td>AU-6 (8)</td><td>Audit And Accountability</td><td>Full Text Analysis Of Privileged Commands</td></tr>
+<tr><td>AU-6 (9)</td><td>Audit And Accountability</td><td>Correlation With Information From Nontechnical Sources</td></tr>
+<tr><td>AU-6 (10)</td><td>Audit And Accountability</td><td>Audit Level Adjustment</td></tr>
+<tr><td>AU-7</td><td>Audit And Accountability</td><td>Audit Reduction And Report Generation</td></tr>
+<tr><td>AU-7 (1)</td><td>Audit And Accountability</td><td>Automatic Processing</td></tr>
+<tr><td>AU-7 (2)</td><td>Audit And Accountability</td><td>Automatic Sort And Search</td></tr>
+<tr><td>AU-8</td><td>Audit And Accountability</td><td>Time Stamps</td></tr>
+<tr><td>AU-8 (1)</td><td>Audit And Accountability</td><td>Synchronization With Authoritative Time Source</td></tr>
+<tr><td>AU-8 (2)</td><td>Audit And Accountability</td><td>Secondary Authoritative Time Source</td></tr>
+<tr><td>AU-9</td><td>Audit And Accountability</td><td>Protection Of Audit Information</td></tr>
+<tr><td>AU-9 (1)</td><td>Audit And Accountability</td><td>Hardware Write-Once Media</td></tr>
+<tr><td>AU-9 (2)</td><td>Audit And Accountability</td><td>Audit Backup On Separate Physical Systems / Components</td></tr>
+<tr><td>AU-9 (3)</td><td>Audit And Accountability</td><td>Cryptographic Protection</td></tr>
+<tr><td>AU-9 (4)</td><td>Audit And Accountability</td><td>Access By Subset Of Privileged Users</td></tr>
+<tr><td>AU-9 (5)</td><td>Audit And Accountability</td><td>Dual Authorization</td></tr>
+<tr><td>AU-9 (6)</td><td>Audit And Accountability</td><td>Read Only Access</td></tr>
+<tr><td>AU-10</td><td>Audit And Accountability</td><td>Non-Repudiation</td></tr>
+<tr><td>AU-10 (1)</td><td>Audit And Accountability</td><td>Association Of Identities</td></tr>
+<tr><td>AU-10 (2)</td><td>Audit And Accountability</td><td>Validate Binding Of Information Producer Identity</td></tr>
+<tr><td>AU-10 (3)</td><td>Audit And Accountability</td><td>Chain Of Custody</td></tr>
+<tr><td>AU-10 (4)</td><td>Audit And Accountability</td><td>Validate Binding Of Information Reviewer Identity</td></tr>
+<tr><td>AU-10 (5)</td><td>Audit And Accountability</td><td>Digital Signatures</td></tr>
+<tr><td>AU-11</td><td>Audit And Accountability</td><td>Audit Record Retention</td></tr>
+<tr><td>AU-11 (1)</td><td>Audit And Accountability</td><td>Long-Term Retrieval Capability</td></tr>
+<tr><td>AU-12</td><td>Audit And Accountability</td><td>Audit Generation</td></tr>
+<tr><td>AU-12 (1)</td><td>Audit And Accountability</td><td>System-Wide / Time-Correlated Audit Trail</td></tr>
+<tr><td>AU-12 (2)</td><td>Audit And Accountability</td><td>Standardized Formats</td></tr>
+<tr><td>AU-12 (3)</td><td>Audit And Accountability</td><td>Changes By Authorized Individuals</td></tr>
+<tr><td>AU-13</td><td>Audit And Accountability</td><td>Monitoring For Information Disclosure</td></tr>
+<tr><td>AU-13 (1)</td><td>Audit And Accountability</td><td>Use Of Automated Tools</td></tr>
+<tr><td>AU-13 (2)</td><td>Audit And Accountability</td><td>Review Of Monitored Sites</td></tr>
+<tr><td>AU-14</td><td>Audit And Accountability</td><td>Session Audit</td></tr>
+<tr><td>AU-14 (1)</td><td>Audit And Accountability</td><td>System Start-Up</td></tr>
+<tr><td>AU-14 (2)</td><td>Audit And Accountability</td><td>Capture/Record And Log Content</td></tr>
+<tr><td>AU-14 (3)</td><td>Audit And Accountability</td><td>Remote Viewing / Listening</td></tr>
+<tr><td>AU-15</td><td>Audit And Accountability</td><td>Alternate Audit Capability</td></tr>
+<tr><td>AU-16</td><td>Audit And Accountability</td><td>Cross-Organizational Auditing</td></tr>
+<tr><td>AU-16 (1)</td><td>Audit And Accountability</td><td>Identity Preservation</td></tr>
+<tr><td>AU-16 (2)</td><td>Audit And Accountability</td><td>Sharing Of Audit Information</td></tr>
+<tr id="CA"><td>CA-1</td><td>Security Assessment And Authorization</td><td>Security Assessment And Authorization Policy And Procedures</td></tr>
+<tr><td>CA-2</td><td>Security Assessment And Authorization</td><td>Security Assessments</td></tr>
+<tr><td>CA-2 (1)</td><td>Security Assessment And Authorization</td><td>Independent Assessors</td></tr>
+<tr><td>CA-2 (2)</td><td>Security Assessment And Authorization</td><td>Specialized Assessments</td></tr>
+<tr><td>CA-2 (3)</td><td>Security Assessment And Authorization</td><td>External Organizations</td></tr>
+<tr><td>CA-3</td><td>Security Assessment And Authorization</td><td>System Interconnections</td></tr>
+<tr><td>CA-3 (1)</td><td>Security Assessment And Authorization</td><td>Unclassified National Security System Connections</td></tr>
+<tr><td>CA-3 (2)</td><td>Security Assessment And Authorization</td><td>Classified National Security System Connections</td></tr>
+<tr><td>CA-3 (3)</td><td>Security Assessment And Authorization</td><td>Unclassified Non-National Security System Connections</td></tr>
+<tr><td>CA-3 (4)</td><td>Security Assessment And Authorization</td><td>Connections To Public Networks</td></tr>
+<tr><td>CA-3 (5)</td><td>Security Assessment And Authorization</td><td>Restrictions On External System Connections</td></tr>
+<tr><td>CA-4</td><td>Security Assessment And Authorization</td><td>Security Certification</td></tr>
+<tr><td>CA-5</td><td>Security Assessment And Authorization</td><td>Plan Of Action And Milestones</td></tr>
+<tr><td>CA-5 (1)</td><td>Security Assessment And Authorization</td><td>Automation Support For Accuracy / Currency</td></tr>
+<tr><td>CA-6</td><td>Security Assessment And Authorization</td><td>Security Authorization</td></tr>
+<tr><td>CA-7</td><td>Security Assessment And Authorization</td><td>Continuous Monitoring</td></tr>
+<tr><td>CA-7 (1)</td><td>Security Assessment And Authorization</td><td>Independent Assessment</td></tr>
+<tr><td>CA-7 (2)</td><td>Security Assessment And Authorization</td><td>Types Of Assessments</td></tr>
+<tr><td>CA-7 (3)</td><td>Security Assessment And Authorization</td><td>Trend Analyses</td></tr>
+<tr><td>CA-8</td><td>Security Assessment And Authorization</td><td>Penetration Testing</td></tr>
+<tr><td>CA-8 (1)</td><td>Security Assessment And Authorization</td><td>Independent Penetration Agent Or Team</td></tr>
+<tr><td>CA-8 (2)</td><td>Security Assessment And Authorization</td><td>Red Team Exercises</td></tr>
+<tr><td>CA-9</td><td>Security Assessment And Authorization</td><td>Internal System Connections</td></tr>
+<tr><td>CA-9 (1)</td><td>Security Assessment And Authorization</td><td>Security Compliance Checks</td></tr>
+<tr id="CM"><td>CM-1</td><td>Configuration Management</td><td>Configuration Management Policy And Procedures</td></tr>
+<tr><td>CM-2</td><td>Configuration Management</td><td>Baseline Configuration</td></tr>
+<tr><td>CM-2 (1)</td><td>Configuration Management</td><td>Reviews And Updates</td></tr>
+<tr><td>CM-2 (2)</td><td>Configuration Management</td><td>Automation Support For Accuracy / Currency</td></tr>
+<tr><td>CM-2 (3)</td><td>Configuration Management</td><td>Retention Of Previous Configurations</td></tr>
+<tr><td>CM-2 (4)</td><td>Configuration Management</td><td>Unauthorized Software</td></tr>
+<tr><td>CM-2 (5)</td><td>Configuration Management</td><td>Authorized Software</td></tr>
+<tr><td>CM-2 (6)</td><td>Configuration Management</td><td>Development And Test Environments</td></tr>
+<tr><td>CM-2 (7)</td><td>Configuration Management</td><td>"Configure Systems, Components Or Devices For High-Risk Areas"</td></tr>
+<tr><td>CM-3</td><td>Configuration Management</td><td>Configuration Change Control</td></tr>
+<tr><td>CM-3 (1)</td><td>Configuration Management</td><td>Automated Document / Notification / Prohibition Of Changes</td></tr>
+<tr><td>CM-3 (2)</td><td>Configuration Management</td><td>Test / Validate / Document Changes</td></tr>
+<tr><td>CM-3 (3)</td><td>Configuration Management</td><td>Automated Change Implementation</td></tr>
+<tr><td>CM-3 (4)</td><td>Configuration Management</td><td>Security Representative</td></tr>
+<tr><td>CM-3 (5)</td><td>Configuration Management</td><td>Automated Security Response</td></tr>
+<tr><td>CM-3 (6)</td><td>Configuration Management</td><td>Cryptography Management</td></tr>
+<tr><td>CM-4</td><td>Configuration Management</td><td>Security Impact Analysis</td></tr>
+<tr><td>CM-4 (1)</td><td>Configuration Management</td><td>Separate Test Environments</td></tr>
+<tr><td>CM-4 (2)</td><td>Configuration Management</td><td>Verification Of Security Functions</td></tr>
+<tr><td>CM-5</td><td>Configuration Management</td><td>Access Restrictions For Change</td></tr>
+<tr><td>CM-5 (1)</td><td>Configuration Management</td><td>Automated Access Enforcement / Auditing</td></tr>
+<tr><td>CM-5 (2)</td><td>Configuration Management</td><td>Review System Changes</td></tr>
+<tr><td>CM-5 (3)</td><td>Configuration Management</td><td>Signed Components</td></tr>
+<tr><td>CM-5 (4)</td><td>Configuration Management</td><td>Dual Authorization</td></tr>
+<tr><td>CM-5 (5)</td><td>Configuration Management</td><td>Limit Production / Operational Privileges</td></tr>
+<tr><td>CM-5 (6)</td><td>Configuration Management</td><td>Limit Library Privileges</td></tr>
+<tr><td>CM-5 (7)</td><td>Configuration Management</td><td>Automatic Implementation Of Security Safeguards</td></tr>
+<tr><td>CM-6</td><td>Configuration Management</td><td>Configuration Settings</td></tr>
+<tr><td>CM-6 (1)</td><td>Configuration Management</td><td>Automated Central Management / Application / Verification</td></tr>
+<tr><td>CM-6 (2)</td><td>Configuration Management</td><td>Respond To Unauthorized Changes</td></tr>
+<tr><td>CM-6 (3)</td><td>Configuration Management</td><td>Unauthorized Change Detection</td></tr>
+<tr><td>CM-6 (4)</td><td>Configuration Management</td><td>Conformance Demonstration</td></tr>
+<tr><td>CM-7</td><td>Configuration Management</td><td>Least Functionality</td></tr>
+<tr><td>CM-7 (1)</td><td>Configuration Management</td><td>Periodic Review</td></tr>
+<tr><td>CM-7 (2)</td><td>Configuration Management</td><td>Prevent Program Execution</td></tr>
+<tr><td>CM-7 (3)</td><td>Configuration Management</td><td>Registration Compliance</td></tr>
+<tr><td>CM-7 (4)</td><td>Configuration Management</td><td>Unauthorized Software / Blacklisting</td></tr>
+<tr><td>CM-7 (5)</td><td>Configuration Management</td><td>Authorized Software / Whitelisting</td></tr>
+<tr><td>CM-8</td><td>Configuration Management</td><td>Information System Component Inventory</td></tr>
+<tr><td>CM-8 (1)</td><td>Configuration Management</td><td>Updates During Installations / Removals</td></tr>
+<tr><td>CM-8 (2)</td><td>Configuration Management</td><td>Automated Maintenance</td></tr>
+<tr><td>CM-8 (3)</td><td>Configuration Management</td><td>Automated Unauthorized Component Detection</td></tr>
+<tr><td>CM-8 (4)</td><td>Configuration Management</td><td>Accountability Information</td></tr>
+<tr><td>CM-8 (5)</td><td>Configuration Management</td><td>No Duplicate Accounting Of Components</td></tr>
+<tr><td>CM-8 (6)</td><td>Configuration Management</td><td>Assessed Configurations / Approved Deviations</td></tr>
+<tr><td>CM-8 (7)</td><td>Configuration Management</td><td>Centralized Repository</td></tr>
+<tr><td>CM-8 (8)</td><td>Configuration Management</td><td>Automated Location Tracking</td></tr>
+<tr><td>CM-8 (9)</td><td>Configuration Management</td><td>Assignment Of Components To Systems</td></tr>
+<tr><td>CM-9</td><td>Configuration Management</td><td>Configuration Management Plan</td></tr>
+<tr><td>CM-9 (1)</td><td>Configuration Management</td><td>Assignment Of Responsibility</td></tr>
+<tr><td>CM-10</td><td>Configuration Management</td><td>Software Usage Restrictions</td></tr>
+<tr><td>CM-10 (1)</td><td>Configuration Management</td><td>Open Source Software</td></tr>
+<tr><td>CM-11</td><td>Configuration Management</td><td>User-Installed Software</td></tr>
+<tr><td>CM-11 (1)</td><td>Configuration Management</td><td>Alerts For Unauthorized Installations</td></tr>
+<tr><td>CM-11 (2)</td><td>Configuration Management</td><td>Prohibit Installation Without Privileged Status</td></tr>
+<tr id="CP"><td>CP-1</td><td>Contingency Planning</td><td>Contingency Planning Policy And Procedures</td></tr>
+<tr><td>CP-2</td><td>Contingency Planning</td><td>Contingency Plan</td></tr>
+<tr><td>CP-2 (1)</td><td>Contingency Planning</td><td>Coordinate With Related Plans</td></tr>
+<tr><td>CP-2 (2)</td><td>Contingency Planning</td><td>Capacity Planning</td></tr>
+<tr><td>CP-2 (3)</td><td>Contingency Planning</td><td>Resume Essential Missions / Business Functions</td></tr>
+<tr><td>CP-2 (4)</td><td>Contingency Planning</td><td>Resume All Missions / Business Functions</td></tr>
+<tr><td>CP-2 (5)</td><td>Contingency Planning</td><td>Continue  Essential Missions / Business Functions</td></tr>
+<tr><td>CP-2 (6)</td><td>Contingency Planning</td><td>Alternate Processing / Storage Site</td></tr>
+<tr><td>CP-2 (7)</td><td>Contingency Planning</td><td>Coordinate  With External Service Providers</td></tr>
+<tr><td>CP-2 (8)</td><td>Contingency Planning</td><td>Identify Critical Assets</td></tr>
+<tr><td>CP-3</td><td>Contingency Planning</td><td>Contingency Training</td></tr>
+<tr><td>CP-3 (1)</td><td>Contingency Planning</td><td>Simulated Events</td></tr>
+<tr><td>CP-3 (2)</td><td>Contingency Planning</td><td>Automated Training Environments</td></tr>
+<tr><td>CP-4</td><td>Contingency Planning</td><td>Contingency Plan Testing</td></tr>
+<tr><td>CP-4 (1)</td><td>Contingency Planning</td><td>Coordinate With Related Plans</td></tr>
+<tr><td>CP-4 (2)</td><td>Contingency Planning</td><td>Alternate Processing Site</td></tr>
+<tr><td>CP-4 (3)</td><td>Contingency Planning</td><td>Automated Testing</td></tr>
+<tr><td>CP-4 (4)</td><td>Contingency Planning</td><td>Full Recovery / Reconstitution</td></tr>
+<tr><td>CP-5</td><td>Contingency Planning</td><td>Contingency Plan Update</td></tr>
+<tr><td>CP-6</td><td>Contingency Planning</td><td>Alternate Storage Site</td></tr>
+<tr><td>CP-6 (1)</td><td>Contingency Planning</td><td>Separation From Primary Site</td></tr>
+<tr><td>CP-6 (2)</td><td>Contingency Planning</td><td>Recovery Time / Point Objectives</td></tr>
+<tr><td>CP-6 (3)</td><td>Contingency Planning</td><td>Accessibility</td></tr>
+<tr><td>CP-7</td><td>Contingency Planning</td><td>Alternate Processing Site</td></tr>
+<tr><td>CP-7 (1)</td><td>Contingency Planning</td><td>Separation From Primary Site</td></tr>
+<tr><td>CP-7 (2)</td><td>Contingency Planning</td><td>Accessibility</td></tr>
+<tr><td>CP-7 (3)</td><td>Contingency Planning</td><td>Priority Of Service</td></tr>
+<tr><td>CP-7 (4)</td><td>Contingency Planning</td><td>Preparation For Use</td></tr>
+<tr><td>CP-7 (5)</td><td>Contingency Planning</td><td>Equivalent Information Security Safeguards</td></tr>
+<tr><td>CP-7 (6)</td><td>Contingency Planning</td><td>Inability To Return To Primary Site</td></tr>
+<tr><td>CP-8</td><td>Contingency Planning</td><td>Telecommunications Services</td></tr>
+<tr><td>CP-8 (1)</td><td>Contingency Planning</td><td>Priority Of Service Provisions</td></tr>
+<tr><td>CP-8 (2)</td><td>Contingency Planning</td><td>Single Points Of Failure</td></tr>
+<tr><td>CP-8 (3)</td><td>Contingency Planning</td><td>Separation Of Primary / Alternate Providers</td></tr>
+<tr><td>CP-8 (4)</td><td>Contingency Planning</td><td>Provider Contingency Plan</td></tr>
+<tr><td>CP-8 (5)</td><td>Contingency Planning</td><td>Alternate Telecommunication Service Testing</td></tr>
+<tr><td>CP-9</td><td>Contingency Planning</td><td>Information System Backup</td></tr>
+<tr><td>CP-9 (1)</td><td>Contingency Planning</td><td>Testing For Reliability / Integrity</td></tr>
+<tr><td>CP-9 (2)</td><td>Contingency Planning</td><td>Test Restoration Using Sampling</td></tr>
+<tr><td>CP-9 (3)</td><td>Contingency Planning</td><td>Separate Storage For Critical Information</td></tr>
+<tr><td>CP-9 (4)</td><td>Contingency Planning</td><td>Protection From Unauthorized Modification</td></tr>
+<tr><td>CP-9 (5)</td><td>Contingency Planning</td><td>Transfer To Alternate Storage Site</td></tr>
+<tr><td>CP-9 (6)</td><td>Contingency Planning</td><td>Redundant Secondary System</td></tr>
+<tr><td>CP-9 (7)</td><td>Contingency Planning</td><td>Dual Authorization</td></tr>
+<tr><td>CP-10</td><td>Contingency Planning</td><td>Information System Recovery And Reconstitution</td></tr>
+<tr><td>CP-10 (1)</td><td>Contingency Planning</td><td>Contingency Plan Testing</td></tr>
+<tr><td>CP-10 (2)</td><td>Contingency Planning</td><td>Transaction Recovery</td></tr>
+<tr><td>CP-10 (3)</td><td>Contingency Planning</td><td>Compensating Security Controls</td></tr>
+<tr><td>CP-10 (4)</td><td>Contingency Planning</td><td>Restore Within Time Period</td></tr>
+<tr><td>CP-10 (5)</td><td>Contingency Planning</td><td>Failover Capability</td></tr>
+<tr><td>CP-10 (6)</td><td>Contingency Planning</td><td>Component Protection</td></tr>
+<tr><td>CP-11</td><td>Contingency Planning</td><td>Alternate Communications Protocols</td></tr>
+<tr><td>CP-12</td><td>Contingency Planning</td><td>Safe Mode</td></tr>
+<tr><td>CP-13</td><td>Contingency Planning</td><td>Alternative Security Mechanisms</td></tr>
+<tr id="IA"><td>IA-1</td><td>Identification And Authentication</td><td>Identification And Authentication Policy And Procedures</td></tr>
+<tr><td>IA-2</td><td>Identification And Authentication</td><td>Identification And Authentication (Organizational Users)</td></tr>
+<tr><td>IA-2 (1)</td><td>Identification And Authentication</td><td>Network Access To Privileged Accounts</td></tr>
+<tr><td>IA-2 (2)</td><td>Identification And Authentication</td><td>Network Access To Non-Privileged Accounts</td></tr>
+<tr><td>IA-2 (3)</td><td>Identification And Authentication</td><td>Local Access To Privileged Accounts</td></tr>
+<tr><td>IA-2 (4)</td><td>Identification And Authentication</td><td>Local Access To Non-Privileged Accounts</td></tr>
+<tr><td>IA-2 (5)</td><td>Identification And Authentication</td><td>Group Authentication</td></tr>
+<tr><td>IA-2 (6)</td><td>Identification And Authentication</td><td>Network Access To Privileged Accounts - Separate Device</td></tr>
+<tr><td>IA-2 (7)</td><td>Identification And Authentication</td><td>Network Access To Non-Privileged Accounts - Separate Device</td></tr>
+<tr><td>IA-2 (8)</td><td>Identification And Authentication</td><td>Network Access To Privileged Accounts - Replay Resistant</td></tr>
+<tr><td>IA-2 (9)</td><td>Identification And Authentication</td><td>Network Access To Non-Privileged Accounts - Replay Resistant</td></tr>
+<tr><td>IA-2 (10)</td><td>Identification And Authentication</td><td>Single Sign-On</td></tr>
+<tr><td>IA-2 (11)</td><td>Identification And Authentication</td><td>Remote Access  - Separate Device</td></tr>
+<tr><td>IA-2 (12)</td><td>Identification And Authentication</td><td>Acceptance Of Piv Credentials</td></tr>
+<tr><td>IA-2 (13)</td><td>Identification And Authentication</td><td>Out-Of-Band Authentication</td></tr>
+<tr><td>IA-3</td><td>Identification And Authentication</td><td>Device Identification And Authentication</td></tr>
+<tr><td>IA-3 (1)</td><td>Identification And Authentication</td><td>Cryptographic Bidirectional Authentication</td></tr>
+<tr><td>IA-3 (2)</td><td>Identification And Authentication</td><td>Cryptographic Bidirectional Network Authentication</td></tr>
+<tr><td>IA-3 (3)</td><td>Identification And Authentication</td><td>Dynamic Address Allocation</td></tr>
+<tr><td>IA-3 (4)</td><td>Identification And Authentication</td><td>Device Attestation</td></tr>
+<tr><td>IA-4</td><td>Identification And Authentication</td><td>Identifier Management</td></tr>
+<tr><td>IA-4 (1)</td><td>Identification And Authentication</td><td>Prohibit Account Identifiers As Public Identifiers</td></tr>
+<tr><td>IA-4 (2)</td><td>Identification And Authentication</td><td>Supervisor Authorization</td></tr>
+<tr><td>IA-4 (3)</td><td>Identification And Authentication</td><td>Multiple Forms Of Certification</td></tr>
+<tr><td>IA-4 (4)</td><td>Identification And Authentication</td><td>Identify User Status</td></tr>
+<tr><td>IA-4 (5)</td><td>Identification And Authentication</td><td>Dynamic Management</td></tr>
+<tr><td>IA-4 (6)</td><td>Identification And Authentication</td><td>Cross-Organization Management</td></tr>
+<tr><td>IA-4 (7)</td><td>Identification And Authentication</td><td>In-Person Registration</td></tr>
+<tr><td>IA-5</td><td>Identification And Authentication</td><td>Authenticator Management</td></tr>
+<tr><td>IA-5 (1)</td><td>Identification And Authentication</td><td>Password-Based Authentication</td></tr>
+<tr><td>IA-5 (2)</td><td>Identification And Authentication</td><td>Pki-Based Authentication</td></tr>
+<tr><td>IA-5 (3)</td><td>Identification And Authentication</td><td>In-Person Or Trusted Third-Party Registration</td></tr>
+<tr><td>IA-5 (4)</td><td>Identification And Authentication</td><td>Automated Support  For Password Strength Determination</td></tr>
+<tr><td>IA-5 (5)</td><td>Identification And Authentication</td><td>Change Authenticators Prior To Delivery</td></tr>
+<tr><td>IA-5 (6)</td><td>Identification And Authentication</td><td>Protection Of Authenticators</td></tr>
+<tr><td>IA-5 (7)</td><td>Identification And Authentication</td><td>No Embedded Unencrypted Static Authenticators</td></tr>
+<tr><td>IA-5 (8)</td><td>Identification And Authentication</td><td>Multiple Information System Accounts</td></tr>
+<tr><td>IA-5 (9)</td><td>Identification And Authentication</td><td>Cross-Organization Credential Management</td></tr>
+<tr><td>IA-5 (10)</td><td>Identification And Authentication</td><td>Dynamic Credential Association</td></tr>
+<tr><td>IA-5 (11)</td><td>Identification And Authentication</td><td>Hardware Token-Based Authentication</td></tr>
+<tr><td>IA-5 (12)</td><td>Identification And Authentication</td><td>Biometric-Based Authentication</td></tr>
+<tr><td>IA-5 (13)</td><td>Identification And Authentication</td><td>Expiration Of Cached Authenticators</td></tr>
+<tr><td>IA-5 (14)</td><td>Identification And Authentication</td><td>Managing Content Of Pki Trust Stores</td></tr>
+<tr><td>IA-5 (15)</td><td>Identification And Authentication</td><td>Ficam-Approved Products And Services</td></tr>
+<tr><td>IA-6</td><td>Identification And Authentication</td><td>Authenticator Feedback</td></tr>
+<tr><td>IA-7</td><td>Identification And Authentication</td><td>Cryptographic Module Authentication</td></tr>
+<tr><td>IA-8</td><td>Identification And Authentication</td><td>Identification And Authentication (Non-Organizational Users)</td></tr>
+<tr><td>IA-8 (1)</td><td>Identification And Authentication</td><td>Acceptance Of Piv Credentials From Other Agencies</td></tr>
+<tr><td>IA-8 (2)</td><td>Identification And Authentication</td><td>Acceptance Of Third-Party Credentials</td></tr>
+<tr><td>IA-8 (3)</td><td>Identification And Authentication</td><td>Use Of Ficam-Approved Products</td></tr>
+<tr><td>IA-8 (4)</td><td>Identification And Authentication</td><td>Use Of Ficam-Issued Profiles</td></tr>
+<tr><td>IA-8 (5)</td><td>Identification And Authentication</td><td>Acceptance Of Piv-I Credentials</td></tr>
+<tr><td>IA-9</td><td>Identification And Authentication</td><td>Service Identification And Authentication</td></tr>
+<tr><td>IA-9 (1)</td><td>Identification And Authentication</td><td>Information Exchange</td></tr>
+<tr><td>IA-9 (2)</td><td>Identification And Authentication</td><td>Transmission Of Decisions</td></tr>
+<tr><td>IA-10</td><td>Identification And Authentication</td><td>Adaptive Identification And Authentication</td></tr>
+<tr><td>IA-11</td><td>Identification And Authentication</td><td>Re-Authentication</td></tr>
+<tr id="IR"><td>IR-1</td><td>Incident Response</td><td>Incident Response Policy And Procedures</td></tr>
+<tr><td>IR-2</td><td>Incident Response</td><td>Incident Response Training</td></tr>
+<tr><td>IR-2 (1)</td><td>Incident Response</td><td>Simulated Events</td></tr>
+<tr><td>IR-2 (2)</td><td>Incident Response</td><td>Automated Training Environments</td></tr>
+<tr><td>IR-3</td><td>Incident Response</td><td>Incident Response Testing</td></tr>
+<tr><td>IR-3 (1)</td><td>Incident Response</td><td>Automated Testing</td></tr>
+<tr><td>IR-3 (2)</td><td>Incident Response</td><td>Coordination With Related Plans</td></tr>
+<tr><td>IR-4</td><td>Incident Response</td><td>Incident Handling</td></tr>
+<tr><td>IR-4 (1)</td><td>Incident Response</td><td>Automated Incident Handling Processes</td></tr>
+<tr><td>IR-4 (2)</td><td>Incident Response</td><td>Dynamic Reconfiguration</td></tr>
+<tr><td>IR-4 (3)</td><td>Incident Response</td><td>Continuity Of Operations</td></tr>
+<tr><td>IR-4 (4)</td><td>Incident Response</td><td>Information Correlation</td></tr>
+<tr><td>IR-4 (5)</td><td>Incident Response</td><td>Automatic Disabling Of Information System</td></tr>
+<tr><td>IR-4 (6)</td><td>Incident Response</td><td>Insider Threats - Specific Capabilities</td></tr>
+<tr><td>IR-4 (7)</td><td>Incident Response</td><td>Insider Threats - Intra-Organization Coordination</td></tr>
+<tr><td>IR-4 (8)</td><td>Incident Response</td><td>Correlation With External Organizations</td></tr>
+<tr><td>IR-4 (9)</td><td>Incident Response</td><td>Dynamic Response Capability</td></tr>
+<tr><td>IR-4 (10)</td><td>Incident Response</td><td>Supply Chain Coordination</td></tr>
+<tr><td>IR-5</td><td>Incident Response</td><td>Incident Monitoring</td></tr>
+<tr><td>IR-5 (1)</td><td>Incident Response</td><td>Automated Tracking / Data Collection / Analysis</td></tr>
+<tr><td>IR-6</td><td>Incident Response</td><td>Incident Reporting</td></tr>
+<tr><td>IR-6 (1)</td><td>Incident Response</td><td>Automated Reporting</td></tr>
+<tr><td>IR-6 (2)</td><td>Incident Response</td><td>Vulnerabilities Related To Incidents</td></tr>
+<tr><td>IR-6 (3)</td><td>Incident Response</td><td>Coordination With Supply Chain</td></tr>
+<tr><td>IR-7</td><td>Incident Response</td><td>Incident Response Assistance</td></tr>
+<tr><td>IR-7 (1)</td><td>Incident Response</td><td>Automation Support For Availability Of Information / Support</td></tr>
+<tr><td>IR-7 (2)</td><td>Incident Response</td><td>Coordination With External Providers</td></tr>
+<tr><td>IR-8</td><td>Incident Response</td><td>Incident Response Plan</td></tr>
+<tr><td>IR-9</td><td>Incident Response</td><td>Information Spillage Response</td></tr>
+<tr><td>IR-9 (1)</td><td>Incident Response</td><td>Responsible Personnel</td></tr>
+<tr><td>IR-9 (2)</td><td>Incident Response</td><td>Training</td></tr>
+<tr><td>IR-9 (3)</td><td>Incident Response</td><td>Post-Spill Operations</td></tr>
+<tr><td>IR-9 (4)</td><td>Incident Response</td><td>Exposure To Unauthorized Personnel</td></tr>
+<tr><td>IR-10</td><td>Incident Response</td><td>Integrated Information Security Analysis Team</td></tr>
+<tr id="MA"><td>MA-1</td><td>Maintenance</td><td>System Maintenance Policy And Procedures</td></tr>
+<tr><td>MA-2</td><td>Maintenance</td><td>Controlled Maintenance</td></tr>
+<tr><td>MA-2 (1)</td><td>Maintenance</td><td>Record Content</td></tr>
+<tr><td>MA-2 (2)</td><td>Maintenance</td><td>Automated Maintenance Activities</td></tr>
+<tr><td>MA-3</td><td>Maintenance</td><td>Maintenance Tools</td></tr>
+<tr><td>MA-3 (1)</td><td>Maintenance</td><td>Inspect Tools</td></tr>
+<tr><td>MA-3 (2)</td><td>Maintenance</td><td>Inspect Media</td></tr>
+<tr><td>MA-3 (3)</td><td>Maintenance</td><td>Prevent Unauthorized Removal</td></tr>
+<tr><td>MA-3 (4)</td><td>Maintenance</td><td>Restricted Tool Use</td></tr>
+<tr><td>MA-4</td><td>Maintenance</td><td>Nonlocal Maintenance</td></tr>
+<tr><td>MA-4 (1)</td><td>Maintenance</td><td>Auditing And Review</td></tr>
+<tr><td>MA-4 (2)</td><td>Maintenance</td><td>Document Nonlocal Maintenance</td></tr>
+<tr><td>MA-4 (3)</td><td>Maintenance</td><td>Comparable Security / Sanitization</td></tr>
+<tr><td>MA-4 (4)</td><td>Maintenance</td><td>Authentication / Separation Of Maintenance Sessions</td></tr>
+<tr><td>MA-4 (5)</td><td>Maintenance</td><td>Approvals And Notifications</td></tr>
+<tr><td>MA-4 (6)</td><td>Maintenance</td><td>Cryptographic Protection</td></tr>
+<tr><td>MA-4 (7)</td><td>Maintenance</td><td>Remote Disconnect Verification</td></tr>
+<tr><td>MA-5</td><td>Maintenance</td><td>Maintenance Personnel</td></tr>
+<tr><td>MA-5 (1)</td><td>Maintenance</td><td>Individuals Without Appropriate Access</td></tr>
+<tr><td>MA-5 (2)</td><td>Maintenance</td><td>Security Clearances For Classified Systems</td></tr>
+<tr><td>MA-5 (3)</td><td>Maintenance</td><td>Citizenship Requirements For Classified Systems</td></tr>
+<tr><td>MA-5 (4)</td><td>Maintenance</td><td>Foreign Nationals</td></tr>
+<tr><td>MA-5 (5)</td><td>Maintenance</td><td>Nonsystem-Related Maintenance</td></tr>
+<tr><td>MA-6</td><td>Maintenance</td><td>Timely Maintenance</td></tr>
+<tr><td>MA-6 (1)</td><td>Maintenance</td><td>Preventive Maintenance</td></tr>
+<tr><td>MA-6 (2)</td><td>Maintenance</td><td>Predictive Maintenance</td></tr>
+<tr><td>MA-6 (3)</td><td>Maintenance</td><td>Automated Support For Predictive Maintenance</td></tr>
+<tr id="MP"><td>MP-1</td><td>Media Protection</td><td>Media Protection Policy And Procedures</td></tr>
+<tr><td>MP-2</td><td>Media Protection</td><td>Media Access</td></tr>
+<tr><td>MP-2 (1)</td><td>Media Protection</td><td>Automated Restricted Access</td></tr>
+<tr><td>MP-2 (2)</td><td>Media Protection</td><td>Cryptographic Protection</td></tr>
+<tr><td>MP-3</td><td>Media Protection</td><td>Media Marking</td></tr>
+<tr><td>MP-4</td><td>Media Protection</td><td>Media Storage</td></tr>
+<tr><td>MP-4 (1)</td><td>Media Protection</td><td>Cryptographic Protection</td></tr>
+<tr><td>MP-4 (2)</td><td>Media Protection</td><td>Automated Restricted Access</td></tr>
+<tr><td>MP-5</td><td>Media Protection</td><td>Media Transport</td></tr>
+<tr><td>MP-5 (1)</td><td>Media Protection</td><td>Protection Outside Of Controlled Areas</td></tr>
+<tr><td>MP-5 (2)</td><td>Media Protection</td><td>Documentation Of Activities</td></tr>
+<tr><td>MP-5 (3)</td><td>Media Protection</td><td>Custodians</td></tr>
+<tr><td>MP-5 (4)</td><td>Media Protection</td><td>Cryptographic Protection</td></tr>
+<tr><td>MP-6</td><td>Media Protection</td><td>Media Sanitization</td></tr>
+<tr><td>MP-6 (1)</td><td>Media Protection</td><td>Review / Approve / Track / Document / Verify</td></tr>
+<tr><td>MP-6 (2)</td><td>Media Protection</td><td>Equipment Testing</td></tr>
+<tr><td>MP-6 (3)</td><td>Media Protection</td><td>Nondestructive Techniques</td></tr>
+<tr><td>MP-6 (4)</td><td>Media Protection</td><td>Controlled Unclassified Information</td></tr>
+<tr><td>MP-6 (5)</td><td>Media Protection</td><td>Classified Information</td></tr>
+<tr><td>MP-6 (6)</td><td>Media Protection</td><td>Media Destruction</td></tr>
+<tr><td>MP-6 (7)</td><td>Media Protection</td><td>Dual Authorization</td></tr>
+<tr><td>MP-6 (8)</td><td>Media Protection</td><td>Remote Purging / Wiping Of Information</td></tr>
+<tr><td>MP-7</td><td>Media Protection</td><td>Media Use</td></tr>
+<tr><td>MP-7 (1)</td><td>Media Protection</td><td>Prohibit Use Without Owner</td></tr>
+<tr><td>MP-7 (2)</td><td>Media Protection</td><td>Prohibit Use Of Sanitization-Resistant Media</td></tr>
+<tr><td>MP-8</td><td>Media Protection</td><td>Media Downgrading</td></tr>
+<tr><td>MP-8 (1)</td><td>Media Protection</td><td>Documentation Of Process</td></tr>
+<tr><td>MP-8 (2)</td><td>Media Protection</td><td>Equipment Testing</td></tr>
+<tr><td>MP-8 (3)</td><td>Media Protection</td><td>Controlled Unclassified Information</td></tr>
+<tr><td>MP-8 (4)</td><td>Media Protection</td><td>Classified Information</td></tr>
+<tr id="PE"><td>PE-1</td><td>Physical And Environmental Protection</td><td>Physical And Environmental Protection Policy And Procedures</td></tr>
+<tr><td>PE-2</td><td>Physical And Environmental Protection</td><td>Physical Access Authorizations</td></tr>
+<tr><td>PE-2 (1)</td><td>Physical And Environmental Protection</td><td>Access By Position / Role</td></tr>
+<tr><td>PE-2 (2)</td><td>Physical And Environmental Protection</td><td>Two Forms Of Identification</td></tr>
+<tr><td>PE-2 (3)</td><td>Physical And Environmental Protection</td><td>Restrict Unescorted Access</td></tr>
+<tr><td>PE-3</td><td>Physical And Environmental Protection</td><td>Physical Access Control</td></tr>
+<tr><td>PE-3 (1)</td><td>Physical And Environmental Protection</td><td>Information System Access</td></tr>
+<tr><td>PE-3 (2)</td><td>Physical And Environmental Protection</td><td>Facility / Information System Boundaries</td></tr>
+<tr><td>PE-3 (3)</td><td>Physical And Environmental Protection</td><td>Continuous Guards / Alarms / Monitoring</td></tr>
+<tr><td>PE-3 (4)</td><td>Physical And Environmental Protection</td><td>Lockable Casings</td></tr>
+<tr><td>PE-3 (5)</td><td>Physical And Environmental Protection</td><td>Tamper Protection</td></tr>
+<tr><td>PE-3 (6)</td><td>Physical And Environmental Protection</td><td>Facility Penetration Testing</td></tr>
+<tr><td>PE-4</td><td>Physical And Environmental Protection</td><td>Access Control For Transmission Medium</td></tr>
+<tr><td>PE-5</td><td>Physical And Environmental Protection</td><td>Access Control For Output Devices</td></tr>
+<tr><td>PE-5 (1)</td><td>Physical And Environmental Protection</td><td>Access To Output By Authorized Individuals</td></tr>
+<tr><td>PE-5 (2)</td><td>Physical And Environmental Protection</td><td>Access To Output By Individual Identity</td></tr>
+<tr><td>PE-5 (3)</td><td>Physical And Environmental Protection</td><td>Marking Output Devices</td></tr>
+<tr><td>PE-6</td><td>Physical And Environmental Protection</td><td>Monitoring Physical Access</td></tr>
+<tr><td>PE-6 (1)</td><td>Physical And Environmental Protection</td><td>Intrusion Alarms / Surveillance Equipment</td></tr>
+<tr><td>PE-6 (2)</td><td>Physical And Environmental Protection</td><td>Automated Intrusion Recognition / Responses</td></tr>
+<tr><td>PE-6 (3)</td><td>Physical And Environmental Protection</td><td>Video Surveillance</td></tr>
+<tr><td>PE-6 (4)</td><td>Physical And Environmental Protection</td><td>Monitoring Physical Access To Information Systems</td></tr>
+<tr><td>PE-7</td><td>Physical And Environmental Protection</td><td>Visitor Control</td></tr>
+<tr><td>PE-8</td><td>Physical And Environmental Protection</td><td>Visitor Access Records</td></tr>
+<tr><td>PE-8 (1)</td><td>Physical And Environmental Protection</td><td>Automated Records Maintenance / Review</td></tr>
+<tr><td>PE-8 (2)</td><td>Physical And Environmental Protection</td><td>Physical Access Records</td></tr>
+<tr><td>PE-9</td><td>Physical And Environmental Protection</td><td>Power Equipment And Cabling</td></tr>
+<tr><td>PE-9 (1)</td><td>Physical And Environmental Protection</td><td>Redundant Cabling</td></tr>
+<tr><td>PE-9 (2)</td><td>Physical And Environmental Protection</td><td>Automatic Voltage Controls</td></tr>
+<tr><td>PE-10</td><td>Physical And Environmental Protection</td><td>Emergency Shutoff</td></tr>
+<tr><td>PE-10 (1)</td><td>Physical And Environmental Protection</td><td>Accidental / Unauthorized Activation</td></tr>
+<tr><td>PE-11</td><td>Physical And Environmental Protection</td><td>Emergency Power</td></tr>
+<tr><td>PE-11 (1)</td><td>Physical And Environmental Protection</td><td>Long-Term Alternate Power Supply - Minimal Operational Capability</td></tr>
+<tr><td>PE-11 (2)</td><td>Physical And Environmental Protection</td><td>Long-Term Alternate Power Supply - Self-Contained</td></tr>
+<tr><td>PE-12</td><td>Physical And Environmental Protection</td><td>Emergency Lighting</td></tr>
+<tr><td>PE-12 (1)</td><td>Physical And Environmental Protection</td><td>Essential Missions / Business Functions</td></tr>
+<tr><td>PE-13</td><td>Physical And Environmental Protection</td><td>Fire Protection</td></tr>
+<tr><td>PE-13 (1)</td><td>Physical And Environmental Protection</td><td>Detection Devices / Systems</td></tr>
+<tr><td>PE-13 (2)</td><td>Physical And Environmental Protection</td><td>Suppression Devices / Systems</td></tr>
+<tr><td>PE-13 (3)</td><td>Physical And Environmental Protection</td><td>Automatic Fire Suppression</td></tr>
+<tr><td>PE-13 (4)</td><td>Physical And Environmental Protection</td><td>Inspections</td></tr>
+<tr><td>PE-14</td><td>Physical And Environmental Protection</td><td>Temperature And Humidity Controls</td></tr>
+<tr><td>PE-14 (1)</td><td>Physical And Environmental Protection</td><td>Automatic Controls</td></tr>
+<tr><td>PE-14 (2)</td><td>Physical And Environmental Protection</td><td>Monitoring With Alarms / Notifications</td></tr>
+<tr><td>PE-15</td><td>Physical And Environmental Protection</td><td>Water Damage Protection</td></tr>
+<tr><td>PE-15 (1)</td><td>Physical And Environmental Protection</td><td>Automation Support</td></tr>
+<tr><td>PE-16</td><td>Physical And Environmental Protection</td><td>Delivery And Removal</td></tr>
+<tr><td>PE-17</td><td>Physical And Environmental Protection</td><td>Alternate Work Site</td></tr>
+<tr><td>PE-18</td><td>Physical And Environmental Protection</td><td>Location Of Information System Components</td></tr>
+<tr><td>PE-18 (1)</td><td>Physical And Environmental Protection</td><td>Facility Site</td></tr>
+<tr><td>PE-19</td><td>Physical And Environmental Protection</td><td>Information Leakage</td></tr>
+<tr><td>PE-19 (1)</td><td>Physical And Environmental Protection</td><td>National Emissions / Tempest Policies And Procedures</td></tr>
+<tr><td>PE-20</td><td>Physical And Environmental Protection</td><td>Asset Monitoring And Tracking</td></tr>
+<tr id="PL"><td>PL-1</td><td>Planning</td><td>Security Planning Policy And Procedures</td></tr>
+<tr><td>PL-2</td><td>Planning</td><td>System Security Plan</td></tr>
+<tr><td>PL-2 (1)</td><td>Planning</td><td>Concept Of Operations</td></tr>
+<tr><td>PL-2 (2)</td><td>Planning</td><td>Functional Architecture</td></tr>
+<tr><td>PL-2 (3)</td><td>Planning</td><td>Plan / Coordinate With Other Organizational Entities</td></tr>
+<tr><td>PL-3</td><td>Planning</td><td>System Security Plan Update</td></tr>
+<tr><td>PL-4</td><td>Planning</td><td>Rules Of Behavior</td></tr>
+<tr><td>PL-4 (1)</td><td>Planning</td><td>Social Media And Networking Restrictions</td></tr>
+<tr><td>PL-5</td><td>Planning</td><td>Privacy Impact Assessment</td></tr>
+<tr><td>PL-6</td><td>Planning</td><td>Security-Related Activity Planning</td></tr>
+<tr><td>PL-7</td><td>Planning</td><td>Security Concept Of Operations</td></tr>
+<tr><td>PL-8</td><td>Planning</td><td>Information Security Architecture</td></tr>
+<tr><td>PL-8 (1)</td><td>Planning</td><td>Defense-In-Depth</td></tr>
+<tr><td>PL-8 (2)</td><td>Planning</td><td>Supplier Diversity</td></tr>
+<tr><td>PL-9</td><td>Planning</td><td>Central Management</td></tr>
+<tr id="PS"><td>PS-1</td><td>Personnel Security</td><td>Personnel Security Policy And Procedures</td></tr>
+<tr><td>PS-2</td><td>Personnel Security</td><td>Position Risk Designation</td></tr>
+<tr><td>PS-3</td><td>Personnel Security</td><td>Personnel Screening</td></tr>
+<tr><td>PS-3 (1)</td><td>Personnel Security</td><td>Classified Information</td></tr>
+<tr><td>PS-3 (2)</td><td>Personnel Security</td><td>Formal Indoctrination</td></tr>
+<tr><td>PS-3 (3)</td><td>Personnel Security</td><td>Information With Special Protection Measures</td></tr>
+<tr><td>PS-4</td><td>Personnel Security</td><td>Personnel Termination</td></tr>
+<tr><td>PS-4 (1)</td><td>Personnel Security</td><td>Post-Employment Requirements</td></tr>
+<tr><td>PS-4 (2)</td><td>Personnel Security</td><td>Automated Notification</td></tr>
+<tr><td>PS-5</td><td>Personnel Security</td><td>Personnel Transfer</td></tr>
+<tr><td>PS-6</td><td>Personnel Security</td><td>Access Agreements</td></tr>
+<tr><td>PS-6 (1)</td><td>Personnel Security</td><td>Information Requiring Special Protection</td></tr>
+<tr><td>PS-6 (2)</td><td>Personnel Security</td><td>Classified Information Requiring Special Protection</td></tr>
+<tr><td>PS-6 (3)</td><td>Personnel Security</td><td>Post-Employment Requirements</td></tr>
+<tr><td>PS-7</td><td>Personnel Security</td><td>Third-Party Personnel Security</td></tr>
+<tr><td>PS-8</td><td>Personnel Security</td><td>Personnel Sanctions</td></tr>
+<tr id="RA"><td>RA-1</td><td>Risk Assessment</td><td>Risk Assessment Policy And Procedures</td></tr>
+<tr><td>RA-2</td><td>Risk Assessment</td><td>Security Categorization</td></tr>
+<tr><td>RA-3</td><td>Risk Assessment</td><td>Risk Assessment</td></tr>
+<tr><td>RA-4</td><td>Risk Assessment</td><td>Risk Assessment Update</td></tr>
+<tr><td>RA-5</td><td>Risk Assessment</td><td>Vulnerability Scanning</td></tr>
+<tr><td>RA-5 (1)</td><td>Risk Assessment</td><td>Update Tool Capability</td></tr>
+<tr><td>RA-5 (2)</td><td>Risk Assessment</td><td>Update By Frequency / Prior To New Scan / When Identified</td></tr>
+<tr><td>RA-5 (3)</td><td>Risk Assessment</td><td>Breadth / Depth Of Coverage</td></tr>
+<tr><td>RA-5 (4)</td><td>Risk Assessment</td><td>Discoverable Information</td></tr>
+<tr><td>RA-5 (5)</td><td>Risk Assessment</td><td>Privileged Access</td></tr>
+<tr><td>RA-5 (6)</td><td>Risk Assessment</td><td>Automated Trend Analyses</td></tr>
+<tr><td>RA-5 (7)</td><td>Risk Assessment</td><td>Automated Detection And Notification Of Unauthorized Components</td></tr>
+<tr><td>RA-5 (8)</td><td>Risk Assessment</td><td>Review Historic Audit Logs</td></tr>
+<tr><td>RA-5 (9)</td><td>Risk Assessment</td><td>Penetration Testing And Analyses</td></tr>
+<tr><td>RA-5 (10)</td><td>Risk Assessment</td><td>Correlate Scanning Information</td></tr>
+<tr><td>RA-6</td><td>Risk Assessment</td><td>Technical Surveillance Countermeasures Survey</td></tr>
+<tr id="SA"><td>SA-1</td><td>System And Services Acquisition</td><td>System And Services Acquisition Policy And Procedures</td></tr>
+<tr><td>SA-2</td><td>System And Services Acquisition</td><td>Allocation Of Resources</td></tr>
+<tr><td>SA-3</td><td>System And Services Acquisition</td><td>System Development Life Cycle</td></tr>
+<tr><td>SA-4</td><td>System And Services Acquisition</td><td>Acquisition Process</td></tr>
+<tr><td>SA-4 (1)</td><td>System And Services Acquisition</td><td>Functional Properties Of Security Controls</td></tr>
+<tr><td>SA-4 (2)</td><td>System And Services Acquisition</td><td>Design / Implementation Information For Security Controls</td></tr>
+<tr><td>SA-4 (3)</td><td>System And Services Acquisition</td><td>Development Methods / Techniques / Practices</td></tr>
+<tr><td>SA-4 (4)</td><td>System And Services Acquisition</td><td>Assignment Of Components To Systems</td></tr>
+<tr><td>SA-4 (5)</td><td>System And Services Acquisition</td><td>System / Component / Service Configurations</td></tr>
+<tr><td>SA-4 (6)</td><td>System And Services Acquisition</td><td>Use Of Information Assurance Products</td></tr>
+<tr><td>SA-4 (7)</td><td>System And Services Acquisition</td><td>Niap-Approved  Protection Profiles</td></tr>
+<tr><td>SA-4 (8)</td><td>System And Services Acquisition</td><td>Continuous Monitoring Plan</td></tr>
+<tr><td>SA-4 (9)</td><td>System And Services Acquisition</td><td>Functions / Ports / Protocols / Services In Use</td></tr>
+<tr><td>SA-4 (10)</td><td>System And Services Acquisition</td><td>Use Of Approved Piv Products</td></tr>
+<tr><td>SA-5</td><td>System And Services Acquisition</td><td>Information System Documentation</td></tr>
+<tr><td>SA-5 (1)</td><td>System And Services Acquisition</td><td>Functional Properties Of Security Controls</td></tr>
+<tr><td>SA-5 (2)</td><td>System And Services Acquisition</td><td>Security-Relevant External System Interfaces</td></tr>
+<tr><td>SA-5 (3)</td><td>System And Services Acquisition</td><td>High-Level Design</td></tr>
+<tr><td>SA-5 (4)</td><td>System And Services Acquisition</td><td>Low-Level Design</td></tr>
+<tr><td>SA-5 (5)</td><td>System And Services Acquisition</td><td>Source Code</td></tr>
+<tr><td>SA-6</td><td>System And Services Acquisition</td><td>Software Usage Restrictions</td></tr>
+<tr><td>SA-7</td><td>System And Services Acquisition</td><td>User-Installed Software</td></tr>
+<tr><td>SA-8</td><td>System And Services Acquisition</td><td>Security Engineering Principles</td></tr>
+<tr><td>SA-9</td><td>System And Services Acquisition</td><td>External Information System Services</td></tr>
+<tr><td>SA-9 (1)</td><td>System And Services Acquisition</td><td>Risk Assessments / Organizational Approvals</td></tr>
+<tr><td>SA-9 (2)</td><td>System And Services Acquisition</td><td>Identification Of Functions / Ports / Protocols / Services</td></tr>
+<tr><td>SA-9 (3)</td><td>System And Services Acquisition</td><td>Establish / Maintain Trust Relationship With Providers</td></tr>
+<tr><td>SA-9 (4)</td><td>System And Services Acquisition</td><td>Consistent Interests Of Consumers And Providers</td></tr>
+<tr><td>SA-9 (5)</td><td>System And Services Acquisition</td><td>"Processing, Storage And Service Location"</td></tr>
+<tr><td>SA-10</td><td>System And Services Acquisition</td><td>Developer Configuration Management</td></tr>
+<tr><td>SA-10 (1)</td><td>System And Services Acquisition</td><td>Software / Firmware Integrity Verification</td></tr>
+<tr><td>SA-10 (2)</td><td>System And Services Acquisition</td><td>Alternative Configuration Management Processes</td></tr>
+<tr><td>SA-10 (3)</td><td>System And Services Acquisition</td><td>Hardware Integrity Verification</td></tr>
+<tr><td>SA-10 (4)</td><td>System And Services Acquisition</td><td>Trusted Generation</td></tr>
+<tr><td>SA-10 (5)</td><td>System And Services Acquisition</td><td>Mapping Integrity For Version Control</td></tr>
+<tr><td>SA-10 (6)</td><td>System And Services Acquisition</td><td>Trusted Distribution</td></tr>
+<tr><td>SA-11</td><td>System And Services Acquisition</td><td>Developer Security Testing And Evaluation</td></tr>
+<tr><td>SA-11 (1)</td><td>System And Services Acquisition</td><td>Static Code Analysis</td></tr>
+<tr><td>SA-11 (2)</td><td>System And Services Acquisition</td><td>Threat And Vulnerability Analyses</td></tr>
+<tr><td>SA-11 (3)</td><td>System And Services Acquisition</td><td>Independent Verification Of Assessment Plans / Evidence</td></tr>
+<tr><td>SA-11 (4)</td><td>System And Services Acquisition</td><td>Manual Code Reviews</td></tr>
+<tr><td>SA-11 (5)</td><td>System And Services Acquisition</td><td>Penetration Testing</td></tr>
+<tr><td>SA-11 (6)</td><td>System And Services Acquisition</td><td>Attack Surface Reviews</td></tr>
+<tr><td>SA-11 (7)</td><td>System And Services Acquisition</td><td>Verify Scope Of Testing / Evaluation</td></tr>
+<tr><td>SA-11 (8)</td><td>System And Services Acquisition</td><td>Dynamic Code Analysis</td></tr>
+<tr><td>SA-12</td><td>System And Services Acquisition</td><td>Supply Chain Protection</td></tr>
+<tr><td>SA-12 (1)</td><td>System And Services Acquisition</td><td>Acquisition Strategies / Tools / Methods</td></tr>
+<tr><td>SA-12 (2)</td><td>System And Services Acquisition</td><td>Supplier Reviews</td></tr>
+<tr><td>SA-12 (3)</td><td>System And Services Acquisition</td><td>Trusted Shipping And Warehousing</td></tr>
+<tr><td>SA-12 (4)</td><td>System And Services Acquisition</td><td>Diversity Of Suppliers</td></tr>
+<tr><td>SA-12 (5)</td><td>System And Services Acquisition</td><td>Limitation Of Harm</td></tr>
+<tr><td>SA-12 (6)</td><td>System And Services Acquisition</td><td>Minimizing Procurement Time</td></tr>
+<tr><td>SA-12 (7)</td><td>System And Services Acquisition</td><td>Assessments Prior To Selection / Acceptance / Update</td></tr>
+<tr><td>SA-12 (8)</td><td>System And Services Acquisition</td><td>Use Of All-Source Intelligence</td></tr>
+<tr><td>SA-12 (9)</td><td>System And Services Acquisition</td><td>Operations Security</td></tr>
+<tr><td>SA-12 (10)</td><td>System And Services Acquisition</td><td>Validate As Genuine And Not Altered</td></tr>
+<tr><td>SA-12 (11)</td><td>System And Services Acquisition</td><td>"Penetration Testing / Analysis Of Elements, Processes And Actors"</td></tr>
+<tr><td>SA-12 (12)</td><td>System And Services Acquisition</td><td>Inter-Organizational Agreements</td></tr>
+<tr><td>SA-12 (13)</td><td>System And Services Acquisition</td><td>Critical Information System Components</td></tr>
+<tr><td>SA-12 (14)</td><td>System And Services Acquisition</td><td>Identity And Traceability</td></tr>
+<tr><td>SA-12 (15)</td><td>System And Services Acquisition</td><td>Processes To Address Weaknesses Or Deficiencies</td></tr>
+<tr><td>SA-13</td><td>System And Services Acquisition</td><td>Trustworthiness</td></tr>
+<tr><td>SA-14</td><td>System And Services Acquisition</td><td>Criticality Analysis</td></tr>
+<tr><td>SA-14 (1)</td><td>System And Services Acquisition</td><td>Critical Components With  No Viable Alternative Sourcing</td></tr>
+<tr><td>SA-15</td><td>System And Services Acquisition</td><td>"Development Process, Standards, And Tools"</td></tr>
+<tr><td>SA-15 (1)</td><td>System And Services Acquisition</td><td>Quality Metrics</td></tr>
+<tr><td>SA-15 (2)</td><td>System And Services Acquisition</td><td>Security Tracking Tools</td></tr>
+<tr><td>SA-15 (3)</td><td>System And Services Acquisition</td><td>Criticality Analysis</td></tr>
+<tr><td>SA-15 (4)</td><td>System And Services Acquisition</td><td>Threat Modeling / Vulnerability Analysis</td></tr>
+<tr><td>SA-15 (5)</td><td>System And Services Acquisition</td><td>Attack Surface Reduction</td></tr>
+<tr><td>SA-15 (6)</td><td>System And Services Acquisition</td><td>Continuous Improvement</td></tr>
+<tr><td>SA-15 (7)</td><td>System And Services Acquisition</td><td>Automated Vulnerability Analysis</td></tr>
+<tr><td>SA-15 (8)</td><td>System And Services Acquisition</td><td>Reuse Of Threat / Vulnerability Information</td></tr>
+<tr><td>SA-15 (9)</td><td>System And Services Acquisition</td><td>Use Of Live Data</td></tr>
+<tr><td>SA-15 (10)</td><td>System And Services Acquisition</td><td>Incident Response Plan</td></tr>
+<tr><td>SA-15 (11)</td><td>System And Services Acquisition</td><td>Archive Information System / Component</td></tr>
+<tr><td>SA-16</td><td>System And Services Acquisition</td><td>Developer-Provided Training</td></tr>
+<tr><td>SA-17</td><td>System And Services Acquisition</td><td>Developer Security Architecture And Design</td></tr>
+<tr><td>SA-17 (1)</td><td>System And Services Acquisition</td><td>Formal Policy Model</td></tr>
+<tr><td>SA-17 (2)</td><td>System And Services Acquisition</td><td>Security-Relevant Components</td></tr>
+<tr><td>SA-17 (3)</td><td>System And Services Acquisition</td><td>Formal Correspondence</td></tr>
+<tr><td>SA-17 (4)</td><td>System And Services Acquisition</td><td>Informal Correspondence</td></tr>
+<tr><td>SA-17 (5)</td><td>System And Services Acquisition</td><td>Conceptually Simple Design</td></tr>
+<tr><td>SA-17 (6)</td><td>System And Services Acquisition</td><td>Structure For Testing</td></tr>
+<tr><td>SA-17 (7)</td><td>System And Services Acquisition</td><td>Structure For Least Privilege</td></tr>
+<tr><td>SA-18</td><td>System And Services Acquisition</td><td>Tamper Resistance And Detection</td></tr>
+<tr><td>SA-18 (1)</td><td>System And Services Acquisition</td><td>Multiple Phases Of Sdlc</td></tr>
+<tr><td>SA-18 (2)</td><td>System And Services Acquisition</td><td>"Inspection Of Information Systems, Components, Or Devices"</td></tr>
+<tr><td>SA-19</td><td>System And Services Acquisition</td><td>Component Authenticity</td></tr>
+<tr><td>SA-19 (1)</td><td>System And Services Acquisition</td><td>Anti-Counterfeit Training</td></tr>
+<tr><td>SA-19 (2)</td><td>System And Services Acquisition</td><td>Configuration Control For Component Service / Repair</td></tr>
+<tr><td>SA-19 (3)</td><td>System And Services Acquisition</td><td>Component Disposal</td></tr>
+<tr><td>SA-19 (4)</td><td>System And Services Acquisition</td><td>Anti-Counterfeit Scanning</td></tr>
+<tr><td>SA-20</td><td>System And Services Acquisition</td><td>Customized Development Of Critical Components</td></tr>
+<tr><td>SA-21</td><td>System And Services Acquisition</td><td>Developer Screening</td></tr>
+<tr><td>SA-21 (1)</td><td>System And Services Acquisition</td><td>Validation Of Screening</td></tr>
+<tr><td>SA-22</td><td>System And Services Acquisition</td><td>Unsupported System Components</td></tr>
+<tr><td>SA-22 (1)</td><td>System And Services Acquisition</td><td>Alternative Sources For Continued Support</td></tr>
+<tr id="SC"><td>SC-1</td><td>System And Communications Protection</td><td>System And Communications Protection Policy And Procedures</td></tr>
+<tr><td>SC-2</td><td>System And Communications Protection</td><td>Application Partitioning</td></tr>
+<tr><td>SC-2 (1)</td><td>System And Communications Protection</td><td>Interfaces For Non-Privileged Users</td></tr>
+<tr><td>SC-3</td><td>System And Communications Protection</td><td>Security Function Isolation</td></tr>
+<tr><td>SC-3 (1)</td><td>System And Communications Protection</td><td>Hardware Separation</td></tr>
+<tr><td>SC-3 (2)</td><td>System And Communications Protection</td><td>Access / Flow Control Functions</td></tr>
+<tr><td>SC-3 (3)</td><td>System And Communications Protection</td><td>Minimize Nonsecurity Functionality</td></tr>
+<tr><td>SC-3 (4)</td><td>System And Communications Protection</td><td>Module Coupling And Cohesiveness</td></tr>
+<tr><td>SC-3 (5)</td><td>System And Communications Protection</td><td>Layered Structures</td></tr>
+<tr><td>SC-4</td><td>System And Communications Protection</td><td>Information In Shared Resources</td></tr>
+<tr><td>SC-4 (1)</td><td>System And Communications Protection</td><td>Security Levels</td></tr>
+<tr><td>SC-4 (2)</td><td>System And Communications Protection</td><td>Periods Processing</td></tr>
+<tr><td>SC-5</td><td>System And Communications Protection</td><td>Denial Of Service Protection</td></tr>
+<tr><td>SC-5 (1)</td><td>System And Communications Protection</td><td>Restrict Internal Users</td></tr>
+<tr><td>SC-5 (2)</td><td>System And Communications Protection</td><td>Excess Capacity / Bandwidth / Redundancy</td></tr>
+<tr><td>SC-5 (3)</td><td>System And Communications Protection</td><td>Detection / Monitoring</td></tr>
+<tr><td>SC-6</td><td>System And Communications Protection</td><td>Resource Availability</td></tr>
+<tr><td>SC-7</td><td>System And Communications Protection</td><td>Boundary Protection</td></tr>
+<tr><td>SC-7 (1)</td><td>System And Communications Protection</td><td>Physically Separated Subnetworks</td></tr>
+<tr><td>SC-7 (2)</td><td>System And Communications Protection</td><td>Public Access</td></tr>
+<tr><td>SC-7 (3)</td><td>System And Communications Protection</td><td>Access Points</td></tr>
+<tr><td>SC-7 (4)</td><td>System And Communications Protection</td><td>External Telecommunications Services</td></tr>
+<tr><td>SC-7 (5)</td><td>System And Communications Protection</td><td>Deny By Default / Allow By Exception</td></tr>
+<tr><td>SC-7 (6)</td><td>System And Communications Protection</td><td>Response To Recognized Failures</td></tr>
+<tr><td>SC-7 (7)</td><td>System And Communications Protection</td><td>Prevent Split Tunneling For Remote Devices</td></tr>
+<tr><td>SC-7 (8)</td><td>System And Communications Protection</td><td>Route Traffic To Authenticated Proxy Servers</td></tr>
+<tr><td>SC-7 (9)</td><td>System And Communications Protection</td><td>Restrict Threatening Outgoing Communications Traffic</td></tr>
+<tr><td>SC-7 (10)</td><td>System And Communications Protection</td><td>Prevent Unauthorized Exfiltration</td></tr>
+<tr><td>SC-7 (11)</td><td>System And Communications Protection</td><td>Restrict Incoming Communications Traffic</td></tr>
+<tr><td>SC-7 (12)</td><td>System And Communications Protection</td><td>Host-Based Protection</td></tr>
+<tr><td>SC-7 (13)</td><td>System And Communications Protection</td><td>Isolation Of Security Tools / Mechanisms / Support Components</td></tr>
+<tr><td>SC-7 (14)</td><td>System And Communications Protection</td><td>Protects Against Unauthorized Physical Connections</td></tr>
+<tr><td>SC-7 (15)</td><td>System And Communications Protection</td><td>Route Privileged Network Accesses</td></tr>
+<tr><td>SC-7 (16)</td><td>System And Communications Protection</td><td>Prevent Discovery Of Components / Devices</td></tr>
+<tr><td>SC-7 (17)</td><td>System And Communications Protection</td><td>Automated Enforcement Of Protocol Formats</td></tr>
+<tr><td>SC-7 (18)</td><td>System And Communications Protection</td><td>Fail Secure</td></tr>
+<tr><td>SC-7 (19)</td><td>System And Communications Protection</td><td>Blocks Communication From Non-Organizationally Configured Hosts</td></tr>
+<tr><td>SC-7 (20)</td><td>System And Communications Protection</td><td>Dynamic Isolation / Segregation</td></tr>
+<tr><td>SC-7 (21)</td><td>System And Communications Protection</td><td>Isolation Of Information System Components</td></tr>
+<tr><td>SC-7 (22)</td><td>System And Communications Protection</td><td>Separate Subnets For Connecting To Different Security Domains</td></tr>
+<tr><td>SC-7 (23)</td><td>System And Communications Protection</td><td>Disable Sender Feedback On Protocol Validation Failure</td></tr>
+<tr><td>SC-8</td><td>System And Communications Protection</td><td>Transmission Confidentiality And Integrity</td></tr>
+<tr><td>SC-8 (1)</td><td>System And Communications Protection</td><td>Cryptographic Or Alternate Physical Protection</td></tr>
+<tr><td>SC-8 (2)</td><td>System And Communications Protection</td><td>Pre / Post Transmission Handling</td></tr>
+<tr><td>SC-8 (3)</td><td>System And Communications Protection</td><td>Cryptographic Protection For Message Externals</td></tr>
+<tr><td>SC-8 (4)</td><td>System And Communications Protection</td><td>Conceal / Randomize Communications</td></tr>
+<tr><td>SC-9</td><td>System And Communications Protection</td><td>Transmission Confidentiality</td></tr>
+<tr><td>SC-10</td><td>System And Communications Protection</td><td>Network Disconnect</td></tr>
+<tr><td>SC-11</td><td>System And Communications Protection</td><td>Trusted Path</td></tr>
+<tr><td>SC-11 (1)</td><td>System And Communications Protection</td><td>Logical Isolation</td></tr>
+<tr><td>SC-12</td><td>System And Communications Protection</td><td>Cryptographic Key Establishment And Management</td></tr>
+<tr><td>SC-12 (1)</td><td>System And Communications Protection</td><td>Availability</td></tr>
+<tr><td>SC-12 (2)</td><td>System And Communications Protection</td><td>Symmetric Keys</td></tr>
+<tr><td>SC-12 (3)</td><td>System And Communications Protection</td><td>Asymmetric Keys</td></tr>
+<tr><td>SC-12 (4)</td><td>System And Communications Protection</td><td>Pki Certificates</td></tr>
+<tr><td>SC-12 (5)</td><td>System And Communications Protection</td><td>Pki Certificates / Hardware Tokens</td></tr>
+<tr><td>SC-13</td><td>System And Communications Protection</td><td>Cryptographic Protection</td></tr>
+<tr><td>SC-13 (1)</td><td>System And Communications Protection</td><td>Fips-Validated Cryptography</td></tr>
+<tr><td>SC-13 (2)</td><td>System And Communications Protection</td><td>Nsa-Approved Cryptography</td></tr>
+<tr><td>SC-13 (3)</td><td>System And Communications Protection</td><td>Individuals Without Formal Access  Approvals</td></tr>
+<tr><td>SC-13 (4)</td><td>System And Communications Protection</td><td>Digital Signatures</td></tr>
+<tr><td>SC-14</td><td>System And Communications Protection</td><td>Public Access Protections</td></tr>
+<tr><td>SC-15</td><td>System And Communications Protection</td><td>Collaborative Computing Devices</td></tr>
+<tr><td>SC-15 (1)</td><td>System And Communications Protection</td><td>Physical Disconnect</td></tr>
+<tr><td>SC-15 (2)</td><td>System And Communications Protection</td><td>Blocking Inbound / Outbound Communications Traffic</td></tr>
+<tr><td>SC-15 (3)</td><td>System And Communications Protection</td><td>Disabling / Removal In Secure Work Areas</td></tr>
+<tr><td>SC-15 (4)</td><td>System And Communications Protection</td><td>Explicitly Indicate Current Participants</td></tr>
+<tr><td>SC-16</td><td>System And Communications Protection</td><td>Transmission Of Security Attributes</td></tr>
+<tr><td>SC-16 (1)</td><td>System And Communications Protection</td><td>Integrity Validation</td></tr>
+<tr><td>SC-17</td><td>System And Communications Protection</td><td>Public Key Infrastructure Certificates</td></tr>
+<tr><td>SC-18</td><td>System And Communications Protection</td><td>Mobile Code</td></tr>
+<tr><td>SC-18 (1)</td><td>System And Communications Protection</td><td>Identify Unacceptable Code / Take Corrective Actions</td></tr>
+<tr><td>SC-18 (2)</td><td>System And Communications Protection</td><td>Acquisition / Development / Use</td></tr>
+<tr><td>SC-18 (3)</td><td>System And Communications Protection</td><td>Prevent Downloading / Execution</td></tr>
+<tr><td>SC-18 (4)</td><td>System And Communications Protection</td><td>Prevent Automatic Execution</td></tr>
+<tr><td>SC-18 (5)</td><td>System And Communications Protection</td><td>Allow Execution Only In Confined Environments</td></tr>
+<tr><td>SC-19</td><td>System And Communications Protection</td><td>Voice Over Internet Protocol</td></tr>
+<tr><td>SC-20</td><td>System And Communications Protection</td><td>Secure Name / Address Resolution Service (Authoritative Source)</td></tr>
+<tr><td>SC-20 (1)</td><td>System And Communications Protection</td><td>Child Subspaces</td></tr>
+<tr><td>SC-20 (2)</td><td>System And Communications Protection</td><td>Data Origin / Integrity</td></tr>
+<tr><td>SC-21</td><td>System And Communications Protection</td><td>Secure Name / Address Resolution Service (Recursive Or Caching Resolver)</td></tr>
+<tr><td>SC-21 (1)</td><td>System And Communications Protection</td><td>Data Origin / Integrity</td></tr>
+<tr><td>SC-22</td><td>System And Communications Protection</td><td>Architecture And Provisioning For Name / Address Resolution Service</td></tr>
+<tr><td>SC-23</td><td>System And Communications Protection</td><td>Session Authenticity</td></tr>
+<tr><td>SC-23 (1)</td><td>System And Communications Protection</td><td>Invalidate Session Identifiers At Logout</td></tr>
+<tr><td>SC-23 (2)</td><td>System And Communications Protection</td><td>User-Initiated Logouts / Message Displays</td></tr>
+<tr><td>SC-23 (3)</td><td>System And Communications Protection</td><td>Unique Session Identifiers With Randomization</td></tr>
+<tr><td>SC-23 (4)</td><td>System And Communications Protection</td><td>Unique Session Identifiers With Randomization</td></tr>
+<tr><td>SC-23 (5)</td><td>System And Communications Protection</td><td>Allowed Certificate Authorities</td></tr>
+<tr><td>SC-24</td><td>System And Communications Protection</td><td>Fail In Known State</td></tr>
+<tr><td>SC-25</td><td>System And Communications Protection</td><td>Thin Nodes</td></tr>
+<tr><td>SC-26</td><td>System And Communications Protection</td><td>Honeypots</td></tr>
+<tr><td>SC-26 (1)</td><td>System And Communications Protection</td><td>Detection Of Malicious Code</td></tr>
+<tr><td>SC-27</td><td>System And Communications Protection</td><td>Platform-Independent Applications</td></tr>
+<tr><td>SC-28</td><td>System And Communications Protection</td><td>Protection Of Information At Rest</td></tr>
+<tr><td>SC-28 (1)</td><td>System And Communications Protection</td><td>Cryptographic Protection</td></tr>
+<tr><td>SC-28 (2)</td><td>System And Communications Protection</td><td>Off-Line Storage</td></tr>
+<tr><td>SC-29</td><td>System And Communications Protection</td><td>Heterogeneity</td></tr>
+<tr><td>SC-29 (1)</td><td>System And Communications Protection</td><td>Virtualization Techniques</td></tr>
+<tr><td>SC-30</td><td>System And Communications Protection</td><td>Concealment And Misdirection</td></tr>
+<tr><td>SC-30 (1)</td><td>System And Communications Protection</td><td>Virtualization Techniques</td></tr>
+<tr><td>SC-30 (2)</td><td>System And Communications Protection</td><td>Randomness</td></tr>
+<tr><td>SC-30 (3)</td><td>System And Communications Protection</td><td>Change Processing / Storage Locations</td></tr>
+<tr><td>SC-30 (4)</td><td>System And Communications Protection</td><td>Misleading Information</td></tr>
+<tr><td>SC-30 (5)</td><td>System And Communications Protection</td><td>Concealment Of System Components</td></tr>
+<tr><td>SC-31</td><td>System And Communications Protection</td><td>Covert Channel Analysis</td></tr>
+<tr><td>SC-31 (1)</td><td>System And Communications Protection</td><td>Test Covert Channels For Exploitability</td></tr>
+<tr><td>SC-31 (2)</td><td>System And Communications Protection</td><td>Maximum Bandwidth</td></tr>
+<tr><td>SC-31 (3)</td><td>System And Communications Protection</td><td>Measure Bandwidth In Operational Environments</td></tr>
+<tr><td>SC-32</td><td>System And Communications Protection</td><td>Information System Partitioning</td></tr>
+<tr><td>SC-33</td><td>System And Communications Protection</td><td>Transmission Preparation Integrity</td></tr>
+<tr><td>SC-34</td><td>System And Communications Protection</td><td>Non-Modifiable Executable Programs</td></tr>
+<tr><td>SC-34 (1)</td><td>System And Communications Protection</td><td>No Writable Storage</td></tr>
+<tr><td>SC-34 (2)</td><td>System And Communications Protection</td><td>Integrity Protection / Read-Only Media</td></tr>
+<tr><td>SC-34 (3)</td><td>System And Communications Protection</td><td>Hardware-Based Protection</td></tr>
+<tr><td>SC-35</td><td>System And Communications Protection</td><td>Honeyclients</td></tr>
+<tr><td>SC-36</td><td>System And Communications Protection</td><td>Distributed Processing And Storage</td></tr>
+<tr><td>SC-36 (1)</td><td>System And Communications Protection</td><td>Polling Techniques</td></tr>
+<tr><td>SC-37</td><td>System And Communications Protection</td><td>Out-Of-Band Channels</td></tr>
+<tr><td>SC-37 (1)</td><td>System And Communications Protection</td><td>Ensure Delivery / Transmission</td></tr>
+<tr><td>SC-38</td><td>System And Communications Protection</td><td>Operations Security</td></tr>
+<tr><td>SC-39</td><td>System And Communications Protection</td><td>Process Isolation</td></tr>
+<tr><td>SC-39 (1)</td><td>System And Communications Protection</td><td>Hardware Separation</td></tr>
+<tr><td>SC-39 (2)</td><td>System And Communications Protection</td><td>Thread Isolation</td></tr>
+<tr><td>SC-40</td><td>System And Communications Protection</td><td>Wireless Link Protection</td></tr>
+<tr><td>SC-40 (1)</td><td>System And Communications Protection</td><td>Electromagnetic Interference</td></tr>
+<tr><td>SC-40 (2)</td><td>System And Communications Protection</td><td>Reduce Detection Potential</td></tr>
+<tr><td>SC-40 (3)</td><td>System And Communications Protection</td><td>Imitative Or Manipulative Communications Deception</td></tr>
+<tr><td>SC-40 (4)</td><td>System And Communications Protection</td><td>Signal Parameter Identification</td></tr>
+<tr><td>SC-41</td><td>System And Communications Protection</td><td>Port And I/O Device Access</td></tr>
+<tr><td>SC-42</td><td>System And Communications Protection</td><td>Sensor Capability And Data</td></tr>
+<tr><td>SC-42 (1)</td><td>System And Communications Protection</td><td>Reporting To Authorized Individuals Or Roles</td></tr>
+<tr><td>SC-42 (2)</td><td>System And Communications Protection</td><td>Authorized Use</td></tr>
+<tr><td>SC-42 (3)</td><td>System And Communications Protection</td><td>Prohibit Use Of Devices</td></tr>
+<tr><td>SC-43</td><td>System And Communications Protection</td><td>Usage Restrictions</td></tr>
+<tr><td>SC-44</td><td>System And Communications Protection</td><td>Detonation Chambers</td></tr>
+<tr id="SI"><td>SI-1</td><td>System And Information Integrity</td><td>System And Information Integrity Policy And Procedures</td></tr>
+<tr><td>SI-2</td><td>System And Information Integrity</td><td>Flaw Remediation</td></tr>
+<tr><td>SI-2 (1)</td><td>System And Information Integrity</td><td>Central Management</td></tr>
+<tr><td>SI-2 (2)</td><td>System And Information Integrity</td><td>Automated Flaw Remediation Status</td></tr>
+<tr><td>SI-2 (3)</td><td>System And Information Integrity</td><td>Time To Remediate Flaws / Benchmarks For Corrective Actions</td></tr>
+<tr><td>SI-2 (4)</td><td>System And Information Integrity</td><td>Automated Patch Management Tools</td></tr>
+<tr><td>SI-2 (5)</td><td>System And Information Integrity</td><td>Automatic Software / Firmware Updates</td></tr>
+<tr><td>SI-2 (6)</td><td>System And Information Integrity</td><td>Removal Of Previous Versions Of Software / Firmware</td></tr>
+<tr><td>SI-3</td><td>System And Information Integrity</td><td>Malicious Code Protection</td></tr>
+<tr><td>SI-3 (1)</td><td>System And Information Integrity</td><td>Central Management</td></tr>
+<tr><td>SI-3 (2)</td><td>System And Information Integrity</td><td>Automatic Updates</td></tr>
+<tr><td>SI-3 (3)</td><td>System And Information Integrity</td><td>Non-Privileged Users</td></tr>
+<tr><td>SI-3 (4)</td><td>System And Information Integrity</td><td>Updates Only By Privileged Users</td></tr>
+<tr><td>SI-3 (5)</td><td>System And Information Integrity</td><td>Portable Storage Devices</td></tr>
+<tr><td>SI-3 (6)</td><td>System And Information Integrity</td><td>Testing / Verification</td></tr>
+<tr><td>SI-3 (7)</td><td>System And Information Integrity</td><td>Nonsignature-Based Detection</td></tr>
+<tr><td>SI-3 (8)</td><td>System And Information Integrity</td><td>Detect Unauthorized Commands</td></tr>
+<tr><td>SI-3 (9)</td><td>System And Information Integrity</td><td>Authenticate Remote Commands</td></tr>
+<tr><td>SI-3 (10)</td><td>System And Information Integrity</td><td>Malicious Code Analysis</td></tr>
+<tr><td>SI-4</td><td>System And Information Integrity</td><td>Information System Monitoring</td></tr>
+<tr><td>SI-4 (1)</td><td>System And Information Integrity</td><td>System-Wide Intrusion Detection System</td></tr>
+<tr><td>SI-4 (2)</td><td>System And Information Integrity</td><td>Automated Tools For Real-Time Analysis</td></tr>
+<tr><td>SI-4 (3)</td><td>System And Information Integrity</td><td>Automated Tool Integration</td></tr>
+<tr><td>SI-4 (4)</td><td>System And Information Integrity</td><td>Inbound And Outbound Communications Traffic</td></tr>
+<tr><td>SI-4 (5)</td><td>System And Information Integrity</td><td>System-Generated Alerts</td></tr>
+<tr><td>SI-4 (6)</td><td>System And Information Integrity</td><td>Restrict Non-Privileged Users</td></tr>
+<tr><td>SI-4 (7)</td><td>System And Information Integrity</td><td>Automated Response To Suspicious Events</td></tr>
+<tr><td>SI-4 (8)</td><td>System And Information Integrity</td><td>Protection Of Monitoring Information</td></tr>
+<tr><td>SI-4 (9)</td><td>System And Information Integrity</td><td>Testing Of Monitoring Tools</td></tr>
+<tr><td>SI-4 (10)</td><td>System And Information Integrity</td><td>Visibility Of Encrypted Communications</td></tr>
+<tr><td>SI-4 (11)</td><td>System And Information Integrity</td><td>Analyze Communications Traffic Anomalies</td></tr>
+<tr><td>SI-4 (12)</td><td>System And Information Integrity</td><td>Automated Alerts</td></tr>
+<tr><td>SI-4 (13)</td><td>System And Information Integrity</td><td>Analyze Traffic / Event Patterns</td></tr>
+<tr><td>SI-4 (14)</td><td>System And Information Integrity</td><td>Wireless Intrusion Detection</td></tr>
+<tr><td>SI-4 (15)</td><td>System And Information Integrity</td><td>Wireless To Wireline Communications</td></tr>
+<tr><td>SI-4 (16)</td><td>System And Information Integrity</td><td>Correlate Monitoring Information</td></tr>
+<tr><td>SI-4 (17)</td><td>System And Information Integrity</td><td>Integrated Situational Awareness</td></tr>
+<tr><td>SI-4 (18)</td><td>System And Information Integrity</td><td>Analyze Traffic / Covert Exfiltration</td></tr>
+<tr><td>SI-4 (19)</td><td>System And Information Integrity</td><td>Individuals Posing Greater Risk</td></tr>
+<tr><td>SI-4 (20)</td><td>System And Information Integrity</td><td>Privileged Users</td></tr>
+<tr><td>SI-4 (21)</td><td>System And Information Integrity</td><td>Probationary Periods</td></tr>
+<tr><td>SI-4 (22)</td><td>System And Information Integrity</td><td>Unauthorized Network Services</td></tr>
+<tr><td>SI-4 (23)</td><td>System And Information Integrity</td><td>Host-Based Devices</td></tr>
+<tr><td>SI-4 (24)</td><td>System And Information Integrity</td><td>Indicators Of Compromise</td></tr>
+<tr><td>SI-5</td><td>System And Information Integrity</td><td>"Security Alerts, Advisories, And Directives"</td></tr>
+<tr><td>SI-5 (1)</td><td>System And Information Integrity</td><td>Automated Alerts And Advisories</td></tr>
+<tr><td>SI-6</td><td>System And Information Integrity</td><td>Security Function Verification</td></tr>
+<tr><td>SI-6 (1)</td><td>System And Information Integrity</td><td>Notification Of Failed Security Tests</td></tr>
+<tr><td>SI-6 (2)</td><td>System And Information Integrity</td><td>Automation Support For Distributed Testing</td></tr>
+<tr><td>SI-6 (3)</td><td>System And Information Integrity</td><td>Report Verification Results</td></tr>
+<tr><td>SI-7</td><td>System And Information Integrity</td><td>"Software, Firmware, And Information Integrity"</td></tr>
+<tr><td>SI-7 (1)</td><td>System And Information Integrity</td><td>Integrity Checks</td></tr>
+<tr><td>SI-7 (2)</td><td>System And Information Integrity</td><td>Automated Notifications Of Integrity Violations</td></tr>
+<tr><td>SI-7 (3)</td><td>System And Information Integrity</td><td>Centrally-Managed Integrity Tools</td></tr>
+<tr><td>SI-7 (4)</td><td>System And Information Integrity</td><td>Tamper-Evident Packaging</td></tr>
+<tr><td>SI-7 (5)</td><td>System And Information Integrity</td><td>Automated Response To Integrity Violations</td></tr>
+<tr><td>SI-7 (6)</td><td>System And Information Integrity</td><td>Cryptographic Protection</td></tr>
+<tr><td>SI-7 (7)</td><td>System And Information Integrity</td><td>Integration Of Detection And Response</td></tr>
+<tr><td>SI-7 (8)</td><td>System And Information Integrity</td><td>Auditing Capability For Significant Events</td></tr>
+<tr><td>SI-7 (9)</td><td>System And Information Integrity</td><td>Verify Boot Process</td></tr>
+<tr><td>SI-7 (10)</td><td>System And Information Integrity</td><td>Protection Of Boot Firmware</td></tr>
+<tr><td>SI-7 (11)</td><td>System And Information Integrity</td><td>Confined Environments With Limited Privileges</td></tr>
+<tr><td>SI-7 (12)</td><td>System And Information Integrity</td><td>Integrity Verification</td></tr>
+<tr><td>SI-7 (13)</td><td>System And Information Integrity</td><td>Code Execution In Protected Environments</td></tr>
+<tr><td>SI-7 (14)</td><td>System And Information Integrity</td><td>Binary Or Machine Executable Code</td></tr>
+<tr><td>SI-7 (15)</td><td>System And Information Integrity</td><td>Code Authentication</td></tr>
+<tr><td>SI-7 (16)</td><td>System And Information Integrity</td><td>Time Limit On Process Execution W/O Supervision</td></tr>
+<tr><td>SI-8</td><td>System And Information Integrity</td><td>Spam Protection</td></tr>
+<tr><td>SI-8 (1)</td><td>System And Information Integrity</td><td>Central Management</td></tr>
+<tr><td>SI-8 (2)</td><td>System And Information Integrity</td><td>Automatic Updates</td></tr>
+<tr><td>SI-8 (3)</td><td>System And Information Integrity</td><td>Continuous Learning Capability</td></tr>
+<tr><td>SI-9</td><td>System And Information Integrity</td><td>Information Input Restrictions</td></tr>
+<tr><td>SI-10</td><td>System And Information Integrity</td><td>Information Input Validation</td></tr>
+<tr><td>SI-10 (1)</td><td>System And Information Integrity</td><td>Manual Override Capability</td></tr>
+<tr><td>SI-10 (2)</td><td>System And Information Integrity</td><td>Review / Resolution Of Errors</td></tr>
+<tr><td>SI-10 (3)</td><td>System And Information Integrity</td><td>Predictable Behavior</td></tr>
+<tr><td>SI-10 (4)</td><td>System And Information Integrity</td><td>Review / Timing Interactions</td></tr>
+<tr><td>SI-10 (5)</td><td>System And Information Integrity</td><td>Restrict Inputs To Trusted Sources And Approved Formats</td></tr>
+<tr><td>SI-11</td><td>System And Information Integrity</td><td>Error Handling</td></tr>
+<tr><td>SI-12</td><td>System And Information Integrity</td><td>Information Handling And Retention</td></tr>
+<tr><td>SI-13</td><td>System And Information Integrity</td><td>Predictable Failure Prevention</td></tr>
+<tr><td>SI-13 (1)</td><td>System And Information Integrity</td><td>Transferring Component Responsibilities</td></tr>
+<tr><td>SI-13 (2)</td><td>System And Information Integrity</td><td>Time Limit On Process Execution Without Supervision</td></tr>
+<tr><td>SI-13 (3)</td><td>System And Information Integrity</td><td>Manual Transfer Between Components</td></tr>
+<tr><td>SI-13 (4)</td><td>System And Information Integrity</td><td>Standby Component Installation / Notification</td></tr>
+<tr><td>SI-13 (5)</td><td>System And Information Integrity</td><td>Failover Capability</td></tr>
+<tr><td>SI-14</td><td>System And Information Integrity</td><td>Non-Persistence</td></tr>
+<tr><td>SI-14 (1)</td><td>System And Information Integrity</td><td>Refresh From Trusted Sources</td></tr>
+<tr><td>SI-15</td><td>System And Information Integrity</td><td>Information Output Filtering</td></tr>
+<tr><td>SI-16</td><td>System And Information Integrity</td><td>Memory Protection</td></tr>
+<tr><td>SI-17</td><td>System And Information Integrity</td><td>Fail-Safe Procedures</td></tr>
+<tr id="PM"><td>PM-1</td><td>Program Management</td><td>Information Security Program Plan</td></tr>
+<tr><td>PM-2</td><td>Program Management</td><td>Senior Information Security Officer</td></tr>
+<tr><td>PM-3</td><td>Program Management</td><td>Information Security Resources</td></tr>
+<tr><td>PM-4</td><td>Program Management</td><td>Plan Of Action And Milestones Process</td></tr>
+<tr><td>PM-5</td><td>Program Management</td><td>Information System Inventory</td></tr>
+<tr><td>PM-6</td><td>Program Management</td><td>Information Security Measures Of Performance</td></tr>
+<tr><td>PM-7</td><td>Program Management</td><td>Enterprise Architecture</td></tr>
+<tr><td>PM-8</td><td>Program Management</td><td>Critical Infrastructure Plan</td></tr>
+<tr><td>PM-9</td><td>Program Management</td><td>Risk Management Strategy</td></tr>
+<tr><td>PM-10</td><td>Program Management</td><td>Security Authorization Process</td></tr>
+<tr><td>PM-11</td><td>Program Management</td><td>Mission/Business Process Definition</td></tr>
+<tr><td>PM-12</td><td>Program Management</td><td>Insider Threat Program</td></tr>
+<tr><td>PM-13</td><td>Program Management</td><td>Information Security Workforce</td></tr>
+<tr><td>PM-14</td><td>Program Management</td><td>"Testing, Training, And Monitoring"</td></tr>
+<tr><td>PM-15</td><td>Program Management</td><td>Contacts With Security Groups And Associations</td></tr>
+<tr><td>PM-16</td><td>Program Management</td><td>Threat Awareness Program</td></tr>
+</table>
+
+</body>
+</html>
