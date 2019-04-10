@@ -1,9 +1,9 @@
 pip-setup-notes  
 ===============  
 
-##Sometimes pip complains behind a proxy##  
+## Sometimes pip complains behind a proxy  
 
-#On Windows:#  
+# On Windows:  
 Create a file: `%USER%\pip\pip.ini`  
 
 In that file, include:
@@ -24,7 +24,7 @@ Create a directory: `%USER%\.certificates`
 Copy a useful CA certificate bundle into the `%USER%\.certificates` directory
 
 
-#On Linux:#  
+# On Linux:  
 Add the following to your `/etc/pip.conf` file:
 ```ini
 [global]
