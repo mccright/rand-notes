@@ -10,8 +10,8 @@ Then set up the Pi as an SDR streaming server: https://eliaselectronics.com/rtls
   
 **Planning for GPS reception**  
 Antenna Notes:  
-See this general reference "Antennas, Aerials, & Propagation" (http://www.radio-electronics.com/info/antennas/)[http://www.radio-electronics.com/info/antennas/]  
-Calculating WaveLengths: Calculate Wavelength: (https://www.easycalculation.com/physics/electromagnetism/antenna-wavelength.php)[https://www.easycalculation.com/physics/electromagnetism/antenna-wavelength.php], or (http://wxtofly.net/wavecalc.htm)[http://wxtofly.net/wavecalc.htm]  
+See this general reference "Antennas, Aerials, & Propagation" [http://www.radio-electronics.com/info/antennas/](http://www.radio-electronics.com/info/antennas/)    
+Calculating WaveLengths: Calculate Wavelength: [https://www.easycalculation.com/physics/electromagnetism/antenna-wavelength.php](https://www.easycalculation.com/physics/electromagnetism/antenna-wavelength.php), or [http://wxtofly.net/wavecalc.htm](http://wxtofly.net/wavecalc.htm)  
 Calculating Antenna Lengths:  Monopole antennas: (https://itstillworks.com/calculate-monopole-length-8644948.html)[https://itstillworks.com/calculate-monopole-length-8644948.html] and Dipole antennas: (http://www.radio-electronics.com/info/antennas/dipole/dipole.php)[http://www.radio-electronics.com/info/antennas/dipole/dipole.php], or (http://www.westmountainradio.com/antenna_calculator.php?frequency=433)[http://www.westmountainradio.com/antenna_calculator.php?frequency=433]  
 Here is a relevant blog: (https://eliaselectronics.com/rtlsdr/2015/04/26/crude-skewed-wheel-antenna-gps.html)[https://eliaselectronics.com/rtlsdr/2015/04/26/crude-skewed-wheel-antenna-gps.html]  
 and for more detail, see Skew-Planar Wheel Antenna (http://www.slvrc.org/902band/skewplanar.htm)[http://www.slvrc.org/902band/skewplanar.htm]  
