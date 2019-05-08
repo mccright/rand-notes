@@ -24,3 +24,7 @@ l4p19OP2yW9dNP1m5tQ7UB/vxF88UvvLAOVmFiZeoaS5UB3vXjJMdL1QEID4vioU
 -----END CERTIFICATE-----
 ```
 
+# Notes:  
+
+`-showcerts` Displays the server certificate list as sent by the server.  It only consists of certificates the server has sent (in the order the server has sent them). It is not a verified chain.  
+Additional openssl command line parameters at: https://www.openssl.org/docs/man1.1.0/man1/openssl-s_client.html#OPTIONS  
