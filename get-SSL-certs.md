@@ -7,14 +7,14 @@ Open a command prompt on a machine with openssl available.
 Any Linux machine should work, or on Windows the "Git Bash" prompt also has openssl available.  
 Execute the command:  
 
-```openssl s_client -connect <fullyQualifiedHostname>:443 -showcerts
-```
+`openssl s_client -connect <fullyQualifiedHostname>:443 -showcerts`  
 
 Then copy the certificates that you need into your cacerts.pem file(s).  
 
-...all the content between:
+...all the content between: 
 
-```-----BEGIN CERTIFICATE-----
+```
+-----BEGIN CERTIFICATE-----
 MIIHHzCCBgegAwIBAgIKHh84ewABAAA6wjANBgkqhkiG9w0BAQUFADBRMQswCQYD
 VQQGEwJVUzEiMCAGA1UEChMZUHJpbmNpcGFsIEZpbmFuY2lhbCBHcm91cDEeMBwG
 ...(content removed here)
