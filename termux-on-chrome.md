@@ -40,21 +40,28 @@ My example helloworld now looks like:
 ```
 #!/data/data/com.termux/files/usr/bin/bash
 
-limit=9999
+limit=99
 # outputfile=$(mktemp)
 
 if [[ -z $* ]]
 then
-echo "NO ARGUMENT!"
-echo "pease provide some hello world content as an argument to this script"
-echo "~/bin/helloworld Your Name"
-exit
+   echo "NO ARGUMENT!"
+   echo "pease provide some hello world content as an argument to this script"
+   echo "~/bin/helloworld Matt McCright"
+   exit
 fi
 
-for word in $*
-do
-echo hello $word
-done
+numinputs=$#
+
+if [[ $numinputs -le $limit ]]
+then
+   echo $numinputs inputs
+
+   for word in $*
+      do
+      echo hello $word
+      done
+fi
 ```
 
 # Notes:  
