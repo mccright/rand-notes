@@ -45,8 +45,8 @@ limit=99
 
 if [[ -z $* ]]
 then
-   echo "NO ARGUMENT!"
-   echo "pease provide some hello world content as an argument to this script"
+   echo "No arguments..."
+   echo "Please provide some hello world content as an argument to this script"
    echo "~/bin/helloworld Matt McCright"
    exit
 fi
