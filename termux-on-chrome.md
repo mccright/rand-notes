@@ -12,7 +12,11 @@ When I do a `which bash` the output looks like:
 
 `/data/data/com.termux/files/usr/bin/bash`
 
-The Termux environment includes a script to fix those broken shebangs.
+The Termux environment includes a script to fix those broken shebangs.  
+
+Here is the full lifecycle:  
+
+Fetch that great script that you don't have to write yourself.  
 
 `curl -o helloworld https://github.com/user/helloworld/blob/master/helloworld`
 
