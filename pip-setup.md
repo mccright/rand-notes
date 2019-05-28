@@ -49,20 +49,18 @@ This was a helpful link: [https://aafaqueabdullah.wordpress.com/2017/04/10/ssl-a
 ## Sometimes you use `venv` to manage your virtual environments  
 
 It is convenient to do your development and testing in Python virtual environments.  
-```python3 -m venv env  
-```
+`python3 -m venv env`  
+
 In your virtual environment, your prompt will start with the venv name.  Using the example above, my prompt would look like:  
-```(env) d:\PythonProjects\testprojOne>  
-```
+`(env) d:\PythonProjects\testprojOne>`  
 
 Because we just set up a new `local` Python environment, we need to update the `local` cacert.pem.  
 
 First backup the current cacert.pem.  
-```move env\Lib\site-packages\pip\_vendor\certifi\cacert.pem env\Lib\site-packages\pip\_vendor\certifi\cacert.pem.backup  
-```
+`move env\Lib\site-packages\pip\_vendor\certifi\cacert.pem env\Lib\site-packages\pip\_vendor\certifi\cacert.pem.backup`  
+
 Now copy the master to your local environment.  
-```copy C:\Users\%USERNAME%\.certificates\cacert.pem env\Lib\site-packages\pip\_vendor\certifi\cacert.pem  
-```
+`copy C:\Users\%USERNAME%\.certificates\cacert.pem env\Lib\site-packages\pip\_vendor\certifi\cacert.pem`  
 
 Some companies use proprietary certificates (maybe from an Active Directory CA infrastructure).  
 If your organization uses proprietary certificates, then you will have to add the relevant certificates (root and signing CAs) to the shared cacerts.pem or cacerts.crt file.  
@@ -78,8 +76,10 @@ Sometimes you are on a new system or a multi-user system that you have not used 
 
 You might break down and `trust` pip's default component repositories.  
 
-# On Windows (`%USER%\pip\pip.ini`):  
-```[global]
+# On Windows:  
+(`%USER%\pip\pip.ini`)  
+```ini
+[global]
 trusted-host = pypi.python.org
                files.pythonhosted.org
                pypi.org
@@ -90,8 +90,10 @@ trusted-host = pypi.python.org
                pypi.org
 ```  
 
-# On Linux (`/etc/pip.conf`):  
-```[global]
+# On Linux:  
+(`/etc/pip.conf`)  
+```ini
+[global]
 trusted-host = pypi.python.org
                pypi.org
                files.pythonhosted.org
