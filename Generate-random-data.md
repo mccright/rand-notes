@@ -13,7 +13,7 @@ $ head -c 1k /dev/urandom | base64 > targetFile.dat
 $ head -c 1k /dev/urandom | base64 | tr -cd'[[:alnum:]]' > targetFile.dat  
 ```  
   
-2000 bytes, base64'd, one line, trimmed to 100 characters:
+2000 bytes, base64'd, one line, trimmed to 1000 characters:
 ```  
 $ head -c 2k /dev/urandom | base64 | tr -cd'[[:alnum:]]' | head -c 1k > targetFile.dat  
 ```  
