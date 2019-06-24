@@ -7,7 +7,7 @@ This will require that you configure access through that proxy.
 Also, some companies use proprietary certificates (maybe from an Active Directory CA infrastructure).  If you have this issue, then you will have to add the relevant certificates (root and signing CAs) to the shared cacerts.pem or cacerts.crt file.  
 
 # On Windows:  
-Create a file: `%USER%\pip\pip.ini`  
+Create a file: `%USERPROFILE%\pip\pip.ini`  
 
 In that file, include:
 ```ini
