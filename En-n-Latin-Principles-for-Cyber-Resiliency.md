@@ -2,7 +2,7 @@
 
 | English                                     |  Latin via [Yandex](https://translate.yandex.com/?lang=en-la) |
 ----------------------------------------------|--------------------------------------------|
-| [resist attacks] resist assault             | resistere impetu                           |
+| [resist attack] resist assault              | resistere impetu                           |
 | [resist attacks] resist enemies             | resistere inimicis                         |
 | [resist your attacker] resist your enemy    | resistere tua Inimicus                     |
 | [resist your attacker] resist the enemy     | resistere hostis                           |
