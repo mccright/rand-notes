@@ -26,8 +26,7 @@
 | remain silent                               | taceat                                     |
 | mitigate risks                              | diminuendum periculum                      |
 | use care when accepting risks               | uti cura, cum accipere extrema temptaturum |
-| [Reduce attack surfaces]                    |                                            |
-| reduce your surface                         | redigo vestri superficies                  |
+| [Reduce attack surfaces]reduce your surface | redigo vestri superficies                  |
 | Limit the need for trust                    | Terminum opus fiducia                      |
 | Layer and partition defenses                | Accumsan et partition defensionibus        |
 | Control visibility and use                  | Imperium turpis et uti                     |
