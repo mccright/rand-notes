@@ -43,5 +43,5 @@
 | instrument sensitive transactions           | instrumentum sensitiva rebus               |
 | resist persistence                          | resistere perseverantia                    |
 
-*This list was started when my peer Jason Battani was creating certificates for a set 
-application security assessments.*  
+*I started this list when my peer Jason Battani was creating certificates for a set 
+application security assessments.  Thank you Jason.*  
