@@ -1,6 +1,6 @@
 ## English and Latin Principles for Cyber Security  
 
-| English                                     |                                            |
+| English                                     |  Latin via [Yandex](https://translate.yandex.com/?lang=en-la) |
 ----------------------------------------------|--------------------------------------------|
 | [resist your attacker] resist your enemy    | resistere tua Inimicus                     |
 | [resist your attacker] resist the enemy     | resistere hostis                           |
