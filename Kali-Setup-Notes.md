@@ -68,4 +68,5 @@ Then in that file:
 Acquire {
   HTTP::proxy "http://user:password@proxyname.domain.com:port";
   HTTPS::proxy "http://user:password@proxyname.domain.com:port";
+  }
 ```
