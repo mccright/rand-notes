@@ -24,6 +24,8 @@ Update the sources.list file to use https instead of http:
 ```
 sudo vi /etc/apt/sources.list
 ```
+Add ```deb https://mirrors.ocf.berkeley.edu/kali kali-rolling main non-free contrib``` to the sources.list file as well.  
+
 Update the host's software:
 ```
 sudo apt update
