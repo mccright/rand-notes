@@ -47,6 +47,7 @@ This was a helpful link: [https://aafaqueabdullah.wordpress.com/2017/04/10/ssl-a
 
 
 ## Sometimes you use `venv` to manage your virtual environments  
+[https://docs.python.org/3/library/venv.html](https://docs.python.org/3/library/venv.html)  
 
 It is convenient to do your development and testing in Python virtual environments.  
 `python3 -m venv env`  
@@ -72,7 +73,7 @@ If you are behind an http/https proxy, this may require that you update the venv
 # On Linux:  
 `<currentDevDirectory>/<venvEnv>/Lib/site-packages/pip/_vendor/certifi/cacert.pem`  
 
-Sometimes you are on a new system or a multi-user system that you have not used befor and things are just not working right.  
+Sometimes you are on a new system or a multi-user system that you have not used before and things are just not working right.  
 
 You might break down and `trust` pip's default component repositories.  
 
