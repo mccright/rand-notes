@@ -20,8 +20,13 @@ $ head -c 2k /dev/urandom | base64 | tr -cd '[[:alnum:]]' | head -c 1k > targetF
 
 Create a random password where the permitted character set is "_A-Za-z0-9!@#$%^&*()[]{},.=+~":  
 ```  
-$ head -c${1:-100} /dev/urandom | tr -dc '_A-Za-z0-9!@#$%^&*()[]{},.=+~' | head -c${1:-10};echo;  
+$ head -c${1:-100} /dev/urandom | tr -dc '_A-Za-z0-9!@#$%^&*,.=+~' | head -c${1:-13};echo;  
 ```  
+or, add a function to your ~/.bashrc:
+```  
+function randpass(){  < /dev/urandom  tr -dc '_A-Za-z0-9!@#$%^&*,.=+~' | head -c${1:-13};echo;}  
+```  
+
 Edit the character set as needed for your system.  
   
 NOTE: This is only pseudo-random, but good-enough for many purposes.  
