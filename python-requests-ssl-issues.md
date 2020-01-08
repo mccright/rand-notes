@@ -57,5 +57,7 @@ URL = "https://google.com"  # just an example...
 # Dictionary of HTTP headers
 s.headers = {'User-Agent': f'Your name (your@email.com)'} # or something else as appropriate
 response = s.get(URL)
+assert response.status_code == 200
+# then do something useful...
 ```
 
