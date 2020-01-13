@@ -13,7 +13,7 @@ lsb_release -sdc
 ```
 or just  
 ```
-lsb_release -sdc
+lsb_release -a
 ``` 
  
 or  
