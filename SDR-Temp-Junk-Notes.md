@@ -1,5 +1,5 @@
 ***Libraries to Watch***  
-* CyberRadio: https://github.com/luigifreitas/CyberRadio  
+* CyberRadio - An SDR Based FM/AM Radio for your PC: https://github.com/luigifreitas/CyberRadio  
 
 
 ***Hardware: NESDR SMArt***  
