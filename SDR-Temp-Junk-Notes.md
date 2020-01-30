@@ -1,3 +1,6 @@
+***Libraries to Watch***  
+* CyberRadio: https://github.com/luigifreitas/CyberRadio  
+
 
 ***Hardware: NESDR SMArt***  
 Part of a new NooElec NESDR SMArt Bundle (Premium RTL-SDR w/ Aluminum Enclosure, 0.5PPM TCXO, SMA Input & 3 Antennas. RTL2832U & R820T2-Based, plus, re-designed antenna base, and 3 antenna masts).  
