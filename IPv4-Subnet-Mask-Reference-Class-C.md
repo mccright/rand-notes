@@ -1,6 +1,6 @@
 **IPv4 Subnet Mask Reference - Class C**  
 
-|   | Address |    Netmask      |%ClsC|%ClsB|%ClsA|
+|   |Addresses|    Netmask      |%ClsC|%ClsB|%ClsA|
 |---|---------|-----------------|-----|-----|-----|
 |/31|	2				|255.255.255.254	|1/128|     |     |
 |/30|	4				|255.255.255.252	|1/64	|     |     |
