@@ -26,6 +26,8 @@ Remember that even if you are not super vulnerable, many people around you are; 
 * Financially support those impacted by social distancing measures.  
 
 
+----------------------------------------------------------  
+
 **Projects associated with Novel Corona Virus - COVID-19**  
 
 I'll edit this down as I have an opportunity to better review each resource...  
