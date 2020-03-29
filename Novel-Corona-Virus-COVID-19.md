@@ -9,7 +9,8 @@ Especially:
 https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronavirus-was-bioengineered/
 
 
-*What you can do?*  
+What you can do?  
+================
 FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10)  
 **...as an individual**  
 * Practice strict social distancing, especially if you are in a vulnerable group.
@@ -17,6 +18,7 @@ Remember that even if you are not super vulnerable, many people around you are; 
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
 * If you are an employer, encourage your employees to work from home wherever possible.  
+
 **...as an official**  
 * Make testing free and broadly available. [*You can do this.  Testing only a portion of hospitalized individuals will not help leaders make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*]  
 * Put strong social distancing measures in place.  
