@@ -23,6 +23,7 @@ Remember that even if you are not super vulnerable, many people around you are; 
 * Make testing free and broadly available. [*You can do this.  Testing only a portion of hospitalized individuals will not help leaders make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*]  
 * Put strong social distancing measures in place.  
 * Fund and implement extensive contact tracing efforts. [*Without this, leaders cannot make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*]  
+* Fund & implement the purchase and formal coordination of PPE distribution to minimize waste and contention for limited resources.  
 * Financially support those impacted by social distancing measures.  
 
 
