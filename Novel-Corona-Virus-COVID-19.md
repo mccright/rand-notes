@@ -14,6 +14,7 @@ What you can do?
 FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10)  
 **...as an individual**  
 * Practice strict social distancing, especially if you are in a vulnerable group.  Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.  
+* Wear a cloth mask as an integral part of your social distancing efforts (donate your N95s).  
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
 * If you are an employer, encourage your employees to work from home wherever possible.  
