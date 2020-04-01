@@ -19,9 +19,9 @@ FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://n
 * If you are an employer, encourage your employees to work from home wherever possible.  
 
 **...as an official**  
-* Make testing free and broadly available. [*You can do this.  Testing only a portion of hospitalized individuals will not help leaders make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*]  
+* Make testing free and broadly available. [*You can do this.  Testing only a portion of hospitalized individuals will not help leaders make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality* *Testing and contact tracing is less expensive than hospitalizations.*]  
 * Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts. [*Without this, leaders cannot make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*]  
+* Fund and implement extensive contact tracing efforts. [*Without this, leaders cannot make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality* *Testing and contact tracing is less expensive and more humane than hospitalizations.*]  
 * Fund & implement the purchase and formal coordination of PPE distribution to minimize waste and contention for limited resources.  
 * Financially support those impacted by social distancing measures.  
 
@@ -32,6 +32,7 @@ FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://n
 
 I'll edit this down as I have an opportunity to better review each resource...  
 * Nextstrain -- Real-time tracking of pathogen evolution [https://nextstrain.org/#ncov](https://nextstrain.org/#ncov)  
+* Institute for Health Metrics and Evaluation (IHME) for science-based projections [https://covid19.healthdata.org/projections](https://covid19.healthdata.org/projections)  
 * The COVID Tracking Project [https://covidtracking.com/data/](https://covidtracking.com/data/) and their API at [https://covidtracking.com/api/](https://covidtracking.com/api/) using [https://github.com/COVID19Tracking/covid-tracking](https://github.com/COVID19Tracking/covid-tracking)  
 * Another Interesting COVID-19 Tracking project [https://coronavirus.1point3acres.com/en](https://coronavirus.1point3acres.com/en)  
 * Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE [https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  
