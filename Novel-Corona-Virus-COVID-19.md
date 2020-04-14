@@ -20,9 +20,9 @@ FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://n
 * If you are an employer, encourage your employees to work from home wherever possible.  
 
 **...as an official**  
-* Make testing free and broadly available. [*You can do this.  Testing only a portion of hospitalized individuals will not help leaders make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality* *Testing and contact tracing is less expensive than hospitalizations.*]  
+* Make testing free and broadly available. [*You can do this.  Testing only a portion of hospitalized individuals will not help leaders make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*.  *Testing and contact tracing is less expensive than hospitalizations.*]  
 * Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts. [*Without this, leaders cannot make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality* *Testing and contact tracing is less expensive and more humane than hospitalizations.*]  
+* Fund and implement extensive contact tracing efforts. [*Without this, leaders cannot make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*.  *Testing and contact tracing is less expensive and more humane than hospitalizations.*]  
 * Fund & implement the purchase and formal coordination of PPE distribution to minimize waste and contention for limited resources.  
 * Financially support those impacted by social distancing measures.  
 
