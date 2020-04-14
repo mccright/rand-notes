@@ -44,5 +44,5 @@ I'll edit this down as I have an opportunity to better review each resource...
 * And some eye-candy [https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)  
 
 **Random Reports**  
-*Report the U.S. White House Reviewed March 13, 2020: "PanCAP Adapted U.S. Government COVID - 19 Response Plan March 13, 2020" [https://int.nyt.com/data/documenthelper/6819-covid-19-response-plan/d367f758bec47cad361f/optimized/full.pdf#page=1](https://int.nyt.com/data/documenthelper/6819-covid-19-response-plan/d367f758bec47cad361f/optimized/full.pdf#page=1)  
-
+* Report the U.S. White House Reviewed March 13, 2020: "PanCAP Adapted U.S. Government COVID - 19 Response Plan March 13, 2020" [https://int.nyt.com/data/documenthelper/6819-covid-19-response-plan/d367f758bec47cad361f/optimized/full.pdf#page=1](https://int.nyt.com/data/documenthelper/6819-covid-19-response-plan/d367f758bec47cad361f/optimized/full.pdf#page=1)  
+* WEF Strategic Intelligence on COVID-19 [https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications](https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications)  
