@@ -1,5 +1,5 @@
 **Focus on Facts and Restrict the Flow of Misinformation**  
-Do your part to resist and constrain the flow of misinformation.  During outbreaks like the current COVID-19 pandemic, the spread of information that is known to be incorrect can lead to unhealthy behaviors and reinforce disinformation used to drive people to mistrust scientists and governments -- which results in their being less likely to follow fact-based advisories and to take appropriate precautions.  
+Do your part to resist and constrain the flow of misinformation.  During outbreaks like the current COVID-19 pandemic, the spread of information that is known to be incorrect can lead to unhealthy behaviors and reinforce disinformation used to drive people to mistrust scientists and governments *and each other* -- which results in their being less likely to follow fact-based advisories and to take appropriate precautions.  
 
 Here are a pair of resources to fact check information related to COVID-19:  
 https://factcheck.afp.com/busting-coronavirus-myths  
