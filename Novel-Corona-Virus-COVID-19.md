@@ -32,6 +32,7 @@ FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://n
 **Projects associated with Novel Corona Virus - COVID-19**  
 
 I'll edit this down as I have an opportunity to better review each resource...  
+* Effective Reproduction Number for COVID-19, R-0 or Rt for specific dates and states: [https://rt.live/](https://rt.live/)  
 * Nextstrain -- Real-time tracking of pathogen evolution [https://nextstrain.org/#ncov](https://nextstrain.org/#ncov)  
 * Institute for Health Metrics and Evaluation (IHME) for science-based projections [https://covid19.healthdata.org/projections](https://covid19.healthdata.org/projections)  
 * The COVID Tracking Project [https://covidtracking.com/data/](https://covidtracking.com/data/) and their API at [https://covidtracking.com/api/](https://covidtracking.com/api/) using [https://github.com/COVID19Tracking/covid-tracking](https://github.com/COVID19Tracking/covid-tracking)  
