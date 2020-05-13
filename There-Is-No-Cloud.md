@@ -1,7 +1,7 @@
 There is no cloud, only other people's computers.
 ------------------------------------------------
 
-For years, the Free Software Foundation has been asking people "been asking people: who controls the technology you use?" and "who controls the technology that controls your data?"  
+For years, the Free Software Foundation has been asking people "who controls the technology you use?" and "who controls the technology that controls your data?"  
 These "no cloud" graphics have been part of their communications program on this topic.  
 See their campaign page at: [https://fsfe.org/activities/nocloud/](https://fsfe.org/activities/nocloud/) and support their work.  
 
