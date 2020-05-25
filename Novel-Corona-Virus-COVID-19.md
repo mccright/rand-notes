@@ -12,16 +12,17 @@ https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronav
 
 What you can do?  
 ================
-***...as an individual*** FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10)  
+***...as an individual***  
+FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10)  
 * Practice strict social distancing, especially if you are in a vulnerable group.  Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.  
 * Wear a cloth mask as an integral part of your social distancing efforts (donate your N95s).  
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
 * If you are an employer, encourage your employees to work from home wherever possible, and encourage & support healthy lifestyles.  
 
-**...as an individual, manage your risk** FROM: from Dr. Leana S. Wen [https://www.washingtonpost.com/opinions/2020/05/21/four-concepts-assess-your-personal-risk-us-reopens/](https://www.washingtonpost.com/opinions/2020/05/21/four-concepts-assess-your-personal-risk-us-reopens/)  
+**...as an individual, manage your risk** 
+FROM: from Dr. Leana S. Wen [https://www.washingtonpost.com/opinions/2020/05/21/four-concepts-assess-your-personal-risk-us-reopens/](https://www.washingtonpost.com/opinions/2020/05/21/four-concepts-assess-your-personal-risk-us-reopens/)  
 Here are four risk management concepts to help focus our harm-reduction strategies and to help guide our decisions:  
-
 * *Relative risk*. For covid-19, we can think of risk through three key variables: proximity, activity and time. You can decrease your risk by modifying one or more of these three variables.  
   * Businesses should also heed this principle as they are reopening, by keeping up telecommuting and staggered shifts, reducing capacity in conference rooms, and closing communal dining areas.  
 * *Pooled risk*. If you engage in high-risk activity and are around others who do the same, you increase everyone’s risk. As applied to covid-19, this means those who have very low exposure are probably safe to associate with one another.  
@@ -34,12 +35,12 @@ Here are four risk management concepts to help focus our harm-reduction strategi
 
 
 ***...as an official***  
-* Make testing free and broadly available. [*You can do this.  Testing only a portion of hospitalized individuals will not help leaders make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*.  *Testing and contact tracing is less expensive than hospitalizations.*]  
-* Put strong social distancing measures in place.  
+* Make testing free and broadly available. [*You can do this.  *Testing and contact tracing is less expensive than hospitalizations.*  Testing only individuals in a small, ill-defined subset of your communities will not help leaders make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*.  Engaging in evasive *word games* about the nature and extent of testing, or denying facts about the scope and effectiveness of your testing efforts are counterproductive behaviors.]  
+* Put strong social distancing measures in place.  Keep them in place until medical science supports a change in strategy.  
 * Fund and implement extensive contact tracing efforts. [*Without this, leaders cannot make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*.  *Testing and contact tracing is less expensive and more humane than hospitalizations.*]  
 * Fund & implement the purchase and formal coordination of PPE distribution to minimize waste and contention for limited resources.  
 * Financially support those impacted by social distancing measures.  
-* Keep reviewing your goals, tactics and strategies.  Maintaining available hospital capacity or meeting economic growth targets are not the most critical goals.  Maintaining public health is more important.  Human life has value -- keep that in focus at all times.  Using the word '*transparent*' is not being transparent in your decision-making and actions.  Honesty, transparency, and being open to learning & change will earn you far more long lasting loyalty and compliance than any other behaviors.  
+* Keep reviewing the state of covid-19 related medical science, as well as your goals, tactics and strategies.  Maintaining available hospital capacity or meeting economic growth targets are not the most critical goals.  Maintaining public health is more important.  Human life has value -- keep that in focus at all times.  Using the word '*transparent*' is not being transparent in your decision-making and actions.  Honesty, transparency, and being open to learning & change will earn you far more long lasting loyalty and compliance than any other behaviors.  
 
 ----------------------------------------------------------  
 
