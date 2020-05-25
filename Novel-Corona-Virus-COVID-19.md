@@ -12,20 +12,34 @@ https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronav
 What you can do?  
 ================
 FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10)  
-**...as an individual**  
+***...as an individual***  
 * Practice strict social distancing, especially if you are in a vulnerable group.  Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.  
 * Wear a cloth mask as an integral part of your social distancing efforts (donate your N95s).  
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.  
+* If you are an employer, encourage your employees to work from home wherever possible, and encourage & support healthy lifestyles.  
 
-**...as an official**  
+**...as an individual, manage your risk**  
+Here are four risk management concepts from [Dr. Leana S. Wen](https://www.washingtonpost.com/opinions/2020/05/21/four-concepts-assess-your-personal-risk-us-reopens/) to help focus our harm-reduction strategies and to help guide our decisions:  
+
+* *Relative risk*. For covid-19, we can think of risk through three key variables: proximity, activity and time. You can decrease your risk by modifying one or more of these three variables.  
+  * Businesses should also heed this principle as they are reopening, by keeping up telecommuting and staggered shifts, reducing capacity in conference rooms, and closing communal dining areas.  
+* *Pooled risk*. If you engage in high-risk activity and are around others who do the same, you increase everyone’s risk. As applied to covid-19, this means those who have very low exposure are probably safe to associate with one another.  
+  * The equation changes when any one individual resumes higher-risk activities — returning to work outside the home, for example.  This will be a challenge for businesses' surveillance systems, as it is not easy to tease out evidence of elevated risk behaviors in any given worker's *off hours*.  It is, though, critically important to try.  
+* *Cumulative risk*. Your risk of acquiring covid-19 is additive for every person you come into close contact with.  
+  * Many people must return to work, but they can still reduce their risk overall by not having social gatherings inside or outside of work. Choose the activities most important to you.  
+* *Collective risk*.  Individual actions are crucial, but they do not replace the need for sound public policy.  The higher the rate of covid-19 in a community, the more likely any one individual you come into contact with has the virus and the riskier your interactions become.  
+  * This is why mask-wearing is important: If most people wear a mask, it reduces the amount of virus that we will transmit.
+  * Employers must have surveillance systems in place to detect if and when infections rise and be willing to discontinue work-at-the-office experiments, or further diffuse (increase individual isolation) the existing on-site workforce.
+
+
+***...as an official***  
 * Make testing free and broadly available. [*You can do this.  Testing only a portion of hospitalized individuals will not help leaders make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*.  *Testing and contact tracing is less expensive than hospitalizations.*]  
 * Put strong social distancing measures in place.  
 * Fund and implement extensive contact tracing efforts. [*Without this, leaders cannot make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*.  *Testing and contact tracing is less expensive and more humane than hospitalizations.*]  
 * Fund & implement the purchase and formal coordination of PPE distribution to minimize waste and contention for limited resources.  
 * Financially support those impacted by social distancing measures.  
-
+* Keep reviewing your goals, tactics and strategies.  Maintaining available hospital capacity or meeting economic growth targets are not the most critical goals.  Maintaining public health is more important.  Human life has value -- keep that in focus at all times.  Using the word '*transparent*' is not being transparent in your decision-making and actions.  Honesty, transparency, and being open to learning & change will earn you far more long lasting loyalty and compliance than any other behaviors.  
 
 ----------------------------------------------------------  
 
