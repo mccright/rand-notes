@@ -1,4 +1,4 @@
-**Focus on Facts and Restrict the Flow of Misinformation**  
+***Focus on Facts and Restrict the Flow of Misinformation***  
 Do your part to resist and constrain the flow of misinformation.  During outbreaks like the current COVID-19 pandemic, the spread of information that is known to be incorrect can lead to unhealthy behaviors and reinforce disinformation used to drive people to mistrust scientists and governments *and each other* -- which results in their being less likely to follow fact-based advisories and to take appropriate precautions.  
 
 Here are a pair of resources to fact check information related to COVID-19:  
@@ -43,7 +43,7 @@ Here are four risk management concepts from [Dr. Leana S. Wen](https://www.washi
 
 ----------------------------------------------------------  
 
-**Projects associated with Novel Corona Virus - COVID-19**  
+***Projects associated with Novel Corona Virus - COVID-19***  
 
 I'll edit this down as I have an opportunity to better review each resource...  
 * Effective Reproduction Number for COVID-19, R-0 or Rt for specific dates and states: [https://rt.live/](https://rt.live/)  
