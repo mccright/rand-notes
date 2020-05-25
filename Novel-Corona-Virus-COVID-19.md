@@ -20,7 +20,7 @@ FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://n
 * Stay home as much as possible -- especially if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
 * If you are an employer, encourage your employees to work from home wherever possible, and encourage & support healthy lifestyles.  
 
-**...as an individual, manage your risk** 
+**...as an individual, manage your risk**  
 FROM: from Dr. Leana S. Wen [https://www.washingtonpost.com/opinions/2020/05/21/four-concepts-assess-your-personal-risk-us-reopens/](https://www.washingtonpost.com/opinions/2020/05/21/four-concepts-assess-your-personal-risk-us-reopens/)  
 Here are four risk management concepts to help focus our harm-reduction strategies and to help guide our decisions:  
 * *Relative risk*. For covid-19, we can think of risk through three key variables: proximity, activity and time. You can decrease your risk by modifying one or more of these three variables.  
