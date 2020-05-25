@@ -3,9 +3,9 @@ rand-notes
 
 Random Notes - No Source Code
 
-This is just a central repository for notes and lists that I want to access from a variety of endpoints and locations.
+This is just a central repository for notes and lists that I want to access from a variety of endpoints and locations.  I have tried to name each file descriptively.  
 
-License references will be inserted into individual files as needed.
+License references will be inserted into individual files as needed.  
 
 I have been working on some complex issues...  Hofstadter's Law still applies.  
 Hofstadter's Law states that "It always takes longer than you expect, even when you take into account Hofstadter's Law." 
