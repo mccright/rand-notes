@@ -1,4 +1,5 @@
-***Focus on Facts and Restrict the Flow of Misinformation***  
+Focus on Facts and Restrict the Flow of Misinformation
+------------------------------------------------------
 Do your part to resist and constrain the flow of misinformation.  During outbreaks like the current COVID-19 pandemic, the spread of information that is known to be incorrect can lead to unhealthy behaviors and reinforce disinformation used to drive people to mistrust scientists and governments *and each other* -- which results in their being less likely to follow fact-based advisories and to take appropriate precautions.  
 
 Here are a pair of resources to fact check information related to COVID-19:  
@@ -11,16 +12,15 @@ https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronav
 
 What you can do?  
 ================
-FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10)  
-***...as an individual***  
+***...as an individual*** FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10)  
 * Practice strict social distancing, especially if you are in a vulnerable group.  Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.  
 * Wear a cloth mask as an integral part of your social distancing efforts (donate your N95s).  
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
 * If you are an employer, encourage your employees to work from home wherever possible, and encourage & support healthy lifestyles.  
 
-**...as an individual, manage your risk**  
-Here are four risk management concepts from [Dr. Leana S. Wen](https://www.washingtonpost.com/opinions/2020/05/21/four-concepts-assess-your-personal-risk-us-reopens/) to help focus our harm-reduction strategies and to help guide our decisions:  
+**...as an individual, manage your risk** FROM: from Dr. Leana S. Wen [https://www.washingtonpost.com/opinions/2020/05/21/four-concepts-assess-your-personal-risk-us-reopens/](https://www.washingtonpost.com/opinions/2020/05/21/four-concepts-assess-your-personal-risk-us-reopens/)  
+Here are four risk management concepts to help focus our harm-reduction strategies and to help guide our decisions:  
 
 * *Relative risk*. For covid-19, we can think of risk through three key variables: proximity, activity and time. You can decrease your risk by modifying one or more of these three variables.  
   * Businesses should also heed this principle as they are reopening, by keeping up telecommuting and staggered shifts, reducing capacity in conference rooms, and closing communal dining areas.  
