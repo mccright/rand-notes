@@ -31,7 +31,7 @@ Here are four risk management concepts to help focus our harm-reduction strategi
   * Many people must return to work, but they can still reduce their risk overall by not having social gatherings inside or outside of work. Choose the activities most important to you.  
 * *Collective risk*.  Individual actions are crucial, but they do not replace the need for sound public policy.  The higher the rate of covid-19 in a community, the more likely any one individual you come into contact with has the virus and the riskier your interactions become.  
   * This is why mask-wearing is important: If most people wear a mask, it reduces the amount of virus that we will transmit.
-  * Employers must have surveillance systems in place to detect if and when infections rise and be willing to discontinue work-at-the-office experiments, or further diffuse (increase individual isolation) the existing on-site workforce.
+  * Employers must have science-supported surveillance systems in place to detect if and when infections rise and be willing to discontinue work-at-the-office experiments, or further diffuse (increase individual isolation) the existing on-site workforce.
 
 
 ***...as an official***  
