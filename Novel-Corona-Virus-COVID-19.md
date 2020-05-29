@@ -69,7 +69,7 @@ I'll edit this down as I have an opportunity to better review each resource...
 * WEF Strategic Intelligence on COVID-19 [https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications](https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications)  
 
 **Historical Notes**  
-* This is not the first pandemic of this nature.  There were quite a few others in addition to the well-known 1918-1919 Flu pandemic.  See "The Flu -- A brief history of influenza in U.S. America, Europe, Hawaii." By A. Mouritz, hosted on https://www.gutenberg.org/files/61607/61607-h/61607-h.htm  
+* This is not the first pandemic of this nature.  There were quite a few others in addition to the well-known 1918-1919 Flu pandemic.  See "The Flu -- A brief history of influenza in U.S. America, Europe, Hawaii." By A. Mouritz, 1921, hosted on [https://www.gutenberg.org/files/61607/61607-h/61607-h.htm](https://www.gutenberg.org/files/61607/61607-h/61607-h.htm)  
    Quote: "MAIN FACTOR OF SPREAD. Not the Weather, but HUMAN intercourse, especially Commerce; the greater the speed of Commerce, the greater and quicker is the spread of the Flu; it follows the path of HUMAN travel; it is a Contagion solely spread by HUMAN intercourse, viz. 'The Influenza Carrier or Carriers.'  
    Positions in life, which require contact with Travelers, necessarily influence and spread the disease.  
    'Flu' is spread in the same ratio of speed as the Carrier of IT.  
