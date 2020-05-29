@@ -42,6 +42,11 @@ Here are four risk management concepts to help focus our harm-reduction strategi
 * Financially support those impacted by social distancing measures.  
 * Keep reviewing the state of covid-19 related medical science, as well as your goals, tactics and strategies.  Maintaining available hospital capacity or meeting economic growth targets are not the most critical goals.  Maintaining public health is more important.  Human life has value -- keep that in focus at all times.  Using the word '*transparent*' is not being transparent in your decision-making and actions.  Honesty, transparency, and being open to learning & change will earn you far more long lasting loyalty and compliance than any other behaviors.  
 
+***...as an employer***  
+* Support work-from-home for as many roles as is possible, for as long as is practical.  
+* Use the CDC "COVID-19 Employer Information for Office Buildings" guidelines as an initial outline to structure your workplace preparation and operations. [https://www.cdc.gov/coronavirus/2019-ncov/community/office-buildings.html](https://www.cdc.gov/coronavirus/2019-ncov/community/office-buildings.html)  
+* You are an individual and an official as well as an employer - use all the bullets above.  
+
 ----------------------------------------------------------  
 
 ***Projects associated with Novel Corona Virus - COVID-19***  
