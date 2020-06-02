@@ -52,6 +52,7 @@ Here are four risk management concepts to help focus our harm-reduction strategi
 ***Projects associated with Novel Corona Virus - COVID-19***  
 
 I'll edit this down as I have an opportunity to better review each resource...  
+* WHO COVID-19 page [https://www.who.int/emergencies/diseases/novel-coronavirus-2019](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)  
 * Effective Reproduction Number for COVID-19, R-0 or Rt for specific dates and states: [https://rt.live/](https://rt.live/)  
 * Nextstrain -- Real-time tracking of pathogen evolution [https://nextstrain.org/#ncov](https://nextstrain.org/#ncov)  
 * Institute for Health Metrics and Evaluation (IHME) for science-based projections [https://covid19.healthdata.org/projections](https://covid19.healthdata.org/projections)  
