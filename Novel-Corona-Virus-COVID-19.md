@@ -18,7 +18,7 @@ FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://n
 * Wear a cloth mask as an integral part of your social distancing efforts (donate your N95s).  
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, remember that at least 35 percent of infected people have no symptoms at all, so they will not be caught by your assessment or surveillance efforts (and in some workplaces the percentage of symptom-free infected in a given employer's workforce have been more than twice that level) and they could unknowingly infect other people, encourage your employees to work from home wherever possible, and encourage & support healthy lifestyles.  
+* If you are an employer, remember that at least 35 percent of infected people have no symptoms at all, so they will not be caught by your assessment or surveillance efforts (and in some workplaces the percentage of symptom-free infected in a given employer's workforce have been more than twice that level) and they could unknowingly infect other people.  Encourage your employees to work from home wherever possible, and encourage & support healthy lifestyles.  
 
 **...as an individual, manage your risk**  
 FROM: from Dr. Leana S. Wen [https://www.washingtonpost.com/opinions/2020/05/21/four-concepts-assess-your-personal-risk-us-reopens/](https://www.washingtonpost.com/opinions/2020/05/21/four-concepts-assess-your-personal-risk-us-reopens/)  
