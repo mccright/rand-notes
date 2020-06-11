@@ -6,7 +6,7 @@ There are a number of intangibles that are also important for your team's, your 
 
 - **Communicative**: Can this candidate communicate easily and in ways that may facilitate the '*frictionless*' exchange of thoughts and ideas across a diverse collection of individuals?  
 - **Collaborative**: Working effectively together in a diverse environment is essential - it is foundational.  Ensure that you understand enough about this characteristic before making an offer to anyone.  
-- **Adaptabile**: Can this candidate evolve with/for the team?  
+- **Adaptable**: Can this candidate evolve with/for the team?  
 - **Curious**: New options, opportunities, *connections*, ideas, or new ways to frame old issues, can feed service quality and productivity.   
 - **Committed**: This *may* be an expression of their motivations, but regardless, *half-hearted* workers are a drag on any team.  
 - **Enthusiastic**: More *heart* than *pressure* on this characteristic.    
