@@ -65,5 +65,5 @@ Download the Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 a
 x64: ```vc_redist.x64.exe``` [https://aka.ms/vs/16/release/vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)  
 
 I put a copy in:  
-```\\server\Utils\openssl-1.1``` so you just need to add the following to your ```%PATH%```:  
-```<DriveLetter>:\Utils\openssl-1.1\x64\bin```
+```\\server\openssl\openssl-1.1``` so you just need to add the following to your ```%PATH%```:  
+```<DriveLetter>:\openssl\openssl-1.1\x64\bin```
