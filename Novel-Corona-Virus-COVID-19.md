@@ -54,6 +54,7 @@ Here are four risk management concepts to help focus our harm-reduction strategi
 ***Projects associated with Novel Corona Virus - COVID-19***  
 
 I'll edit this down as I have an opportunity to better review each resource...  
+* Johns Hopkins Corona Virus Research Center [https://coronavirus.jhu.edu/](https://coronavirus.jhu.edu/)  
 * Interesting visualization of exponential growth: "Global Deaths Due to Various Causes and COVID-19." By Panos Kaissaratos on 31 May 2020 [https://public.flourish.studio/visualisation/2645529/](https://public.flourish.studio/visualisation/2645529/)  
 * WHO COVID-19 page [https://www.who.int/emergencies/diseases/novel-coronavirus-2019](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)  
 * Effective Reproduction Number for COVID-19, R-0 or Rt for specific dates and states: [https://rt.live/](https://rt.live/)  
