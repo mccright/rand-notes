@@ -14,7 +14,7 @@ Here is a list of DNS servers having a range of characteristics:
 [UncensoredDNS](https://blog.uncensoreddns.org/): 91.239.100.100  
 [Verisign Public DNS](https://www.verisign.com/en_US/security-services/public-dns/index.xhtml): 64.6.65.6 and 64.6.64.6  
   
-# Then test your performance:  
+### Then test your performance:  
 1. dig @8.8.8.8 www.nytimes.com  
 2. Or a Linux-based open source DNS Performance Test, a shell script named [DNSPerfTest](https://github.com/cleanbrowsing/dnsperftest).  
 3. If you can't run dig, you can use the [Geektools Dig](http://www.geektools.com/digtool.php) webpage to run the same queries.  
