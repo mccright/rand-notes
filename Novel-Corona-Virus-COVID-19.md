@@ -69,8 +69,9 @@ I'll edit this down as I have an opportunity to better review each resource...
 * The U.S. Coronavirus Map from NYT [https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) {get a subscription -- support real news and reporting}  
 * And some eye-candy [https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)  
 
-**Random Reports**  
+**Random Resources**  
 * Report the U.S. White House Reviewed March 13, 2020: "PanCAP Adapted U.S. Government COVID - 19 Response Plan March 13, 2020" [https://int.nyt.com/data/documenthelper/6819-covid-19-response-plan/d367f758bec47cad361f/optimized/full.pdf#page=1](https://int.nyt.com/data/documenthelper/6819-covid-19-response-plan/d367f758bec47cad361f/optimized/full.pdf#page=1)  
+  * Since that report was reviewed in the White House, malfeasance and misfeasance seem to have followed.  For an illustration from 2020-07-09, see: [https://pbs.twimg.com/media/EccYWIoXkAAjgTT?format=jpg&name=medium](https://pbs.twimg.com/media/EccYWIoXkAAjgTT?format=jpg&name=medium)  
 * WEF Strategic Intelligence on COVID-19 [https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications](https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications)  
 
 **Historical Notes**  
