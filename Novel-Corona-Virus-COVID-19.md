@@ -43,7 +43,7 @@ Here are four risk management concepts to help focus our harm-reduction strategi
 * Fund and implement extensive contact tracing efforts. [*Without this, leaders cannot make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*.  *Testing and contact tracing is less expensive and more humane than hospitalizations.*]  
 * Fund & then implement the purchase and formal coordination of PPE distribution to minimize waste and contention for limited resources.  
 * Financially support those impacted by social distancing measures.  
-* Use available resources to analyze your current state and plan.  For example the Covid-Local Metrics: [https://covid-local.org/metrics/](https://covid-local.org/metrics/)  
+* Use available resources to analyze your current state and plan.  For example the Covid-Local Metrics for Phased Reopening: [https://covid-local.org/metrics/](https://covid-local.org/metrics/), [https://www.cdc.gov/coronavirus/2019-ncov/community/community-mitigation.html#table1](https://www.cdc.gov/coronavirus/2019-ncov/community/community-mitigation.html#table1), and [https://www.cdc.gov/coronavirus/2019-ncov/community/community-mitigation.html#table2](https://www.cdc.gov/coronavirus/2019-ncov/community/community-mitigation.html#table2)    
 * Keep reviewing the state of covid-19 related medical science, as well as your goals, tactics and strategies.  Maintaining available hospital capacity or meeting economic growth targets are not the most critical goals.  Maintaining public health is more important.  Human life has value -- keep that in focus at all times.  Using the words '*transparent*' or '*proactive*' are not the same as being transparent or proactive in your decision-making and actions.  Honesty, transparency, and being open to learning & change will earn you far more long lasting loyalty and compliance than any other behaviors.  
 
 ***...as an employer***  
@@ -58,6 +58,10 @@ Here are four risk management concepts to help focus our harm-reduction strategi
 
 I'll edit this down as I have an opportunity to better review each resource...  
 * Johns Hopkins Corona Virus Research Center [https://coronavirus.jhu.edu/](https://coronavirus.jhu.edu/)  
+* Covid-Local Metrics for Phased Reopening: [https://covid-local.org/metrics/](https://covid-local.org/metrics/)  
+* CovidActNow: [https://covidactnow.org/](https://covidactnow.org/) and [https://github.com/covid-projections/covid-projections](https://github.com/covid-projections/covid-projections)  
+* Covid Care Map: [https://www.covidcaremap.org/](https://www.covidcaremap.org/) and [https://github.com/covidcaremap/covid19-healthsystemcapacity#overview](https://github.com/covidcaremap/covid19-healthsystemcapacity#overview)  
+* Covid Data Scraper / Li: [https://github.com/covidatlas/li](https://github.com/covidatlas/li) and the legacy [https://github.com/covidatlas/coronadatascraper](https://github.com/covidatlas/coronadatascraper)  
 * Interesting visualization of exponential growth: "Global Deaths Due to Various Causes and COVID-19." By Panos Kaissaratos on 31 May 2020 [https://public.flourish.studio/visualisation/2645529/](https://public.flourish.studio/visualisation/2645529/)  
 * WHO COVID-19 page [https://www.who.int/emergencies/diseases/novel-coronavirus-2019](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)  
 * Effective Reproduction Number for COVID-19, R-0 or Rt for specific dates and states: [https://rt.live/](https://rt.live/)  
@@ -70,6 +74,8 @@ I'll edit this down as I have an opportunity to better review each resource...
 * U.S. Health Weather Map [https://healthweather.us/](https://healthweather.us/)  
 * Simple map: COVID-19 spread in USA [https://public.tableau.com/views/COVID19inUSA/COVID-19spreadinUSA?:display_count=y&:origin=viz_share_link&:showVizHome=no](https://public.tableau.com/views/COVID19inUSA/COVID-19spreadinUSA?:display_count=y&:origin=viz_share_link&:showVizHome=no)  
 * The U.S. Coronavirus Map from NYT [https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) {get a subscription -- support real news and reporting}  
+* Stay Home, Save Lives: [https://www.stayhomesavelives.us/](https://www.stayhomesavelives.us/)  
+* Flatten the Curve. Save Lives: [https://www.flattenthecurve.com/](https://www.flattenthecurve.com/)  
 * And some eye-candy [https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)  
 
 **Random Resources**  
