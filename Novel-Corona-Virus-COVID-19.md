@@ -9,6 +9,8 @@ and
 https://www.factcheck.org/issue/coronavirus/  
 Especially:
 https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronavirus-was-bioengineered/
+Here is a source for raw facts related to COVID-19:  
+Corona Data Scraper [https://coronadatascraper.com/#home](https://coronadatascraper.com/#home)  
 
 
 What you can do?  
@@ -41,6 +43,7 @@ Here are four risk management concepts to help focus our harm-reduction strategi
 * Fund and implement extensive contact tracing efforts. [*Without this, leaders cannot make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*.  *Testing and contact tracing is less expensive and more humane than hospitalizations.*]  
 * Fund & then implement the purchase and formal coordination of PPE distribution to minimize waste and contention for limited resources.  
 * Financially support those impacted by social distancing measures.  
+* Use available resources to analyze your current state and plan.  For example the Covid-Local Metrics: [https://covid-local.org/metrics/](https://covid-local.org/metrics/)  
 * Keep reviewing the state of covid-19 related medical science, as well as your goals, tactics and strategies.  Maintaining available hospital capacity or meeting economic growth targets are not the most critical goals.  Maintaining public health is more important.  Human life has value -- keep that in focus at all times.  Using the words '*transparent*' or '*proactive*' are not the same as being transparent or proactive in your decision-making and actions.  Honesty, transparency, and being open to learning & change will earn you far more long lasting loyalty and compliance than any other behaviors.  
 
 ***...as an employer***  
