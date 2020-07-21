@@ -12,6 +12,15 @@ https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronav
 Here is a source for raw facts related to COVID-19:  
 Corona Data Scraper [https://coronadatascraper.com/#home](https://coronadatascraper.com/#home)  
 
+*Get & stay educated* -- You can better recognize misinformation with a foundation of awareness and education.  Here are some pools of SARS-CoV-2 data, facts, and information:  
+* Articles referencing SARS-CoV-2 and COVID-19 in PubMed [https://pubmed.ncbi.nlm.nih.gov/?longListOfSearchTerms](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28wuhan%5BAll+Fields%5D+AND+%28%22coronavirus%22%5BMeSH+Terms%5D+OR+%22coronavirus%22%5BAll+Fields%5D%29%29+AND+2019%2F12%5BPDAT%5D+%3A+2030%5BPDAT%5D%29+OR+2019-nCoV%5BAll+Fields%5D+OR+2019nCoV%5BAll+Fields%5D+OR+COVID-19%5BAll+Fields%5D+OR+SARS-CoV-2%5BAll+Fields%5D&sort=date)  
+* Free full-text content in PubMed Central (PMC) from the Public Health Emergency COVID-19 Initiative, suitable for text mining and secondary analysis: [https://www.ncbi.nlm.nih.gov/pmc/about/covid-19/](https://www.ncbi.nlm.nih.gov/pmc/about/covid-19/)  
+* LitCovid: Comprehensive curated literature collection regarding the 2019 novel Coronavirus: [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)  
+* Raw data is available at NCBI SARS-CoV-2 Resources: [https://www.ncbi.nlm.nih.gov/sars-cov-2/](https://www.ncbi.nlm.nih.gov/sars-cov-2/)  
+* The still-active NIH: [https://www.nih.gov/coronavirus](https://www.nih.gov/coronavirus)  
+* Clinical Trials: [https://clinicaltrials.gov/ct2/results?cond=COVID-19](https://clinicaltrials.gov/ct2/results?cond=COVID-19)  
+
+
 
 What you can do?  
 ================
