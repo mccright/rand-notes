@@ -1,7 +1,7 @@
 Focus on Facts and Restrict the Flow of Misinformation
 ------------------------------------------------------
 Do your part to resist and constrain the flow of misinformation.  During outbreaks like the current COVID-19 pandemic, the spread of information that is known to be incorrect can lead to unhealthy behaviors and reinforce disinformation used to drive people to mistrust scientists and governments *and each other* -- which results in their being less likely to follow fact-based advisories and to take appropriate precautions.  
-This is critically important in North America.  As of late June 2020, U.S.A. has 4% of the world’s population and 25% of the world’s deaths from Covid-19, which seems like a strong indicator of a serious failure to engage with the realities of the current COVID-19 pandemic.  
+This is critically important in North America.  As of late June 2020, U.S.A. had 4% of the world’s population and 25% of the world’s deaths from Covid-19 and in late August the proportions remained similar, which seems like a strong indicator of a serious failure to engage with the realities of the current COVID-19 pandemic.  
 
 Here are a pair of resources to fact check information related to COVID-19:  
 https://factcheck.afp.com/busting-coronavirus-myths  
@@ -91,6 +91,7 @@ I'll edit this down as I have an opportunity to better review each resource...
 * Report the U.S. White House Reviewed March 13, 2020: "PanCAP Adapted U.S. Government COVID - 19 Response Plan March 13, 2020" [https://int.nyt.com/data/documenthelper/6819-covid-19-response-plan/d367f758bec47cad361f/optimized/full.pdf#page=1](https://int.nyt.com/data/documenthelper/6819-covid-19-response-plan/d367f758bec47cad361f/optimized/full.pdf#page=1)  
   * Since that report was reviewed in the White House, malfeasance and misfeasance seem to have followed.  For an illustration from 2020-07-09, see: [https://pbs.twimg.com/media/EccYWIoXkAAjgTT?format=jpg&name=medium](https://pbs.twimg.com/media/EccYWIoXkAAjgTT?format=jpg&name=medium)  
 * WEF Strategic Intelligence on COVID-19 [https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications](https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications)  
+* An excellent non-scientific description of the various threads of vaccine activity: "What if the First Coronavirus Vaccines Aren’t the Best?" By Carl Zimmer [https://www.nytimes.com/2020/08/27/health/covid-19-vaccines.html](https://www.nytimes.com/2020/08/27/health/covid-19-vaccines.html)    
 
 **Historical Notes**  
 * This is not the first pandemic of this nature.  There were quite a few others in addition to the well-known 1918-1919 Flu pandemic.  See "The Flu -- A brief history of influenza in U.S. America, Europe, Hawaii." By A. Mouritz, 1921, hosted on [https://www.gutenberg.org/files/61607/61607-h/61607-h.htm](https://www.gutenberg.org/files/61607/61607-h/61607-h.htm)  
