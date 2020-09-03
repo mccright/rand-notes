@@ -8,6 +8,8 @@
 * Vulpy - Web Application Security Lab [github.com/fportantier/vulpy](github.com/fportantier/vulpy)  
 * Intentionally Vulnerable Flask app for use in Demos [https://github.com/we45/Vulnerable-Flask-App](https://github.com/we45/Vulnerable-Flask-App)  
 
+**Other Technologies**
+* DVFaaS - Damn Vulnerable AWS Lambda Functions as a Service [https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service](https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service)  
 * An online platform that uses hands-on virtual labs [https://tryhackme.com/](https://tryhackme.com/)  
 * Hosts materials for anyone to gain practical 'hands-on' experience with -- a range of hacking and network admin opportunities  [https://www.vulnhub.com/](https://www.vulnhub.com/)  
 * A range of pen-testing labs, not all are free [https://www.hackthebox.eu](https://www.hackthebox.eu)  
