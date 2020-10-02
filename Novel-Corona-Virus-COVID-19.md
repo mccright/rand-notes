@@ -67,6 +67,7 @@ Here are four risk management concepts to help focus our harm-reduction strategi
 
 I'll edit this down as I have an opportunity to better review each resource...  
 * Johns Hopkins Corona Virus Research Center [https://coronavirus.jhu.edu/](https://coronavirus.jhu.edu/)  
+* Covid Exit Strategy [https://www.covidexitstrategy.org/](https://www.covidexitstrategy.org/)  
 * Covid-Local Metrics for Phased Reopening: [https://covid-local.org/metrics/](https://covid-local.org/metrics/)  
 * CovidActNow: [https://covidactnow.org/](https://covidactnow.org/) and [https://github.com/covid-projections/covid-projections](https://github.com/covid-projections/covid-projections)  
 * Covid Care Map: [https://www.covidcaremap.org/](https://www.covidcaremap.org/) and [https://github.com/covidcaremap/covid19-healthsystemcapacity#overview](https://github.com/covidcaremap/covid19-healthsystemcapacity#overview)  
