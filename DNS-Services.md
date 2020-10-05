@@ -21,3 +21,6 @@ Here is a list of DNS servers having a range of characteristics:
 1. dig @156.154.70.5 www.nytimes.com  
 2. Or a Linux-based open source DNS Performance Test, a shell script named [DNSPerfTest](https://github.com/cleanbrowsing/dnsperftest).  
 3. If you can't run dig, you can use the [Geektools Dig](http://www.geektools.com/digtool.php) webpage to run the same queries.  
+
+### Sometimes you need to clear/flush your DNS cache:  
+Here is a useful write-up for a range of differen platforms [https://linuxize.com/post/how-to-clear-the-dns-cache/](https://linuxize.com/post/how-to-clear-the-dns-cache/)  
