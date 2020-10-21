@@ -18,7 +18,7 @@ $ head -c 1k /dev/urandom | base64 | tr -cd '[[:alnum:]]' > targetFile.dat
 $ head -c 2k /dev/urandom | base64 | tr -cd '[[:alnum:]]' | head -c 1k > targetFile.dat  
 ```  
 
-Create a random password where the permitted character set is "_A-Za-z0-9!@#$%^&*,.=+~":  
+Create a 13 character random password where the permitted character set is "_A-Za-z0-9!@#$%^&*,.=+~":  
 ```  
 $ head -c${1:-100} /dev/urandom | tr -dc '_A-Za-z0-9!@#$%^&*,.=+~' | head -c${1:-13};echo;  
 ```  
