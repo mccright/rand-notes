@@ -19,6 +19,7 @@ Corona Data Scraper [https://coronadatascraper.com/#home](https://coronadatascra
 * Raw data is available at NCBI SARS-CoV-2 Resources: [https://www.ncbi.nlm.nih.gov/sars-cov-2/](https://www.ncbi.nlm.nih.gov/sars-cov-2/)  
 * The still-active NIH: [https://www.nih.gov/coronavirus](https://www.nih.gov/coronavirus)  
 * Clinical Trials: [https://clinicaltrials.gov/ct2/results?cond=COVID-19](https://clinicaltrials.gov/ct2/results?cond=COVID-19)  
+* Unfortunately, it is important to become more media aware - "The Media Manipulation Casebook" is a useful resource to learn about detecting, documenting, describing, and debunking misinformation [https://mediamanipulation.org/](https://mediamanipulation.org/)   
 
 
 
