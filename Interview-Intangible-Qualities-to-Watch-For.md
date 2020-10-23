@@ -22,3 +22,11 @@ There are a number of intangibles that are also important for your team's, your 
 - **Positive**: Reasoned optimism can be a strong force.  
 - **Teachable**: No candidate arrives as a perfect package.  Can they successfully traverse the training required to fill those gaps?  
 - **Character**: This may be a difficult characteristic to tease out, but it is important to tie down.  
+
+### And then some more specific characteristics:  
+*You may not agree with all of these, but there are some gems to choose from in this collection.*  
+* "8 must have qualities of a great software developer." By Tom Winter: [https://devskiller.com/qualities-great-developer/](https://devskiller.com/qualities-great-developer/)  
+* "Fundamental qualities of good programmers." David Albert: [https://www.recurse.com/blog/27-fundamental-qualities-of-good-programmers](https://www.recurse.com/blog/27-fundamental-qualities-of-good-programmers)  
+* "Characteristics of Good Programmers" [https://medium.com/@KeepCoding_/characteristics-of-good-programmers-466b7d466f68](https://medium.com/@KeepCoding_/characteristics-of-good-programmers-466b7d466f68)  
+* "What Makes A Great Software Engineer?" By Paul Luo Li, Amy J. Ko,J iamin Zhu; 2015 IEEE/ACM 37th IEEE International Conference on Software Engineering: [https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf) and a partial summary "10 Characteristics of an Excellent Software Developer" By [CG]Thibaud [https://www.codingame.com/blog/characteristics-excellent-software-developer/](https://www.codingame.com/blog/characteristics-excellent-software-developer/)  
+
