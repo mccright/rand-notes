@@ -11,6 +11,9 @@ Especially:
 https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronavirus-was-bioengineered/
 Here is a source for raw facts related to COVID-19:  
 Corona Data Scraper [https://coronadatascraper.com/#home](https://coronadatascraper.com/#home)  
+Sometimes it is difficult to know what to make of the numbers available at the scraper above.  Here are a pair of free curated presentations of facts related to COVID-19 to help provide some context:
+  * Serious, fact-based reporting from the New York Times: [https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)  
+  * Serious, fact-based reporting from the Washington Post: [https://www.washingtonpost.com/coronavirus/](https://www.washingtonpost.com/coronavirus/)  
 
 *Get & stay educated* -- You can better recognize misinformation with a foundation of awareness and education.  Here are some pools of SARS-CoV-2 data, facts, and information:  
 * Articles referencing SARS-CoV-2 and COVID-19 in PubMed [https://pubmed.ncbi.nlm.nih.gov/?longListOfSearchTerms](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28wuhan%5BAll+Fields%5D+AND+%28%22coronavirus%22%5BMeSH+Terms%5D+OR+%22coronavirus%22%5BAll+Fields%5D%29%29+AND+2019%2F12%5BPDAT%5D+%3A+2030%5BPDAT%5D%29+OR+2019-nCoV%5BAll+Fields%5D+OR+2019nCoV%5BAll+Fields%5D+OR+COVID-19%5BAll+Fields%5D+OR+SARS-CoV-2%5BAll+Fields%5D&sort=date)  
