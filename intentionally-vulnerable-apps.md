@@ -35,6 +35,7 @@
 * TEST and Demonstration site for Acunetix Web Vulnerability Scanner - [http://testasp.vulnweb.com/Default.asp](http://testasp.vulnweb.com/Default.asp).  
 * Basic vulnerable ASP application [http://zero.webappsecurity.com/](http://zero.webappsecurity.com/)  
 * Moth [http://www.bonsai-sec.com/en/research/moth.php](http://www.bonsai-sec.com/en/research/moth.php) (VMWare image, PHP, incl. full source)  
+* A starter-level example at [https://github.com/commixproject/commix-testbed](https://github.com/commixproject/commix-testbed)  
 * And test your nmap access against [http://scanme.nmap.org/](http://scanme.nmap.org/)  
 
 Resources to follow-up on:  
