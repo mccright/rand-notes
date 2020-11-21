@@ -109,6 +109,8 @@ SSH is preferable over username/password for several reasons:
   StrictHostKeyChecking=no
   ```
   
+  NOTE: This change is not *free*.  You pay a risk management penalty, and it may not be risk-appropriate for all use cases.  
+  
 - Create an agent and load the private key
 
   In the docker container environment:
@@ -134,6 +136,6 @@ SSH is preferable over username/password for several reasons:
   git clone git@<github host address>:<github organization>/<github repository name>.git
   ```
   
- Thank You to [NicolasRouquette](https://github.com/NicolasRouquette) for original the [content](https://github.com/opencaesar/docker-git-utilities/blob/master/README.md) that I am caching here 
+Thank You to [NicolasRouquette](https://github.com/NicolasRouquette) for original the [content](https://github.com/opencaesar/docker-git-utilities/blob/master/README.md) that I am caching [with my edits] here 
 (from his 7aa4100 on Jun 17, 2019 version).  I will be evolving these directions to align with my local needs here.  
 If I have broadly-applicable input, I'll submit a pull request.
