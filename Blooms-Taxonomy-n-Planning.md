@@ -1,6 +1,6 @@
 There are [a number of intangibles that are important](https://github.com/mccright/rand-notes/blob/master/Interview-Intangible-Qualities-to-Watch-For.md) for your team's, your organization's success.  
 
-There are also a range of capabilities that are more easily measured that need to built into role definitions and then into your evaluation processes.  One interesting tool for helping ritualize data gathering about new hire candidates for technology-related roles is the cognitive domain of [Bloom's Taxonomu of Educational Obectives](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy).  
+There are also a range of capabilities that are more easily measured that need to built into role definitions and then into your evaluation processes.  One interesting tool for helping ritualize data gathering about new hire candidates for technology-related roles is the cognitive domain of [Bloom's Taxonomy of Educational Obectives](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy).  
 
 ### Blooms Taxonomy
 
