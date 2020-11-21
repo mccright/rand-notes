@@ -1,6 +1,6 @@
 # Using Color In Batch/CMD files  
 
-I still use batch/cmd files to help myself and others speed up repetitive tasks on Windows endpoints.  Yes, I understand that PowerShell, Python, and more exist, but I can code up many tasks with a batch file much faster than with other languages.  If there is an important driver for one of those more powerfull languages, I use them, but economy drives to batch for a range of repetitive activities.  
+I still use batch/cmd files to help myself and others speed up repetitive tasks on Windows endpoints.  Yes, I understand that PowerShell, Python, and more exist, but I can code up many simple tasks with a batch file much faster than with other languages.  If there is an important driver for one of those more powerfull languages, I use them, but economy drives to batch for a range of repetitive activities.  
 
 There are use cases where employing color can help users better understand any given utility's output.  
 
