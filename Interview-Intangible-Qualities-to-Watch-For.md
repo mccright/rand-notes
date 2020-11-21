@@ -23,6 +23,9 @@ There are a number of intangibles that are also important for your team's, your 
 - **Teachable**: No candidate arrives as a perfect package.  Can they successfully traverse the training required to fill those gaps?  
 - **Character**: This may be a difficult characteristic to tease out, but it is important to tie down.  
 
+There are other ways to organize your non-technical evaluation of candidates.  You might use the scheme outlined in [Bloom's Taxonomy](https://github.com/mccright/rand-notes/blob/master/Blooms-Taxonomy-n-Planning.md).  
+
+
 ### And then some more specific characteristics:  
 *You may not agree with all of these, but there are some gems to choose from in this collection.*  
 * "8 must have qualities of a great software developer." By Tom Winter: [https://devskiller.com/qualities-great-developer/](https://devskiller.com/qualities-great-developer/)  
