@@ -1,4 +1,4 @@
-# Using Color In Batch/CMD files  
+# Using Color In Batch/CMD/Bash Scripts  
 
 I still use batch/cmd/bash scripts to help myself and others speed up repetitive tasks on Windows or Linux endpoints.  Yes, I understand that PowerShell, Python, and more exist, but I can code up many simple tasks with a batch/bash files much faster than with other languages.  If there is an important driver for one of those more powerfull languages, I use them, but economy drives to batch/bash for a range of repetitive activities.  Sometimes it is important to signal the user/operator about a notable event or condition and using color on the console/shell can help.  That is the rationale for this note.  
 
