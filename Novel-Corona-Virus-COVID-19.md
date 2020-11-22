@@ -9,7 +9,8 @@ and
 https://www.factcheck.org/issue/coronavirus/  
 Especially:
 https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronavirus-was-bioengineered/
-Here is a source for raw facts related to COVID-19:  
+Here are a couple sources for raw facts related to COVID-19:  
+OurWorldInData COVID-19 page has a "What is the global situation now?" graph that may be useful for many: [https://ourworldindata.org/coronavirus](https://ourworldindata.org/coronavirus)  
 Corona Data Scraper [https://coronadatascraper.com/#home](https://coronadatascraper.com/#home)  
 Sometimes it is difficult to know what to make of the numbers available at the scraper above.  Here are a pair of free curated presentations of facts related to COVID-19 to help provide some context:
   * Serious, fact-based reporting from the New York Times: [https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)  
