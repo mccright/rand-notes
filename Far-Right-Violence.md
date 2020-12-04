@@ -2,7 +2,7 @@
 
 Trump and Trumpists blame Democratic candidates and the Democratic party (*the left*) for economic and broader societal problems.  After the November 2020 elections, they added *a vast conspiracy resulting in corruption of the popular vote*.  
 
-Trump and his surrogates employ an increasing emphasis on images of terrorism and violence they blame on liberals, Black Lives Matter, and antifa (among others) -- and 'argue' that this left wing must be ignored, silenced, and even eliminated (depending on the venue).  In their post-election rage against the popular vote, Trump and his surrogates have used increasingly explicit references to (*sometimes* including directives to do) violence against those with whom they hold grievances.  
+Trump and his surrogates employ an increasing emphasis on images of terrorism and violence they blame on liberals, Black Lives Matter, and antifa (among others) -- and 'argue' that this left wing must be ignored, silenced, and even eliminated (depending on the venue).  In their post-election rage against the popular vote, Trump and his surrogates have added increasingly explicit references to (*sometimes* including directives to do) violence against those with whom they hold grievances.  
 
 This narrative ignores the facts about terrorist activity in the U.S.  
 Since the early 1990s, far right terrorist attacks and plots in the U.S. outnumber those by any other group.  
