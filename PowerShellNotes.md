@@ -42,7 +42,7 @@ $NEWCLASSPATH = $TMPCLASSPATH + ';C:\dev\projectname\classes\'
 [Environment]::SetEnvironmentVariable("CLASSPATH", $NEWCLASSPATH, 'Machine')  
 ```
 
-# Simplistic timing  
+## Simplistic timing  
 ```powershell
 $start = Get-Date  
 # do the work that you care to time...  
@@ -55,3 +55,16 @@ or highlight the timing output
 Write-Host ('My code duration..... ' + $myCodeDuration + " or " + $myCodeDuration.TotalSeconds) -foregroundcolor DarkBlue -backgroundcolor Yellow  
 ```
 
+## Using passed parameters with an external application  
+When your module will consume some passed parameters, some or all of which will be used by an external executable program, those parameters may require some special handling*.  This is especially true when you will pass a mix of variables and strings to the external executable program.  
+```powershell
+param([String]$debugFlag='False',[String]$inputFileName='theInput.txt',[String]$outputFileName='theOutput.txt')  
+$outputPrefix = $Env:COMPUTERNAME  
+$theOutputFile = $outputPrefix+"-"+$outputFileName  
+$auditorName = "Alice"  
+$executable = "C:\PROGRA~1\myApp\myAppVer6.exe"  
+# Assemble the parameters:  
+$executableParameters = '-quite', '-bom', '"full"', '-auditor', $auditorName, '-debug', $debugFlag, '-inFile', $inputFileName, '-reportName', $theOutputFile  
+# Now use it:  
+& $executable $executableParameters  
+```
