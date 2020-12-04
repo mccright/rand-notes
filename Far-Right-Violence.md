@@ -1,6 +1,6 @@
 ## Attempts to Demonize and Silence Critics of Trumpism Ignore Facts About Violence & Terrorism in U.S.  
 
-Trump and Trumpists blame Democratic candidates and the Democratic party (*the left*) for economic and broader societal problems.  
+Trump and Trumpists blame Democratic candidates and the Democratic party (*the left*) for economic and broader societal problems.  After the November 2020 elections, they added *a vast conspiracy resulting in corruption of the popular vote*.  
 
 Trump and his surrogates employ an increasing emphasis on images of terrorism and violence they blame on liberals, Black Lives Matter, and antifa (among others) -- and 'argue' that this left wing must be ignored, silenced, and even eliminated (depending on the venue).  In their post-election rage against the popular vote, Trump and his surrogates have used increasingly explicit references to (*sometimes* including directives to do) violence against those with whom they hold grievances.  
 
