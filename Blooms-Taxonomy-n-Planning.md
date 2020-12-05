@@ -2,7 +2,9 @@ There are [a number of intangibles that are important](https://github.com/mccrig
 
 There are also a range of capabilities that are more easily measured that need to built into role definitions and then into your evaluation processes.  One interesting tool for helping ritualize data gathering about new hire candidates for technology-related roles is the cognitive domain of [Bloom's Taxonomy of Educational Obectives](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy).  
 
-### Blooms Taxonomy
+## Blooms Taxonomy
+
+###Cognitive domain (knowledge-oriented)  
 
 #### Knowledge [Remember]:  
 Recall or remember previously learned information without necessarily understanding it.   Its characteristics may include:  
@@ -61,7 +63,25 @@ Indicators may include, but are not limited to:
   * Present and defend opinions  
   * Judge according to criteria  
 
-Bloom's '[affective domain](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#The_affective_domain_(emotion-based))' is also relevant in the hiring process as well.  I'll deal with that in future updates to this page.
+### Affective domain (*emotion*-oriented)  
+
+Bloom's '[affective domain](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#The_affective_domain_(emotion-based))' is also relevant in the hiring process as well.  I'll deal more with that in future updates to this page.  
+
+#### Receiving  
+Passively listen/observe and remember enough to demonstrate recognition.  
+
+#### Responding  
+Actively participate in learning processes (includes interaction).  
+
+#### Valuing  
+Associate value to an object, phenomenon, or unit of information (to the knowledge acquired above).  Demonstrate sensitivity towards individual and cultural differences.  
+
+#### Organizing  
+Assemble/associate different values, information, and ideas -- prioritize, resolve, compare, relate, synthesize and elaborate on what was learned above.  
+
+#### Characterizing  
+Internalize values - *demonstrate* a value system that aligns with their behavior.  
+
 
 ####REFERENCES:  
 * [https://en.wikipedia.org/wiki/Bloom%27s_taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)  
