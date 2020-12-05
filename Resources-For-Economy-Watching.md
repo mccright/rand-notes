@@ -30,3 +30,7 @@
 **Stock market indexes:**  
 * Russell 2000: [https://finance.yahoo.com/quote/%5ERUT?p=^RUT](https://finance.yahoo.com/quote/%5ERUT?p=^RUT)  
 * S&P 500: [https://finance.yahoo.com/quote/%5EGSPC/](https://finance.yahoo.com/quote/%5EGSPC/)  
+
+**General Government Research Sources:**  
+* U.S. Congressional Research Service: [https://crsreports.congress.gov/](https://crsreports.congress.gov/)  
+* 
