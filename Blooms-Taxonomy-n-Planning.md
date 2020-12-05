@@ -83,7 +83,7 @@ Assemble/associate different values, information, and ideas -- prioritize, resol
 Internalize values - *demonstrate* a value system that aligns with their behavior.  
 
 
-####REFERENCES:  
+#### REFERENCES:  
 * [https://en.wikipedia.org/wiki/Bloom%27s_taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)  
 * [http://www.infosemantics.com.au/sites/default/files/Blooms_Taxonomy_for_Drag_and_Drop.png](http://www.infosemantics.com.au/sites/default/files/Blooms_Taxonomy_for_Drag_and_Drop.png) {Downloaded 2011-08-16}  
 
