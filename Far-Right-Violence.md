@@ -8,7 +8,27 @@ This narrative ignores the facts about terrorist activity in the U.S.
 Since the early 1990s, far right terrorist attacks and plots in the U.S. outnumber those by any other group.  
 There have been **more than twice as many far right attacks and plots in the U.S.** compared to far left terrorists.  
 There have been **more than six and a half times more killings by far right terrorists** than attributable to far left terrorists, and the proportion of far right killings have been increasing in the last 6 years.  
+  
+*Facts* about individual's and group's ideology are not always easily defined, especially around the edges.  Analysis of the Economist and the Center for Strategic & International Studies are both included below for contrast:  
 
-For a more detailed analysis see the analysis of 893 terrorist plots and attacks in the United States between January 1994 and May 2020 by the Center for Strategic and Internal Studies [https://www.csis.org/analysis/escalating-terrorism-problem-united-states](https://www.csis.org/analysis/escalating-terrorism-problem-united-states).  
+#### U.S. Terrorist Attacks and Plots by Ideology (The Economist)  
+<a href="https://www.economist.com/graphic-detail/2020/10/27/in-america-far-right-terrorist-plots-have-outnumbered-far-left-ones-in-2020"><img src="https://www.economist.com/img/b/1280/755/90/sites/default/files/20201031_WOC027.png"></a>  
+  
+**Image Source**:
+"In America, far-right terrorist plots have outnumbered far-left ones in 2020."
+Economist. 27 October 2020 [https://www.economist.com/graphic-detail/2020/10/27/in-america-far-right-terrorist-plots-have-outnumbered-far-left-ones-in-2020](https://www.economist.com/graphic-detail/2020/10/27/in-america-far-right-terrorist-plots-have-outnumbered-far-left-ones-in-2020)  
 
------------------------------------------------
+#### Percentage of U.S. Terrorist Attacks and Plots by Perpetrator Orientation, 1994-2020 (Center for Strategic & International Studies)  
+<a href="https://www.csis.org/analysis/escalating-terrorism-problem-united-states"><img src="https://csis-website-prod.s3.amazonaws.com/s3fs-public/TNT_Graphics_Web-01.jpg"></a>  
+  
+**Image Source**:  
+"The Escalating Terrorism Problem in the United States." CSIS Briefs, By Seth G. Jones, 17 June 2020 [https://www.csis.org/analysis/escalating-terrorism-problem-united-states](https://www.csis.org/analysis/escalating-terrorism-problem-united-states)  
+  
+#### Number of U.S. Terrorist Attacks and Plots by Perpetrator Orientation, 1994-2020 (Center for Strategic & International Studies)  
+<a href="https://www.csis.org/analysis/escalating-terrorism-problem-united-states"><img src="https://csis-website-prod.s3.amazonaws.com/s3fs-public/TNT_Graphics_Web-02.jpg"></a>  
+  
+**Image Source**:  
+"The Escalating Terrorism Problem in the United States." CSIS Briefs, By Seth G. Jones, 17 June 2020 [https://www.csis.org/analysis/escalating-terrorism-problem-united-states](https://www.csis.org/analysis/escalating-terrorism-problem-united-states)  
+  
+For more detailed analyses see the analysis of 893 terrorist plots and attacks in the United States between January 1994 and May 2020 by the Center for Strategic and Internal Studies [https://www.csis.org/analysis/escalating-terrorism-problem-united-states](https://www.csis.org/analysis/escalating-terrorism-problem-united-states) and "The War Comes Home: The Evolution of Domestic Terrorism in the United States." CSIS Briefs, By Seth G. Jones, 22 October 2020 [https://www.csis.org/analysis/war-comes-home-evolution-domestic-terrorism-united-states](https://www.csis.org/analysis/war-comes-home-evolution-domestic-terrorism-united-states)  
+  
