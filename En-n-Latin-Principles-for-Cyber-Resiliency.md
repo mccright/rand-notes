@@ -14,8 +14,10 @@
 | protect all entry points                    | tueri omnes introitu puncta                |
 | all entring information is evil             | omnes entring notitia est malum            |
 | [validate all input]validate all entering information           | convalidandum et ad omnes ingressus notitia|
+| [validate all input]validate all incoming information           | convalidandum omnia advenientis notitia |
 | validate all the entry points               | convalidandum omnes introitu puncta        |
 | all entering information requires validation| omnes ingressus notitia requiritur radice  |
+| all incoming information requires validation| omnes advenientis notitia requiritur radice |
 | reveal little                               | revelare parum                             |
 | share little                                | partem parum                               |
 | remain silent                               | taceat                                     |
@@ -41,7 +43,7 @@
 | use deception                               | uti deceptio                               |
 | concentrate on common critical assets       | incumbo in communi discrimine bona         |
 | concentrate on common critical systems      | incumbo in communi discrimine ratio        |
-| [understand every tradeoff]understand every compromise                 | intelligere omnis compromissum |
+| [understand every tradeoff]understand every compromise                 | intelligere omnis compromissum|
 | instrument sensitive transactions           | instrumentum sensitiva rebus               |
 | resist persistence                          | resistere perseverantia                    |
 
