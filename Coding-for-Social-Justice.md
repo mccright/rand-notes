@@ -11,8 +11,12 @@ More of that power needs to:
 DRAFT...
 
 ### Some Activity  
-* "Coding is Political" -- [https://ehmatthes.github.io/pcc_2e/](https://ehmatthes.github.io/pcc_2e/)  
-* "Coding for Social Justice" -- [https://ehmatthes.github.io/pcc_2e/challenges/coding_for_social_justice/](https://ehmatthes.github.io/pcc_2e/challenges/coding_for_social_justice/)  
+- Code for Social Good: [https://app.code4socialgood.org/](https://app.code4socialgood.org/)  
+- *[possibly](https://www.codeforamerica.org/diversity), I need to do more research* Code for America: [https://www.codeforamerica.org/](https://www.codeforamerica.org/)  
+* "Coding is Political" by Eric Matthes -- [https://ehmatthes.github.io/pcc_2e/](https://ehmatthes.github.io/pcc_2e/)  
+* "Coding for Social Justice" by Eric Matthes -- [https://ehmatthes.github.io/pcc_2e/challenges/coding_for_social_justice/](https://ehmatthes.github.io/pcc_2e/challenges/coding_for_social_justice/)  
+* "Coding and Social Justice." by Sanam Malik [https://medium.com/@sanam.malik04/coding-and-social-justice-6d9b7145383a](https://medium.com/@sanam.malik04/coding-and-social-justice-6d9b7145383a)  
+Sanam Malik
 
 * "Apprentices needed for an Anticolonial Educational Video Game" -- [https://urapprojects.berkeley.edu/projects/detail.php?id_list=Edu0804](https://urapprojects.berkeley.edu/projects/detail.php?id_list=Edu0804)  
 
