@@ -1,0 +1,18 @@
+## Coding for Social Justice  
+
+I just read a short essay by Eric Matthes "[Coding is Political](https://ehmatthes.github.io/pcc_2e/)" and its companion piece "[Coding for Social Justice](https://ehmatthes.github.io/pcc_2e/challenges/coding_for_social_justice/)."  What a good idea.  
+
+So much of what happens today is in one way or another, mediated by code.  Real people, heartbeats, write code, or write code that writes code.  The resulting features and functionality are an expression of values and priorities.  People designing and writing code have power and can exercise that power.  
+
+More of that power needs to:
+1. Employ code to mine and explore data for indicators of inequities, privilege, and power as it pertains individual and collective -- human -- rights.  This work is needed to identify, quantify and characterize, provide context to any given injustice.  
+2. Prioritize bending existing systems toward increasing social justice and to decreasing investments in features that are antithetical to social justice.  Resist contributing to injustice where you can.  
+
+DRAFT...
+
+### Some Activity  
+* "Coding is Political" -- [https://ehmatthes.github.io/pcc_2e/](https://ehmatthes.github.io/pcc_2e/)  
+* "Coding for Social Justice" -- [https://ehmatthes.github.io/pcc_2e/challenges/coding_for_social_justice/](https://ehmatthes.github.io/pcc_2e/challenges/coding_for_social_justice/)  
+
+* "Apprentices needed for an Anticolonial Educational Video Game" -- [https://urapprojects.berkeley.edu/projects/detail.php?id_list=Edu0804](https://urapprojects.berkeley.edu/projects/detail.php?id_list=Edu0804)  
+
