@@ -5,12 +5,12 @@ One common use case is to quickly set up a web server to host your app at variou
 ### Gunicorn [https://gunicorn.org/](https://gunicorn.org/)  
 ---
 
-Gunicorn 'Green Unicorn' is a Python [WSGI HTTP Server](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface) for UNIX.  
+Gunicorn is a Python [WSGI HTTP Server](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface) for UNIX.  
 
 Install using pip  
 
 ```bash  
-$ pip install gunicorn  
+$ pip3 install gunicorn  
 ```
 
 Start the app using gunicorn:    
@@ -29,7 +29,7 @@ Waitress (think *Gunicorn for Windows*), a production-quality pure-Python WSGI s
 Install using pip  
 
 ```bash  
-$ pip install waitress  
+$ pip3 install waitress  
 ```
 Start the app using [waitress-serve](https://docs.pylonsproject.org/projects/waitress/en/stable/runner.html)  
 
@@ -49,11 +49,11 @@ Install using pip
 
 *Install the latest stable release:*   
 ```bash
-$ pip install uwsgi   
+$ pip3 install uwsgi   
 ```
 *Or install the latest LTS (long term support) release:*   
 ```
-pip install https://projects.unbit.it/downloads/uwsgi-lts.tar.gz  
+pip3 install https://projects.unbit.it/downloads/uwsgi-lts.tar.gz  
 ```
 [Start uWSGI to run an HTTP server/router passing requests to your Flask application](https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html#deploying-flask):  
 
