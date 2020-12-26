@@ -7,7 +7,7 @@ One common use case is to quickly set up a web server to host your app at variou
 
 Gunicorn 'Green Unicorn' is a Python [WSGI HTTP Server](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface) for UNIX.  
 
-> Install using pip  
+Install using pip  
 
 ```bash  
 $ pip install gunicorn  
@@ -26,12 +26,12 @@ Point your browser at `http://localhost:8001`.
 
 Waitress (think *Gunicorn for Windows*), a production-quality pure-Python WSGI server.  It has no dependencies outside the Python standard library.  
 
-> Install using pip  
+Install using pip  
 
 ```bash  
 $ pip install waitress  
 ```
-> Start the app using [waitress-serve](https://docs.pylonsproject.org/projects/waitress/en/stable/runner.html)  
+Start the app using [waitress-serve](https://docs.pylonsproject.org/projects/waitress/en/stable/runner.html)  
 
 ```bash  
 $ waitress-serve --port=8001 run:app    
@@ -45,7 +45,7 @@ Point your browser at `http://localhost:8001`.
 
 uWSGI, performant [WSGI server](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface) implementation for UNIX.  
 
-> Install using pip  
+Install using pip  
 
 *Install the latest stable release:*   
 ```bash
@@ -55,7 +55,7 @@ $ pip install uwsgi
 ```
 pip install https://projects.unbit.it/downloads/uwsgi-lts.tar.gz  
 ```
-> [Start uWSGI to run an HTTP server/router passing requests to your Flask application](https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html#deploying-flask):  
+[Start uWSGI to run an HTTP server/router passing requests to your Flask application](https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html#deploying-flask):  
 
 ```bash  
 uwsgi --http 127.0.0.1:8001 --wsgi-file myflaskapp.py --callable app  
