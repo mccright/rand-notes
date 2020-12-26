@@ -1,7 +1,7 @@
 ## Simple python http server options for development [EARLY DRAFT].  
 *Again, this is mostly a reminder for my own work.*  
 One common use case is to quickly set up a web server to host your app at various stages of development.  
-
+¬
 ### Gunicorn [https://gunicorn.org/](https://gunicorn.org/)  
 ---
 
@@ -20,8 +20,7 @@ $ gunicorn --bind 0.0.0.0:8001 run:app
 
 Point your browser at `http://localhost:8001`.  
   
-  
-
+¬
 ### Waitress [https://docs.pylonsproject.org/projects/waitress/en/stable/](https://docs.pylonsproject.org/projects/waitress/en/stable/)  
 ---
 
@@ -40,8 +39,7 @@ $ waitress-serve --port=8001 run:app
 
 Point your browser at `http://localhost:8001`.  
   
-  
-
+¬
 ### uWSGI [http://uwsgi-docs.readthedocs.org/en/latest/](http://uwsgi-docs.readthedocs.org/en/latest/)  
 ---
 
