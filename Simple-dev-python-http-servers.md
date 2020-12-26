@@ -20,7 +20,7 @@ $ gunicorn --bind 0.0.0.0:8001 run:app
 
 Point your browser at `http://localhost:8001`.  
   
-
+  
 
 ### Waitress [https://docs.pylonsproject.org/projects/waitress/en/stable/](https://docs.pylonsproject.org/projects/waitress/en/stable/)  
 ---
@@ -35,13 +35,12 @@ $ pip install waitress
 > Start the app using [waitress-serve](https://docs.pylonsproject.org/projects/waitress/en/stable/runner.html)  
 
 ```bash  
-$ waitress-serve --port=8001 run:app  
-Serving on http://localhost:8001  
+$ waitress-serve --port=8001 run:app    
 ```
 
 Point your browser at `http://localhost:8001`.  
   
-
+  
 
 ### uWSGI [http://uwsgi-docs.readthedocs.org/en/latest/](http://uwsgi-docs.readthedocs.org/en/latest/)  
 ---
