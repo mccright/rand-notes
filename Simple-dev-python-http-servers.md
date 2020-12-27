@@ -70,4 +70,6 @@ Point your browser at `http://localhost:8001`.
 uWSGI has lots of startup options to enhance performance and production readiness.  See:  
 * The WSGI [QuickStart](https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html) for some of them: [https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html](https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html)  
 * Another primer: [https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04)  
-
+  
+   
+The examples above assume Flask, but there are options: [https://rapidapi.com/blog/best-python-api-frameworks/](https://rapidapi.com/blog/best-python-api-frameworks/)  
