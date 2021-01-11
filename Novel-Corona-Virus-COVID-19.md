@@ -32,7 +32,7 @@ What you can do?
 ***...as an individual***  
 FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10)  
 * Practice strict social distancing, especially if you are in a vulnerable group.  Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.  
-* Wear a cloth mask as an integral part of your social distancing efforts (donate your N95s).  
+* Wear a cloth mask as an integral part of your social distancing efforts (donate your N95s). (see "Masks Help" section below)  
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
 * Communicate your feelings about the pace of getting vaccines into people's arms to your local, state, and national leaders.  
@@ -48,7 +48,7 @@ Here are four risk management concepts to help focus our harm-reduction strategi
 * *Cumulative risk*. Your risk of acquiring COVID-19 is additive for every person you come into close contact with.  
   * Many people must return to work, but they can still reduce their risk overall by not having social gatherings inside or outside of work. Choose the activities most important to you.  
 * *Collective risk*.  Individual actions are crucial, but they do not replace the need for sound public policy.  The higher the rate of COVID-19 in a community, the more likely any one individual you come into contact with has the virus and the riskier your interactions become.  
-  * This is why mask-wearing is important: If most people wear a mask [*covering both mouth and nose*], it reduces the amount of virus that we will transmit and may also help protect the wearer from contracting the disease.  
+  * This is why mask-wearing is important: If most people wear a mask [*covering both mouth and nose*], it reduces the amount of virus that we will transmit and may also help protect the wearer from contracting the disease. (see "Masks Help" section below)  
   * Employers must have science-supported assessment and surveillance systems in place to detect if and when infections rise and be willing to discontinue work-at-the-office experiments, or further diffuse (increase individual isolation) the existing on-site workforce.  This is a challenge because a critical mass of hard science reports that at least 35 percent of infected people have no symptoms at all.  
 
 
@@ -56,7 +56,7 @@ Here are four risk management concepts to help focus our harm-reduction strategi
 * Focus on rapidly increasing the pace of getting vaccines into people's arms.  The health and welfare of your constituents, their businesses and the broader economy depend upon dramatically increasing the rate of vaccine delivery.  
 * Create and publicize a realistic strategy and accompanying plan for how vaccination will scale up to required delivery rates.  Incorporate into that plan the means to learn what works and where challenges exist, and then immediately course-correct.  Set up a real-time public dashboard to track vaccine distribution to help hold the right officials accountable and to assist directing the right resources where they are needed (paraphrasing [a plea by Leana S. Wen](https://www.washingtonpost.com/opinions/2020/12/29/covid-19-vaccine-distribution-slow-testing/).  
 * Make testing free and broadly available, and support efforts to increase testing accuracy. [*You can do this.  The combination of testing and contact tracing is less expensive than hospitalizations.*  Testing only individuals in a small, ill-defined subset of your communities will not help leaders make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*.  Engaging in evasive *word games* about the nature and extent of testing, or denying facts about the scope and effectiveness of your testing efforts are counterproductive behaviors.  Factor in the fact that (*at this time*) a critical mass of hard science reports that at least 35% of infected individuals show no symptoms.]  
-* Put strong social distancing measures in place and stress that wearing cloth masks [*covering both mouth and nose*] are an integral part of your social distancing efforts.  Model safe behaviors at all times and require the same of all those working in your organization.  Keep these measures in place until medical science supports a change in strategy.  
+* Put strong social distancing measures in place and stress that wearing cloth masks [*covering both mouth and nose*] are an integral part of your social distancing efforts.  Model safe behaviors at all times and require the same of all those working in your organization.  Keep these measures in place until medical science supports a change in strategy. (see "Masks Help" section below)  
 * Fund and implement extensive contact tracing efforts. [*Without this, leaders cannot make informed-enough decisions about 'what next' and may result in decisions that negatively impact population health and mortality*.  *Testing and contact tracing is less expensive and more humane than hospitalizations.*]  
 * Fund & then implement the purchase and formal coordination of PPE distribution to minimize waste and contention for limited resources.  
 * Financially support those impacted by social distancing measures.  
@@ -77,6 +77,15 @@ Here are four risk management concepts to help focus our harm-reduction strategi
 * Focus on rapidly increasing the pace of getting vaccines into people's arms.  The health and welfare of your constituents, their businesses and the broader economy depend upon dramatically increasing the rate of vaccine delivery.  
 
 ----------------------------------------------------------  
+
+**Masks Help**  
+"*Face masks: what the data say.*" By Lynne Peeples  
+(The science supports that face coverings are saving lives during the coronavirus pandemic, and yet the debate trundles on. How much evidence is enough?) [https://www.nature.com/articles/d41586-020-02801-8](https://www.nature.com/articles/d41586-020-02801-8)  
+Quotes and supporting references:  
+"A preprint study posted in early August (and not yet peer reviewed), found that weekly increases in per-capita mortality were four times lower in places where masks were the norm or recommended by the government, compared with other regions." See: Leffler, C. T. et al. Preprint at medRxiv [https://doi.org/10.1101/2020.05.22.20109231](https://doi.org/10.1101/2020.05.22.20109231) (2020).  
+"Another study looked at the effects of US state-government mandates for mask use in April and May. Researchers estimated that those reduced the growth of COVID-19 cases by up to 2 percentage points per day. They cautiously suggest that mandates might have averted as many as 450,000 cases, after controlling for other mitigation measures, such as physical distancing."  Lyu, W. & Wehby, G. L. Health Aff. [https://doi.org/10.1377/hlthaff.2020.00818](https://doi.org/10.1377/hlthaff.2020.00818) (2020) and at: [http://scholar.google.com/scholar?q=10.1377%2Fhlthaff.2020.00818](http://scholar.google.com/scholar?q=10.1377%2Fhlthaff.2020.00818)  
+"Gandhi co-authored a paper8 published in late July suggesting that masking reduces the dose of virus a wearer might receive, resulting in infections that are milder or even asymptomatic. A larger viral dose results in a more aggressive inflammatory response, she suggests."  Gandhi, M., Beyrer, C. & Goosby, E. J. Gen. Intern. Med. [https://doi.org/10.1007/s11606-020-06067-8](https://doi.org/10.1007/s11606-020-06067-8) (2020) and at [http://scholar.google.com/scholar?q=10.1007%2Fs11606-020-06067-8](http://scholar.google.com/scholar?q=10.1007%2Fs11606-020-06067-8)  
+
 
 ***Projects associated with Novel Corona Virus - COVID-19***  
 
