@@ -86,6 +86,9 @@ Quotes and supporting references:
 "Another study looked at the effects of US state-government mandates for mask use in April and May. Researchers estimated that those reduced the growth of COVID-19 cases by up to 2 percentage points per day. They cautiously suggest that mandates might have averted as many as 450,000 cases, after controlling for other mitigation measures, such as physical distancing."  Lyu, W. & Wehby, G. L. Health Aff. [https://doi.org/10.1377/hlthaff.2020.00818](https://doi.org/10.1377/hlthaff.2020.00818) (2020) and at: [http://scholar.google.com/scholar?q=10.1377%2Fhlthaff.2020.00818](http://scholar.google.com/scholar?q=10.1377%2Fhlthaff.2020.00818)  
 "Gandhi co-authored a paper published in late July suggesting that masking reduces the dose of virus a wearer might receive, resulting in infections that are milder or even asymptomatic. A larger viral dose results in a more aggressive inflammatory response, she suggests."  Gandhi, M., Beyrer, C. & Goosby, E. J. Gen. Intern. Med. [https://doi.org/10.1007/s11606-020-06067-8](https://doi.org/10.1007/s11606-020-06067-8) (2020) and at [http://scholar.google.com/scholar?q=10.1007%2Fs11606-020-06067-8](http://scholar.google.com/scholar?q=10.1007%2Fs11606-020-06067-8)  
 
+**COVID-19 Fatality Rate**  
+COVID-19 is far more lethal than seasonal flu. About [1.7% of *diagnosed* coronavirus cases are lethal](https://coronavirus.jhu.edu/data/mortality), compared with 0.1% of diagnosed flu cases.  Scientists argue that the number of people infected is far higher than the number who receive an official diagnoses which results in a lower death rates.  In that context, the CDC estimates that the U.S. COVID-19 death rate is around 0.65% -- compared to flu’s 0.05% or 0.025% fatality rate.  Because of our high rates of infection, that 0.65% fatality rate has produced almost 400,000 deaths (2021 Jan 16) in the U.S. alone.  
+
 
 ***Projects associated with Novel Corona Virus - COVID-19***  
 
