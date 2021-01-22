@@ -12,11 +12,11 @@ $env:HTTPS_PROXY = "http(s)://{username}:{password}@proxyName.domainName.com"
 It is important to encode *special* characters in your username and/or password.  For example:  
 
 ```   
-@   is  %40  
-:   is  %3A  
 !   is  %21  
 #   is  %23  
 $   is  %24  
 (   is  %28  
 )   is  %29  
+@   is  %40  
+:   is  %3A  
 ```  
