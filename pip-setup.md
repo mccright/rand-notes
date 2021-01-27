@@ -28,7 +28,7 @@ Copy a useful CA certificate bundle into the `%USER%\.certificates` directory
 
 
 # On Linux:  
-Add the following to your `/etc/pip.conf` file:
+Add the following to your `$HOME/.config/pip/pip.conf` file:
 ```ini
 [global]
 PIP_CERT = /home/<userName>/.certificates/<aUsableCAbundle.crt>
@@ -92,7 +92,7 @@ trusted-host = pypi.python.org
 ```  
 
 # On Linux:  
-(`/etc/pip.conf`)  
+(`$HOME/.config/pip/pip.conf`)  
 ```ini
 [global]
 trusted-host = pypi.python.org
