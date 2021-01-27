@@ -71,3 +71,7 @@ echo -e "\e[101mThis is Light Red background\e[0m"
 
 ```
 
+## References  
+If this resonates with you, there are some useful resources to build on this idea:  
+* Wikipedia: [https://en.wikipedia.org/wiki/ANSI_escape_code](https://en.wikipedia.org/wiki/ANSI_escape_code)  
+* Colorpedia: [https://github.com/joowani/colorpedia/](https://github.com/joowani/colorpedia/)
