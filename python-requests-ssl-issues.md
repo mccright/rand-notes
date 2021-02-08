@@ -28,7 +28,7 @@ If that does not do it, try this....
 
 If none of that helps, as a last resort - and only in the context of environments that you understand and trust -- turn off the SSL warnings.
 
-```
+```python
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 import urllib3 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
