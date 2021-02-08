@@ -24,7 +24,19 @@ C:\Python<version>\Lib\site-packages\certifi\
 
 Then try executing your code again...  
 
-If that does not do it, then explicitly set your proxy.  
+If that does not do it, try this....
+
+If none of that helps, as a last resort - and only in the context of environments that you understand and trust -- turn off the SSL warnings.
+
+```
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
+import urllib3 
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
+
+```
+
+If that does not do it, could it be that you have a proxy-related problem?  Try explicitly setting your proxy.  
 
 # Method 1:  
 Add a pair of proxy environment variables.  If your environment requires authentication, try:  
