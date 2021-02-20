@@ -6,11 +6,13 @@ It is often accessed by pressing a key while powering on the PC.
 
 #### Here are some Vendor / Key combinations:  
 * HP == F9  
-* Dell & Lenovo == F12  
+* Acer, Dell & Lenovo == F12  
 * AmiBIOS == F8  
 * Award BIOS == F11  
-* Macs == Press C while powering on.  
+* Toshiba == F12 or F2  
+* Macs == Press C or Option (next to the ⌘ key) while powering on.  
+* Others ==	Try pressing Esc, F1-12, or Enter during bootup. 
 
 On newer PCs, you may often be able to configure the BIOS/UEFI to force a new boot order.  
-Try the Delete key, and if that does not work, try F1 or F2.  
+If nothing above is working, try the Delete key, and if that does not work, try F1 or F2 again.  
 Modern Windows also has an option where you hold the Shift key down while selecting the Restart option.  
