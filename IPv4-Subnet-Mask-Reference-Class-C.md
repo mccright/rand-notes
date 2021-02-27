@@ -1,4 +1,4 @@
-**IPv4 Subnet Mask Reference - Class C**  
+## IPv4 Subnet Mask Reference - Class C  
 
 |   |Addresses|    Netmask      |%ClsC|%ClsB|%ClsA|
 |---|---------|-----------------|-----|-----|-----|
@@ -28,6 +28,16 @@
 |/8	| 16777216|255.0.0.0				|65536|256  |1    |
 
 
-*Class C*: 192.168.0.0 - 192.168.255.255 (65,536 IP addresses)  
-*Class B*: 172.16.0.0 - 172.31.255.255 (1,048,576 IP addresses)  
-*Class A*: 10.0.0.0 - 10.255.255.255 (16,777,216 IP addresses)  
+## IP Address Classes  
+*Class C*: 192.168.0.0 - 192.168.255.255  
+  * 65,536 IP addresses  
+  * 2,097,152 networks with 254 usable hosts per network  
+  * default subnet mask 255.255.255.0  
+*Class B*: 172.16.0.0 - 172.31.255.255  
+  * 1,048,576 IP addresses  
+  * 16,384 networks with 65,534 usable hosts per network  
+  * default subnet mask 255.255.0.0  
+*Class A*: 10.0.0.0 - 10.255.255.255  
+  * 16,777,216 IP addresses  
+  * 128 networks with 16,777,214 usable hosts per network  
+  * default subnet mask 255.0.0.0  
