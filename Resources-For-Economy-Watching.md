@@ -5,6 +5,7 @@
 * Unemployment rate: [https://fred.stlouisfed.org/series/UNRATE](https://fred.stlouisfed.org/series/UNRATE)  
 * Non-farm employment (Total Nonfarm Payrolls): [https://fred.stlouisfed.org/graph/?g=nDcG](https://fred.stlouisfed.org/graph/?g=nDcG)  
 * Non-farm payroll: [https://www.bls.gov/news.release/empsit.nr0.htm](https://www.bls.gov/news.release/empsit.nr0.htm)  
+* Other Databases, Tables & Calculators by Subject from the U.S. Bureau of Labor Statistics [https://www.bls.gov/data/](https://www.bls.gov/data/)  
 * Challenger layoff survey: [https://tradingeconomics.com/united-states/challenger-job-cuts](https://tradingeconomics.com/united-states/challenger-job-cuts)  
 * Consumer Spending: [https://www.bea.gov/data/consumer-spending/main](https://www.bea.gov/data/consumer-spending/main)  
 * Retail Sales: [https://www.census.gov/retail/index.html](https://www.census.gov/retail/index.html)  
