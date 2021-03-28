@@ -1,6 +1,56 @@
 pip-setup-notes  
 ===============  
 
+## Maybe pip is not the answer  
+I have been using Ubuntu & Lubuntu 20.04 for a while now and just can't stand how slow pip is -- and how it agressively attempts to get me to use the keyring when for my development context it is not needed.  This odd feature is better described as an issue:  
+
+[pip issue 8719](https://github.com/pypa/pip/issues/8719): "Keyring support is enabled silently when the keyring module is installed in the user's system. There's no way for the user to say whether or not they want keyring support, or to turn it off when it causes an issue. The pip tests don't test the behaviour of the keyring module (just the integration) and there have been a number of issues reported which are down to keyring behaviour: [#8634](https://github.com/pypa/pip/issues/8634), [#8485](https://github.com/pypa/pip/issues/8485), [#8443](https://github.com/pypa/pip/issues/8443), [#8090](https://github.com/pypa/pip/issues/8090)." Thank you [Paul Moore](https://github.com/pfmoore/).  
+While I don't have any hard data, it seems reasonable to assume that, globally, this [issue](https://github.com/pypa/pip/issues/8719) has wasted a fantastic amount of developer's time and ought to be a higher priority.  
+
+In practice this feature/issue generates user prompts and results in Warnings for a behavior that unnecessary for a big chunk of humanity, here is an example from my home PC, moments ago:
+```term
+matt@silt:~/testProj$ python3 --version
+Python 3.8.5
+matt@silt:~/testProj$ python3 -m pip install --upgrade pip
+WARNING: Keyring is skipped due to an exception: Failed to unlock the keyring!
+WARNING: Keyring is skipped due to an exception: Failed to unlock the keyring!
+WARNING: Keyring is skipped due to an exception: Failed to open keyring: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken..
+WARNING: Keyring is skipped due to an exception: Failed to unlock the keyring!
+Collecting pip
+  WARNING: Keyring is skipped due to an exception: Failed to unlock the keyring!
+  Using cached pip-21.0.1-py3-none-any.whl (1.5 MB)
+Installing collected packages: pip
+Successfully installed pip-21.0.1
+matt@silt:~/testProj$ ^C
+````
+In a pinch, exporting `PYTHON_KEYRING_BACKEND=keyring.backends.null.Keyring` will stop the prompting, which can help in a headless, or Docker context.  
+
+As for the 'speed:'  
+```term
+matt@silt:~/testProj$ time sudo python3 -m pip install --upgrade pip
+Requirement already satisfied: pip in /usr/local/lib/python3.8/dist-packages (21.0.1)
+
+real    1m21.422s
+user    0m0.916s
+sys     0m0.077s
+matt@silt:~/testProj$ time python3 -m pip install --upgrade pip
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pip in /home/mattm/.local/lib/python3.8/site-packages (21.0.1)
+
+real    1m1.034s
+user    0m0.777s
+sys     0m0.059s
+matt@silt:~/testProj$
+```
+
+Other references:  
+* "Every single command from pip runs super slow #8485" [https://github.com/pypa/pip/issues/8485](https://github.com/pypa/pip/issues/8485)  
+* "Pip install block waiting forever for a keyring to unlock #7883" [https://github.com/pypa/pip/issues/7883](https://github.com/pypa/pip/issues/7883)  
+* "Keyring support should require an --enable-keyring flag #8719" [https://github.com/pypa/pip/issues/8719](https://github.com/pypa/pip/issues/8719)  
+
+
+# In some contexts you will have to use pip, in that case:  
+
 ## Sometimes pip complains behind a proxy  
 
 This will require that you configure access through that proxy.
