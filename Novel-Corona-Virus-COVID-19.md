@@ -31,10 +31,10 @@ What you can do?
 ================
 ***...as an individual***  
 FROM: [https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=10)  
-* Practice strict social distancing, especially if you are in a vulnerable group.  Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.  
+* Practice strict social distancing, especially if you are in a vulnerable group.  Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.  Resist the urge to give in to your urge to travel/shop/eat out/etc.  
 * Wear a cloth mask as an integral part of your social distancing efforts (donate your N95s). (see "Masks Help" section below)  
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
+* Stay home as much as possible -- especially if you are sick; be prepared with extra supplies in case you need to self-quarantine. Avoid all nonessential travel.  
 * Communicate your feelings about the pace of getting vaccines into people's arms to your local, state, and national leaders.  
 * Get vaccinated as soon as a vaccine is available to you.  
 * If you are an employer, remember that at least 35 percent of infected people have no symptoms at all, so they will not be caught by your assessment or surveillance efforts (and in some workplaces the percentage of symptom-free infected in a given employer's workforce have been more than twice that level) and they could unknowingly infect other people.  Encourage your employees to work from home wherever possible, and encourage & support healthy lifestyles.  Encourage your governmental leaders to prioritize getting vaccines into people's arms sooner.  
