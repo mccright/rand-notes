@@ -9,7 +9,7 @@ graph TD;
   Node1-->Node2;
   Root-->Node2;
   Node2-->Node3;
-  ```
+```
   
   This is below the Mermaid block.
   
