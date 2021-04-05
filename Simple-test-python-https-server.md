@@ -67,3 +67,7 @@ x64: ```vc_redist.x64.exe``` [https://aka.ms/vs/16/release/vc_redist.x64.exe](ht
 I put a copy in:  
 ```\\server\openssl\openssl-1.1``` so you just need to add the following to your ```%PATH%```:  
 ```<DriveLetter>:\openssl\openssl-1.1\x64\bin```
+
+### If you can't get openssl going...
+There is always *http.server* and *http.server.SimpleHTTPRequestHandler* available for easy (albeit less safe) file sharing.  See: [https://www.afternerd.com/blog/python-http-server/](https://www.afternerd.com/blog/python-http-server/)  
+
