@@ -2,6 +2,15 @@
 *Again, this is mostly a reminder for my own work.*  
 One common use case is to quickly set up a web server to host your app at various stages of development.  
  
+### Python 3 [*in a pinch*]
+---
+
+This is only a low-functioning, generally insecure server option...
+```bash
+python -m http.server 8080 --bind 127.0.0.1
+```
+
+
 ### Gunicorn [https://gunicorn.org/](https://gunicorn.org/)  
 ---
 
