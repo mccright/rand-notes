@@ -3,7 +3,7 @@
 I need a new cable modem at home  
 
 Vendor | Model | DOCSIS Version | Dl Speed | Notes | Link
--------|-------|----------------|------------------|------
+-------|-------|----------------|----------|-------|------
 ARRIS Group,Inc. | CM8200 | 3.1 | 945mbps+ | $124.95 renewed (Mar 2020) | [amazon](https://www.amazon.com/Touchstone-CM8200A-DOCSIS-Gigabit-Renewed/dp/B086HWY4Q9/)
 ARRIS Group,Inc. | SB8200 | 3.1 | 945mbps+ | $149 ARRIS SURFboard (Jan 2017) | [amazon](https://www.amazon.com/ARRIS-SURFboard-Approved-SB8200-Frustration/dp/B07DY16W2Z/)
 Motorola | MB8600 | 3.1 | 945mbps+ | 149.99 (May 2017) | [amazon](https://www.amazon.com/MOTOROLA-Approved-Comcast-Gigablast-MB8600/dp/B0723599RQ/)
