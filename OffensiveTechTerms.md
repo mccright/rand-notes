@@ -16,6 +16,8 @@ Validation|blacklist|denylist|
 
 When we use metaphors, we use terms regarded as representative or symbolic of the real target of our attention.  We expect that the reader/listener will understand the literal meaning of our term and then be able to map that understanding to the present context.  If we use hurtful or exclusionary terms as metaphors we devalue those harmed populations.  This equation is not required.  We are not prisoners of inertia.  Language matters.  Carefully, sensitively, reviewing our use of metaphor seems like a prudent practice in business -- where successful collaboration and marketing demand positive relationships and where brand & image are foundational.  It seems like the-right-thing-to-do in the rest of our lives as well.  
 
+We cannot, though, depend on businesses to just do-the-right-thing.  In most business contexts, this will require policies, incentives, and leadership.  It seems practical for businesses to create actionable policy regarding problematic language (*some already have a start in place*).  For most, this will not be easy.  But it will not advance until it starts.  And even then it will require an ongoing process, not just a static publication.  
+
 
 #### QUOTES:  
 Kate Conger (2021-04-13) Some of their databases were called “masters” and were surrounded by “slaves,” which received information from the masters and answered queries on their behalf, preventing them from being overwhelmed. Others used “whitelists” and “blacklists” to filter content.  
