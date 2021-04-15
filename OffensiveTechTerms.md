@@ -4,7 +4,7 @@ Notes on this topic.  I don't know where the content of this file will go.
 
 In the summer of 2020, after officer Derek Chauvin invested nine minutes and 29 seconds killing George Floyd in public and on camera, social unrest helped some to empathize with [those experiencing a long legacy of violence](https://sayevery.name/) and countless other injustices at the hands of police and racist terrorists.  For too long this occurred in the context of widespread apathy across United States and beyond.  That new thread of empathy is expressed across many facets of society, including tech in all its forms.  
 
-There are a number of computer engineering terms that evoke racist history, like "master" and "slave" and "whitelist" and "blacklist."  There are alternatives -- see the excellent [RFC Draft by Mallory Knodel and Niels ten Oever](https://datatracker.ietf.org/doc/draft-knodel-terminology/?include_text=1) -- for example:  
+There are a number of computer engineering terms that evoke racist history, like "master" and "slave" and "whitelist" and "blacklist."  There are alternatives -- see the excellent [RFC Draft by Mallory Knodel and Niels ten Oever](https://datatracker.ietf.org/doc/draft-knodel-terminology/?include_text=1) on this topic.  A few examples for illustration:  
 
 Area                 | Legacy | Suggestion(s) |
 --------------------:|:------:|:--------------|
