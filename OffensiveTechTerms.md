@@ -1,4 +1,4 @@
-## What to do about common terms that have racist connotations  
+## What to do about common technology terms that have racist connotations  
 
 Notes on this topic.  I don't know where the content of this file will go.  
 
