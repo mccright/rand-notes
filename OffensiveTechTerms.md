@@ -30,6 +30,7 @@ Kate Conger (2021-04-13) Some of their databases were called “masters” and w
 * "Terminology, Power, and Inclusive Language in Internet-Drafts and RFCs" by Mallory Knodel and Niels ten Oever [https://datatracker.ietf.org/doc/draft-knodel-terminology/?include_text=1](https://datatracker.ietf.org/doc/draft-knodel-terminology/?include_text=1)  
   * It might be instructive for some to understand more about how conflict-rich this topic can be.  One resource is the email thread that followed the original submission of the [KnodelOever] proposal above [https://mailarchive.ietf.org/arch/msg/gendispatch/zsIVefDQLzKQ2WF4KuKyPm1_mFI/](https://mailarchive.ietf.org/arch/msg/gendispatch/zsIVefDQLzKQ2WF4KuKyPm1_mFI/)  
 * IESG Statement On Oppressive or Exclusionary Language [https://www.ietf.org/about/groups/iesg/statements/statement-on-oppressive-exclusionary-language/](https://www.ietf.org/about/groups/iesg/statements/statement-on-oppressive-exclusionary-language/)  
+* "Word replacement list" from inclusivenaming.org [https://inclusivenaming.org/language/word-list/](https://inclusivenaming.org/language/word-list/)  
 * "Renaming the default branch from master" [https://github.com/github/renaming](https://github.com/github/renaming)  
 * "Regarding Git and Branch Naming" [https://sfconservancy.org/news/2020/jun/23/gitbranchname/](https://sfconservancy.org/news/2020/jun/23/gitbranchname/)  
 * Say Their Names [https://sayevery.name/](https://sayevery.name/) and [take action](https://sayevery.name/take-action)  
