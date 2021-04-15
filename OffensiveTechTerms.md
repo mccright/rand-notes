@@ -6,6 +6,12 @@ In the summer of 2020, after officer Derek Chauvin invested nine minutes and 29 
 
 There are a number of computer engineering terms that evoke racist history, like "master" and "slave" and "whitelist" and "blacklist."  
 
+Source code control: 'master' --> 'main'
+Database: 'master' --> 'source' or 'primary'
+          'slave' --> 'replica'
+Validation: 'whitelist' -->	'allowlist'
+          'blacklist'	'denylist'
+
 #### QUOTES:  
 Kate Conger (2021-04-13) Some of their databases were called “masters” and were surrounded by “slaves,” which received information from the masters and answered queries on their behalf, preventing them from being overwhelmed. Others used “whitelists” and “blacklists” to filter content.  
 
@@ -13,6 +19,8 @@ Kate Conger (2021-04-13) Some of their databases were called “masters” and w
 #### REFERENCES  
 
 * "‘Master,’ ‘Slave’ and the Fight Over Offensive Terms in Computing." By Kate Conger, 2021-04-13. [https://www.nytimes.com/2021/04/13/technology/racist-computer-engineering-terms-ietf.html](https://www.nytimes.com/2021/04/13/technology/racist-computer-engineering-terms-ietf.html)  
+* W3C on Inclusive Terminology [https://w3c.github.io/manual-of-style/#inclusive](https://w3c.github.io/manual-of-style/#inclusive)  
+* IESG Statement On Oppressive or Exclusionary Language [https://www.ietf.org/about/groups/iesg/statements/statement-on-oppressive-exclusionary-language/](https://www.ietf.org/about/groups/iesg/statements/statement-on-oppressive-exclusionary-language/)  
 * "Renaming the default branch from master" [https://github.com/github/renaming](https://github.com/github/renaming)  
 * "Regarding Git and Branch Naming" [https://sfconservancy.org/news/2020/jun/23/gitbranchname/](https://sfconservancy.org/news/2020/jun/23/gitbranchname/)  
 * Say Their Names [https://sayevery.name/](https://sayevery.name/) and [take action](https://sayevery.name/take-action)  
