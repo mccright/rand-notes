@@ -6,11 +6,11 @@ In the summer of 2020, after officer Derek Chauvin invested nine minutes and 29 
 
 There are a number of computer engineering terms that evoke racist history, like "master" and "slave" and "whitelist" and "blacklist."  
 
-Source code control: 'master' --> 'main'
-Database: 'master' --> 'source' or 'primary'
-          'slave' --> 'replica'
-Validation: 'whitelist' -->	'allowlist'
-          'blacklist'	'denylist'
+Source code control: 'master' --> 'main'  
+Database: 'master' --> 'source' or 'primary'  
+          'slave' --> 'replica'  
+Validation: 'whitelist' --> 'allowlist'  
+          'blacklist' --> 'denylist'  
 
 #### QUOTES:  
 Kate Conger (2021-04-13) Some of their databases were called “masters” and were surrounded by “slaves,” which received information from the masters and answered queries on their behalf, preventing them from being overwhelmed. Others used “whitelists” and “blacklists” to filter content.  
