@@ -4,7 +4,7 @@ There is no cloud, only other people's computers.
 For years, the Free Software Foundation has been asking people "who controls the technology you use?" and "who controls the technology that controls your data?"  
 It seems critically important for all of us to keep the answers to these two questions in mind when engineering applications, data storage, and supporting infrastructure.  
 These "no cloud" graphics have been part of their communications program on this topic.  
-See their campaign page at: [https://fsfe.org/activities/nocloud/](https://fsfe.org/activities/nocloud/) and support their work.  
+See their campaign page at: [https://fsfe.org/activities/nocloud/](https://fsfe.org/activities/nocloud/) and support their work.  The no-cloud component of that work is available at: [https://fsfe.org/contribute/spreadtheword#nocloud](https://fsfe.org/contribute/spreadtheword#nocloud).    
 
 ## There is no cloud:  
 !['There is no cloud' from fsfe.org:](https://github.com/mccright/rand-notes/blob/master/images/ThereIsNoCloud-sticker-fsfe.org.jpg "There is no cloud")  
