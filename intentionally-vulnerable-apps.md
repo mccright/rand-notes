@@ -30,6 +30,8 @@
 * HellBound Hackers [https://www.hellboundhackers.org/](https://www.hellboundhackers.org/) (Browser-interface to a collection of •Challenges• [see the left-nav], requires creating an ID using a valid email address.  The hacking challenges range in difficulty from trivial to difficult, with little help.)  
 * Mutillidae - [http://www.irongeek.com/i.php?page=security/mutillidae-deliberately-vulnerable-php-owasp-top-10](http://www.irongeek.com/i.php?page=security/mutillidae-deliberately-vulnerable-php-owasp-top-10) (PHP-based, incl. full access to source code)  
 * Damn Vulnerable Web App (DVWA) - [http://www.dvwa.co.uk/](http://www.dvwa.co.uk/) (PHP, MySQL; incl. full access to source code)  
+* Damn Vulnerable Web Services (DVWS) [https://github.com/snoopythesecuritydog/dvws](https://github.com/snoopythesecuritydog/dvws)  
+* Damn Small Vulnerable Web (DSVW) [https://github.com/stamparm/DSVW](https://github.com/stamparm/DSVW)  
 * Vicnum Project [http://sourceforge.net/projects/vicnum/](http://sourceforge.net/projects/vicnum/) (Perl and PHP; incl. full access to source code)  
 * Web Security Dojo [http://www.mavensecurity.com/web_security_dojo/](http://www.mavensecurity.com/web_security_dojo/) (A diverse, open-source, self-contained training environment for web application security and penetration testing.)  
 * TEST and Demonstration site for Acunetix Web Vulnerability Scanner - [http://testasp.vulnweb.com/Default.asp](http://testasp.vulnweb.com/Default.asp).  
@@ -39,9 +41,34 @@
 * And test your nmap access against [http://scanme.nmap.org/](http://scanme.nmap.org/)  
 
 Resources to follow-up on:  
+* Xtreme Vulnerable Web Application (XVWA) [https://github.com/s4n7h0/xvwa](https://github.com/s4n7h0/xvwa)  
+* bWAPP: bee-box (v1.6) [http://www.itsecgames.com/](http://www.itsecgames.com/)  
+* Persistence [https://www.vulnhub.com/entry/persistence-1,103/](https://www.vulnhub.com/entry/persistence-1,103/)  
+* Pentester Lab: Web For Pentester [https://www.vulnhub.com/entry/pentester-lab-web-for-pentester,71/](https://www.vulnhub.com/entry/pentester-lab-web-for-pentester,71/)  
+* Pentester Lab: CVE-2014-6271/Shellshock [https://www.vulnhub.com/entry/pentester-lab-cve-2014-6271-shellshock,104/](https://www.vulnhub.com/entry/pentester-lab-cve-2014-6271-shellshock,104/)  
+* Pentester Lab: Rack Cookies and Commands injection [https://pentesterlab.com/exercises/rack_cookies_and_commands_injection/](https://pentesterlab.com/exercises/rack_cookies_and_commands_injection/)  
+* Pentester Academy: Command Injection ISO: 1 [https://www.vulnhub.com/entry/command-injection-iso-1,81/](https://www.vulnhub.com/entry/command-injection-iso-1,81/)  
+* SpiderLabs: MCIR (ShelLOL) [https://github.com/SpiderLabs/MCIR/tree/master/shellol](https://github.com/SpiderLabs/MCIR/tree/master/shellol)  
+* Kioptrix: Level 1.1 (#2) [https://www.vulnhub.com/entry/kioptrix-level-11-2,23/](https://www.vulnhub.com/entry/kioptrix-level-11-2,23/)  
+* Kioptrix: 2014 (#5) [https://www.vulnhub.com/entry/kioptrix-2014-5,62/](https://www.vulnhub.com/entry/kioptrix-2014-5,62/)  
+* Acid Server: 1 [https://www.vulnhub.com/entry/acid-server-1,125/](https://www.vulnhub.com/entry/acid-server-1,125/)  
+* Flick: 2 [https://www.vulnhub.com/entry/flick-2,122/](https://www.vulnhub.com/entry/flick-2,122/)  
+* w3af-moth [https://github.com/andresriancho/w3af-moth/](https://github.com/andresriancho/w3af-moth/)  
+* commix-testbed [https://github.com/stasinopoulos/commix-testbed](https://github.com/stasinopoulos/commix-testbed)  
+* command-line-security-300 (school-ctf-winter-2015) [https://github.com/ctfs/write-ups-2015/tree/bb4cfa25cf58f93a006ee75c33410e95fed211e3/school-ctf-winter-2015/exploit/command-line-security-300](https://github.com/ctfs/write-ups-2015/tree/bb4cfa25cf58f93a006ee75c33410e95fed211e3/school-ctf-winter-2015/exploit/command-line-security-300)  
+* lfi-labs [https://github.com/paralax/lfi-labs/](https://github.com/paralax/lfi-labs/)  
+* SickOs (1.1) [https://www.vulnhub.com/entry/sickos-11,132/](https://www.vulnhub.com/entry/sickos-11,132/)  
+* Testsparker [http://php.testsparker.com/](http://php.testsparker.com/)  
+* GracefulSecurity Vulnerable VM [https://www.gracefulsecurity.com/vulnvm/](https://www.gracefulsecurity.com/vulnvm/)  
+* SecuriCTF Vulnerable VM [https://maze.pentest-challenge.co.uk/downloads/securictf.ova](https://maze.pentest-challenge.co.uk/downloads/securictf.ova)  
+* Bulldog Vulnerable VM [https://www.vulnhub.com/entry/bulldog-1,211/](https://www.vulnhub.com/entry/bulldog-1,211/)  
+* Extreme Vulnerable Node Application (XVNA) [https://github.com/vegabird/xvna](https://github.com/vegabird/xvna)  
 * http://www.overthewire.org/wargames/  
 * http://roothack.org/  
 * http://heorot.net/   
+* 
 See: http://ha.ckers.org/blog/20090406/hacking-without-all-the-jailtime/ for more options.  
 
 More to follow.
+
+Thank you comix team: [https://github.com/commixproject/commix/wiki/Usage-Examples](https://github.com/commixproject/commix/wiki/Usage-Examples)  
