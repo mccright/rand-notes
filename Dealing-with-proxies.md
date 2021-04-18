@@ -20,3 +20,16 @@ $   is  %24
 @   is  %40  
 :   is  %3A  
 ```  
+
+### Blocked by Policy
+There some use cases where a platform or vendor enables access via a permit list.  In that case, you need get the external IP address of the proxy approved.  The following commands can help and are script friendly:
+
+* curl https://ipecho.net/plain  
+* curl https://ifconfig.co  
+* curl https://ifconfig.me  
+* curl https://icanhazip.com  
+
+```
+$ curl https://ipecho.net/plain
+173.18.133.212
+```
