@@ -31,7 +31,8 @@
 * Mutillidae - [http://www.irongeek.com/i.php?page=security/mutillidae-deliberately-vulnerable-php-owasp-top-10](http://www.irongeek.com/i.php?page=security/mutillidae-deliberately-vulnerable-php-owasp-top-10) (PHP-based, incl. full access to source code)  
 * Damn Vulnerable Web App (DVWA) - [http://www.dvwa.co.uk/](http://www.dvwa.co.uk/) (PHP, MySQL; incl. full access to source code)  
 * Damn Vulnerable Web Services (DVWS) [https://github.com/snoopythesecuritydog/dvws](https://github.com/snoopythesecuritydog/dvws)  
-* Damn Small Vulnerable Web (DSVW) [https://github.com/stamparm/DSVW](https://github.com/stamparm/DSVW)  
+* Damn Small Vulnerable Web (DSVW) [https://github.com/stamparm/DSVW](https://github.com/stamparm/DSVW) (Python)  
+* Xtreme Vulnerable Web Application (XVWA) [https://github.com/s4n7h0/xvwa](https://github.com/s4n7h0/xvwa) (PHP/MySQL)  
 * Vicnum Project [http://sourceforge.net/projects/vicnum/](http://sourceforge.net/projects/vicnum/) (Perl and PHP; incl. full access to source code)  
 * Web Security Dojo [http://www.mavensecurity.com/web_security_dojo/](http://www.mavensecurity.com/web_security_dojo/) (A diverse, open-source, self-contained training environment for web application security and penetration testing.)  
 * TEST and Demonstration site for Acunetix Web Vulnerability Scanner - [http://testasp.vulnweb.com/Default.asp](http://testasp.vulnweb.com/Default.asp).  
@@ -41,7 +42,6 @@
 * And test your nmap access against [http://scanme.nmap.org/](http://scanme.nmap.org/)  
 
 Resources to follow-up on:  
-* Xtreme Vulnerable Web Application (XVWA) [https://github.com/s4n7h0/xvwa](https://github.com/s4n7h0/xvwa)  
 * bWAPP: bee-box (v1.6) [http://www.itsecgames.com/](http://www.itsecgames.com/)  
 * Persistence [https://www.vulnhub.com/entry/persistence-1,103/](https://www.vulnhub.com/entry/persistence-1,103/)  
 * Pentester Lab: Web For Pentester [https://www.vulnhub.com/entry/pentester-lab-web-for-pentester,71/](https://www.vulnhub.com/entry/pentester-lab-web-for-pentester,71/)  
