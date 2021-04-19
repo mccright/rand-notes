@@ -41,4 +41,4 @@ There are a range of resources at: [https://start.umd.edu/](https://start.umd.ed
 Initiatives at the state and federal level that restrict the right to peaceful assembly - Jan 2020 through Dec 2020: 
 [https://www.icnl.org/usprotestlawtracker/?location=&status=&issue=&date=custom&date_from=2020-01-01&date_to=2020-12-31&type=](https://www.icnl.org/usprotestlawtracker/?location=&status=&issue=&date=custom&date_from=2020-01-01&date_to=2020-12-31&type=)  
 Initiatives at the state and federal level that restrict the right to peaceful assembly - starting 2021: 
-[https://www.icnl.org/usprotestlawtracker/?location=&status=&issue=&date=1&type=](https://www.icnl.org/usprotestlawtracker/?location=&status=&issue=&date=1&type=)  
+[https://www.icnl.org/usprotestlawtracker/?location=&status=&issue=&date=custom&date_from=2021-01-01&date_to=2021-12-31&type=](https://www.icnl.org/usprotestlawtracker/?location=&status=&issue=&date=custom&date_from=2021-01-01&date_to=2021-12-31&type=)  
