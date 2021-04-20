@@ -36,4 +36,4 @@ Make it a function in your Bash shell:
 ```bash
 function intips { /sbin/ifconfig |grep -B1 "inet\|inet6" |awk '{ if ( $1 == "inet" || $1 == "inet6" ) { print "  ",$2 } else if ( $1 != "inet" && $1 != "inet6" ) { print $1 } }'; }
 ```
-*The function above is a copy from: https://www.if-not-true-then-false.com/2010/linux-get-ip-address/.  Thank you JR.
+*The function above is a copy from: https://www.if-not-true-then-false.com/2010/linux-get-ip-address/.  Thank you JR.*
