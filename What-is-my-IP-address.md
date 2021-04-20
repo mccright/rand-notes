@@ -37,3 +37,18 @@ Make it a function in your Bash shell:
 function intips { /sbin/ifconfig |grep -B1 "inet\|inet6" |awk '{ if ( $1 == "inet" || $1 == "inet6" ) { print "  ",$2 } else if ( $1 != "inet" && $1 != "inet6" ) { print $1 } }'; }
 ```
 *The function above is a copy from: https://www.if-not-true-then-false.com/2010/linux-get-ip-address/.  Thank you JR.*
+
+Or sometimes it is important to get the interface in the default route:
+
+```bash
+/sbin/ifconfig $(/sbin/route | awk '/default/ {print $8}') | grep "inet addr" | awk -F: '{print $2}' | awk '{print $1}'
+```
+Depending on your Linux distro, you may need to fiddle with the grep 'inet addr'.  For example, on Debian you will use "inet adr" instead "inet addr."
+
+Or if you are just going to iterage through each address and don't care about the interface:
+```bash
+hostname -I
+```
+
+
+
