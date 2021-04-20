@@ -1,5 +1,7 @@
 ## What is my IP address?  
 
+### External IP address  
+
 When you are on a virtual server, deep within some vendor's infrastructure, or you are behind NAT'ing carrier/business infrastructure, or when you are being blocked because you are not on the *permit-list*, there are terminal/script/console friendly ways to identify your external IP address.  Here are a few that work for me:
 
 * dig -6 TXT +short o-o.myaddr.l.google.com @ns1.google.com (when you use DNS server ns1.google.com, with the query "o-o.myaddr.l.google.com" it responds to that address query with the source IP of that request.  It is highly-available, fast and the response is "wrapped" in double-quotes.)  
@@ -20,3 +22,18 @@ When you are on a virtual server, deep within some vendor's infrastructure, or y
 $ curl https://ipecho.net/plain
 173.18.133.212
 ```
+
+
+### Local IP address(es)  
+
+TLDR: Windows - ipconfig.exe; Linux - ifconfig.
+
+On Linux or Windows Linux Subsystem, you can identify the IP address on all local interfaces with a single command:
+```bash
+/sbin/ifconfig |grep -B1 "inet\|inet6" |awk '{ if ( $1 == "inet" || $1 == "inet6" ) { print "  ",$2 } else if ( $1 != "inet" && $1 != "inet6" ) { print $1 } }'  
+```
+Make it a function in your Bash shell:
+```bash
+function intips { /sbin/ifconfig |grep -B1 "inet\|inet6" |awk '{ if ( $1 == "inet" || $1 == "inet6" ) { print "  ",$2 } else if ( $1 != "inet" && $1 != "inet6" ) { print $1 } }'; }
+```
+*The function above is a copy from: https://www.if-not-true-then-false.com/2010/linux-get-ip-address/.  Thank you JR.
