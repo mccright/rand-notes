@@ -98,10 +98,18 @@ On April 13, 2021, [CDC and FDA recommended](https://www.cdc.gov/vaccines/covid-
 **COVID-19 Fatality Rate**  
 COVID-19 is far more lethal than seasonal flu. About [1.7% of *diagnosed* coronavirus cases are lethal](https://coronavirus.jhu.edu/data/mortality), compared with 0.1% of diagnosed flu cases.  Scientists argue that the number of people infected is far higher than the number who receive an official diagnoses which results in a lower death rates.  In that context, the CDC estimates that the U.S. COVID-19 death rate is around 0.65% -- compared to flu’s 0.025% fatality rate.  Because The U.S. maintains high rates of infection, that 0.65% fatality rate has produced at least [564,000 deaths](https://covid.cdc.gov/covid-data-tracker/#datatracker-home) (2021 Apr 19) in the U.S. alone (with at least 2.4 million world-wide).  Differences in the rates of infection throughout given populations results in widely varying ["deaths/100,000" rates](https://covid.cdc.gov/covid-data-tracker/#global-counts-rates) -- highlighting *the importance of managing risks*.  
 
+**Herd Immunity**  
+Herd immunity is about reaching vaccination thresholds needed to break the chain of COVID-19 transmission.  
+There is still uncertainty, but most scientists use high percentages - 75% to, more recently 90% fully vaccinated.  
+Unfortunately, anti-intellectual hostility to vaccines plus political hostility to COVID-19 vaccination appear to remove herd immunity as a practical goal.  
+Polls have found that ~20% of self-identified Democrats and more than 50% of Republicans are unlikely to participate in COVID-19 vaccination.  
+Current scientific understanding projects that in areas where vaccinations are low, COVID-19 virus will continue to thrive and mutate, increasing the probability of harm in those areas and beyond (we remain one earth).  
+Even in that pessimistic outlook, the broader the pools of immunity we achieve, the better off we'll all be.  Learn about the fantastic successes of currently-available vaccines -- and get vaccinated as soon as is practical for you.  
+
 **Resist Participating in Efforts to Use COVID-19 Health Measures into Wedge Issues**  
 Birthing or nurturing COVID-19 health measures into wedge issues is harmful for all of us.  It harms our health as well as societal cohesion, and it is used by some to weaken democracy.  Resist these ideas and communications -- it will make you (and the rest of us) safer and healthier.  
 Don't initiate or participate in attempts to divide people or groups on wearing masks.  This has led to physical confrontations, attacks, and arrests.  See "Masks Help" above.  
-Don't initiate or participate in attempts to divide people or groups on being vaccinated.  Approved COVID-19 vaccinations are generally safe and effective.  They involve far less risk of injury or death than many, many common activities.  See "Vaccine Safety" above.  
+Don't initiate or participate in attempts to divide people or groups on being vaccinated.  Approved COVID-19 vaccinations are highly safe and effective.  They involve far less risk of injury or death than many, many common activities.  See "Vaccine Safety" above.  
 Don't initiate or participate in attempts to divide people or groups on so-called "vaccine passports."  Businesses, all levels of government, and private organizations are all struggling with policies and practices that will help them "open up" as COVID-19 risks recede.  One thread of that activity involves evidence of immunization against COVID-19.  Vaccination-status is part of a broader category of private health-related information, but no serious efforts to deal with *opening up* involve exposing all personal health information to routine verification.  If you have strong feelings on this topic, help figure it out -- it is an important issue that could benefit from diverse inputs.  
 
 
