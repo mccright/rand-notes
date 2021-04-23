@@ -36,4 +36,5 @@ Kate Conger (2021-04-13) Some of their databases were called “masters” and w
 * "Word replacement list" from inclusivenaming.org [https://inclusivenaming.org/language/word-list/](https://inclusivenaming.org/language/word-list/)  
 * "Renaming the default branch from master" [https://github.com/github/renaming](https://github.com/github/renaming)  
 * "Regarding Git and Branch Naming" [https://sfconservancy.org/news/2020/jun/23/gitbranchname/](https://sfconservancy.org/news/2020/jun/23/gitbranchname/)  
+* Regarding Jenkins Naming [https://github.com/jenkins-infra/jenkins.io/pull/3678](https://github.com/jenkins-infra/jenkins.io/pull/3678)  
 * Say Their Names [https://sayevery.name/](https://sayevery.name/) and [take action](https://sayevery.name/take-action)  
