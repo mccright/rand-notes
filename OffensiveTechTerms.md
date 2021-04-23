@@ -14,7 +14,7 @@ Database|slave|replica|
 Validation|whitelist|allowlist|
 Validation|blacklist|denylist|
 Pipeline(Jenkins?)|master|controller|
-Pipeline(Jenkins?)|slave|worker|
+Pipeline(Jenkins?)|slave|agent or worker|
 
 
 When we use metaphors, we use terms regarded as representative or symbolic of the real target of our attention.  We expect that the reader/listener will understand the literal meaning of our term and then be able to map that understanding to the present context.  If we use hurtful or exclusionary terms as metaphors we devalue those harmed populations.  This equation is not required.  We are not prisoners of inertia.  Language matters.  Carefully, sensitively, reviewing our use of metaphor seems like a prudent practice in business -- where successful collaboration and marketing demand positive relationships and where brand & image are foundational.  It seems like the-right-thing-to-do in the rest of our lives as well.  
