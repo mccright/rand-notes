@@ -40,4 +40,5 @@ Kate Conger (2021-04-13) Some of their databases were called “masters” and w
 * Say Their Names [https://sayevery.name/](https://sayevery.name/) and [take action](https://sayevery.name/take-action)  
 * Lists of killings by law enforcement officers in the United States [https://en.wikipedia.org/wiki/Lists_of_killings_by_law_enforcement_officers_in_the_United_States](https://en.wikipedia.org/wiki/Lists_of_killings_by_law_enforcement_officers_in_the_United_States)  
 * The Marshall Project - Police-Involved Shooting [https://www.themarshallproject.org/records/538-police-involved-shooting](https://www.themarshallproject.org/records/538-police-involved-shooting)  
+* For one approach to broad historical context -- "A History of Race and Racism in America, in 24 Chapters" by Ibram X. Kendi [https://www.hsph.harvard.edu/diversity/sph-symposium/a-history-of-race-and-racism-in-america-in-24-chapters/](https://www.hsph.harvard.edu/diversity/sph-symposium/a-history-of-race-and-racism-in-america-in-24-chapters/)  
 * The original public report by Minneapolis Police Department about the killing of George Floyd [https://archive.li/pwxX3](https://archive.li/pwxX3)  
