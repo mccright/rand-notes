@@ -38,4 +38,6 @@ Kate Conger (2021-04-13) Some of their databases were called “masters” and w
 * "Regarding Git and Branch Naming" [https://sfconservancy.org/news/2020/jun/23/gitbranchname/](https://sfconservancy.org/news/2020/jun/23/gitbranchname/)  
 * Regarding Jenkins Naming [https://github.com/jenkins-infra/jenkins.io/pull/3678](https://github.com/jenkins-infra/jenkins.io/pull/3678)  
 * Say Their Names [https://sayevery.name/](https://sayevery.name/) and [take action](https://sayevery.name/take-action)  
+* Lists of killings by law enforcement officers in the United States [https://en.wikipedia.org/wiki/Lists_of_killings_by_law_enforcement_officers_in_the_United_States](https://en.wikipedia.org/wiki/Lists_of_killings_by_law_enforcement_officers_in_the_United_States)  
+* The Marshall Project - Police-Involved Shooting [https://www.themarshallproject.org/records/538-police-involved-shooting](https://www.themarshallproject.org/records/538-police-involved-shooting)  
 * The original public report by Minneapolis Police Department about the killing of George Floyd [https://archive.li/pwxX3](https://archive.li/pwxX3)  
