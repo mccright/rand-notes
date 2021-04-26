@@ -53,6 +53,7 @@ Some portion of consumption/spending is sometimes discretionary.  In the United 
 
 6. Finally, find the squares above on the table below at the intersection of your "Share of your financial resources composed of guaranteed income" and the percentage of your spending that is nondiscretionary.  
                                                                            % of guaranteed income of your financial resources	 
+                                                                           
 |% nondiscretionary| 5% |25% |50% |75% | 95%|  
 |:----------------:|:--:|:--:|:--:|:--:|:--:|  
 |0%|2.4%|3.6%|4.4%|5.1%|6.9%|  
