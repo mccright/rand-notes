@@ -16,7 +16,7 @@ Validation|blacklist|denylist|
 Pipeline(Jenkins?)|master|controller|
 Pipeline(Jenkins?)|slave|agent or worker|
 Firewall(IPTables?)|blacklist|denylist|
-Firewall(IPTables?)|whitelist|allowlist|
+Firewall(IPTables?)|whitelist|permitlist, allowlist|
 
 
 
