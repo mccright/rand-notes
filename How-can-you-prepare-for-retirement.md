@@ -39,8 +39,8 @@ The model below is from an AARP Bulletin retelling of "The impact of Guaranteed 
 
 ### Share of your financial resources composed of guaranteed income  
 
-To use the table above, gather the following information:  
-1. My annual guaranteed income is: ________ [Social Security + any other source like an annuity or pension]  
+To use the table below, gather the following information:  
+1. My annual guaranteed retirement income is: ________ [Social Security + any other source like an annuity or pension]  
 
 2. My net worth is: ________ [real assets (*bank + investment balances + home equity + any-others*) minus debt (*of all types*)]  
 
@@ -51,7 +51,7 @@ To use the table above, gather the following information:
 5. My percentage of spending that is nondiscretionary: ______ [spending that I cannot change - stuff like housing, health care, for some even food]  
 Some portion of consumption/spending is sometimes discretionary.  In the United States, that is not the norm for every retiree.  David Blanchett argues that "Most retirees will likely have a retirement income goal that will support a combination of discretionary and nondiscretionary needs.  In other words, retirees are generally able to adjust some aspects of consumption, but not necessarily all aspects (at least without a significant degree of pain).  For example, some expenses may be relatively fixed in nature, such as housing and health care, while others can more easily be adjusted, such as entertainment and transportation, and still others may be a combination of the two, like food."  
 
-6. Finally, find the squares above on the table above at the intersection of your "Share of your financial resources composed of guaranteed income" and the percentage of your spending that is nondiscretionary.  
+6. Finally, find the squares above on the table below at the intersection of your "Share of your financial resources composed of guaranteed income" and the percentage of your spending that is nondiscretionary.  
                                                                            % of guaranteed income of your financial resources				
 |% nondiscretionary| 5% |25% |50% |75% | 95%|
 |:----------------:|:--:|:--:|:--:|:--:|:--:|
