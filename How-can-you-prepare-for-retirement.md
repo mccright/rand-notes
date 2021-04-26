@@ -52,7 +52,7 @@ To use the table below, gather the following information:
 Some portion of consumption/spending is sometimes discretionary.  In the United States, that is not the norm for every retiree.  David Blanchett argues that "Most retirees will likely have a retirement income goal that will support a combination of discretionary and nondiscretionary needs.  In other words, retirees are generally able to adjust some aspects of consumption, but not necessarily all aspects (at least without a significant degree of pain).  For example, some expenses may be relatively fixed in nature, such as housing and health care, while others can more easily be adjusted, such as entertainment and transportation, and still others may be a combination of the two, like food."  
 
 6. Finally, find the squares above on the table below at the intersection of your "Share of your financial resources composed of guaranteed income" and the percentage of your spending that is nondiscretionary.  
-                                                                % of guaranteed income of your financial resources  
+                                                                    % of guaranteed income of your financial resources  
                                                                           
 |% nondiscretionary| 5% |25% |50% |75% | 95%|  
 |:----------------:|:--:|:--:|:--:|:--:|:--:|  
