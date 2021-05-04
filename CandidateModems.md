@@ -19,8 +19,9 @@ For Mediacom.
 From: [https://mediacomcable.com/assets/pdf/legal/Compatible_Retail_Modems_CRM122020_12_03_2020.pdf](https://mediacomcable.com/assets/pdf/legal/Compatible_Retail_Modems_CRM122020_12_03_2020.pdf)
 
 
-#### Existing Carrier Equip: Samsung "Advanced Wireless Gateway" GX-MC990CL  
+####  Legacy Carrier Equip: Samsung "Advanced Wireless Gateway" GX-MC990CL  
 [https://mediacomcc.custhelp.com/euf/assets/documents/modem%20user%20guides/Samsung_GX-MC990CL_User_Guide_v2.pdf](https://mediacomcc.custhelp.com/euf/assets/documents/modem%20user%20guides/Samsung_GX-MC990CL_User_Guide_v2.pdf)  
+Did not permit ssh or sftp traffic - Mediacom tech support said they had no interface to change that behavior.  
 
 Lights | Top to bottom  
 -------|--------------
