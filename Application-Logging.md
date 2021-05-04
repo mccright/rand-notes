@@ -17,7 +17,7 @@ Application Logging
  * Protect log files against unauthorized read/write. [CWE-532](https://cwe.mitre.org/data/definitions/532.html)  
  * Log only "safe" data {logs are an attack path, neutralize hostile content} [CWE-117](https://cwe.mitre.org/data/definitions/117.html)  
  * All error message text should be HTML entity encoded before being written to the log file to protect against potential cross-site scripting attacks against the viewer of the logs {logs are an attack path, neutralize hostile content} [CWE-497](https://cwe.mitre.org/data/definitions/497.html)  
- * Log only "known good" input.  Assume all input is malicious. Use a whitelist of acceptable inputs that strictly conform to specifications. Reject any input that does not strictly conform to specifications, or transform it into something that does.  
+ * Log only "known good" input.  Assume all input is malicious. Use a permitlist of acceptable inputs that strictly conform to specifications. Reject any input that does not strictly conform to specifications, or transform it into something that does.  
 
 ***Error Handling***
  * Display generic, non-descriptive error messages.  Where risk-appropriate, provide user guidance [CWE-209](https://cwe.mitre.org/data/definitions/209.html)  
