@@ -28,10 +28,12 @@ We cannot, though, depend on businesses to just do-the-right-thing.  In most bus
 #### QUOTES:  
 Kate Conger (2021-04-13) Some of their databases were called “masters” and were surrounded by “slaves,” which received information from the masters and answered queries on their behalf, preventing them from being overwhelmed. Others used “whitelists” and “blacklists” to filter content.  
 
+Charles M. Blow (2021-05-02) "And the precise way we phrase the statement makes all the difference: America's systems — like its criminal justice, education and medical systems — have a pro-white/anti-Black bias, and an extraordinary portion of America denies or defends those biases."
 
 #### REFERENCES  
 
 * "‘Master,’ ‘Slave’ and the Fight Over Offensive Terms in Computing." By Kate Conger, 2021-04-13. [https://www.nytimes.com/2021/04/13/technology/racist-computer-engineering-terms-ietf.html](https://www.nytimes.com/2021/04/13/technology/racist-computer-engineering-terms-ietf.html)  
+* "Is America a Racist Country?" by Charles M. Blow, 2021-05-02. [https://www.nytimes.com/2021/05/02/opinion/america-racism.html](https://www.nytimes.com/2021/05/02/opinion/america-racism.html?referringSource=articleShare)  
 * W3C on Inclusive Terminology [https://w3c.github.io/manual-of-style/#inclusive](https://w3c.github.io/manual-of-style/#inclusive)  
 * "Terminology, Power, and Inclusive Language in Internet-Drafts and RFCs" by Mallory Knodel and Niels ten Oever [https://datatracker.ietf.org/doc/draft-knodel-terminology/?include_text=1](https://datatracker.ietf.org/doc/draft-knodel-terminology/?include_text=1)  
   * It might be instructive for some to understand more about how conflict-rich this topic can be.  One resource is the email thread that followed the original submission of the [KnodelOever] proposal above [https://mailarchive.ietf.org/arch/msg/gendispatch/zsIVefDQLzKQ2WF4KuKyPm1_mFI/](https://mailarchive.ietf.org/arch/msg/gendispatch/zsIVefDQLzKQ2WF4KuKyPm1_mFI/)  
