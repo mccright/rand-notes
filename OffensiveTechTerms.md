@@ -11,7 +11,7 @@ Area                 | Legacy | Suggestion(s) |
 Source code control|master|main|
 Database|master|source, primary|
 Database|slave|replica|
-Validation|whitelist|allowlist|
+Validation|whitelist|allowlist, permitlist|
 Validation|blacklist|denylist|
 Pipeline(Jenkins?)|master|controller|
 Pipeline(Jenkins?)|slave|agent or worker|
