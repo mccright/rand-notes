@@ -147,5 +147,9 @@ elif response.status_code == 510:
 elif response.status_code == 511:
     print(str(response.status_code) + ': Network Authentication Required') # [RFC6585]
 # 512-599 Unassigned
+elif response.status_code:
+    print(str(response.status_code) + ': Unknown response, there is a problem!')
+else:
+    print('Unknown condition, there is a problem!')
 
 ```
