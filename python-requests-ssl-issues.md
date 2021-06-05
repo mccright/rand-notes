@@ -29,11 +29,19 @@ If that does not do it, try this....
 If none of that helps, as a last resort - and only in the context of environments that you understand and trust -- turn off the SSL warnings.
 
 ```python
-from requests.packages.urllib3.exceptions import InsecureRequestWarning
 import urllib3 
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
+from requests.packages.urllib3.exceptions import SSLError as _SSLError
+from requests.packages.urllib3.exceptions import HTTPError as _HTTPError
+from requests.exceptions import ConnectionError, Timeout, SSLError
+
+from requests.packages.urllib3.exceptions import SNIMissingWarning
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
+from requests.packages.urllib3.exceptions import InsecurePlatformWarning
+
+requests.packages.urllib3.disable_warnings(SNIMissingWarning)
+requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
+requests.packages.urllib3.disable_warnings(InsecurePlatformWarning)
 ```
 
 If that does not do it, could it be that you have a proxy-related problem?  Try explicitly setting your proxy.  
