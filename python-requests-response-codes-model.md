@@ -1,4 +1,4 @@
-# This is just a snippit to bootstrap web scripts  
+# This is just a snippit to I used for learning  
 
 ```python
 import requests
@@ -21,6 +21,14 @@ from requests.exceptions import ConnectionError, Timeout, SSLError
 #  4xx: Client Error - The request contains bad syntax or cannot be fulfilled
 #  5xx: Server Error - The server failed to fulfill an apparently valid request
 #
+# Yes, we could get all of these using the code below, 
+# but how do we decide what to do?:
+# from http import HTTPStatus
+# import sys
+# output = ""
+# for sCode in list(HTTPStatus):
+#     output += '%d %s, %s' % (sCode.value, sCode.phrase, sCode.description) + '\n'
+# sys.stdout.write(output.rstrip() + '\n')
 url = 'https://api.notarealservertesting.com'
 
 try:
@@ -40,11 +48,11 @@ try:
     elif response.status_code == 201:
         print(str(response.status_code) + ': Created')                       #  [RFC7231, Section 6.3.2]
     elif response.status_code == 202:
-        print(str(response.status_code) + ': Accepted')                      #  [RFC7231, Section 6.3.3]
+        print(str(response.status_code) + ': Accepted, Request accepted, processing continues off-line')                      #  [RFC7231, Section 6.3.3]
     elif response.status_code == 203:
-        print(str(response.status_code) + ': Non-Authoritative Information') #  [RFC7231, Section 6.3.4]
+        print(str(response.status_code) + ': Non-Authoritative Information, Request fulfilled from cache') #  [RFC7231, Section 6.3.4]
     elif response.status_code == 204:
-        print(str(response.status_code) + ': No Content')                    #  [RFC7231, Section 6.3.5]
+        print(str(response.status_code) + ': No Content, Request fulfilled, nothing follows')                    #  [RFC7231, Section 6.3.5]
     elif response.status_code == 205:
         print(str(response.status_code) + ': Reset Content')                 #  [RFC7231, Section 6.3.6]
     elif response.status_code == 206:
@@ -58,13 +66,13 @@ try:
         print(str(response.status_code) + ': IM Used')                       #  [RFC3229]
     ## 227-299 Unassigned
     elif response.status_code == 300:
-        print(str(response.status_code) + ': Multiple Choices')              #  [RFC7231, Section 6.4.1]
+        print(str(response.status_code) + ': Multiple Choices, Object has several resources -- see URI list')              #  [RFC7231, Section 6.4.1]
     elif response.status_code == 301:
-        print(str(response.status_code) + ': Moved Permanently')             #  [RFC7231, Section 6.4.2]
+        print(str(response.status_code) + ': Moved Permanently, Object moved permanently -- see URI list')             #  [RFC7231, Section 6.4.2]
     elif response.status_code == 302:
-        print(str(response.status_code) + ': Found')                         #  [RFC7231, Section 6.4.3]
+        print(str(response.status_code) + ': Found, Object moved temporarily -- see URI list')                         #  [RFC7231, Section 6.4.3]
     elif response.status_code == 303:
-        print(str(response.status_code) + ':  See Other')                     #  [RFC7231, Section 6.4.4]
+        print(str(response.status_code) + ':  See Other, Object moved -- see Method and URL list')                     #  [RFC7231, Section 6.4.4]
     elif response.status_code == 304:
         print(str(response.status_code) + ': Not Modified')                  #  [RFC7232, Section 4.1]
     elif response.status_code == 305:
