@@ -165,3 +165,6 @@ In Iowa:
    'Flu' is spread in the same ratio of speed as the Carrier of IT.  
    When the Flu is a weakling, his best Nurses and Foster-Mothers are Overcrowding and lack of Pure Air.  
    Where the Crowd is, there the Flu is: little crowding means little Flu; plenty of Crowding, plenty of Flu."  
+* Unfortunately, as of Summer 2021 in the U.S. vaccination status increasingly correlates to 2020 presidential votes -- representing a failure of leadership throughout U.S. politics and capitalism:
+  * "There's A Stark Red-Blue Divide When It Comes To States' Vaccination Rates." By Domenico Montanaro, 2021-06-09 [https://www.npr.org/2021/06/09/1004430257/theres-a-stark-red-blue-divide-when-it-comes-to-states-vaccination-rates](https://www.npr.org/2021/06/09/1004430257/theres-a-stark-red-blue-divide-when-it-comes-to-states-vaccination-rates)  
+  * "Actually, getting the vaccine *is* a partisan act, even if it shouldn’t be" By Philip Bump, 2021-06-02 [https://www.washingtonpost.com/politics/2021/06/02/actually-getting-vaccine-is-partisan-act-even-if-it-shouldnt-be/](https://www.washingtonpost.com/politics/2021/06/02/actually-getting-vaccine-is-partisan-act-even-if-it-shouldnt-be/)  
