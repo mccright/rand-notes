@@ -7,7 +7,7 @@ Vendor | Model | DOCSIS Version | Dl Speed | Notes | Link
 ARRIS Group,Inc. | CM8200 | 3.1 | 945mbps+ | $124.95 renewed (Mar 2020) | [amazon](https://www.amazon.com/Touchstone-CM8200A-DOCSIS-Gigabit-Renewed/dp/B086HWY4Q9/)
 ARRIS Group,Inc. | SB8200 | 3.1 | 945mbps+ | $149 ARRIS SURFboard (Jan 2017) | [amazon](https://www.amazon.com/ARRIS-SURFboard-Approved-SB8200-Frustration/dp/B07DY16W2Z/)
 Motorola | MB8600 | 3.1 | 945mbps+ | 149.99 (May 2017) | [amazon](https://www.amazon.com/MOTOROLA-Approved-Comcast-Gigablast-MB8600/dp/B0723599RQ/)
-Motorola | MB8611 | 3.1 | 945mbps+ | 169.99 (July 2020), I bought this model. Installed it in April 2021. So far, so good. SSH & SFTP are no longer blocked. Speed OK. | [amazon](https://www.amazon.com/MOTOROLA-MB8611-Ethernet-Approved-Comcast/dp/B08DDFKXKC/)
+Motorola | MB8611 | 3.1 | 945mbps+ | 169.99 (July 2020), I bought this model. Installed it in April 2021. So far, so good. SSH & SFTP are no longer blocked. Speed OK. Late June update: Still giving excellent service -- none of the daily variablity we experienced with the legacy carrier equipment. | [amazon](https://www.amazon.com/MOTOROLA-MB8611-Ethernet-Approved-Comcast/dp/B08DDFKXKC/)
 Netgear | CAX30 | 3.1 | 945mbps+ | NETGEAR Nighthawk Cable Modem with Built-in WiFi 6 Router | [amazon](https://www.amazon.com/NETGEAR-Nighthawk-Cable-Built-Router/dp/B08R588RCG/)
 Netgear | CAX80 | 3.1 | 945mbps+ | Nighthalk for Cable Plans Up to 6Gbps | [amazon](https://www.amazon.com/NETGEAR-Nighthawk-Cable-Modem-Router/dp/B082XW53G3/)
 Netgear | CM1000 | 3.1 | 945mbps+ | $159.97 Cable Modem for Cable Plans Up to 1 Gigabit (2016) | [amazon](https://www.amazon.com/NETGEAR-Cable-Modem-CM1000-Compatible/dp/B0781VN7W5/)
