@@ -41,20 +41,29 @@
 | more transience; less persistence           | magis celeritas; minus perseverantia       |
 | employ deception                            | uti deceptio                               |
 | use deception                               | uti deceptio                               |
+| employ isolation                            | uti segregationem                          |
+| use isolation                               | uti segregationem                          |
 | concentrate on common critical assets       | incumbo in communi discrimine bona         |
 | concentrate on common critical systems      | incumbo in communi discrimine ratio        |
 | [understand every tradeoff]understand every compromise                 | intelligere omnis compromissum|
 | instrument sensitive transactions           | instrumentum sensitiva rebus               |
 | handle exceptions                           | tractare exceptiones                       |
+| enforce access control                      | exigendum accessum imperium                |
 | enforce strong passwords                    | exigendum tesserae                         |
 | use two-factor authentication               | uti duo factor authenticas                 |
 | employ two-factor authentication            | uti duo factor authenticas                 |
 | require two-factor authentication           | requirit duo factor authenticas            |
-| require multi-factor authentication         | rrequiram multiplex factor authenticas     |
+| require multi-factor authentication         | requiram multiplex factor authenticas      |
+| establish thresholds for authentication events        | statuam limina pro authenticas rerum|
+| establish thresholds for authorization events         | statuam limina pro auctoritate rerum|
 | authenticate messages                       | authenticitatis nuntius                    |
 | authenticate requests                       | authenticitatis petitionem                 |
 | use reputation analysis                     | uti fama analysis                          |
 | employ traffic analysis                     | employ traffic analysis                    |
+| [study the certificate]certificate analysis | studium testimonium                        |
+| employ allow list[s]                        | uti patitur album                          |
+| employ deny list[s]                         | uti negare album                           |
+| monitor every platform                      | monitor omnis diam                         |
 | resist persistence                          | resistere perseverantia                    |
 
 *I started this list when my peer Jason Battani was creating certificates for a set 
