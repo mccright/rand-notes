@@ -45,6 +45,16 @@
 | concentrate on common critical systems      | incumbo in communi discrimine ratio        |
 | [understand every tradeoff]understand every compromise                 | intelligere omnis compromissum|
 | instrument sensitive transactions           | instrumentum sensitiva rebus               |
+| handle exceptions                           | tractare exceptiones                       |
+| enforce strong passwords                    | exigendum tesserae                         |
+| use two-factor authentication               | uti duo factor authenticas                 |
+| employ two-factor authentication            | uti duo factor authenticas                 |
+| require two-factor authentication           | requirit duo factor authenticas            |
+| require multi-factor authentication         | rrequiram multiplex factor authenticas     |
+| authenticate messages                       | authenticitatis nuntius                    |
+| authenticate requests                       | authenticitatis petitionem                 |
+| use reputation analysis                     | uti fama analysis                          |
+| employ traffic analysis                     | employ traffic analysis                    |
 | resist persistence                          | resistere perseverantia                    |
 
 *I started this list when my peer Jason Battani was creating certificates for a set 
