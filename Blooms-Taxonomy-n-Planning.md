@@ -2,6 +2,8 @@ There are [a number of intangibles that are important](https://github.com/mccrig
 
 There are also a range of capabilities that are more easily measured that need to built into role definitions and then into your evaluation processes.  One interesting tool for helping ritualize data gathering about new hire candidates for technology-related roles is the cognitive domain of [Bloom's Taxonomy of Educational Obectives](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy).  
 
+Mapping each of your interview questions, exercises, & testing to specific categories in Blooms Taxonomy may help you identify whether you are measuring the right skills and abilities for given open positions.
+
 ## Blooms Taxonomy
 
 ### Cognitive domain (knowledge-oriented)  
