@@ -1,7 +1,7 @@
 ## How Can You Prepare for Retirement?
 
 Regardless of your current age, all of us are getting older.  
-At some age many of us want to stop the *grind* of daily work to generate an income -- to *retire*.  For any given individual, *retirement* may mean something different.  For most of us it will be unrecognizable from commercials showing *retirees* on sailing yachts or beach mansions.  In the United States, though, entertaining our retirement ideas will require some sort income stream.   
+At some age many of us want to stop the *grind* of daily work to generate an income -- to *retire*.  For any given individual, *retirement* may mean something different.  For most of us it will be unrecognizable from commercials showing *retirees* on sailing yachts or beach mansions.  In the United States, though, entertaining our retirement ideas will require an income stream.   
 
 Even if we needed or wanted to continue 'working' for income, many of us will suffer physical and/or cognative decline in ways that will make doing so impractical.  
 Getting realistic and explicit about financing your retirement is a topic that is easy to neglect.  Resist that path.  
@@ -10,7 +10,7 @@ How do you prepare for retirement?  The literature seems to suggest that establi
 And start as early as you can so that the magic of compounding has lots of time to come to your aid.  
 How do you know your plan is working?  Identify and then start documenting some dimensions of that plan.  Tracking Savings habits, credit card (or other high-interest) debt, emergency savings, and asset portfolio size-and-risk might be useful measures for determining the succcess of your plan.  
 
-Your financial planner will take your information, run a set of Monte-Carlo simulations, and report on the probability of your plan and your behaviors against that plan, meeting your goal.  
+Your financial planner will take your information, run a set of Monte-Carlo (or other) simulations, and report on the probability of your plan and your behaviors against that plan, meeting your goal(s).  
 
 As a reality check, you can easily review how much *annual income* a given pile of financial assets can reliably generate in these extremely low interest rate times.  See the table below:  
 
