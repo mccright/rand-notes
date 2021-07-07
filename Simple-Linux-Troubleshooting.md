@@ -10,4 +10,8 @@ Now we use journalctl -b
 ```terminal
 journalctl -b | grep theError
 ```
+or
+```terminal
+journalctl -b -g theError
+```
 
