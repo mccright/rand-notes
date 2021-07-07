@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created by Matt McCright (c) 2021 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="1.64738in" height="1.82368in" viewBox="0 0 118.611 131.305" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st2">
+	<title>csLogo</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:15.75}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Page-1</title>
+		<g id="group22-1" transform="translate(19.6114,-17.1838)">
+			<title>Sheet.22</title>
+		</g>
+		<g id="shape28-2" transform="translate(-27.6629,-81.6629) rotate(-45) scale(-1,1)">
+			<title>Sheet.28</title>
+			<path d="M-0 131.31 A54 54 0 0 1 76.37 131.31" class="st1"/>
+		</g>
+		<g id="shape29-5" transform="translate(-81.6629,158.968) rotate(45) scale(1,-1)">
+			<title>Sheet.29</title>
+			<path d="M0 131.31 A54 54 0 0 1 76.37 131.31" class="st1"/>
+		</g>
+		<g id="group36-8" transform="translate(6.67871,-31.0072) rotate(-18)">
+			<title>Sheet.36</title>
+			<g id="shape34-9" transform="translate(139.403,133.506) rotate(116.565)">
+				<title>Sheet.34</title>
+				<path d="M-0 125.67 A26.3194 15.6037 -32.08 0 0 30.19 125.67" class="st1"/>
+			</g>
+			<g id="shape35-12" transform="translate(-112.403,75.1038) rotate(-63.4349)">
+				<title>Sheet.35</title>
+				<path d="M0 125.67 A26.3194 15.6037 -32.08 0 0 30.19 125.67" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>
