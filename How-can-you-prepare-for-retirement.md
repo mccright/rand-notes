@@ -6,6 +6,8 @@ At some age many of us want to stop the *grind* of daily work to generate an inc
 Even if we needed or wanted to continue 'working' for income, many of us will suffer physical and/or cognative decline in ways that will make doing so impractical.  
 Getting realistic and explicit about financing your retirement is a topic that is easy to neglect.  Resist that path.  
 
+Check the Social Security Administration's [Retirement Benefits Estimator](https://www.ssa.gov/benefits/retirement/estimator.html) to get an idea of what your *guaranteed* income stream may be.  For most, it will not be enough and you will need to cobble together additional means of retirement support over the course of your working life.  
+
 How do you prepare for retirement?  The literature seems to suggest that establishing and periodically grooming a plan with the assistance of a formal finanical advisor works best.  Also, pick a target age for retirement to use in calculations that will test the viability of that plan.  
 And start as early as you can so that the magic of compounding has lots of time to come to your aid.  
 How do you know your plan is working?  Identify and then start documenting some dimensions of that plan.  Tracking Savings habits, credit card (or other high-interest) debt, emergency savings, and asset portfolio size-and-risk might be useful measures for determining the succcess of your plan.  
