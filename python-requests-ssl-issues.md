@@ -35,13 +35,18 @@ from requests.packages.urllib3.exceptions import SSLError as _SSLError
 from requests.packages.urllib3.exceptions import HTTPError as _HTTPError
 from requests.exceptions import ConnectionError, Timeout, SSLError
 
+from requests.packages.urllib3.exceptions import SSLError
 from requests.packages.urllib3.exceptions import SNIMissingWarning
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 from requests.packages.urllib3.exceptions import InsecurePlatformWarning
 
+requests.packages.urllib3.disable_warnings(SSLError)
 requests.packages.urllib3.disable_warnings(SNIMissingWarning)
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 requests.packages.urllib3.disable_warnings(InsecurePlatformWarning)
+# NOTE:
+# Remember to put the ", verify=False" directive in all the 
+# request.get(..., verify=False) requests
 ```
 
 If that does not do it, could it be that you have a proxy-related problem?  Try explicitly setting your proxy.  
