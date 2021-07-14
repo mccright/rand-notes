@@ -55,6 +55,30 @@ or highlight the timing output
 Write-Host ('My code duration..... ' + $myCodeDuration + " or " + $myCodeDuration.TotalSeconds) -foregroundcolor DarkBlue -backgroundcolor Yellow  
 ```
 
+## Using passed parameters (Active Directory example)  
+```powershell
+Param(
+        [Parameter(Mandatory=$False, HelpMessage="Enter userName or emailAddress values")]
+        [string]$user,
+        [Parameter(Mandatory=$False, HelpMessage="Enter userName or emailAddress values")]
+        [string]$email
+        )
+
+if ($user) {
+  $mgrcn = Get-ADUser -Identity $user -Properties Manager | Select-Object -Property Manager
+  $mgrcnstr = $mgrcn.Manager
+  Get-ADUser -Filter {DistinguishedName -eq $mgrcnstr} -Properties DisplayName,UserPrincipalName,whenCreated,CanonicalName,City,LastLogonDate,mobile,MobilePhone,EmailAddress
+}
+if ($email) {
+  $mgrcn = Get-ADUser -Filter {EmailAddress -eq $email} -Properties Manager | Select-Object -Property Manager
+  $mgrcnstr = $mgrcn.Manager
+  Get-ADUser -Filter {DistinguishedName -eq $mgrcnstr} -Properties DisplayName,UserPrincipalName,whenCreated,CanonicalName,City,LastLogonDate,mobile,MobilePhone,EmailAddress
+}
+else {
+  Write-Host "Enter '-user' or '-email' values"
+}
+```
+  
 ## Using passed parameters with an external application  
 When your module will consume some passed parameters, some or all of which will be used by an external executable program, those parameters may require some special handling*.  This is especially true when you will pass a mix of variables and strings to the external executable program.  
 ```powershell
