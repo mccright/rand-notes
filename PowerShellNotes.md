@@ -118,6 +118,22 @@ else {
 ```
 
 
+## Query Active Directory and Write a Subset of the Respose to a CSV file.  
+
+```powershell  
+PS C:\tmp> Get-ADGroupMember -Identity "GroupName" | Get-ADUser -Properties Displayname,Title,EmailAddress,department | Select samAccountName,DisplayName,EmailAddress,department | Export-csv -path C:\tmp\GroupName.csv -NoTypeInformation
+```
+Which creates:
+```powershell  
+PS C:\tmp> more GroupName.csv
+
+"samAccountName","DisplayName","EmailAddress","department"
+
+"<loginID>","targetsLastName, targetsFirstName","emailName@company.com","Development"
+# ...followed by the rest of the group members
+```
+
+
 ## Using passed parameters with an external application  
 When your module will consume some passed parameters, some or all of which will be used by an external executable program, those parameters may require some special handling*.  This is especially true when you will pass a mix of variables and strings to the external executable program.  
 ```powershell
