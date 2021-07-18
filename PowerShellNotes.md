@@ -55,7 +55,7 @@ or highlight the timing output
 Write-Host ('My code duration..... ' + $myCodeDuration + " or " + $myCodeDuration.TotalSeconds) -foregroundcolor DarkBlue -backgroundcolor Yellow  
 ```
 
-## Using passed parameters (Active Directory example)  
+## Using passed parameters (Active Directory example to get information about a target's manager)  
 ```powershell
 Param(
         [Parameter(Mandatory=$False, HelpMessage="Enter userName or emailAddress values")]
@@ -78,7 +78,46 @@ else {
   Write-Host "Enter '-user' or '-email' values"
 }
 ```
-  
+
+
+## Using passed parameters (Active Directory example to get information about a target or to search by first or last name)  
+```powershell
+Param(
+                [Parameter(Mandatory=$False, HelpMessage="Enter userName, displayname, firstname, lastNam or emailAddress values")]
+                [string]$user,
+                [Parameter(Mandatory=$False)]
+                [string]$displayname,
+                [Parameter(Mandatory=$False)]
+                [string]$lastname,
+                [Parameter(Mandatory=$False)]
+                [string]$firstname,
+                [Parameter(Mandatory=$False)]
+                [string]$email
+                )
+
+# Assembled because I tired of using more standard tooling to identify user details.
+if ($user) {
+  Get-ADUser -Identity $user -Properties DisplayName,UserPrincipalName,whenCreated,CanonicalName,City,LastLogonDate,PasswordLastSet,mobile,MobilePhone,telephoneNumber,EmailAddress,physicalDeliveryOfficeName,Surname,telephoneNumber,Title,StreetAddress,Manager
+}
+if ($email) {
+  Get-ADUser -Filter {EmailAddress -eq $email} -Properties DisplayName,UserPrincipalName,whenCreated,CanonicalName,City,LastLogonDate,PasswordLastSet,mobile,MobilePhone,telephoneNumber,EmailAddress,physicalDeliveryOfficeName,Surname,telephoneNumber,Title,StreetAddress,Manager
+}
+if ($displayname) {
+  Get-ADUser -Filter {DisplayName -eq $displayname} -Properties DisplayName,UserPrincipalName,whenCreated,CanonicalName,City,LastLogonDate,PasswordLastSet,mobile,MobilePhone,telephoneNumber,EmailAddress,physicalDeliveryOfficeName,Surname,telephoneNumber,Title,StreetAddress,Manager
+}
+if ($lastname) {
+  Get-ADUser -Filter {Surname -eq $lastname} -Properties DisplayName | Select-Object -Property UserPrincipalName,DisplayName,Name
+}
+if ($firstname) {
+  Get-ADUser -Filter {GivenName -eq $firstname} -Properties DisplayName | Select-Object -Property UserPrincipalName,DisplayName,Name
+}
+else {
+  Write-Host "Enter '-user', '-displayname', or '-email' values"
+  Write-Host "Or to get a list of users, enter '-lastname' or '-firstname' to return better lookup options"
+}
+```
+
+
 ## Using passed parameters with an external application  
 When your module will consume some passed parameters, some or all of which will be used by an external executable program, those parameters may require some special handling*.  This is especially true when you will pass a mix of variables and strings to the external executable program.  
 ```powershell
