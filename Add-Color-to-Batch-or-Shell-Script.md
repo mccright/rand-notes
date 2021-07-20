@@ -1,4 +1,4 @@
-# Using Color In Batch/CMD/Bash Scripts  
+# Using Color In Batch/CMD/Bash/Python Scripts  
 
 I still use batch/cmd/bash scripts to help myself and others speed up repetitive tasks on Windows or Linux endpoints.  Yes, I understand that PowerShell, Python, and more exist, but I can code up many simple tasks with a batch/bash files much faster than with other languages.  If there is an important driver for one of those more powerfull languages, I use them, but economy drives to batch/bash for a range of repetitive activities.  Sometimes it is important to signal the user/operator about a notable event or condition and using color on the console/shell can help.  That is the rationale for this note.  
 
@@ -75,3 +75,13 @@ echo -e "\e[101mThis is Light Red background\e[0m"
 If this resonates with you, there are some useful resources to build on this idea:  
 * Wikipedia: [https://en.wikipedia.org/wiki/ANSI_escape_code](https://en.wikipedia.org/wiki/ANSI_escape_code)  
 * Colorpedia: [https://github.com/joowani/colorpedia/](https://github.com/joowani/colorpedia/)
+
+
+# Using Color In Python Console/Terminal Scripts  
+* TINGE - Output colored text in terminal [https://pypi.org/project/Tinge/](https://pypi.org/project/Tinge/)  
+* ansi-escape-room [https://pypi.org/project/ansi-escape-room/](https://pypi.org/project/ansi-escape-room/)  
+* tcolopy is a Python library to apply true color for terminal text [https://pypi.org/project/tcolorpy/](https://pypi.org/project/tcolorpy/)  
+* cs.ansi-colour: Convenience functions for ANSI terminal colour sequences [https://pypi.org/project/cs.ansi-colour/](https://pypi.org/project/cs.ansi-colour/)  
+* pyout: Terminal styling for structured data, with color [https://github.com/pyout/pyout](https://github.com/pyout/pyout)  
+* neotermcolor: ANSII Color formatting for output in terminal [https://pypi.org/project/neotermcolor/](https://pypi.org/project/neotermcolor/)  
+* Blessed is a broad library for making terminal apps that includes an interface to colors [https://pypi.org/project/blessed/](https://pypi.org/project/blessed/)  
