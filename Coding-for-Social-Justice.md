@@ -5,7 +5,7 @@ I just read a short essay by Eric Matthes "[Coding is Political](https://ehmatth
 So much of what happens today is in one way or another, mediated by code.  Real people, heartbeats, write code, or write code that writes code.  The resulting features and functionality are an expression of values and priorities.  People designing and writing code have power and can exercise that power.  
 
 More of that power needs to:
-1. Employ code to mine and explore data for indicators of inequities, privilege, and power as it pertains individual and collective -- human -- rights.  This work is needed to identify, quantify and characterize, provide context to any given injustice.  
+1. Employ code to mine and explore data for indicators of inequities, privilege, and power as it pertains individual and collective -- human -- rights.  This work is needed to identify, quantify and characterize, provide context to any material injustice.  
 2. Prioritize bending existing systems toward increasing social justice and to decreasing investments in features that are antithetical to social justice.  Resist contributing to injustice where you can.  
 
 DRAFT...
