@@ -106,6 +106,10 @@ The aim is to capture the following information about an action/event.
           The requirement to capture the why is dependant on the rules in place for the system using this library.  
 
 
+**NOTE:**  
+* Applications should notify administrators (*i.e., someone who cares*) if the logging system malfunctions or is unavailable.  
+ 
+
 ***References***
  * Thank you SANS for sending a large paper poster on this topic to goose me into starting on this page.  SANS Securing Web Application Technologies (SWAT) checklist poster, received via surface mail 06-17-2019.  The initial entries in this list were from the top left corner of the checklist side of the poster.  
  * Common Weakness Enumeration (CWE™) List [https://cwe.mitre.org/data/index.html](https://cwe.mitre.org/data/index.html)
