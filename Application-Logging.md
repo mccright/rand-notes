@@ -95,7 +95,6 @@ The information system must have the capability to provide and generate audit re
 ***Logging the GCHQ Way***
 TODO: [https://github.com/gchq/event-logging](https://github.com/gchq/event-logging) and [https://github.com/gchq/event-logging-schema](https://github.com/gchq/event-logging-schema)  
 ## What to Log -- From GCHQ  
-
 The aim is to capture the following information about an action/event.  
 
 * *Who* - Who performed the action, i.e the user ID or some other identifer to link the event to a user and details of the user's device.  
@@ -104,6 +103,13 @@ The aim is to capture the following information about an action/event.
 * *When* - The time the event happend.  
 * *Why* - The purpose and/or justification for their action, e.g. where compliance rules dictate that certain actions have prior approval.  
           The requirement to capture the why is dependant on the rules in place for the system using this library.  
+
+***Logging Advice from Ned Batchelder***  
+"Log message style guide" [https://nedbatchelder.com/text/log-style-guide.html](https://nedbatchelder.com/text/log-style-guide.html)  
+* Be professional  
+* Think like a support staffer  
+* Use a real log  
+* Use your log now  
 
 
 **NOTE:**  
