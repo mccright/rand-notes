@@ -1,5 +1,6 @@
 ## T-Mobile had another breach recently.  
 grrrrr....  
+On [2021-08-20 T-Mobile announced](https://www.reuters.com/technology/t-mobile-says-hackers-accessed-data-another-53-mln-subscribers-2021-08-20/) that unauthorized parties accessed personal information of more than 53 million current, former, and prospective customers (more than 5 million more people compared to the previous T-Mobile announcement).  
 
 Their on-going releases are at: [https://www.t-mobile.com/news/network/additional-information-regarding-2021-cyberattack-investigation](https://www.t-mobile.com/news/network/additional-information-regarding-2021-cyberattack-investigation)  
 
@@ -49,6 +50,10 @@ As we move quickly to protect you, we also want to equip you to protect yourself
 
 "The Cybersecurity 202: There was another massive data breach. People will probably forget it in a week." By Joseph Marks  
 [https://www.washingtonpost.com/politics/2021/08/19/cybersecurity-202-there-was-another-massive-data-breach-people-will-probably-forget-it-week/](https://www.washingtonpost.com/politics/2021/08/19/cybersecurity-202-there-was-another-massive-data-breach-people-will-probably-forget-it-week/)  
+
+"T-Mobile breach hits 53 million customers as probe finds wider impact." By Akanksha Rana  
+[https://www.reuters.com/technology/t-mobile-says-hackers-accessed-data-another-53-mln-subscribers-2021-08-20/](https://www.reuters.com/technology/t-mobile-says-hackers-accessed-data-another-53-mln-subscribers-2021-08-20/)  
+QUOTE: "T-mobile has had 6 other data breaches in the past 4 years," said Doug Schmidt, a professor of computer science at Vanderbilt University.  
 
 
 In this context, Facebook also had a huge breach recently as well:  
