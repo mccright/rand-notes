@@ -42,6 +42,9 @@ What you need to know and how we’re protecting you.
 "What you can do:  
 As we move quickly to protect you, we also want to equip you to protect yourself. It’s recommended that you take proactive steps regularly to protect your data and identity, and now’s a great time to do that. To be clear, we have no information that indicates any passwords, postpay PIN numbers, or financial or payment information have been compromised. Still, the following steps are always smart practices to help keep your account more secure. We encourage you to complete these actions as soon as possible:"  
 
+"T-Mobile: Breach Exposed SSN/DOB of 40M+ People." By Brian Krebs, August 18, 2021  
+[https://krebsonsecurity.com/2021/08/t-mobile-breach-exposed-ssn-dob-of-40m-people/](https://krebsonsecurity.com/2021/08/t-mobile-breach-exposed-ssn-dob-of-40m-people/)  
+
 "T-Mobile says hackers stole data of more than 40 million people -- The breach exposed social security numbers, driver’s license information and other personal data, the cellphone carrier says." By Hamza Shaban  
 [https://www.washingtonpost.com/business/2021/08/18/t-mobile-data-breach-hackers/](https://www.washingtonpost.com/business/2021/08/18/t-mobile-data-breach-hackers/)  
 
