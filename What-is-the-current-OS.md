@@ -32,6 +32,7 @@ or alias a one liner like:
 ```python
 python3 -c 'import platform;print(f"{platform.platform()} - {platform.version()}")'  
 ```
+see also: [https://note.nkmk.me/en/python-platform-system-release-version/](https://note.nkmk.me/en/python-platform-system-release-version/)  
 
 or  
 
