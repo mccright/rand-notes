@@ -27,6 +27,11 @@ or
 ```
 hostnamectl
 ```
+or alias a one liner like:  
+
+```python
+python3 -c 'import platform;print(f"{platform.platform()} - {platform.version()}")'  
+```
 
 or  
 
