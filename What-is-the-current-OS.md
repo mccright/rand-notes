@@ -27,3 +27,7 @@ or
 ```
 hostnamectl
 ```
+
+or  
+
+add an alias for a Python script like: [https://github.com/easybuilders/easybuild/wiki/OS_flavor_name_version](https://github.com/easybuilders/easybuild/wiki/OS_flavor_name_version)  
