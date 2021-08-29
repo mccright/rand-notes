@@ -10,6 +10,8 @@ Assume that you want to share a directory called *~/Documents/eBooks* on an Ubun
 
 Install Samba.
 ```console
+sudo apt update
+sudo apt upgrade -y
 sudo apt install samba
 ```
 Set up the Samba configuration file.
@@ -24,6 +26,16 @@ Then add the following to the file:
   read only = yes
   browsable = yes
 ```
+Change *usershare allow guests = yes* to:
+```console
+usershare allow guests = no
+```
+Turn off printer sharing if you don't need it.  In the [print$] section, change *browseable = yes* to:
+```console
+   browseable = no
+
+```
+Give some thought to whether you want to have Unix and Samba passwords synchronized -- *unix password sync = yes/no*.  See [https://www.samba.org/samba/docs/using_samba/ch09.html](https://www.samba.org/samba/docs/using_samba/ch09.html).  
 
 Now that you have told Samba what to do, restart the Samba service so it will pick up your demands and tell the firewall to permit samba traffic.
 ```console
