@@ -49,6 +49,7 @@ sudo smbpasswd -a <username>
 
 
 
-
-[https://en.wikipedia.org/wiki/Samba_(software)](https://en.wikipedia.org/wiki/Samba_(software).  
+#### REFERENCES:  
+* [https://www.samba.org/samba/](https://www.samba.org/samba/)  
+* [https://en.wikipedia.org/wiki/Samba_(software)](https://en.wikipedia.org/wiki/Samba_(software)](https://en.wikipedia.org/wiki/Samba_(software)](https://en.wikipedia.org/wiki/Samba_(software)).  
 
