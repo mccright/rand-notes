@@ -14,7 +14,7 @@ How do you know your plan is working?  Identify and then start documenting some 
 
 Your financial planner will take your information, run a set of Monte-Carlo (or other) simulations, and report on the probability of your plan and your behaviors against that plan, meeting your goal(s).  
 
-As a reality check, you can easily review how much *annual income* a given pile of financial assets can reliably generate in these extremely low interest rate times.  See the table below:  
+As a reality check, you can easily review how much *annual income* a given pile of financial assets can reliably generate in these extremely low interest rate times.  If you like cash, that 2% low end it too high.  Keeping your money in cash or equivalents will deliver a lot less return than that 2%.  See the table below:  
 
 |Assets| 2.0% | 2.5% | 3.0% | 3.5% | 4.0% | 4.5% | 5.0% | 5.5% | 6.0% |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -66,8 +66,14 @@ Some portion of consumption/spending is sometimes discretionary.  In the United 
 
 The *percent of guaranteed income* columns represent what David Blanchett's calculations estimate how much you can withdraw in your first year of retirement.  The annual amount is then indexed upward to match inflation.  
 
+
+### Plan for what your retirement will be  
+Here is an essay that will help you get started thinking: ["How to Enjoy Retirement Without Going Broke"](https://www.nytimes.com/2021/08/27/opinion/how-to-enjoy-retirement-without-going-broke.html), By Petter Coy, 2021-08-28,   
+
+
 #### References:  
-"The impact of Guaranteed Income and Dynamic Withdrawals on Safe Initial Withdrawal Rates" by [David Blanchett](http://www.davidmblanchett.com/research), Journal of Financial Planning  
-[https://www.financialplanningassociation.org/article/journal/APR17-impact-guaranteed-income-and-dynamic-withdrawals-safe-initial-withdrawal-rates](https://www.financialplanningassociation.org/article/journal/APR17-impact-guaranteed-income-and-dynamic-withdrawals-safe-initial-withdrawal-rates)    
-AARP Bulletin (*paper copy*), "Real Possibilities" October 2019, page 16.
+* "How to Enjoy Retirement Without Going Broke" by Peter Coy, 20201-08-27, [https://www.nytimes.com/2021/08/27/opinion/how-to-enjoy-retirement-without-going-broke.html](https://www.nytimes.com/2021/08/27/opinion/how-to-enjoy-retirement-without-going-broke.html)  
+* "Retirement Income Analysis with scenario matrices." by William F. Sharpe, [https://web.stanford.edu/~wfsharpe/RISMAT/](https://web.stanford.edu/~wfsharpe/RISMAT/)  
+* "The impact of Guaranteed Income and Dynamic Withdrawals on Safe Initial Withdrawal Rates" by [David Blanchett](http://www.davidmblanchett.com/research), Journal of Financial Planning  [https://www.financialplanningassociation.org/article/journal/APR17-impact-guaranteed-income-and-dynamic-withdrawals-safe-initial-withdrawal-rates](https://www.financialplanningassociation.org/article/journal/APR17-impact-guaranteed-income-and-dynamic-withdrawals-safe-initial-withdrawal-rates)    
+AARP Bulletin (*paper copy*), "Real Possibilities" October 2019, page 16.  
 
