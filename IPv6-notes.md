@@ -69,4 +69,4 @@ sys     0m1.768s
 Helpful references:  
 * [https://unix.stackexchange.com/questions/586334/how-to-enable-mdns-for-ipv6-on-ubuntu-and-debian](https://unix.stackexchange.com/questions/586334/how-to-enable-mdns-for-ipv6-on-ubuntu-and-debian)  
 * [https://ipv6-or-no-ipv6.blogspot.com/2009/02/enabling-ipv6-support-in-avaha.html](https://ipv6-or-no-ipv6.blogspot.com/2009/02/enabling-ipv6-support-in-avaha.html)  
-
+* [https://mediacomcc.custhelp.com/app/social/questions/detail/qid/138/~/ipv6-settings/session/](https://mediacomcc.custhelp.com/app/social/questions/detail/qid/138/~/ipv6-settings/session/)
