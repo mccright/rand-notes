@@ -5,7 +5,7 @@
 
 | # |          2021          |        2017         |        2013        |
 |---|------------------------|---------------------|--------------------|
-| 1 ||Broken Access Control  |     Injection       |      Injection     |
+| 1 | Broken Access Control  |     Injection       |      Injection     |
 | 2 |Cryptographic Failures |Broken Authentication|Broken Authentication and Session Management|
 | 3 |    Injection          |Sensitive Data Exposure|Cross-Site Scripting (XSS)|
 | 4 |Insecure Design        |XML External Entities (XXE)|Insecure Direct Object References|
