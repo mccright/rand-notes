@@ -29,21 +29,12 @@
 |         2010          |        2007         |        2004        |
 |-----------------------|---------------------|--------------------|
 |Injection|Cross-Site Scripting (XSS)|Unvalidated Input|
-|-----------------------|---------------------|--------------------|
 |Cross-Site Scripting (XSS)|Injection Flaws|Broken Access Control|
-|-----------------------|---------------------|--------------------|
 |Broken Authentication and Session Management|Malicious File Execution|Broken Authentication and Session Management|
-|-----------------------|---------------------|--------------------|
 |Insecure Direct Object References|Insecure Direct Object Reference|Cross Site Scripting|
-|-----------------------|---------------------|--------------------|
 |Cross-Site Request Forgery (CSRF)|Cross-Site Request Forgery (CSRF)|Buffer Overflow|
-|-----------------------|---------------------|--------------------|
 |Security Misconfiguration|Information Leakage and Improper Error Handling|Injection Flaws|
-|-----------------------|---------------------|--------------------|
 |Insecure Cryptographic Storage|Broken Authentication and Session Management|Improper Error Handling|
-|-----------------------|---------------------|--------------------|
 |Failure to Restrict URL Access|Insecure Cryptographic Storage|Insecure Storage|
-|-----------------------|---------------------|--------------------|
 |Insufficient Transport Layer Protection|Insecure Communications|Application Denial of Service|
-|-----------------------|---------------------|--------------------|
 |Unvalidated Redirects and Forwards|Failure to Restrict URL Access|Insecure Configuration Management|
