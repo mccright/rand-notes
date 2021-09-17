@@ -3,7 +3,7 @@
  
 ### OWASP Top 10: [https://owasp.org/Top10/](https://owasp.org/Top10/)  
  
-| # |          2021          |        2017         |        2013        |
+| # |          2021          |        [2017](https://github.com/OWASP/www-project-top-ten/blob/master/index.md)         |        2013        |
 |---|------------------------|---------------------|--------------------|
 | 1 | Broken Access Control  |     Injection       |      Injection     |
 | 2 |Cryptographic Failures |Broken Authentication|Broken Authentication and Session Management|
