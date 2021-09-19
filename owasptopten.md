@@ -17,7 +17,7 @@
 | 10|Server-Side Request Forgery|Insufficient Logging & Monitoring|Unvalidated Redirects and Forwards|
 
 
-| # |          2010          |        2007         |        2004        |
+| # |          [2010](https://github.com/OWASP/Top10/tree/master/archives)          |        [2007](https://github.com/OWASP/Top10/tree/master/archives)         |        [2004](https://github.com/OWASP/Top10/tree/master/archives)        |
 |---|------------------------|---------------------|--------------------|
 | 1 |Injection|Cross-Site Scripting (XSS)|Unvalidated Input|
 | 2 |Cross-Site Scripting (XSS)|Injection Flaws|Broken Access Control|
