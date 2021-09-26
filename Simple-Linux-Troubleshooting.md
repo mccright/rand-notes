@@ -23,3 +23,12 @@ sane-find-scanner
 ```
 Then ensure that the ATTR{idVendor} and ATTR{idProduct} in /etc/udev/??-scanner.rules match what it finds. And that you are in the GROUP:="groupName" listed there as well.  
 
+### All the advice I get says my file system is filled -- but it isn't.  What's up?  
+If your file systems still have pleanty of free space:  
+```terminal
+df -k
+```
+Then maybe you are out of inodes.  Check that with 'df' as well:  
+```terminal
+df -i
+```
