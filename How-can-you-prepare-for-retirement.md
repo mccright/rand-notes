@@ -8,8 +8,16 @@ Getting realistic and explicit about financing your retirement is a topic that i
 
 Check the Social Security Administration's [Retirement Benefits Estimator](https://www.ssa.gov/benefits/retirement/estimator.html) to get an idea of what your *guaranteed* income stream may be.  For most, it will not be enough and you will need to cobble together additional means of retirement support over the course of your working life.  
 
-How do you prepare for retirement?  The literature seems to suggest that establishing and periodically grooming a plan with the assistance of a formal finanical advisor works best.  Also, pick a target age for retirement to use in calculations that will test the viability of that plan.  
-And start as early as you can so that the magic of compounding has lots of time to come to your aid.  
+How do you prepare for retirement?  
+
+The literature seems to suggest that establishing and periodically grooming a plan with the assistance of a formal finanical advisor works best.  Also, pick a target age for retirement to use in calculations that will test the viability of that plan.  
+And start as early as you can so that the magic of compounding has lots of time to come to your aid.  I understand that not everyone on this journey starts in equal circumstances.  Assembling a diverse portfolio requires resources.  In 2019 The Federal Reserve published a paper outlining [disparities in wealth by race and ethnicity](https://www.federalreserve.gov/econres/notes/feds-notes/disparities-in-wealth-by-race-and-ethnicity-in-the-2019-survey-of-consumer-finances-20200928.htm) -- showing that there are sizeable differences in wealth by race and ethnicity, most starkly between young Black and young White families:
+```
+The median young Black family has almost no wealth ($600). In contrast, the median young White family has a wealth of $25,400. Young Hispanic and other families fall in between, with $11,200 and $13,500 in median wealth, respectively.  
+```
+
+Changing that disparity is critically important, but is beyond the scope of this argument.  Regardless of the scale of your available resources, the most important short term priority is to start building wealth.  
+
 How do you know your plan is working?  Identify and then start documenting some dimensions of that plan.  Tracking Savings habits, credit card (or other high-interest) debt, emergency savings, and asset portfolio size-and-risk might be useful measures for determining the succcess of your plan.  
 
 Your financial planner will take your information, run a set of Monte-Carlo (or other) simulations, and report on the probability of your plan and your behaviors against that plan, meeting your goal(s).  
