@@ -16,7 +16,13 @@ or
 ```terminal
 journalctl -b -g theError
 ```
+or  
+```terminal
+systemctl list-units --failed
+```
+to see what might have failed to start.  
 
+****
 ### Where is my scanner?  
 ```terminal
 scanimage -L
