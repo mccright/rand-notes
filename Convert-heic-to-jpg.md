@@ -1,6 +1,6 @@
 # Use libheif to Convert iOS heif images to jpg format  
 
-Apple products that emit images default to heif format, that is still unfriendly in some endpoint and server environments.  
+Apple products that emit images default to heif format, that is still unfriendly in some endpoint and server environments.  That leaves conversion a regular duty.  
 
 leibheif is at [https://github.com/strukturag/libheif](https://github.com/strukturag/libheif)  
 
