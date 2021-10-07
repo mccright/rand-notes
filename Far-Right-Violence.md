@@ -42,3 +42,5 @@ Initiatives at the state and federal level that restrict the right to peaceful a
 [https://www.icnl.org/usprotestlawtracker/?location=&status=&issue=&date=custom&date_from=2020-01-01&date_to=2020-12-31&type=](https://www.icnl.org/usprotestlawtracker/?location=&status=&issue=&date=custom&date_from=2020-01-01&date_to=2020-12-31&type=)  
 Initiatives at the state and federal level that restrict the right to peaceful assembly - starting 2021: 
 [https://www.icnl.org/usprotestlawtracker/?location=&status=&issue=&date=custom&date_from=2021-01-01&date_to=2021-12-31&type=](https://www.icnl.org/usprotestlawtracker/?location=&status=&issue=&date=custom&date_from=2021-01-01&date_to=2021-12-31&type=)  
+
+Why do some individuals and groups choose authoritarianism, vigilantism, and ideological violence?  Thomas B. Edsall wrote an interesting essay about research addressing that and related questions.  See "Trump True Believers Have Their Reasons." By Thomas B. Edsall, 2021-10-06 [https://www.nytimes.com/2021/10/06/opinion/trump-voters-2020-election.html](https://www.nytimes.com/2021/10/06/opinion/trump-voters-2020-election.html)  
