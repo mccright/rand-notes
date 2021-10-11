@@ -10,8 +10,8 @@ Check the Social Security Administration's [Retirement Benefits Estimator](https
 
 How do you prepare for retirement?  
 
-The literature seems to suggest that establishing and periodically grooming a plan with the assistance of a formal finanical advisor works best.  Also, pick a target age for retirement to use in calculations that will test the viability of that plan.  
-And start as early as you can so that the magic of compounding has lots of time to come to your aid.  I understand that not everyone on this journey starts in equal circumstances.  Assembling a diverse portfolio requires resources.  In 2019 The Federal Reserve published a paper outlining [disparities in wealth by race and ethnicity](https://www.federalreserve.gov/econres/notes/feds-notes/disparities-in-wealth-by-race-and-ethnicity-in-the-2019-survey-of-consumer-finances-20200928.htm) -- showing that there are sizeable differences in wealth by race and ethnicity, most starkly between young Black and young White families:
+The literature seems to suggest that establishing and periodically grooming a plan with the assistance of a formal finanical advisor works best.  Also, pick a target age for retirement to use in calculations that will test the viability of that plan over time.  
+And start as early as you can so that the magic of compounding has enough time to come to your aid.  I understand that not everyone on this journey starts in equal circumstances.  Assembling a diverse portfolio requires resources.  In 2019 The Federal Reserve published a paper outlining [disparities in wealth by race and ethnicity](https://www.federalreserve.gov/econres/notes/feds-notes/disparities-in-wealth-by-race-and-ethnicity-in-the-2019-survey-of-consumer-finances-20200928.htm) -- showing that there are sizeable differences in wealth by race and ethnicity, most starkly between young Black and young White families:
 ```
 The median young Black family has almost no wealth ($600). In contrast, the median young White family has a wealth of $25,400. Young Hispanic and other families fall in between, with $11,200 and $13,500 in median wealth, respectively.  
 ```
