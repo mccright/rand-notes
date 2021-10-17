@@ -9,7 +9,7 @@ There is another thread of Trumpist and right wing political activity -- introdu
 This narrative ignores the facts about terrorist activity in the U.S.  
 Since the early 1990s, far right terrorist attacks and plots in the U.S. outnumber those by any other group.  
 There have been **more than twice as many far right attacks and plots in the U.S.** compared to far left terrorists.  
-There have been **more than six and a half times more killings by far right terrorists** than attributable to far left terrorists, and the proportion of far right killings have been increasing in the last 6 years.  
+There have been **more than six and a half times more killings by far right terrorists** than attributable to far left terrorists, and the proportion of far right killings have been increasing in the last 6 years.  Far Right extremists have been [increasingly successful at marketing race-focused conspiracy theories via social media](https://hopenothate.org.uk/wp-content/uploads/2021/10/google-report-2021-10-v3.pdf) and linking them to the "*need*" for violent response.  
   
 *Facts* about individual's and group's ideology are not always easily defined, especially around the edges.  Analysis of the Economist and the Center for Strategic & International Studies are both included below for contrast:  
 
@@ -44,3 +44,5 @@ Initiatives at the state and federal level that restrict the right to peaceful a
 [https://www.icnl.org/usprotestlawtracker/?location=&status=&issue=&date=custom&date_from=2021-01-01&date_to=2021-12-31&type=](https://www.icnl.org/usprotestlawtracker/?location=&status=&issue=&date=custom&date_from=2021-01-01&date_to=2021-12-31&type=)  
 
 Why do some individuals and groups choose authoritarianism, vigilantism, and ideological violence?  Thomas B. Edsall wrote an interesting essay about research addressing that and related questions.  See "Trump True Believers Have Their Reasons." By Thomas B. Edsall, 2021-10-06 [https://www.nytimes.com/2021/10/06/opinion/trump-voters-2020-election.html](https://www.nytimes.com/2021/10/06/opinion/trump-voters-2020-election.html)  
+
+Social media platforms facilitate increasingly successful marketing of 'anti-Semitism + conspiracy theories + calls to violence:' "Antisemitism in the Digital Age." By Gregory Davis, Morgan Finnsiö, Patrik Hermansson, David Lawrence, Joe Mulhall, Simone Rafael, Veronika Kracher, Theresa Lehmann, and Eva Kappl; Edited by Joe Mulhall, October 2021 [https://hopenothate.org.uk/wp-content/uploads/2021/10/google-report-2021-10-v3.pdf](https://hopenothate.org.uk/wp-content/uploads/2021/10/google-report-2021-10-v3.pdf) and "Covid conspiracy theories are driving people to anti-Semitism online." by Charlotte Jee [https://www.technologyreview.com/2021/10/13/1037035/covid-conspiracy-theories-are-driving-people-to-antisemitism-online/](https://www.technologyreview.com/2021/10/13/1037035/covid-conspiracy-theories-are-driving-people-to-antisemitism-online/).  
