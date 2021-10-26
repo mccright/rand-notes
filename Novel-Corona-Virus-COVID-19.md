@@ -137,7 +137,7 @@ Dr. David Dowdy, an infectious disease epidemiologist at Johns Hopkins Bloomberg
 
 
 **Treatments via Monoclonal Antibody Therapies or Anti-Viral Molnupiravir**  
-First, get fully vaccinated against COVID-19.  Treating active disease is no way out of this pandemic.  Getting fully vaccinated against COVID-19 is the only path to safety and to dampening the evolution of the virus that causes COVID-19.  After you are fully vaccinated, you are still at some risk of infection.  Monoclonal antibody therapies and the newer Merk/Ridgeback Biotherapeutic molnupiravir pill may reduce your symptoms and speed recovery.  
+First, get fully vaccinated against COVID-19.  Protect yourself and those around you -- and slow the cycle of infection that has imposed such a heavy cost on so many.  Treating active disease is no way out of this pandemic.  Getting fully vaccinated against COVID-19 is the only path to safety and to dampening the evolution of the virus that causes COVID-19.  After you are fully vaccinated, you are still at some risk of infection.  If you catch a break-through infection, monoclonal antibody therapies (infusions) and the newer Merk/Ridgeback Biotherapeutic molnupiravir pill may reduce your symptoms and speed recovery.  Merck has asked European Medicines Agency U.S. Food and Drug Administration to approve molnupiravir, but neither have done so as of late October 2021.  
 
 
 **What About Those COVID-19 Variants?**  
