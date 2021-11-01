@@ -1,17 +1,18 @@
-## Trojan Source Vulnerability  
+# Trojan Source Vulnerability  
 
 This is a reference to *recently* popularized abuse using invisible Unicode characters that mark source code to be right-to-left or left-to-right, enabling maliciously encoded sourcode that appears different to a compiler and to the human eye -- enabling the introductin and execution of arbitrary code.  
 
-CVE: CVE-2021-42574 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42574](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42574)
+CVE: CVE-2021-42574 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42574](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42574)  
 
-Here is an example from 2017: [https://github.com/golang/go/issues/20209](https://github.com/golang/go/issues/20209)  
-Here is a recent Krebs article highlighing the scope and potential severity of this issue: [https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/](https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/)  
-Krebs references "Trojan Source: Invisible Vulnerabilities." By Nicholas Boucher and Ross Anderson: [https://www.trojansource.codes/trojan-source.pdf](https://www.trojansource.codes/trojan-source.pdf)  
+* Here is an example from 2017: [https://github.com/golang/go/issues/20209](https://github.com/golang/go/issues/20209)  
+* Here is a recent Krebs article highlighing the scope and potential severity of this issue: [https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/](https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/)  
+* Krebs references "Trojan Source: Invisible Vulnerabilities." By Nicholas Boucher and Ross Anderson: [https://www.trojansource.codes/trojan-source.pdf](https://www.trojansource.codes/trojan-source.pdf)  
 
+---------------------
 
-TABLE I from [https://www.trojansource.codes/trojan-source.pdf](https://www.trojansource.codes/trojan-source.pdf)  
-### UNICODE DIRECTIONALITY FORMATTING CHARACTERS RELEVANT TO REORDERING ATTACKS.  
-### [See the BIDI Specification For the Complete List](https://www.unicode.org/reports/tr9/tr9-42.html).  
+Table I from [https://www.trojansource.codes/trojan-source.pdf](https://www.trojansource.codes/trojan-source.pdf)  
+## Unicode Directionalty Formatting Characters Relevant to Reordering Attacks.  
+#### [See the BIDI Specification For the Complete List](https://www.unicode.org/reports/tr9/tr9-42.html).  
 
 | Abbr.  | Code Point | Name | Description |
 |--------|------------|-------------------------|-----------------------------------------------|
