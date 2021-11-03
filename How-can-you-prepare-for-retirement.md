@@ -1,12 +1,12 @@
 ## How Can You Prepare for Retirement?
 
 Regardless of your current age, all of us are getting older.  
-At some age many of us want to stop the *grind* of daily work to generate an income -- to *retire*.  For any given individual, *retirement* may mean something different.  For most of us it will be unrecognizable from commercials showing *retirees* on sailing yachts or beach mansions.  In the United States, though, entertaining our retirement ideas will require an income stream.   
+At some age many of us want to stop the *grind* of daily work to generate an income -- to *retire*.  For any given individual, *retirement* may mean something different.  For most of us it will be unrecognizable from commercials showing *retirees* on sailing yachts or at beach mansions.  In the United States, though, entertaining our retirement ideas will require an income stream.   
 
 Even if we needed or wanted to continue 'working' for income, many of us will suffer physical and/or cognative decline in ways that will make doing so impractical.  
 Getting realistic and explicit about financing your retirement is a topic that is easy to neglect.  Resist that path.  
 
-Check the Social Security Administration's [Retirement Benefits Estimator](https://www.ssa.gov/benefits/retirement/estimator.html) to get an idea of what your *guaranteed* income stream may be.  For most, it will not be enough and you will need to cobble together additional means of retirement support over the course of your working life.  
+Check the Social Security Administration's [Retirement Benefits Estimator](https://www.ssa.gov/benefits/retirement/estimator.html) to get an idea of what your *guaranteed* income stream may be -- or their [Quick Calculator](https://www.ssa.gov/OACT/quickcalc/) for an estimate.  For most, it will not be enough and you will need to cobble together additional means of retirement support over the course of your working life.  
 
 How do you prepare for retirement?  
 
@@ -16,7 +16,7 @@ And start as early as you can so that the magic of compounding has enough time t
 The median young Black family has almost no wealth ($600). In contrast, the median young White family has a wealth of $25,400. Young Hispanic and other families fall in between, with $11,200 and $13,500 in median wealth, respectively.  
 ```
 
-Changing that disparity is critically important, but is beyond the scope of this argument.  Regardless of the scale of your available resources, the most important short term priority is to start building wealth.  
+Changing that disparity is critically important, but is beyond the scope of this argument.  The most recent [Federal Reserve data](https://www.federalreserve.gov/econres/scfindex.htm) says that only 54.5 percent of Americans ages 55 to 64 have retirement accounts.  Regardless of the scale of your available resources, the most important short term priority is to start building wealth.
 
 How do you know your plan is working?  Identify and then start documenting some dimensions of that plan.  Tracking Savings habits, credit card (or other high-interest) debt, emergency savings, and asset portfolio size-and-risk might be useful measures for determining the succcess of your plan.  
 
