@@ -11,18 +11,35 @@ Check the Social Security Administration's [Retirement Benefits Estimator](https
 How do you prepare for retirement?  
 
 The literature seems to suggest that establishing and periodically grooming a plan with the assistance of a formal finanical advisor works best.  Also, pick a target age for retirement to use in calculations that will test the viability of that plan over time.  
-And start as early as you can so that the magic of compounding has enough time to come to your aid.  I understand that not everyone on this journey starts in equal circumstances.  Assembling a diverse portfolio requires resources.  In 2019 The Federal Reserve published a paper outlining [disparities in wealth by race and ethnicity](https://www.federalreserve.gov/econres/notes/feds-notes/disparities-in-wealth-by-race-and-ethnicity-in-the-2019-survey-of-consumer-finances-20200928.htm) -- showing that there are sizeable differences in wealth by race and ethnicity, most starkly between young Black and young White families:
+And start as early as you can so that the magic of compounding has enough time to come to your aid.  Because there are always jerks who want to take your money, finding a qualified and trustworthy financial advisor that is the right *fit* for you remains a bit of a challenge.
+
+* See: "Ten Things to Consider Before You Make Investing Decisions." from the U.S. SEC’s Office of Investor Education and Advocacy [https://www.sec.gov/investor/pubs/tenthingstoconsider.htm](https://www.sec.gov/page/investor-section-landing)  
+
+* Check every candidate to ensure they are trained and licensed:
+  * Investment Adviser Public Disclosure website [https://adviserinfo.sec.gov/](https://adviserinfo.sec.gov/)  
+  * Investor Alerts and Bulletins [https://www.sec.gov/investor/alerts](https://www.sec.gov/investor/alerts)  
+
+* Don't casually transfer your retirement money toward a financial advisor's control (or simply to where they *earn* commissions) without reading "Questions You Should Consider Asking Before You Initiate Your Account Transfer." [https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-79](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-79)  
+
+* Think about where *your* money is going -- and make informed-enough decisions about it:  
+  * Invest with your conscience fully engaged.  
+  * Although "ESG" scores and comparisons are imperfect, they may be helpful.  
+  * Some investments remain opaque.  It may require some effort to understand which industries and/or countries your investments support.  For example: "Investor Bulletin:  U.S.-Listed Companies Operating Chinese Businesses Through a VIE Structure." Sept. 20, 2021 [https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-95](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-95)  
+
+I understand that not everyone on this journey starts in equal circumstances.  Assembling a diverse portfolio requires resources.  In 2019 The Federal Reserve published a paper outlining [disparities in wealth by race and ethnicity](https://www.federalreserve.gov/econres/notes/feds-notes/disparities-in-wealth-by-race-and-ethnicity-in-the-2019-survey-of-consumer-finances-20200928.htm) -- showing that there are sizeable differences in wealth by race and ethnicity, most starkly between young Black and young White families:
 ```
 The median young Black family has almost no wealth ($600). In contrast, the median young White family has a wealth of $25,400. Young Hispanic and other families fall in between, with $11,200 and $13,500 in median wealth, respectively.  
 ```
 
 Changing that disparity is critically important, but is beyond the scope of this argument.  The most recent [Federal Reserve data](https://www.federalreserve.gov/econres/scfindex.htm) says that only 54.5 percent of Americans ages 55 to 64 have retirement accounts.  Regardless of the scale of your available resources, the most important short term priority is to start building wealth.
 
+There are some useful tools and information at: SEC Investor.gov Publications and Research (includes financial tools and calculators) [https://www.investor.gov/introduction-investing/general-resources/publications-and-research](https://www.investor.gov/introduction-investing/general-resources/publications-and-research)  
+
 How do you know your plan is working?  Identify and then start documenting some dimensions of that plan.  Tracking Savings habits, credit card (or other high-interest) debt, emergency savings, and asset portfolio size-and-risk might be useful measures for determining the succcess of your plan.  
 
 Your financial planner will take your information, run a set of Monte-Carlo (or other) simulations, and report on the probability of your plan and your behaviors against that plan, meeting your goal(s).  
 
-As a reality check, you can easily review how much *annual income* a given pile of financial assets can reliably generate in these extremely low interest rate times.  If you like cash, that 2% low end it too high.  Keeping your money in cash or equivalents will deliver a lot less return than that 2%.  See the table below:  
+When you approach or enter *retirement,* your willingness to assume risks in equity, commodity, or other markets may evaporate.  It is a challenge, though, to generate an income stream using only the safest of financial instruments (cash, or near-cash equivalents).  Safety does not pay today -- you may receive less than one half of one percent interest in your local bank.  As a reality check, you can easily review how much *annual income* a given pile of financial assets can reliably generate in these extremely low interest rate times.  If you like cash, that 2% low end is far too high.  Storing your money in cash or equivalents will deliver a lot less return than that 2%.  See the table below:  
 
 |Assets| 2.0% | 2.5% | 3.0% | 3.5% | 4.0% | 4.5% | 5.0% | 5.5% | 6.0% |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
