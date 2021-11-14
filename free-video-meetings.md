@@ -1,5 +1,6 @@
-## Free Video Chat Services
+## Free Video Chat Services  
 
+Each of these has at least a usable free option:
 * Zoom [https://zoom.us/](https://zoom.us/)  
 * Teams [https://www.microsoft.com/en-us/microsoft-teams/teams-for-home](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)  
 * Jitsi Meet [https://meet.jit.si/](https://meet.jit.si/)  
