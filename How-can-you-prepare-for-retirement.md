@@ -93,6 +93,13 @@ Maybe this version is a little more realistic on the low end:
 
 The model below is from an AARP Bulletin retelling of "The impact of Guaranteed Income and Dynamic Withdrawals on Safe Initial Withdrawal Rates" by David Blanchett, as well as my reading of the same.  
 
+Those upper rows refer to material wealth.  Who has that kind of money?  Most don't.  
+    In “The 9.9 Percent,” Matthew Stewart noted that in 1963, the median household would have needed 10 times as much wealth to reach the middle of the 9.9 percent. Today, it would need 24 times as much wealth.
+    He also reported that the 9.9 percent group started with a minimum of $1.2 million in assets...  
+    Quoted from a review by Eyal Press: [https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html](https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html)  
+
+Preparing for retirement is not a race to amass huge sums of liquid assets.  But for most of us, it requires an honest reckoning with our income needs and what we might have coming from Social Security -- and if you are lucky, some employment-related retirement payments.  Expect that you will need additional sources of income.  Try to define what that means in dollars per unit of time, and then begin assembling the means to generate that income stream.
+
 ### Share of your financial resources composed of guaranteed income  
 
 To use the table below, gather the following information:  
