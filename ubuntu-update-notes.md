@@ -3,7 +3,7 @@
 ## Kernel update results in broken WiFi
 After updating kernel *5.11.0-34-generic* wireless driver failed to recognize my laptop's WiFi card.  
 
-A quick search fount an Ubuntu bug report that had exactly my symptom, which looked like:  
+A quick search found an Ubuntu bug report that had exactly my symptom, which looked like:  
 [https://bugs.launchpad.net/ubuntu/+source/initramfs-tools/+bug/1938983](https://bugs.launchpad.net/ubuntu/+source/initramfs-tools/+bug/1938983)  
 ```terminal
 update-initramfs: Generating /boot/initrd.img-5.11.0-34-generic  
