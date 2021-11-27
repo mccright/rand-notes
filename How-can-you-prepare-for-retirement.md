@@ -6,12 +6,16 @@ At some age many of us want to stop the *grind* of daily work to generate an inc
 Even if we needed or wanted to continue 'working' for income, many of us will suffer physical and/or cognative decline in ways that will make doing so impractical.  
 Getting realistic and explicit about financing your retirement is a topic that is easy to neglect.  Resist that path.  
 
-Check the Social Security Administration's [Retirement Benefits Estimator](https://www.ssa.gov/benefits/retirement/estimator.html) to get an idea of what your *guaranteed* income stream may be -- or their [Quick Calculator](https://www.ssa.gov/OACT/quickcalc/) for an estimate.  For most, it will not be enough and you will need to cobble together additional means of retirement support over the course of your working life.  
+Check the Social Security Administration's [Retirement Benefits Estimator](https://www.ssa.gov/benefits/retirement/estimator.html) to get an idea of what your *guaranteed* income stream may be -- or use their [Quick Calculator](https://www.ssa.gov/OACT/quickcalc/) for an estimate.  For most, it will not be enough to meet your wishes and you will need to cobble together additional means of retirement support over the course of your working life.  
 
 How do you prepare for retirement?  
 
 The literature seems to suggest that establishing and periodically grooming a plan with the assistance of a formal finanical advisor works best.  Also, pick a target age for retirement to use in calculations that will test the viability of that plan over time.  
-And start as early as you can so that the magic of compounding has enough time to come to your aid.  Because there are always jerks who want to take your money, finding a qualified and trustworthy financial advisor that is the right *fit* for you remains a bit of a challenge.
+And start as early as you can so that *the magic of compounding* has enough time to come to your aid -- while remembering that:  
+  * Future gains are not guaranteed -- this is true for all types of investing.  Securities and markets go up AND they go down (*i.e., increase and decrease in value*).  At any given point in time, historical patterns are not always useful as illustrations of future trends.  This issue is especially true for shorter timelines.  
+  * Measured risk may be an to your advantage in many contexts.  Storing *investment* money in savings accounts -- or even worse, in your home -- is not a *safe* investment strategy because of the likelihood of loss to inflation.  
+  * Your behaviors can exaggerate the influence of securities price/value changes.  For example, selling at the bottom or buying at the peak prices can *lock in* losses.  I have a little experience with both and have learned that for me well-trained, experienced and mature advice helps me make better decisions.  
+  * Because there are always jerks and grifters who want to take your money, finding a qualified and trustworthy financial advisor that is the right *fit* for you remains a bit of a challenge.
 
 * See: "Ten Things to Consider Before You Make Investing Decisions." from the U.S. SEC’s Office of Investor Education and Advocacy [https://www.sec.gov/investor/pubs/tenthingstoconsider.htm](https://www.sec.gov/page/investor-section-landing)  
 
@@ -19,19 +23,29 @@ And start as early as you can so that the magic of compounding has enough time t
   * Investment Adviser Public Disclosure website [https://adviserinfo.sec.gov/](https://adviserinfo.sec.gov/)  
   * Investor Alerts and Bulletins [https://www.sec.gov/investor/alerts](https://www.sec.gov/investor/alerts)  
 
+* Familiarize yourself with signs of a grifter/con-artist [https://www.businessinsider.com/7-tell-tale-signs-of-a-con-artist-2016-3](https://www.businessinsider.com/7-tell-tale-signs-of-a-con-artist-2016-3)  
+
 * Don't casually transfer your retirement money toward a financial advisor's control (or simply to where they *earn* commissions) without reading "Questions You Should Consider Asking Before You Initiate Your Account Transfer." [https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-79](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-79)  
 
 * Think about where *your* money is going -- and make informed-enough decisions about it:  
   * Invest with your conscience fully engaged.  
-  * Although "ESG" scores and comparisons are imperfect, they may be helpful.  
+  * Although "[ESG](https://en.wikipedia.org/wiki/Environmental,_social_and_corporate_governance)" scores and comparisons are imperfect, they may be helpful, they provide context.  
   * Some investments remain opaque.  It may require some effort to understand which industries and/or countries your investments support.  For example: "Investor Bulletin:  U.S.-Listed Companies Operating Chinese Businesses Through a VIE Structure." Sept. 20, 2021 [https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-95](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-95)  
 
-I understand that not everyone on this journey starts in equal circumstances.  Assembling a diverse portfolio requires resources.  In 2019 The Federal Reserve published a paper outlining [disparities in wealth by race and ethnicity](https://www.federalreserve.gov/econres/notes/feds-notes/disparities-in-wealth-by-race-and-ethnicity-in-the-2019-survey-of-consumer-finances-20200928.htm) -- showing that there are sizeable differences in wealth by race and ethnicity, most starkly between young Black and young White families:
+I understand that not everyone on this journey starts in equal circumstances.  Assembling a diverse portfolio requires resources.  In 2019 The Federal Reserve published a paper outlining [disparities in wealth by race and ethnicity](https://www.federalreserve.gov/econres/notes/feds-notes/disparities-in-wealth-by-race-and-ethnicity-in-the-2019-survey-of-consumer-finances-20200928.htm) -- showing that there are sizeable differences in wealth by race and ethnicity, most starkly between young Black and young White families:  
 ```
 The median young Black family has almost no wealth ($600). In contrast, the median young White family has a wealth of $25,400. Young Hispanic and other families fall in between, with $11,200 and $13,500 in median wealth, respectively.  
 ```
 
-Changing that disparity is critically important, but is beyond the scope of this argument.  The most recent [Federal Reserve data](https://www.federalreserve.gov/econres/scfindex.htm) says that only 54.5 percent of Americans ages 55 to 64 have retirement accounts.  Regardless of the scale of your available resources, the most important short term priority is to start building wealth.
+Changing that racial disparity, which is real and is a slice of broader long-running racism, is critically important, but is beyond the scope of this argument.  
+
+A [recent Federal Reserve paper](https://www.federalreserve.gov/econres/feds/files/2018080pap.pdf) documented that a very different constellation of circumstances is associated with [millennials](https://github.com/mccright/rand-notes/blob/master/Generations-Defined.md) "millennials own(ing) fewer assets than members of earlier generations" when they were young, with lower earnings, fewer assets, and less wealth.  
+
+The most recent [Federal Reserve data](https://www.federalreserve.gov/econres/scfindex.htm) says that only 54.5 percent of Americans ages 55 to 64 have retirement accounts.  
+
+If you find yourself a decade or more behind your peers -- or if you just fear it -- the foundational rule is to get started on a path to some type, some level of *retirement readiness.*  
+
+Regardless of the scale of your available resources, the most important short term priority is to start building wealth.  Research your options -- there are lots of on-line resources.  Make decisions.  Take the next step, and the next.  
 
 There are some useful tools and information at: SEC Investor.gov Publications and Research (includes financial tools and calculators) [https://www.investor.gov/introduction-investing/general-resources/publications-and-research](https://www.investor.gov/introduction-investing/general-resources/publications-and-research)  
 
@@ -90,6 +104,7 @@ Maybe this version is a little more realistic on the low end:
 | $5,500,000 | $55,000 | $68,750 | $82,500 | $96,250 | $110,000 | $137,500 | $165,000 | $192,500 | $220,000 | $247,500 | $275,000 | $302,500 | $330,000 |
 | $5,750,000 | $57,500 | $71,875 | $86,250 | $100,625 | $115,000 | $143,750 | $172,500 | $201,250 | $230,000 | $258,750 | $287,500 | $316,250 | $345,000 |
 
+Some individuals and families have retirement cash flow expectations of $150,000/yr, $200,000/yr, even $300,000/yr.  I included some *big* numbers in the Assets column to help demonstrate the scale of preparation required to support income streams like that.  I read that too often, individuals spending at these levels in retirement have not constructed the required financial foundation, and burn through material portions of their retirement funds before aknowledging that situation -- leaving them seriously financially challenged for the duration of their life.  Not where any of us want to land.  
 
 The model below is from an AARP Bulletin retelling of "The impact of Guaranteed Income and Dynamic Withdrawals on Safe Initial Withdrawal Rates" by David Blanchett, as well as my reading of the same.  
 
