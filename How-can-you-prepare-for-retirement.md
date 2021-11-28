@@ -42,7 +42,7 @@ with $11,200 and $13,500 in median wealth, respectively.
 
 Changing that racial disparity, which is real and is a slice of broader long-running racism, is critically important, but is beyond the scope of this argument.  
 
-A [recent Federal Reserve paper](https://www.federalreserve.gov/econres/feds/files/2018080pap.pdf) documented that a very different constellation of circumstances is associated with [millennials](https://github.com/mccright/rand-notes/blob/master/Generations-Defined.md) "millennials own(ing) fewer assets than members of earlier generations" when they were young, with lower earnings, fewer assets, and less wealth.  
+A [recent Federal Reserve paper](https://www.federalreserve.gov/econres/feds/files/2018080pap.pdf) documented that a very different constellation of circumstances is associated with "[millennials](https://github.com/mccright/rand-notes/blob/master/Generations-Defined.md) own(ing) fewer assets than members of earlier generations" when they were young, with lower earnings, fewer assets, and less wealth.  
 
 The most recent [Federal Reserve data](https://www.federalreserve.gov/econres/scfindex.htm) says that only 54.5 percent of Americans ages 55 to 64 have retirement accounts.  
 
