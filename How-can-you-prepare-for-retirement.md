@@ -155,4 +155,5 @@ Here is an essay that will help you get started thinking: ["How to Enjoy Retirem
 * "Retirement Income Analysis with scenario matrices." by William F. Sharpe, [https://web.stanford.edu/~wfsharpe/RISMAT/](https://web.stanford.edu/~wfsharpe/RISMAT/)  
 * "The impact of Guaranteed Income and Dynamic Withdrawals on Safe Initial Withdrawal Rates" by [David Blanchett](http://www.davidmblanchett.com/research), Journal of Financial Planning  [https://www.financialplanningassociation.org/article/journal/APR17-impact-guaranteed-income-and-dynamic-withdrawals-safe-initial-withdrawal-rates](https://www.financialplanningassociation.org/article/journal/APR17-impact-guaranteed-income-and-dynamic-withdrawals-safe-initial-withdrawal-rates)    
 AARP Bulletin (*paper copy*), "Real Possibilities" October 2019, page 16.  
+"Rethinking the 4% Safe Withdrawal Rule." Posted on November 18, 2021 by fritz@theretirementmanifesto.com, [https://www.theretirementmanifesto.com/rethinking-the-4-safe-withdrawal-rule/](https://www.theretirementmanifesto.com/rethinking-the-4-safe-withdrawal-rule/)  
 
