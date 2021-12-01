@@ -151,6 +151,10 @@ Another thread of anti-vaccine sentiment is associated with anti-abortion effort
 
 Dr. David Dowdy, an infectious disease epidemiologist at Johns Hopkins Bloomberg School of Public Health who has analyzed publicly reported state data, said it’s safe to say at least 70,000 of the last 100,000 deaths were unvaccinated people. And of those vaccinated people who died with breakthrough infections, most caught the virus from an unvaccinated person, he said.  "If we had been more effective in our vaccination, then I think it’s fair to say, we could have prevented 90% of those deaths," since mid-June, Dowdy said.  "It’s not just a number on a screen," Dowdy said. "It’s tens of thousands of these tragic stories of people whose families have lost someone who means the world to them." [Quoted from DMR, by Tammy Webber and Heather Hollingsworth](https://desmoinesregister-ia.newsmemory.com?selDate=20211003&goTo=F001&artid=0)  
 
+Get vaccinated.  Get boosted.
+
+Maintain evidence of your vaccination status handy.  There are many options, from saving a photo of your card on your mobile device, to [one of the smart pass applications](https://www.commontrustnetwork.org/verifier-list).  
+
 
 **Treatments via Monoclonal Antibody Therapies or Anti-Viral Molnupiravir**  
 First, get fully vaccinated against COVID-19.  Protect yourself and those around you -- and slow the cycle of infection that has imposed such a heavy cost on so many.  Treating active disease is no way out of this pandemic.  Getting fully vaccinated against COVID-19 is the only path to safety and to dampening the evolution of the virus that causes COVID-19.  After you are fully vaccinated, you are still at some risk of infection.  If you catch a break-through infection, monoclonal antibody therapies (infusions) and the newer Merk/Ridgeback Biotherapeutic molnupiravir pill may reduce your symptoms and speed recovery.  Merck has asked European Medicines Agency U.S. Food and Drug Administration to approve molnupiravir, but neither have done so as of late October 2021.  
