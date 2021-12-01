@@ -153,7 +153,7 @@ Dr. David Dowdy, an infectious disease epidemiologist at Johns Hopkins Bloomberg
 
 Get vaccinated.  Get boosted.
 
-Maintain evidence of your vaccination status handy.  There are many options, from saving a photo of your card on your mobile device, to [one of the smart pass applications](https://www.commontrustnetwork.org/verifier-list).  
+Maintain evidence of your vaccination status handy.  There are many options, from saving a photo of your card on your mobile device, to [one of the smart pass applications](https://www.commontrustnetwork.org/verifier-list).  If you lose track of your vaccination evidence, in most states you can get a copy of that evidence from your state's immunization information system (IIS).  The CDC maintains a list links to these of IIS sites: [https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html#state](https://www.cdc.gov/vaccines/programs/iis/contacts-locate-records.html#state)  
 
 
 **Treatments via Monoclonal Antibody Therapies or Anti-Viral Molnupiravir**  
