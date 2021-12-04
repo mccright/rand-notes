@@ -1,14 +1,14 @@
 Focus on Facts and Restrict the Flow of Misinformation
 ------------------------------------------------------
 ```
-Get vaccinated.  Help your family and friends do the same.
-Get boosted.  Help your family and friends do the same.
-Ventilate spaces.
-Avoid crowds.
-Use masks.
-Test if you have symptoms.
-Isolate if you are positive.
-Support global vaccine distribution.
+Get vaccinated.  Help your family and friends do the same.  
+Get boosted.  Help your family and friends do the same.  
+Ventilate spaces.  
+Avoid crowds.  
+Use masks.  
+Test if you have symptoms.  
+Isolate if you are positive.  
+Support global vaccine distribution.  Pockets of unvaccinated are reservoirs for the virus and where new variants evolve.  
 ```
 Do your part to resist and constrain the flow of misinformation.  During outbreaks like the current COVID-19 (SARS-CoV-2) pandemic -- a global population-level health crisis caused by airborne pathogens -- the spread of information that is known to be incorrect can lead to unhealthy, even fatal behaviors and reinforce disinformation used to drive people to mistrust scientists and governments *and each other.*  Misinformation and disinformation results in participant's being less likely to follow fact-based advisories and to take appropriate precautions.  
 
