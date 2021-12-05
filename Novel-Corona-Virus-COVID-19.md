@@ -127,6 +127,8 @@ Additional research on the topic of COVID-19 and mask wearing:
 * "An evidence review of face masks against COVID-19." By Jeremy Howard, Austin Huang, Zhiyuan Li, Zeynep Tufekci, Vladimir Zdimal, Helene-Mari van der Westhuizen, Arne von Delft, Amy Price, Lex Fridman, Lei-Han Tang, Viola Tang, Gregory L. Watson, Christina E. Bax, Reshama Shaikh, Frederik Questier, Danny Hernandez, Larry F. Chu, Christina M. Ramirez, and Anne W. Rimoin [https://www.pnas.org/content/118/4/e2014564118](https://www.pnas.org/content/118/4/e2014564118); PNAS January 26, 2021 118 (4) e2014564118; https://doi.org/10.1073/pnas.2014564118  
 
 **Vaccine Safety and Effectiveness**  
+You can read about treatement updates at: [https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)  
+
 Vaccine safety, relative to many other common activities, remains high and remains heavily supported by facts.  "One study tracked over 600,000 COVID-19 cases in 13 states from April through mid-July. As delta surged in early summer, those who were unvaccinated were 4.5 times more likely than the fully vaccinated to get infected, over 10 times more likely to be hospitalized and 11 times more likely to die, [according to the Centers for Disease Control and Prevention](https://www.cdc.gov/mmwr/volumes/70/wr/mm7037e1.htm) - [quote from the Des Moines Register](https://desmoinesregister-ia.newsmemory.com?selDate=20210911&goTo=C004&artid=0)".  
 
 [Brenda Goodman](https://www.webmd.com/brenda-goodman) reported that CDC data available in November 2021 [indicated](https://www.webmd.com/lung/news/20211110/how-covid-immunity-works) that at the peak of the Delta surge in August 2021, fully vaccinated people were 6 times less likely to get a COVID-19 infection compared to unvaccinated people, and were 11 times less likely to die if they were infected.  
@@ -158,6 +160,7 @@ Maintain evidence of your vaccination status handy.  There are many options, fro
 
 **Treatments via Monoclonal Antibody Therapies or Anti-Viral Molnupiravir**  
 First, get fully vaccinated against COVID-19.  Protect yourself and those around you -- and slow the cycle of infection that has imposed such a heavy cost on so many.  Treating active disease is no way out of this pandemic.  Getting fully vaccinated against COVID-19 is the only path to safety and to dampening the evolution of the virus that causes COVID-19.  After you are fully vaccinated, you are still at some risk of infection.  If you catch a break-through infection, monoclonal antibody therapies (infusions) and the newer Merk/Ridgeback Biotherapeutic molnupiravir pill may reduce your symptoms and speed recovery.  Merck has asked European Medicines Agency U.S. Food and Drug Administration to approve molnupiravir, but neither have done so as of late October 2021.  
+You can read about treatement updates at: [https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)  
 
 
 **What About Those COVID-19 Variants?**  
