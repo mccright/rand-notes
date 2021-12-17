@@ -1,6 +1,7 @@
 ## Log4Shell -- log4j Vulnerability Notes  
 
 If you have not yet started your upgrade(s), upgrade to 2.16.x.  
+If you upgraded to 2.15.0, upgrade again, to 2.16.x.
 
 Why should I care a vulnerable log4j component?  Sonatype recorded that:  
 
@@ -12,6 +13,8 @@ Why should I care a vulnerable log4j component?  Sonatype recorded that:
 * "New Log4j Vulnerability CVE-2021-44228: Info and Remediation." By Daniel Elkabes
 [https://www.whitesourcesoftware.com/resources/blog/log4j-vulnerability-cve-2021-44228](https://www.whitesourcesoftware.com/resources/blog/log4j-vulnerability-cve-2021-44228)  
 * [https://www.lunasec.io/docs/blog/log4j-zero-day/](https://www.lunasec.io/docs/blog/log4j-zero-day/)  
+* [https://www.lunasec.io/docs/blog/log4shell-live-patch-technical/](https://www.lunasec.io/docs/blog/log4shell-live-patch-technical/)  
+* [https://www.lunasec.io/docs/blog/log4j-zero-day-severity-of-cve-2021-45046-increased/](https://www.lunasec.io/docs/blog/log4j-zero-day-severity-of-cve-2021-45046-increased/)  
 * [https://logging.apache.org/log4j/2.x/security.html](https://logging.apache.org/log4j/2.x/security.html)  
 * And for an illustration of attacker activity: [https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html](https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html)  
   
