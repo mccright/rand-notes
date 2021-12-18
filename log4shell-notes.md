@@ -1,6 +1,6 @@
 ## Log4Shell -- log4j Vulnerability Notes  
 
-If you have not yet started your upgrade(s), upgrade to 2.16.x.  
+If you have not yet started your upgrade(s), upgrade to 2.17.x.  
 If you upgraded to 2.15.0, upgrade again, to 2.16.x.
 
 Why should I care a vulnerable log4j component?  Sonatype recorded that:  
@@ -11,10 +11,12 @@ Why should I care a vulnerable log4j component?  Sonatype recorded that:
 
 ### What is the vulnerability?  
 * "New Log4j Vulnerability CVE-2021-44228: Info and Remediation." By Daniel Elkabes
-[https://www.whitesourcesoftware.com/resources/blog/log4j-vulnerability-cve-2021-44228](https://www.whitesourcesoftware.com/resources/blog/log4j-vulnerability-cve-2021-44228)  
+[https://www.whitesourcesoftware.com/resources/blog/log4j-vulnerability-cve-2021-44228](https://www.whitesourcesoftware.com/resources/blog/log4j-vulnerability-cve-2021-44228) with the more recent updates about a vulnerability in version 2.16 and release of 2.17: [https://www.bleepingcomputer.com/news/security/upgraded-to-log4j-216-surprise-theres-a-217-fixing-dos/amp/](https://www.bleepingcomputer.com/news/security/upgraded-to-log4j-216-surprise-theres-a-217-fixing-dos/amp/)  
+Additional background:  
 * [https://www.lunasec.io/docs/blog/log4j-zero-day/](https://www.lunasec.io/docs/blog/log4j-zero-day/)  
 * [https://www.lunasec.io/docs/blog/log4shell-live-patch-technical/](https://www.lunasec.io/docs/blog/log4shell-live-patch-technical/)  
 * [https://www.lunasec.io/docs/blog/log4j-zero-day-severity-of-cve-2021-45046-increased/](https://www.lunasec.io/docs/blog/log4j-zero-day-severity-of-cve-2021-45046-increased/)  
+The hard facts:  
 * [https://logging.apache.org/log4j/2.x/security.html](https://logging.apache.org/log4j/2.x/security.html)  
 * And for an illustration of attacker activity: [https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html](https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html)    
 * CVE-2021-44228 Detail: [https://www.cve.org/CVERecord?id=CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) or [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)  
