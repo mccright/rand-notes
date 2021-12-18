@@ -16,8 +16,7 @@ Why should I care a vulnerable log4j component?  Sonatype recorded that:
 * [https://www.lunasec.io/docs/blog/log4shell-live-patch-technical/](https://www.lunasec.io/docs/blog/log4shell-live-patch-technical/)  
 * [https://www.lunasec.io/docs/blog/log4j-zero-day-severity-of-cve-2021-45046-increased/](https://www.lunasec.io/docs/blog/log4j-zero-day-severity-of-cve-2021-45046-increased/)  
 * [https://logging.apache.org/log4j/2.x/security.html](https://logging.apache.org/log4j/2.x/security.html)  
-* And for an illustration of attacker activity: [https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html](https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html)  
-  
+* And for an illustration of attacker activity: [https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html](https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html)    
 * CVE-2021-44228 Detail: [https://www.cve.org/CVERecord?id=CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) or [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)  
 * CVE-2021-45046 Detail: [https://www.cve.org/CVERecord?id=CVE-2021-45046](https://www.cve.org/CVERecord?id=CVE-2021-45046) or [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45046](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45046)  
 
@@ -47,6 +46,7 @@ If you work in global financial services, there seem to be risks that normal (or
 
 Making tight and legalistic connections between CVE-2021-44228 and log4j 1.x seem unproductive in the context of the broader risks that these components bring with their use.
 
+Updating dependencies with Maven: [https://www.baeldung.com/maven-dependency-latest-version](https://www.baeldung.com/maven-dependency-latest-version)  
 
 #### CISA Log4j (CVE-2021-44228) Vulnerability Guidance  
 * CISA [https://github.com/cisagov/log4j-affected-db](https://github.com/cisagov/log4j-affected-db)  
