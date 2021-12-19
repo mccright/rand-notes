@@ -39,6 +39,6 @@
 * Zulip server: [https://github.com/zulip/zulip/](https://github.com/zulip/zulip/)  
 * Zulip docs: [https://zulip.readthedocs.io/en/stable/production/install.html](https://zulip.readthedocs.io/en/stable/production/install.html)  
 #### Others
-* HackChat [https://github.com/hack-chat/main](https://github.com/hack-chat/main)  
+* HackChat [https://github.com/hack-chat/main](https://github.com/hack-chat/main)  and  [https://github.com/hack-chat/main/blob/master/documentation/DEPLOY.md](https://github.com/hack-chat/main/blob/master/documentation/DEPLOY.md)  
 
 
