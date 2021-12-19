@@ -27,3 +27,18 @@
  * ProtonVPN [https://protonvpn.com/](https://protonvpn.com/)  
  * TunnelBear [https://www.tunnelbear.com/plans](https://www.tunnelbear.com/plans)  
  * HotSpot Shield [https://www.gethotspotshield.com/](https://www.gethotspotshield.com/)  
+
+
+### Private Chat Servers  
+#### IRC  
+* See: [https://github.com/davisonio/awesome-irc](https://github.com/davisonio/awesome-irc)  
+* Run your own private IRC server: [https://ubuntu.com/tutorials/irc-server#1-overview](https://ubuntu.com/tutorials/irc-server#1-overview)  and  [https://github.com/inspircd/inspircd/](https://github.com/inspircd/inspircd/)  
+  * IRC CheatSheet: [https://www.irchelp.org/](https://www.irchelp.org/)  and  [https://opensource.com/irc-cheat-sheet?](https://opensource.com/irc-cheat-sheet)  
+* Tiny miniircd: [https://github.com/jrosdahl/miniircd](https://github.com/jrosdahl/miniircd)  
+#### Zulip  
+* Zulip server: [https://github.com/zulip/zulip/](https://github.com/zulip/zulip/)  
+* Zulip docs: [https://zulip.readthedocs.io/en/stable/production/install.html](https://zulip.readthedocs.io/en/stable/production/install.html)  
+#### Others
+* HackChat [https://github.com/hack-chat/main](https://github.com/hack-chat/main)  
+
+
