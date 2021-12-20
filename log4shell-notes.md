@@ -11,6 +11,7 @@ Why should I care a vulnerable log4j component?  Sonatype recorded that:
 * Log4j is seen as a dependency in almost 7,000 open source projects  
 
 ### What is the vulnerability?  
+* "The ‘most serious’ security breach ever is unfolding right now. Here’s what you need to know." By Tatum Hunter and Gerrit De Vynck [https://www.washingtonpost.com/technology/2021/12/20/log4j-hack-vulnerability-java/](https://www.washingtonpost.com/technology/2021/12/20/log4j-hack-vulnerability-java/)  
 * "New Log4j Vulnerability CVE-2021-44228: Info and Remediation." By Daniel Elkabes
 [https://www.whitesourcesoftware.com/resources/blog/log4j-vulnerability-cve-2021-44228](https://www.whitesourcesoftware.com/resources/blog/log4j-vulnerability-cve-2021-44228) with the more recent updates about a vulnerability in version 2.16 and release of 2.17: [https://www.bleepingcomputer.com/news/security/upgraded-to-log4j-216-surprise-theres-a-217-fixing-dos/amp/](https://www.bleepingcomputer.com/news/security/upgraded-to-log4j-216-surprise-theres-a-217-fixing-dos/amp/)  
 Additional background:  
