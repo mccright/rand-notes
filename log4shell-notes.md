@@ -2,6 +2,7 @@
 
 If you have not yet started your upgrade(s), upgrade to 2.17.x.  
 If you upgraded to 2.15.0 or 2.16.0, upgrade again, to 2.17.x.
+If you use Apache Log4j2 versions 2.0-alpha1 through 2.16.0 (excluding 2.12.3), upgrade to 2.12.3.
 
 Why should I care a vulnerable log4j component?  Sonatype recorded that:  
 
@@ -21,6 +22,7 @@ The hard facts:
 * And for an illustration of attacker activity: [https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html](https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html)    
 * CVE-2021-44228 Detail: [https://www.cve.org/CVERecord?id=CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228) or [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)  
 * CVE-2021-45046 Detail: [https://www.cve.org/CVERecord?id=CVE-2021-45046](https://www.cve.org/CVERecord?id=CVE-2021-45046) or [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45046](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45046)  
+* CVE-2021-45105 Detail [https://nvd.nist.gov/vuln/detail/CVE-2021-45105](https://nvd.nist.gov/vuln/detail/CVE-2021-45105).  Apache Log4j2 versions 2.0-alpha1 through 2.16.0 (excluding 2.12.3) are vulnerable to a denial of service attack because they did not protect against uncontrolled recursion from self-referential lookups.  Denial of service is often scored as a lower risk vulnerability.  
 
 
 *So, ask yourself:*  
