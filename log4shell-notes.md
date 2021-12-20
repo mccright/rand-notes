@@ -1,8 +1,8 @@
 ## Log4Shell -- log4j Vulnerability Notes  
 
 If you have not yet started your upgrade(s), upgrade to 2.17.x.  
-If you upgraded to 2.15.0 or 2.16.0, upgrade again, to 2.17.x.
-If you use Apache Log4j2 versions 2.0-alpha1 through 2.16.0 (excluding 2.12.3), upgrade to 2.12.3.
+If you upgraded to 2.15.0 or 2.16.0, upgrade again, to 2.17.x.  
+If you use Apache Log4j2 versions 2.0-alpha1 through 2.16.0 (excluding 2.12.3), upgrade to 2.12.3.  
 
 Why should I care a vulnerable log4j component?  Sonatype recorded that:  
 
