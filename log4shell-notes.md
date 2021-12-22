@@ -56,6 +56,7 @@ Updating dependencies with Maven: [https://www.baeldung.com/maven-dependency-lat
 #### CISA Log4j (CVE-2021-44228) Vulnerability Guidance  
 * CISA [https://github.com/cisagov/log4j-affected-db](https://github.com/cisagov/log4j-affected-db)  
 * Netherlands National Cyber Security Center (NCSC) Log4j Vulnerability (CVE-2021-44228) Resources  [https://github.com/NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell)  
+* Applications that are vulnerable to the log4j CVE-2021-44228 issue may be detectable by scanning jar, war, and ear files to search for the presence of JndiLookup.class. The CERTCC CVE-2021-44228_scanner works well: [https://github.com/CERTCC/CVE-2021-44228_scanner](https://github.com/CERTCC/CVE-2021-44228_scanner)  
 
 "Apache takes off, nukes insecure feature at the heart of Log4j from orbit with v2.16." [https://www.theregister.com/2021/12/14/apache_log4j_v2_16_jndi_disabled_default/](https://www.theregister.com/2021/12/14/apache_log4j_v2_16_jndi_disabled_default/)  
 
