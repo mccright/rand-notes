@@ -1,7 +1,7 @@
-## How Can You Prepare for Retirement?
+## Preparing for Retirement
 
 Regardless of your current age, all of us are getting older.  
-At some age many of us want to stop the *grind* of daily work to generate an income -- to *retire*.  For any given individual, *retirement* may mean something different.  For most of us it will be unrecognizable from commercials showing healthy *retirees* on sailing yachts or at beach mansions.  In the United States, though, entertaining our retirement ideas will require an income stream. [Note 1](https://github.com/mccright/rand-notes/blob/master/How-can-you-prepare-for-retirement.md#NOTES)  
+At some age many of us want to stop the *grind* of daily work to generate an income -- to [*retire*](https://en.wikipedia.org/wiki/Retirement).  For any given individual, *retirement* may mean something different.  For most of us it will be unrecognizable from commercials showing healthy *retirees* on sailing yachts or at beach mansions.  In the United States, though, entertaining our retirement ideas will require an income stream. [Note 1](https://github.com/mccright/rand-notes/blob/master/How-can-you-prepare-for-retirement.md#NOTES)  
 
 Even if we needed or wanted to continue 'working' for income, many of us will suffer physical and/or cognitive decline in ways that will make doing so impractical.  
 
@@ -9,7 +9,7 @@ Getting realistic and explicit about financing your retirement is a topic that i
 
 Check the Social Security Administration's [Retirement Benefits Estimator](https://www.ssa.gov/benefits/retirement/estimator.html) to get an idea of what your *guaranteed* income stream may be -- or use their [Quick Calculator](https://www.ssa.gov/OACT/quickcalc/) for an estimate.  For most, it will not be enough to meet your wishes and you will need to cobble together additional means of retirement support over the course of your working life.  
 
-How do you prepare for retirement?  
+### How do you prepare for retirement?  
 
 If you have the opportunity -- or if you can create the opportunity -- get a marketable college degree at an accredited non-profit college or university.  [Research by the U.S. Federal Reserve has shown repeatedly that](https://www.federalreserve.gov/publications/files/scf20.pdf): "Income also shows a strong positive association with education; in particular, income among families in which the reference person (i.e., *head of household*) has a college degree tends to be substantially higher than for those with less schooling. Mean income among college-educated families in the 2019 SCF was more than twice that of families in any other education group."
 
