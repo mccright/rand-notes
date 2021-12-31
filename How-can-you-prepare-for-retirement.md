@@ -5,6 +5,8 @@ At some age many of us want to stop the *grind* of daily work to generate an inc
 
 Even if we needed or wanted to continue *working* for income, many of us will suffer physical and/or cognitive decline in ways that will make doing so impractical.  
 
+For reference, [as of the third quarter of 2021, 50.3% of U.S. adults 55 and older, 66.9% of 65- to 74-year-olds, and 86.7% of those 75-year-olds and older said they were out of the labor force due to retirement, according to a Pew Research Center analysis of the most recent official labor force data](https://www.pewresearch.org/fact-tank/2021/11/04/amid-the-pandemic-a-rising-share-of-older-u-s-adults-are-now-retired/).  In 2020-2021 around 4,800 individuals in the U.S. retire every day (*one retirement every 18 seconds*).
+
 Getting realistic and explicit about financing your retirement is a topic that is easy to neglect.  Resist that path.  
 
 Check the Social Security Administration's [Retirement Benefits Estimator](https://www.ssa.gov/benefits/retirement/estimator.html) to get an idea of what your *guaranteed* income stream may be -- or use their [Quick Calculator](https://www.ssa.gov/OACT/quickcalc/) for an estimate.  For most, it will not be enough to meet your wishes and you will need to cobble together additional means of retirement support over the course of your working life.  
@@ -76,7 +78,7 @@ There are some useful tools and information at: SEC Investor.gov Publications an
 
 How do you know your plan is working?  Identify and then start documenting some dimensions of that plan.  Tracking Savings habits, credit card (or other high-interest) debt, emergency savings, and asset portfolio size-and-risk might be useful measures for determining the succcess of your plan.  
 
-Your financial planner will take your information, run a set of Monte-Carlo (or other) simulations, and report on the probability of your plan and your behaviors against that plan, meeting your goal(s).  
+Your financial planner will take your information, run a set of Monte-Carlo (or other) simulations, and report on the probability of your plan and your behaviors against that plan, meeting your goal(s) that define your successful financial outcome(s) at an older age.  
 
 When you approach or enter *retirement,* your willingness to assume risks in equity, commodity, or other markets may evaporate.  It is a challenge, though, to generate an income stream using only the safest of financial instruments (cash, or near-cash equivalents).  Safety does not pay today -- you may receive less than one half of one percent interest in your local bank.  As a reality check, you can easily review how much *annual income* a given pile of financial assets can reliably generate in these extremely low interest rate times.  If you like cash, that 2% low end is far too high.  Storing your money in cash or equivalents will deliver a lot less return than that 2%.  See the table below:  
 
