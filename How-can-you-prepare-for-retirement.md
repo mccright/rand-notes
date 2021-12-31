@@ -17,7 +17,12 @@ Preparing for retirement is not a race to amass huge sums of liquid assets.  It 
 
 If you have the opportunity -- or if you can create the opportunity -- get a marketable college degree at an accredited non-profit college or university. (*Too many for-profit *institutions of higher education* and *trade schools* seem to engage in predatory business models. I cannot recommend them.*)  [Research by the U.S. Federal Reserve has shown repeatedly that](https://www.federalreserve.gov/publications/files/scf20.pdf): 
 ``` 
-"Income also shows a strong positive association with education; in particular, income among families in which the reference person (i.e., *head of household*) has a college degree tends to be substantially higher than for those with less schooling. Mean income among college-educated families in the 2019 SCF was more than twice that of families in any other education group."
+"Income also shows a strong positive association with education; 
+in particular, income among families in which the reference 
+person (i.e., *head of household*) has a college degree tends to 
+be substantially higher than for those with less schooling. 
+Mean income among college-educated familiesin the 2019 SCF was 
+more than twice that of families in any other education group." 
 ```
 
 The literature seems to suggest that establishing and periodically grooming a plan with the assistance of a formal finanical advisor works best.  Also, pick a target age for retirement to use in calculations that will test the viability of that plan over time.  
