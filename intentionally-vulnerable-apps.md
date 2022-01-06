@@ -18,6 +18,7 @@
 * WebGoat http://www.owasp.org/index.php/Category:OWASP_WebGoat_Project (Java-based, incl. full access to source code, documentation built into the platform -- available at run time)  
 * nodeJSGoat https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project (nodeJS-based, incl. full access to source code, -- defaults to run on localhost:5000)  
 * OWASP Damn Vulnerable Web Sockets (DVWS) [https://github.com/interference-security/DVWS](https://github.com/interference-security/DVWS)  
+* OWASP Wrong Secrets [https://github.com/commjoen/wrongsecrets](https://github.com/commjoen/wrongsecrets)  
 * AltoroMutual (by WatchFire, now IBM Rational) [http://demo.testfire.net/](http://demo.testfire.net/) (extensive, vulnerable, ASP, no source)  
 * Gruyere (antigo Codelab) - [http://google-gruyere.appspot.com/](http://google-gruyere.appspot.com/) (Extensive vulnerability and exploit documentation - this may be the most useful feature of Gruyere, Python-based, incl. full access to source code, manual, and hints)  
 * BodgeIt Store  [http://code.google.com/p/bodgeit/](http://code.google.com/p/bodgeit/) and updated at [https://github.com/psiinon/bodgeit](https://github.com/psiinon/bodgeit)  (JSP, Java; incl full access to source code)  
