@@ -4,6 +4,90 @@ I still use batch/cmd/bash scripts to help myself and others speed up repetitive
 
 There are use cases where employing color can help users better understand any given utility's output.  
 
+## Color Settings for your Bash Shell  
+In the examples here, the script immediately below is named: terminal_colors.sh  
+```bash
+#!/bin/bash
+### Script Name - terminal_colors.sh
+### Common color codes - include them in other scripts.
+# This list started with one I noticed in: 
+# https://github.com/TheKevJames/tools/blob/master/docker-tuning-primer/root/tuning-primer.sh
+# Example below
+export normal='\033[0m'
+export black='\033[30m'
+export boldblack='\033[1;0m'
+export gray='\033[90m'
+export graybg='\033[100m'
+export lightgray='\033[37m'
+export lightgraybg='\033[47m'
+export white='\033[37m'
+export boldwhite='\033[1;37m'
+export red='\033[31m'
+export redbg='\033[41m'
+export lightred='\033[91m'
+export lightredbg='\033[101m'
+export boldred='\033[1;31m'
+export green='\033[32m'
+export greenbg='\033[42m'
+export lightgreen='\033[92m'
+export lightgreenbg='\033[102m'
+export boldgreen='\033[1;32m'
+export yellow='\033[33m'
+export lightyellow='\033[93m'
+export boldyellow='\033[1;33m'
+export yellowbg='\033[43m'
+export lightyellowbg='\033[103m'
+export blue='\033[34m'
+export bluebg='\033[44m'
+export boldblue='\033[1;34m'
+export lightblue='\033[94m'
+export lightbluebg='\033[104m'
+export magenta='\033[35m'
+export boldmagenta='\033[1;35m'
+export cyan='\033[36m'
+export cyanbg='\033[46m'
+export lightcyan='\033[96m'
+export lightcyanbg='\033[106m'
+export boldcyan='\033[1;36m'
+
+```
+
+## Simple Bash example of using the 'common colors' above  
+'source' the terminal_colors.sh script to get the color variables.  
+```bash
+#!/bin/bash
+### Demonstrate using the codes above as an 'include'.
+. ./terminal_colors.sh
+SPACER='------------------------'
+echo -e $white"This is white"$normal
+echo -e $gray"This is gray"$normal
+echo -e $lightgray"This is light gray"$normal
+echo -e $blue"This is blue"$normal
+echo -e $lightblue"This is Light blue"$normal
+echo -e $cyan"This is cyan"$normal
+echo -e $lightcyan"This is Light cyan"$normal
+echo -e $green"This is Green"$normal
+echo -e $lightgreen"This is Light Green"$normal
+echo -e $yellow"This is Yellow"$normal
+echo -e $lightyellow"This is Light Yellow"$normal
+echo -e $red"This is Red"$normal
+echo -e $lightred"This is Light Red"$normal
+echo $SPACER
+echo -e $white$bluebg"This is blue background / white foreground"$normal
+echo -e $white$lightbluebg"This is Light blue background / white foreground"$normal
+echo -e $black$cyanbg"This is cyan background / black foreground"$normal
+echo -e $black$lightcyanbg"This is Light cyan background / black foreground"$normal
+echo -e $black$graybg"This is gray background / black foreground"$normal
+echo -e $black$lightgraybg"This is Light gray background / black foreground"$normal
+echo -e $black$greenbg"This is green background"$normal
+echo -e $black$lightgreenbg"This is Light Green background / black foreground"$normal
+echo -e $black$yellowbg"This is Yellow background / black foreground"$normal
+echo -e $black$lightyellowbg"This is Light Yellow background / black foreground"$normal
+echo -e $white$redbg"This is Red background"$normal
+echo -e $black$lightredbg"This is Light Red background"$normal
+
+```
+
 ## Batch file investigating how given codes will look on your endpoint.  
 ```batch
 @ECHO OFF
