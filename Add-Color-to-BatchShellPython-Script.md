@@ -12,7 +12,7 @@ In the examples here, the script immediately below is named: terminal_colors.sh
 ### Common color codes - include them in other scripts.
 # This list started with one I noticed in: 
 # https://github.com/TheKevJames/tools/blob/master/docker-tuning-primer/root/tuning-primer.sh
-# Example below
+# and broadened the supported spectrum.
 export normal='\033[0m'
 export black='\033[30m'
 export boldblack='\033[1;0m'
