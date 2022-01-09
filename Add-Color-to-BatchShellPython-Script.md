@@ -169,3 +169,4 @@ If this resonates with you, there are some useful resources to build on this ide
 * pyout: Terminal styling for structured data, with color [https://github.com/pyout/pyout](https://github.com/pyout/pyout)  
 * neotermcolor: ANSII Color formatting for output in terminal [https://pypi.org/project/neotermcolor/](https://pypi.org/project/neotermcolor/)  
 * Blessed is a broad library for making terminal apps that includes an interface to colors [https://pypi.org/project/blessed/](https://pypi.org/project/blessed/)  
+* rainbow can colorize commands output using patterns [https://github.com/nicoulaj/rainbow](https://github.com/nicoulaj/rainbow)  
