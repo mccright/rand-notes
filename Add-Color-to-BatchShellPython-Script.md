@@ -170,3 +170,4 @@ If this resonates with you, there are some useful resources to build on this ide
 * neotermcolor: ANSII Color formatting for output in terminal [https://pypi.org/project/neotermcolor/](https://pypi.org/project/neotermcolor/)  
 * Blessed is a broad library for making terminal apps that includes an interface to colors [https://pypi.org/project/blessed/](https://pypi.org/project/blessed/)  
 * rainbow can colorize commands output using patterns [https://github.com/nicoulaj/rainbow](https://github.com/nicoulaj/rainbow)  
+* Chalk - A Light-weight python package for terminal output in color [https://github.com/anthonyalmarza/chalk](https://github.com/anthonyalmarza/chalk)  
