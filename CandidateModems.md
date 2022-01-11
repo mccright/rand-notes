@@ -29,8 +29,8 @@ POWER|ON, power is applied to the Residential Gateway. OFF when power is off to 
 DS|ON, the Gateway is exchanging data with the cable network. Blinking indicates the downstream scan is in progress.  
 US|ON, the Gateway is exchanging data with the cable network. Blinking indicates the upstream scan is in progress.  
 ONLINE|ON, the Gateway is registered on the network and fully operational. OFF indicates the Gateway has not registered on the network.  
-WiFi 2.4G|ON, the wireless access point is operational. Blinking indicates that data is being transferred over the wireless connection. OFF indicates that the wireless access point is not enabled.  
-WiFi 5G|ON, the wireless access point is operational. Blinking indicates that data is being transferred over the wireless connection. OFF indicates that the wireless access point is not enabled.
+WiFi 2.4|ON, the wireless access point is operational. Blinking indicates that data is being transferred over the wireless connection. OFF indicates that the wireless access point is not enabled.  
+WiFi 5|ON, the wireless access point is operational. Blinking indicates that data is being transferred over the wireless connection. OFF indicates that the wireless access point is not enabled.
 TEL1|ON indicates telephony service is enabled. Blinks when line 1 is in use. OFF indicates that phone service for TEL 1 is not enabled.
 TEL2|ON indicates telephony service is enabled. Blinks when line 2 is in use. OFF indicates that phone service for TEL 2 is not enabled.
 MoCA|ON, MoCA is operational. Blinking indicates that data is being transferred over the MoCA connection. OFF indicates that the MoCA is not enabled. [MoCA = Multimedia over Coax, sometimes used for WiFi extenders]
