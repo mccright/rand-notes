@@ -15,7 +15,7 @@ Check the Social Security Administration's [Retirement Benefits Estimator](https
 
 Preparing for retirement is not a race to amass huge sums of liquid assets.  It is about living your life.  But for most of us, it requires an honest reckoning with our income needs and what we might have coming from Social Security.  If you are lucky, there may also be some employment-related retirement payments.  Expect that you will need additional sources of income.  Try to define what that means in dollars per unit of time (*some number of dollars per month or per year*), and then begin assembling the means to generate that income stream.  
 
-If you have the opportunity -- or if you can create the opportunity -- get a marketable college degree at an accredited non-profit college or university. (*Too many for-profit *institutions of higher education* and *trade schools* seem to engage in predatory business models. I cannot recommend them.*)  [Research by the U.S. Federal Reserve has shown repeatedly that](https://www.federalreserve.gov/publications/files/scf20.pdf): 
+If you have the opportunity -- or if you can create the opportunity -- get a marketable college degree at an accredited non-profit college or university. (*Too many for-profit 'institutions of higher education' and 'trade schools' seem to engage in predatory business models. They seem like an unreasonable risk.*)  [Research by the U.S. Federal Reserve has shown repeatedly that](https://www.federalreserve.gov/publications/files/scf20.pdf): 
 ``` 
 "Income also shows a strong positive association with education; 
 in particular, income among families in which the reference 
@@ -71,7 +71,7 @@ The most recent [Federal Reserve data](https://www.federalreserve.gov/econres/sc
 
 If you find yourself a decade or more behind your peers -- or if you just fear it -- the foundational rule is to get started on a path to some type, some level of *retirement readiness.*  
 
-Regardless of the scale of your available resources, the most important short term priority is to start building wealth.  How much wealth?  That will vary, but a commonly-repeated target remains "[you need 25-times your pre-tax income portfolio goal when you retire](https://www.advisorperspectives.com/articles/2021/02/25/retirement-planning-in-the-post-4-world)," which I believe for most can safely be simplified to "your retirement investment portfolio should be 25 times the size of your annual income at retirement."  For most of us that can seem like a challenge, but try to remain engaged in your efforts to prepare for your retirement -- don't freeze up.  Research your options -- there are lots of on-line resources.  A very quick, crude, retirement savings calculator is available at: [https://www.cnn.com/business/calculators/retirement-calculator](https://www.cnn.com/business/calculators/retirement-calculator).  Make decision after decision.  Take the next step, and the next.  
+Regardless of the scale of your available resources, the most important short term priority is to start building wealth.  How much wealth?  That will vary, but a commonly-repeated target remains "you need 25-times your pre-tax income portfolio goal when you retire" ([*here quoted from David M. Blanchett, Ph.D., CFA, CFP®, and more*](https://www.advisorperspectives.com/articles/2021/02/25/retirement-planning-in-the-post-4-world))," which I believe for most can safely be simplified to "your retirement investment portfolio should be 25 times the size of your annual income at retirement."  For most of us that can seem like a challenge, but try to remain engaged in your efforts to prepare for your retirement -- don't freeze up.  Research your options -- there are lots of on-line resources.  A very quick, crude, retirement savings calculator is available at: [https://www.cnn.com/business/calculators/retirement-calculator](https://www.cnn.com/business/calculators/retirement-calculator).  Make decision after decision.  Take the next step, and the next.  
 
 For many, a material component of your retirement readiness equation is your spending behaviors.  Be mindful, self-aware and alert.  Ask yourself, "Am I doing the right thing?"  This is especially true for your 'consumer' behaviors.  If you can look at your own actions from the perspective of a third party who cares about meeting your retirement goals, you’ll be able to make wiser choices.  
 
@@ -138,13 +138,13 @@ Maybe this version is a little more realistic on the low end:
 
 Some individuals and families have retirement cash flow expectations of $150,000/yr, $200,000/yr, even $300,000/yr.  I included some *big* numbers in the Assets column to help demonstrate the scale of preparation required to support income streams like that.  I read that too often, individuals spending at these levels in retirement have not constructed the required financial foundation, and burn through material portions of their retirement funds before aknowledging that situation -- leaving them seriously financially challenged for the duration of their life.  Not where any of us want to land.  
 
-The model below is from an AARP Bulletin retelling of "The impact of Guaranteed Income and Dynamic Withdrawals on Safe Initial Withdrawal Rates" by David Blanchett, as well as my reading of the same.  
-
 Those upper rows refer to material wealth.  Who has that kind of money?  Most don't.  
     In “The 9.9 Percent,” Matthew Stewart noted that in 1963, the median household would have needed 10 times as much wealth to reach the middle of the (*top*) 9.9 percent. Today, it would need 24 times as much wealth.
-    He also reported that the 9.9 percent group started with a minimum of $1.2 million in assets...  
+    He also reported that the 9.9 percent group started with a minimum of $1.2 million in assets and it took $2.4 million to reach the group's median...  
     Quoted from a review by Eyal Press: [https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html](https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html)  
 
+
+The model below is from an AARP Bulletin retelling of "The impact of Guaranteed Income and Dynamic Withdrawals on Safe Initial Withdrawal Rates" by David Blanchett, as well as my reading of the same.  
 
 ### Share of your financial resources composed of guaranteed income  
 
