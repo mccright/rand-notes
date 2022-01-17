@@ -91,7 +91,7 @@ For many, a material component of your retirement readiness equation is your spe
 
 Also, a number of wise peers have counseled me to remember that it’s never too late to learn, and asking a question is often more important than knowing the answer.  [Thank you Pranav Doctor.](https://blog.avenuecode.com/ac-spotlight-pranava-doctor)  
 
-There will be some uncertainty.  It is not unusual to find your inner voice asking: "How did I end up here?" or "What am I doing with my investments?" or even "Why did I ever agree to this?"  There is no magic for dealing with these issues.  Talk with people you trust.  Learn about your options for managing your money, saving and investing.  
+There will be some uncertainty.  It is not unusual to find your inner voice asking: "How did I end up here?" or "What am I doing with my investments?" or even "Why did I ever agree to this?"  There is no magic for dealing with these issues.  Talk with people you trust.  Learn about your options for managing your money, saving and investing.  And, as needed, adapt.  
 
 There are some useful tools and information at: SEC Investor.gov Publications and Research (includes financial tools and calculators) [https://www.investor.gov/introduction-investing/general-resources/publications-and-research](https://www.investor.gov/introduction-investing/general-resources/publications-and-research).  
 
