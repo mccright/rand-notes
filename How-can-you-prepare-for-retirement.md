@@ -71,7 +71,21 @@ The most recent [Federal Reserve data](https://www.federalreserve.gov/econres/sc
 
 If you find yourself a decade or more behind your peers -- or if you just fear it -- the foundational rule is to get started on a path to some type, some level of *retirement readiness.*  
 
-Regardless of the scale of your available resources, the most important short term priority is to start building wealth.  How much wealth?  That will vary, but a commonly-repeated target remains "you need 25-times your pre-tax income portfolio goal when you retire" ([*here quoted from David M. Blanchett, Ph.D., CFA, CFP®, and more*](https://www.advisorperspectives.com/articles/2021/02/25/retirement-planning-in-the-post-4-world))," which I believe for most can safely be simplified to "your retirement investment portfolio should be 25 times the size of your annual income at retirement."  For most of us that can seem like a challenge, but try to remain engaged in your efforts to prepare for your retirement -- don't freeze up.  Research your options -- there are lots of on-line resources.  A very quick, crude, retirement savings calculator is available at: [https://www.cnn.com/business/calculators/retirement-calculator](https://www.cnn.com/business/calculators/retirement-calculator).  Make decision after decision.  Take the next step, and the next.  
+Regardless of the scale of your available resources, the most important short term priority is to start building wealth.  How much wealth?  That will vary, but a commonly-repeated target remains "you need 25-times your pre-tax income portfolio goal when you retire" ([*here quoted from David M. Blanchett, Ph.D., CFA, CFP®, and more*](https://www.advisorperspectives.com/articles/2021/02/25/retirement-planning-in-the-post-4-world))," which I believe for most can safely be simplified to "your retirement investment portfolio should be 25 times the size of your annual income at retirement."  For most of us that can seem like a challenge, but try to remain engaged in your efforts to prepare for your retirement -- don't freeze up.  Research your options -- there are lots of on-line resources.  A very quick, crude, retirement savings calculator is available at: [https://www.cnn.com/business/calculators/retirement-calculator](https://www.cnn.com/business/calculators/retirement-calculator).  Make decision after decision.  Take the next step, and the next.  Here is an example of what 20 and 25-times some sample annual incomes looks like:  
+
+|Annual Income|Times 20|Times 25|
+|:-----------:|:------:|:------:|
+|$30,000 | $600,000 | $750,000|
+|$40,000 | $800,000 | $1,000,000|
+|$50,000 | $1,000,000 | $1,250,000|
+|$60,000 | $1,200,000 | $1,500,000|
+|$70,000 | $1,400,000 | $1,750,000|
+|$80,000 | $1,600,000 | $2,000,000|
+|$90,000 | $1,800,000 | $2,250,000|
+|$100,000 | $2,000,000 | $2,500,000|
+|$110,000 | $2,200,000 | $2,750,000|
+
+Again, these numbers can seem like a challenge in isolation.  But for many who reach them, they are the result of regular *savings* for retirement and full participation in employer plans over many years.  The key is to start and stick with a plan.  
 
 For many, a material component of your retirement readiness equation is your spending behaviors.  Be mindful, self-aware and alert.  Ask yourself, "Am I doing the right thing?"  This is especially true for your 'consumer' behaviors.  If you can look at your own actions from the perspective of a third party who cares about meeting your retirement goals, you’ll be able to make wiser choices.  
 
