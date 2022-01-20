@@ -45,7 +45,8 @@ https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronav
 Here are a couple sources for raw facts related to COVID-19:  
 OurWorldInData COVID-19 page has a "What is the global situation now?" graph that may be useful for many: [https://ourworldindata.org/coronavirus](https://ourworldindata.org/coronavirus)  
 CovidActNow: [https://covidactnow.org/](https://covidactnow.org/)  
-Corona Data Scraper [https://coronadatascraper.com/#home](https://coronadatascraper.com/#home) -- their daily data misses some U.S. states (for example, Iowa)  
+MayoClinic Covid-19 Map: [https://www.mayoclinic.org/coronavirus-covid-19/map/](https://www.mayoclinic.org/coronavirus-covid-19/map/)  
+Corona Data Scraper: [https://coronadatascraper.com/#home](https://coronadatascraper.com/#home) -- their daily data misses some U.S. states (for example, Iowa)  
 Sometimes it is difficult to know what to make of the numbers available at the scraper above.  Here are a pair of free curated presentations of facts related to COVID-19 to help provide some context:  
   * Serious, fact-based reporting from the New York Times: [https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)  
   * Serious, fact-based reporting from the Washington Post: [https://www.washingtonpost.com/coronavirus/](https://www.washingtonpost.com/coronavirus/)  
