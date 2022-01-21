@@ -301,7 +301,7 @@ In Iowa:
 “We know that there are pathogens worse than SARS-CoV-2 that are emerging and re-emerging and waiting for their moment to take off,” said Rick Bright, the chief executive of the Pandemic Prevention Institute at the Rockefeller Foundation. [quoted by By Emily Anthes in NYT](https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html)  
 
 * Surveillance testing is unevenly distributed across the nation & across the globe.  Surveillance testing has been rejected (*or ignored*) by many state and local executives.  That is in spite of the fact that disease surveillance -- identifying who is infected, and where they are -- is a foundational capability for resisting pandemic.  
-  * Sewage surveillance testing, or *wastewater epidemiology* is an effective signalling channel, but is also unevenly distributed across the nation & across the globe.  
+  * Sewage surveillance testing, or *wastewater epidemiology* is an effective signalling channel, but is also unevenly distributed across the nation & across the globe.  For an example of data from wastewater-based COVID-19 monitoring see: [https://biobot.io/data/](https://biobot.io/data/).  
   * Genomic sequencing, like surveillance testing, is essential to understanding current state and trends.  But is also unevenly distributed across the nation & across the globe.  
 * Linking each individual's test results and viral genomic sequences to their clinical health data is critically important to understanding risks, predicting outcomes, and more.  Health systems in the United States resist that sort of linkage.  
 * Large numbers of Americans resist vaccinations.  
