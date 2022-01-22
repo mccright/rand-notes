@@ -17,13 +17,28 @@ Preparing for retirement is not a race to amass huge sums of liquid assets.  It 
 
 If you have the opportunity -- or if you can create the opportunity -- get a marketable college degree at an accredited non-profit college or university. (*Too many for-profit 'institutions of higher education' and 'trade schools' seem to engage in predatory business models. They seem like an unreasonable risk.*)  [Research by the U.S. Federal Reserve has shown repeatedly that](https://www.federalreserve.gov/publications/files/scf20.pdf): 
 ``` 
-"Income also shows a strong positive association with education; 
-in particular, income among families in which the reference 
-person (i.e., *head of household*) has a college degree tends to 
-be substantially higher than for those with less schooling. 
-Mean income among college-educated familiesin the 2019 SCF was 
-more than twice that of families in any other education group." 
+"Income also shows a strong positive association 
+with education; in particular, income among families 
+in which the reference person (i.e., *head of 
+household*) has a college degree tends to be 
+substantially higher than for those with less schooling. 
+Mean income among college-educated familiesin the 
+2019 SCF was more than twice that of families in 
+any other education group." 
 ```
+For example, the impacts in real dollars can be seen in the 4th quarter 2021 U.S. Department of Labor ["Usual Weekly Earnings Summary of Wage and Salary Workers" reported](https://www.bls.gov/news.release/wkyeng.nr0.htm): 
+```
+"full-time workers age 25 and over without a high 
+school diploma had median weekly earnings of $651, 
+compared with $831 for high school graduates (no college) 
+and $1,467 for those holding at least a bachelor's degree. 
+Among college graduates with advanced degrees (master's, 
+professional, and doctoral degrees), the highest 
+earning 10 percent of male workers made $4,317 or 
+more per week, compared with $2,922 or more for 
+their female counterparts." 
+```
+The relatively dramatic differences in income can make a huge difference over the 40 or more years that many of us will work.  
 
 The literature seems to suggest that establishing and periodically grooming a plan with the assistance of a formal finanical advisor works best.  Also, pick a target age for retirement to use in calculations that will test the viability of that plan over time.  
 And start as early as you can so that *the magic of compounding* has enough time to come to your aid -- while remembering that:  
