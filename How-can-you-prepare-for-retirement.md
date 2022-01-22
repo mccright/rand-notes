@@ -149,10 +149,10 @@ When you approach or enter *retirement,* your willingness to assume risks in equ
 
 Some individuals and families have retirement cash flow expectations of $150,000/yr, $200,000/yr, even $300,000/yr.  I included some *big* numbers in the Assets column to help demonstrate the scale of preparation required to support income streams like that.  I read that too often, individuals spending at these levels in retirement have not constructed the required financial foundation, and burn through material portions of their retirement funds before aknowledging that situation -- leaving them seriously financially challenged for the duration of their life.  Not where any of us want to land.  
 
-Those upper rows refer to material wealth.  Who has that kind of money?  Most don't.  
-    In “The 9.9 Percent,” Matthew Stewart noted that in 1963, the median household would have needed 10 times as much wealth to reach the middle of the (*top*) 9.9 percent. Today, it would need 24 times as much wealth.
-    He also reported that the 9.9 percent group started with a minimum of $1.2 million in assets and it took $2.4 million to reach the group's median...  
-    Quoted from a review by Eyal Press: [https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html](https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html)  
+Those upper rows refer to material wealth.  Who has that kind of money?  Most don't.  And the proportion of the U.S. population who have accumulated $1.2 million or more has shrunk and the distance between the medial wealth and entry into the top 9.9% has more than doubled in the last 6 decades.   
+In “The 9.9 Percent,” Matthew Stewart noted that in 1963, the median household would have needed 10 times as much wealth to reach the middle of the (*top*) 9.9 percent. Today, it would need 24 times as much wealth.
+He also reported that the 9.9 percent group started with a minimum of $1.2 million in assets and it took $2.4 million to reach the group's median...  
+Quoted from a review by Eyal Press: [https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html](https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html)  
 
 
 The model below is from an AARP Bulletin retelling of "The impact of Guaranteed Income and Dynamic Withdrawals on Safe Initial Withdrawal Rates" by David Blanchett, as well as my reading of the same.  
