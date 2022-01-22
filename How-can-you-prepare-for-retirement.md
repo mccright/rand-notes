@@ -71,6 +71,9 @@ And start as early as you can so that *the magic of compounding* has enough time
 ### Challenges Are Real -- Get Started Anyway  
 
 I understand that not everyone on this journey starts in equal circumstances.  The [Social Security Administration](https://www.ssa.gov/oact/cola/central.html) put the average U.S. annual net wage last year at $53,383, and the median net wage at $34,612.  That compares with the Labor Department release in May 2020 saying that [median annual gross wage earnings across all occupations](https://www.bls.gov/oes/current/oes_nat.htm#00-0000) was $56,310.  That suggests that many are not earning enough to make saving *easy*.  Assembling a diverse portfolio requires resources.  
+
+Gender plays a material role in earnings in the U.S.  In late 2021 U.S. Department of Labor [outlined](https://www.bls.gov/news.release/wkyeng.t03.htm) gender impacts in detail.  They [summarized](https://www.bls.gov/news.release/wkyeng.nr0.htm) that data with: "Men's and women's earnings were closer among younger workers than older workers; for example, women ages 16 to 24 earned 94.1 percent as much as men in the same age group, while the women's-to-men's earnings ratio was 76.9 percent for those age 55 and over."  
+
 In addition, non-whites in the U.S. face systemic economic pressures that are material to any discussion about retirement planning.  4th quarter 2021 U.S. Department of Labor [reported](https://www.bls.gov/news.release/wkyeng.nr0.htm) that "median weekly earnings of Blacks ($805) and Hispanics ($799) working full-time jobs were lower than those of Whites ($1,030) and Asians ($1,384)."  Those differences impact wealth accumulation.  In 2019 The Federal Reserve published a paper outlining [disparities in wealth by race and ethnicity](https://www.federalreserve.gov/econres/notes/feds-notes/disparities-in-wealth-by-race-and-ethnicity-in-the-2019-survey-of-consumer-finances-20200928.htm) -- showing that there are sizeable differences in wealth by race and ethnicity, most starkly between young Black and young White families:  
 ```
 The median young Black family has almost no wealth ($600). 
@@ -78,7 +81,6 @@ In contrast, the median young White family has a wealth of $25,400.
 Young Hispanic and other families fall in between, 
 with $11,200 and $13,500 in median wealth, respectively.  
 ```
-
 Changing that racial disparity, which is real and is a slice of broader long-running racism, is critically important, but is beyond the scope of this argument.  
 
 A [recent Federal Reserve paper](https://www.federalreserve.gov/econres/feds/files/2018080pap.pdf) documented that a very different constellation of circumstances is associated with "[millennials](https://github.com/mccright/rand-notes/blob/master/Generations-Defined.md) own(ing) fewer assets than members of earlier generations" when they were young, with lower earnings, fewer assets, and less wealth.  
