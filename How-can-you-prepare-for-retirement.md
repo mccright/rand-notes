@@ -117,32 +117,11 @@ How do you know your plan is working?  Identify and then start documenting some 
 
 Your financial planner will take your information, run a set of Monte-Carlo (or other) simulations, and report on the probability of your plan and your behaviors against that plan, meeting your goal(s) that define your successful financial outcome(s) at an older age.  
 
-When you approach or enter *retirement,* your willingness to assume risks in equity, commodity, or other markets may evaporate.  It is a challenge, though, to generate an income stream using only the safest of financial instruments (cash, or near-cash equivalents).  Safety does not pay today -- you may receive less than one half of one percent interest in your local bank.  As a reality check, you can easily review how much *annual income* a given pile of financial assets can reliably generate in these extremely low interest rate times.  If you like cash, that 2% low end is far too high.  Storing your money in cash or equivalents will deliver a lot less return than that 2%.  See the table below:  
-
-|Assets| 2.0% | 2.5% | 3.0% | 3.5% | 4.0% | 4.5% | 5.0% | 5.5% | 6.0% |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| $100,000 | $2,000 | $2,500 | $3,000 | $3,500 | $4,000 | $4,500 | $5,000 | $5,500 | $6,000 |
-| $250,000 | $5,000 | $6,250 | $7,500 | $8,750 | $10,000 | $11,250 | $12,500 | $13,750 | $15,000 |
-| $500,000 | $10,000 | $12,500 | $15,000 | $17,500 | $20,000 | $22,500 | $25,000 | $27,500 | $30,000 |
-| $750,000 | $15,000 | $18,750 | $22,500 | $26,250 | $30,000 | $33,750 | $37,500 | $41,250 | $45,000 |
-| $1,000,000 | $20,000 | $25,000 | $30,000 | $35,000 | $40,000 | $45,000 | $50,000 | $55,000 | $60,000 |
-| $1,250,000 | $25,000 | $31,250 | $37,500 | $43,750 | $50,000 | $56,250 | $62,500 | $68,750 | $75,000 |
-| $1,500,000 | $30,000 | $37,500 | $45,000 | $52,500 | $60,000 | $67,500 | $75,000 | $82,500 | $90,000 |
-| $1,750,000 | $35,000 | $43,750 | $52,500 | $61,250 | $70,000 | $78,750 | $87,500 | $96,250 | $105,000 |
-| $2,000,000 | $40,000 | $50,000 | $60,000 | $70,000 | $80,000 | $90,000 | $100,000 | $110,000 | $120,000 |
-| $2,250,000 | $45,000 | $56,250 | $67,500 | $78,750 | $90,000 | $101,250 | $112,500 | $123,750 | $135,000 |
-| $2,500,000 | $50,000 | $62,500 | $75,000 | $87,500 | $100,000 | $112,500 | $125,000 | $137,500 | $150,000 |
-| $2,750,000 | $55,000 | $68,750 | $82,500 | $96,250 | $110,000 | $123,750 | $137,500 | $151,250 | $165,000 |
-| $3,000,000 | $60,000 | $75,000 | $90,000 | $105,000 | $120,000 | $135,000 | $150,000 | $165,000 | $180,000 |
-| $3,250,000 | $65,000 | $81,250 | $97,500 | $113,750 | $130,000 | $146,250 | $162,500 | $178,750 | $195,000 |
-| $3,500,000 | $70,000 | $87,500 | $105,000 | $122,500 | $140,000 | $157,500 | $175,000 | $192,500 | $210,000 |
-| $3,750,000 | $75,000 | $93,750 | $112,500 | $131,250 | $150,000 | $168,750 | $187,500 | $206,250 | $225,000 |
-| $4,000,000 | $80,000 | $100,000 | $120,000 | $140,000 | $160,000 | $180,000 | $200,000 | $220,000 | $240,000 |
-
-Maybe this version is a little more realistic on the low end:  
+When you approach or enter *retirement,* your willingness to assume risks in equity, commodity, or other markets may evaporate.  It is a challenge, though, to generate an income stream using only the safest of financial instruments (cash, or near-cash equivalents).  Safety does not pay today -- you may receive less than one half of one percent interest in your local bank.  As a reality check, you can easily review how much *annual income* a given pile of financial assets can reliably generate in these extremely low interest rate times.  *Storing* your money in cash or equivalents will generally deliver stability, but with a relatively low return.  See the table below:  
 
 |Assets| 1.0% | 1.25%| 1.5% | 1.75%| 2.0% | 2.5% | 3.0% | 3.5% | 4.0% | 4.5% | 5.0% | 5.5% | 6.0% |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| $50,000 | $500 | $625 | $750 | $875 | $1,000 | $1,250 | $1,500 | $1,750 | $2,000 | $2,250 | $2,500 | $2,750 | $3,000 |
 | $100,000 | $1,000 | $1,250 | $1,500 | $1,750 | $2,000 | $2,500 | $3,000 | $3,500 | $4,000 | $4,500 | $5,000 | $5,500 | $6,000 |
 | $250,000 | $2,500 | $3,125 | $3,750 | $4,375 | $5,000 | $6,250 | $7,500 | $8,750 | $10,000 | $11,250 | $12,500 | $13,750 | $15,000 |
 | $500,000 | $5,000 | $6,250 | $7,500 | $8,750 | $10,000 | $12,500 | $15,000 | $17,500 | $20,000 | $22,500 | $25,000 | $27,500 | $30,000 |
