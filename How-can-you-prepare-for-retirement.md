@@ -1,13 +1,13 @@
 ## Preparing for Retirement
 
 Regardless of your current age, all of us are getting older.  
-At some age many of us want to stop the *grind* of daily work to generate an income -- to [*retire*](https://en.wikipedia.org/wiki/Retirement).  For any given individual, *retirement* may mean something different.  For most of us it will be unrecognizable from commercials showing healthy *retirees* on sailing yachts or at beach mansions.  In the United States, though, entertaining our retirement ideas will require an income stream. [Note 1](https://github.com/mccright/rand-notes/blob/master/How-can-you-prepare-for-retirement.md#NOTES)  
+At some age many of us want to stop the *grind* of daily work to generate an income -- to [*retire*](https://en.wikipedia.org/wiki/Retirement).  For any given individual, *retirement* may mean something different.  For most of us it will be unrecognizable from commercials showing healthy *retirees* on sailing yachts or at beach mansions.  In the United States, though, entertaining our retirement ideas will require an income stream. [Note 1](https://github.com/mccright/rand-notes/blob/master/How-can-you-prepare-for-retirement.md#NOTES)  Two key aspects of any retirement plan are future rates of return on retirement assets (*which almost none of us can influence*) and future wage growth rates (*again, beyond our influence at a macro-level, but we **can** influence ours at an individual level*).  
 
 Even if we needed or wanted to continue *working* for income, many of us will suffer physical and/or cognitive decline in ways that will make doing so impractical.  
 
 For reference, [as of the third quarter of 2021, 50.3% of U.S. adults 55 and older, 66.9% of 65- to 74-year-olds, and 86.7% of those 75-year-olds and older said they were out of the labor force due to retirement, according to a Pew Research Center analysis of the most recent official labor force data](https://www.pewresearch.org/fact-tank/2021/11/04/amid-the-pandemic-a-rising-share-of-older-u-s-adults-are-now-retired/).  In 2020-2021 around 4,800 individuals in the U.S. retire every day (*one retirement every 18 seconds*).
 
-Getting realistic and explicit about financing your retirement is a topic that is easy to neglect.  Resist that path.  
+Getting realistic and explicit about financing your retirement is a topic that is easy to neglect.  Resist that path.  Also resist the force of negativity bias -- the tendency to exaggerate negative information -- and its resulting "[behavioral tendency to overweight a narrow range of possible future events in light of incoming information](https://www.ssa.gov/policy/docs/ssb/v81n4/v81n4p1.html)," even when it is misleading or otherwise inaccurate.  
 
 Check the Social Security Administration's [Retirement Benefits Estimator](https://www.ssa.gov/benefits/retirement/estimator.html) to get an idea of what your *guaranteed* income stream may be -- or use their [Quick Calculator](https://www.ssa.gov/OACT/quickcalc/) for an estimate.  For most, it will not be enough to meet your wishes and you will need to cobble together additional means of retirement support over the course of your working life.  
 
@@ -38,10 +38,11 @@ earning 10 percent of male workers made $4,317 or
 more per week, compared with $2,922 or more for 
 their female counterparts." 
 ```
-The relatively dramatic differences in income can make a huge difference over the 40 or more years that many of us will work.  
+The relatively dramatic differences in income can make a huge difference over the 40 or more years that many of us will work.  These facts about income and educational attainment may not be indicators of causation, and your zip code at birth is still a strong indicator of future earnings and asset accumulation.  But earning a college degree still has material value for many and can open opportunities that are virtually closed to those without.  
 
 The literature seems to suggest that establishing and periodically grooming a plan with the assistance of a formal finanical advisor works best.  Also, pick a target age for retirement to use in calculations that will test the viability of that plan over time.  
 And start as early as you can so that *the magic of compounding* has enough time to come to your aid -- while remembering that:  
+  * Two key aspects of any retirement plan are future rates of return on retirement assets and future wage growth rates.  Macro-trends and behaviors for both make predictions problematic.  Regardless, you, or more likely, some trusted financial resource will need to make predictions about them as foundational inputs to an analysis of your retirement plan and retirement readiness.  
   * Future gains are not guaranteed -- this is true for all types of investing.  Securities and markets go up **AND** they go down (*i.e., increase and decrease in value*).  At any given point in time, historical patterns are not always useful as illustrations of future trends.  This issue is especially true for shorter timelines.  
   * Measured risk may be an to your advantage in many contexts.  Storing *investment* money in savings accounts -- or even worse, in your home -- is not a *safe* investment strategy because of the likelihood of loss to inflation.  
   * Your behaviors can exaggerate the influence of securities price/value changes.  For example, selling at the bottom or buying at the peak prices can *lock in* losses.  I have personal experience with both and have learned that for me well-trained, experienced and mature advice helps me make better decisions.  
@@ -105,7 +106,7 @@ Regardless of the scale of your available resources, the most important short te
 
 Again, these numbers can seem like a challenge in isolation.  But for many who reach them, they are the result of regular *savings* for retirement and full participation in employer plans over many years.  The key is to start and stick with a plan.  
 
-For many, a material component of your retirement readiness equation is your spending behaviors.  Be mindful, self-aware and alert.  Ask yourself, "Am I doing the right thing?"  This is especially true for your 'consumer' behaviors.  If you can look at your own actions from the perspective of a third party who cares about meeting your retirement goals, you’ll be able to make wiser choices.  
+For many, a material component of your retirement readiness equation is your spending behaviors.  Be mindful, self-aware and alert.  Ask yourself, "Am I doing the right thing?"  This is especially true for your 'consumer' behaviors.  If you can look at your own actions from the perspective of a third party who cares about meeting your retirement goals, you may be able to make choices better aligned with your retirement *asset accumulation* goals.  
 
 Also, a number of wise peers have counseled me to remember that it’s never too late to learn, and asking a question is often more important than knowing the answer.  [Thank you Pranav Doctor.](https://blog.avenuecode.com/ac-spotlight-pranava-doctor)  
 
@@ -190,6 +191,7 @@ Here is an essay that will help you get started thinking: ["How to Enjoy Retirem
 
 
 #### References:  
+* "Workers’ Expectations About Their Future Social Security Benefits: How Realistic Are They?" by John A. Turner and David Rajnes, Social Security Bulletin, Vol. 81 No. 4, 2021. [https://www.ssa.gov/policy/docs/ssb/v81n4/v81n4p1.html](https://www.ssa.gov/policy/docs/ssb/v81n4/v81n4p1.html)  
 * "How to Enjoy Retirement Without Going Broke" by Peter Coy, 20201-08-27, [https://www.nytimes.com/2021/08/27/opinion/how-to-enjoy-retirement-without-going-broke.html](https://www.nytimes.com/2021/08/27/opinion/how-to-enjoy-retirement-without-going-broke.html)  
 * "Retirement Income Analysis with scenario matrices." by William F. Sharpe, [https://web.stanford.edu/~wfsharpe/RISMAT/](https://web.stanford.edu/~wfsharpe/RISMAT/)  
 * "The impact of Guaranteed Income and Dynamic Withdrawals on Safe Initial Withdrawal Rates" by [David Blanchett](http://www.davidmblanchett.com/research), Journal of Financial Planning  [https://www.financialplanningassociation.org/article/journal/APR17-impact-guaranteed-income-and-dynamic-withdrawals-safe-initial-withdrawal-rates](https://www.financialplanningassociation.org/article/journal/APR17-impact-guaranteed-income-and-dynamic-withdrawals-safe-initial-withdrawal-rates)  
