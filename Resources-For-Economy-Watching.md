@@ -35,6 +35,7 @@
 **Stock market indexes:**  
 * Russell 2000: [https://finance.yahoo.com/quote/%5ERUT?p=^RUT](https://finance.yahoo.com/quote/%5ERUT?p=^RUT)  
 * S&P 500: [https://finance.yahoo.com/quote/%5EGSPC/](https://finance.yahoo.com/quote/%5EGSPC/)  
+* Cboe Volatility Index® (VIX® Index) [https://www.cboe.com/tradable_products/vix/](https://www.cboe.com/tradable_products/vix/) and [https://www.cboe.com/delayed_quotes/vix](https://www.cboe.com/delayed_quotes/vix) [In this context, "Volatility, or how fast prices change, is often seen as a way to gauge market sentiment, and in particular the degree of fear among market participants." [from: Investopedia)](https://www.investopedia.com/terms/v/vix.asp)]  
 
 **General Government Research Sources:**  
 * U.S. Congressional Research Service: [https://crsreports.congress.gov/](https://crsreports.congress.gov/)  
