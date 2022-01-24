@@ -118,7 +118,7 @@ How do you know your plan is working?  Identify and then start documenting some 
 
 Your financial planner will take your information, run a set of Monte-Carlo (or other) simulations, and report on the probability of your plan and your behaviors against that plan, meeting your goal(s) that define your successful financial outcome(s) at an older age.  
 
-When you approach or enter *retirement,* your willingness to assume risks in equity, commodity, or other markets may evaporate.  It is a challenge, though, to generate an income stream using only the safest of financial instruments (cash, or near-cash equivalents).  Safety does not pay today -- you may receive less than one half of one percent interest in your local bank.  As a reality check, you can easily review how much *annual income* a given pile of financial assets can reliably generate in these extremely low interest rate times.  *Storing* your money in cash or equivalents will generally deliver stability, but with a relatively low return.  See the table below:  
+When you approach or enter *retirement,* your willingness to assume risks in equity, commodity, or other markets may evaporate [*this might be changing*](https://www.nytimes.com/2022/01/21/business/retirement-stocks-vanguard.html).  It is a challenge, though, to generate an income stream using only the safest of financial instruments (cash, or near-cash equivalents).  Safety does not pay today -- you may receive less than one half of one percent interest in your local bank.  As a reality check, you can easily review how much *annual income* a given pile of financial assets can reliably generate in these extremely low interest rate times.  *Storing* your money in cash or equivalents will generally deliver stability, but with a relatively low return.  See the table below:  
 
 |Assets| 1.0% | 1.25%| 1.5% | 1.75%| 2.0% | 2.5% | 3.0% | 3.5% | 4.0% | 4.5% | 5.0% | 5.5% | 6.0% |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -151,8 +151,8 @@ When you approach or enter *retirement,* your willingness to assume risks in equ
 Some individuals and families have retirement cash flow expectations of $150,000/yr, $200,000/yr, even $300,000/yr.  I included some *big* numbers in the Assets column to help demonstrate the scale of preparation required to support income streams like that.  I read that too often, individuals spending at these levels in retirement have not constructed the required financial foundation, and burn through material portions of their retirement funds before aknowledging that situation -- leaving them seriously financially challenged for the duration of their life.  Not where any of us want to land.  
 
 Those upper rows refer to material wealth.  Who has that kind of money?  Most don't.  And the proportion of the U.S. population who have accumulated $1.2 million or more has shrunk and the distance between the medial wealth and entry into the top 9.9% has more than doubled in the last 6 decades.   
-In “The 9.9 Percent,” Matthew Stewart noted that in 1963, the median household would have needed 10 times as much wealth to reach the middle of the (*top*) 9.9 percent. Today, it would need 24 times as much wealth.
-He also reported that the 9.9 percent group started with a minimum of $1.2 million in assets and it took $2.4 million to reach the group's median...  
+In “The 9.9 Percent,” Matthew Stewart noted that in 1963, the median household would have needed 10 times as much wealth to reach the middle of the (*top*) 9.9 percent. Today, it would need 24 times as much wealth. 
+He also reported that it took $2.4 million in assets to reach the the 9.9 percent group's median...  
 Quoted from a review by Eyal Press: [https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html](https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html)  
 
 
