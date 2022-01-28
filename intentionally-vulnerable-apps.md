@@ -17,6 +17,8 @@
 * Hack.me https://hack.me/ a free environment where users build, host and share vulnerable web application code for educational and research purposes. It has a large collection of "runnable" vulnerable web applications, code samples and CMS's online.  
 * WebGoat http://www.owasp.org/index.php/Category:OWASP_WebGoat_Project (Java-based, incl. full access to source code, documentation built into the platform -- available at run time)  
 * nodeJSGoat https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project (nodeJS-based, incl. full access to source code, -- defaults to run on localhost:5000)  
+* DjangoGoat [https://github.com/red-and-black/DjangoGoat](https://github.com/red-and-black/DjangoGoat)  
+* Goatlin (aka Kotlin Goat) [https://github.com/Checkmarx/Goatlin](https://github.com/Checkmarx/Goatlin)  
 * OWASP Damn Vulnerable Web Sockets (DVWS) [https://github.com/interference-security/DVWS](https://github.com/interference-security/DVWS)  
 * OWASP Wrong Secrets [https://github.com/commjoen/wrongsecrets](https://github.com/commjoen/wrongsecrets)  
 * AltoroMutual (by WatchFire, now IBM Rational) [http://demo.testfire.net/](http://demo.testfire.net/) (extensive, vulnerable, ASP, no source)  
@@ -43,6 +45,7 @@
 * And test your nmap access against [http://scanme.nmap.org/](http://scanme.nmap.org/)  
 
 Resources to follow-up on:  
+* Log4Broke - log4jShell Vulnerable Site [https://github.com/GoVanguard/Log4jShell_Vulnerable_Site](https://github.com/GoVanguard/Log4jShell_Vulnerable_Site)  
 * bWAPP: bee-box (v1.6) [http://www.itsecgames.com/](http://www.itsecgames.com/)  
 * Persistence [https://www.vulnhub.com/entry/persistence-1,103/](https://www.vulnhub.com/entry/persistence-1,103/)  
 * Pentester Lab: Web For Pentester [https://www.vulnhub.com/entry/pentester-lab-web-for-pentester,71/](https://www.vulnhub.com/entry/pentester-lab-web-for-pentester,71/)  
