@@ -7,14 +7,17 @@
 * hackable: A python flask app that is purposfully vulnerable to SQL injection and XSS attacks [github.com/JasonHinds13/hackable](github.com/JasonHinds13/hackable)  
 * Vulpy - Web Application Security Lab [github.com/fportantier/vulpy](github.com/fportantier/vulpy)  
 * Intentionally Vulnerable Flask app for use in Demos [https://github.com/we45/Vulnerable-Flask-App](https://github.com/we45/Vulnerable-Flask-App)  
+* ButterFly web application [https://github.com/Ex-comunicado/ButterFly](https://github.com/Ex-comunicado/ButterFly)  
 
 **Other Technologies**
 * DVFaaS - Damn Vulnerable AWS Lambda Functions as a Service [https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service](https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service)  
+* Unhackable Calculator -- an intentionally vulnerable serverless web application [https://github.com/SugarSecurity/unhackable_calculator](https://github.com/SugarSecurity/unhackable_calculator)  
 * An online platform that uses hands-on virtual labs [https://tryhackme.com/](https://tryhackme.com/)  
 * Hosts materials for anyone to gain practical 'hands-on' experience with -- a range of hacking and network admin opportunities  [https://www.vulnhub.com/](https://www.vulnhub.com/)  
 * A range of pen-testing labs, not all are free [https://www.hackthebox.eu](https://www.hackthebox.eu)  
 
 * Hack.me https://hack.me/ a free environment where users build, host and share vulnerable web application code for educational and research purposes. It has a large collection of "runnable" vulnerable web applications, code samples and CMS's online.  
+* Java Spring Vulny -- "combines the power and sophistication of the Spring framework with some homegrown naïveté" [https://github.com/kaakaww/javaspringvulny](https://github.com/kaakaww/javaspringvulny)  
 * WebGoat http://www.owasp.org/index.php/Category:OWASP_WebGoat_Project (Java-based, incl. full access to source code, documentation built into the platform -- available at run time)  
 * nodeJSGoat https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project (nodeJS-based, incl. full access to source code, -- defaults to run on localhost:5000)  
 * DjangoGoat [https://github.com/red-and-black/DjangoGoat](https://github.com/red-and-black/DjangoGoat)  
@@ -36,6 +39,7 @@
 * Damn Vulnerable Web Services (DVWS) [https://github.com/snoopythesecuritydog/dvws](https://github.com/snoopythesecuritydog/dvws)  
 * Damn Small Vulnerable Web (DSVW) [https://github.com/stamparm/DSVW](https://github.com/stamparm/DSVW) (Python)  
 * Xtreme Vulnerable Web Application (XVWA) [https://github.com/s4n7h0/xvwa](https://github.com/s4n7h0/xvwa) (PHP/MySQL)  
+* Piha is an intentionally vulnerable PHP application [https://github.com/nyilasypeter/piha](https://github.com/nyilasypeter/piha)  
 * Vicnum Project [http://sourceforge.net/projects/vicnum/](http://sourceforge.net/projects/vicnum/) (Perl and PHP; incl. full access to source code)  
 * Web Security Dojo [http://www.mavensecurity.com/web_security_dojo/](http://www.mavensecurity.com/web_security_dojo/) (A diverse, open-source, self-contained training environment for web application security and penetration testing.)  
 * TEST and Demonstration site for Acunetix Web Vulnerability Scanner - [http://testasp.vulnweb.com/Default.asp](http://testasp.vulnweb.com/Default.asp).  
@@ -67,6 +71,8 @@ Resources to follow-up on:
 * SecuriCTF Vulnerable VM [https://maze.pentest-challenge.co.uk/downloads/securictf.ova](https://maze.pentest-challenge.co.uk/downloads/securictf.ova)  
 * Bulldog Vulnerable VM [https://www.vulnhub.com/entry/bulldog-1,211/](https://www.vulnhub.com/entry/bulldog-1,211/)  
 * Extreme Vulnerable Node Application (XVNA) [https://github.com/vegabird/xvna](https://github.com/vegabird/xvna)  
+* An intentionally vulnerable GraphQL based application [https://github.com/timclifford/very_vulnerable_gql_api](https://github.com/timclifford/very_vulnerable_gql_api)  
+* 
 * http://www.overthewire.org/wargames/  
 * http://roothack.org/  
 * http://heorot.net/   
