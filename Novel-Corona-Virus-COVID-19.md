@@ -10,6 +10,14 @@ Test if you have symptoms.
 Isolate if you are positive or cannot access a test.  
 Support global vaccine distribution.  Pockets of unvaccinated are reservoirs for the virus and where new variants evolve.  
 ```
+### Recent Quote:   
+```terminal
+    The loosening of omicron’s grip in many places has given rise to hope that the outbreak is about to enter a new phase in which the virus will become, like the flu, a persistent but generally manageable threat that people can live with. However, experts are warning people against underestimating it or letting their guard down against the possibility of new, more dangerous mutant varieties.
+
+    “We are concerned that a narrative has taken hold in some countries that because of vaccines – and because of omicron’s high transmissibility and lower severity – preventing transmission is no longer possible and no longer necessary,” WHO chief Tedros Adhanom Ghebreyesus said Tuesday. “Nothing could be further from the truth.”
+```
+[https://desmoinesregister-ia.newsmemory.com?selDate=20220203&goTo=A003&artid=3](https://desmoinesregister-ia.newsmemory.com?selDate=20220203&goTo=A003&artid=3)  
+
 Do your part to resist and constrain the flow of misinformation.  During outbreaks like the current COVID-19 (caused by the SARS-CoV-2 virus) pandemic -- a global population-level health crisis caused by airborne pathogens -- the spread of information that is known to be incorrect can lead to unhealthy, even fatal behaviors and reinforce disinformation used to drive people to mistrust scientists and governments *and each other.* [*Unfortunately, profiting by feeding fear and outrage has become normalized by politicians and enabled and amplified at scale by Facebook, Twitter, and other social media platforms.*]  Misinformation and disinformation results in participant's being less likely to follow fact-based advisories and to take appropriate precautions.  
 
 This is critically important in North America where we continue to contribute heavily to the World's pool of Covid-19 deaths along with a growing pool of individuals struggling with chronic illness associated with their Covid-19 experience.  As of late June 2020, U.S.A. had 4% of the world’s population and 25% of the world’s deaths from COVID-19 and in late December 2021 the proportions remained a high 15%.  Unfortunately, COVID-19 challenges are compounding because of prolonged rejection of measures that might tamp down some of the virus' impacts.  
