@@ -104,9 +104,9 @@ Regardless of the scale of your available resources, the most important short te
 |$100,000 | $2,000,000 | $2,500,000|
 |$110,000 | $2,200,000 | $2,750,000|
 
-Again, these numbers can seem like a challenge in isolation.  But for many who reach them, they are the result of regular *savings* for retirement and full participation in employer plans over many years.  The key is to start and stick with a plan.  
+Again, these numbers can seem like a challenge in isolation.  But for many who reach them, they are the result of regular *savings* for retirement and full participation in employer plans over many years.  One of the keys is to start and stick with a plan.  
 
-For many, a material component of your retirement readiness equation is your spending behaviors.  Be mindful, self-aware and alert.  Ask yourself, "Am I doing the right thing?"  This is especially true for your 'consumer' behaviors.  If you can look at your own actions from the perspective of a third party who cares about meeting your retirement goals, you may be able to make choices better aligned with your retirement *asset accumulation* goals.  
+For many, a material component of your retirement readiness equation is your spending behaviors.  Be mindful, self-aware and alert.  Ask yourself, "Am I doing the right thing?"  This is especially true for your 'consumer' behaviors.  For a lot of us, asset accumulation also meant deciding how not to spend our money.  If you can look at your own actions from the perspective of a third party who cares about meeting your retirement goals, you may be able to make choices better aligned with your retirement *asset accumulation* goals.  
 
 Also, a number of wise peers have counseled me to remember that it’s never too late to learn, and asking a question is often more important than knowing the answer.  [Thank you Pranav Doctor.](https://blog.avenuecode.com/ac-spotlight-pranava-doctor)  
 
