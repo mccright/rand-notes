@@ -12,6 +12,8 @@ Have resulted in $2,813,045,843 by 2022-01-29
 There have been more than 200 of material scale, see: [https://defiyield.app/rekt-database](https://defiyield.app/rekt-database)  
 
 
+"Feds arrest married couple, seize $3.6 billion in hacked bitcoin funds." (*119,754 bitcoin*) By Devlin Barrett, 2022-02-08 [https://www.washingtonpost.com/national-security/2022/02/08/bitfinex-hack-bitcoin-arrests/](https://www.washingtonpost.com/national-security/2022/02/08/bitfinex-hack-bitcoin-arrests/)  
+
 Track digital currency values on your terminal [https://github.com/Gbox4/tstock](https://github.com/Gbox4/tstock)  
 Check exchange rates between currencies, both crypto and fiat [https://github.com/Gbox4/forx](https://github.com/Gbox4/forx)  
 
