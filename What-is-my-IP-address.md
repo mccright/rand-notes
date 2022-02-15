@@ -46,7 +46,7 @@ Or sometimes it is important to get the interface in the default route:
 ```
 Depending on your Linux distro, you may need to fiddle with the grep 'inet addr'.  For example, on Debian you will use "inet adr" instead "inet addr."
 
-Or if you are just going to iterage through each address and don't care about the interface:
+Or if you are just going to iterate through each address and don't care about the interface:
 ```bash
 hostname -I
 ```
