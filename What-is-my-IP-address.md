@@ -6,7 +6,7 @@ When you are on a virtual server, deep within some vendor's infrastructure, or y
 
 *IP v4*  
 * dig -4 TXT +short o-o.myaddr.l.google.com @ns1.google.com (when you use DNS server ns1.google.com, with the query "o-o.myaddr.l.google.com" it responds to that address query with the source IP of that request.  It is highly-available, fast and the response is "wrapped" in double-quotes.)  
-* dig +short myip.opendns.com @resolver1.opendns.com (not as fast as above, but an option)  
+* dig -4 +short myip.opendns.com @resolver1.opendns.com (not as fast as above, but an option)  
 * curl https://ipecho.net/plain  
 * curl http://checkip.amazonaws.com/ (highly-available)  
 * curl https://ifconfig.co  
