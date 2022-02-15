@@ -41,3 +41,21 @@
 **General Government Research Sources:**  
 * U.S. Congressional Research Service: [https://crsreports.congress.gov/](https://crsreports.congress.gov/)  
 * 
+
+
+**Use** the data above.  
+
+Try to isolate it from the economic *religions* that dominate too many of the published discussions of the economy:  
+
+#### Supply-Side Economics  
+Supply-side (*primarily, but not exclusively, Republicans*) say the economy doesn’t have what it needs to grow because there is too much government constraining the freedom of private capital.  
+In other words, "the rich need more reasons to work."  
+"Logically," they argue:  
+* The poor need (more) punishment if they don't work.  
+* Corporations and individuals of wealth need more incentives to invest.  
+Their "solutions" (logically):  
+* Tax cuts for the wealthy (*corporate or not*).  
+* Spending cuts and work requirements for the poor.  
+* Financial environmental and political deregulation.  
+[This is a common description, but uses content from Ezra Klein](https://www.nytimes.com/2022/02/12/opinion/yellen-supply-side-liberalism.html)  
+
