@@ -1,6 +1,7 @@
 **Resources For Economy Watching**  
 =====================================
 
+* Economic Indicators Calendar [https://www.newyorkfed.org/research/calendars/nationalecon_cal](https://www.newyorkfed.org/research/calendars/nationalecon_cal)  
 * Jobless claims: [https://fred.stlouisfed.org/series/ICSA](https://fred.stlouisfed.org/series/ICSA)  
 * Unemployment rate: [https://fred.stlouisfed.org/series/UNRATE](https://fred.stlouisfed.org/series/UNRATE)  
   * With supporting information from the U.S. Bureau of Labor Statistics: [https://www.bls.gov/bls/unemployment.htm](https://www.bls.gov/bls/unemployment.htm) and [https://www.bls.gov/bls/newsrels.htm#OEUS](https://www.bls.gov/bls/newsrels.htm#OEUS)  
@@ -40,15 +41,15 @@
 
 **General Government Research Sources:**  
 * U.S. Congressional Research Service: [https://crsreports.congress.gov/](https://crsreports.congress.gov/)  
-* 
+* USAspending -- the official open data source of federal spending information: [https://www.usaspending.gov/](https://www.usaspending.gov/)  
+
 
 
 **Use** the data above.  
-
-Try to isolate it from the economic *religions* that dominate too many of the published discussions of the economy:  
+Try to isolate it from the economic *religions* that dominate too many of the published discussions about the economy:  
 
 #### Supply-Side Economics  
-Supply-side (*primarily, but not exclusively, Republicans*) say the economy doesn’t have what it needs to grow because there is too much government constraining the freedom of private capital.  
+[Supply-side economics](https://en.wikipedia.org/wiki/Supply-side_economics) believers argue the economy doesn’t have what it needs to grow because there is too much government constraining the freedom of private capital.  In recent history, its most vocal proponents tend to sell a variant "*Trickle-down economics*" which focuses government support on the most wealthy in society -- arguing that approach will (*magically*) support the rest of society via investing by those most wealthy.  
 In other words, "the rich need more reasons to work."  
 "Logically," they argue:  
 * The poor need (more) punishment if they don't work.  
@@ -56,6 +57,17 @@ In other words, "the rich need more reasons to work."
 Their "solutions" (logically):  
 * Tax cuts for the wealthy (*corporate or not*).  
 * Spending cuts and work requirements for the poor.  
-* Financial environmental and political deregulation.  
+* Financial, environmental and political deregulation, along with *free trade*.  
+According to supply-side economics, consumers will benefit from greater supplies of goods and services at lower prices, and employment will increase.  
+In practice in the U.S. the *trickle-down* variant of supply-side economics has repeatedly been unsuccessful at achieving its intended goals.  
 [This is a common description, but uses content from Ezra Klein](https://www.nytimes.com/2022/02/12/opinion/yellen-supply-side-liberalism.html)  
 
+
+#### Modern Monetary Theory  
+[Modern Monetary Theory (MMT)](https://en.wikipedia.org/wiki/Modern_Monetary_Theory) [adherents argue](https://neweconomicperspectives.org/modern-monetary-theory-primer.html) that a currency-generator (usually a government) supplies the financial assets needed to ensure full employment and manages inflation via taxes to drive down spending capacity.  MMT uses government bond issues as a monetary policy device, not (*as in other economic theories*) a funding device:  
+* If a government controls its own currency  
+* And needs money -- for vital societal needs unmet (*for example, to help its citizens with food and places to live as a global pandemic pushed many out of work*)  
+* It can just print it,  
+* As long as its economy has the ability to churn out the needed goods and services -- and inflation remains *low*.  
+MMT theorists have not been well tested in the *real world* but may have an opportunity to influence responses to the 2021-2022 U.S. inflation.  
+[Some of this is paraphrased from an article by Jeanna Smialek](https://www.nytimes.com/2022/02/06/business/economy/modern-monetary-theory-stephanie-kelton.html)  

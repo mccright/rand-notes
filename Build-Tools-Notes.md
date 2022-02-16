@@ -17,6 +17,7 @@ Anyone wanting to specialize in *application security* work should have some awa
 * mvn  
 * ninja  
 * npm  
+* poetry  
 * setuptools (python)  
 * rake  
 * rant  
