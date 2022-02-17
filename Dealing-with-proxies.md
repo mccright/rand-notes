@@ -24,7 +24,8 @@ $   is  %24
 ### Blocked by Policy
 There some use cases where a platform or vendor enables access via a permit list.  In that case, you need get the external IP address of the proxy approved.  The following commands can help and are script friendly:
 
-* dig -6 TXT +short o-o.myaddr.l.google.com @ns1.google.com (when you use DNS server ns1.google.com, with the query "o-o.myaddr.l.google.com" it responds to that address query with the source IP of that request.  It is fast and the response is "wrapped" in double-quotes.)  
+**IP v4**  
+* dig -4 TXT +short o-o.myaddr.l.google.com @ns1.google.com (when you use DNS server ns1.google.com, with the query "o-o.myaddr.l.google.com" it responds to that address query with the source IP of that request.  It is fast and the response is "wrapped" in double-quotes.)  
 * curl https://ipecho.net/plain  
 * curl http://checkip.amazonaws.com/  
 * curl https://ifconfig.co  
@@ -34,7 +35,7 @@ There some use cases where a platform or vendor enables access via a permit list
 * curl https://ident.me or https://v4.ident.me  
 * curl https://ipv4bot.whatismyipaddress.com/  
 * curl https://ip4.seeip.org  
-*IP v6*  
+**IP v6**  
 * dig -6 TXT +short o-o.myaddr.l.google.com @ns1.google.com (when you use DNS server ns1.google.com, with the query "o-o.myaddr.l.google.com" it responds to that address query with the source IP of that request.  It is fast and the response is "wrapped" in double-quotes.)  
 
 ```
