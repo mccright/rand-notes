@@ -8,7 +8,7 @@ Avoid crowds.
 Use masks.  
 Test if you have symptoms.  
 Isolate if you are positive or cannot access a test.  
-Support global vaccine distribution.  Pockets of unvaccinated are reservoirs for the virus and where new variants evolve.  
+Support global vaccine distribution.  Pockets of unvaccinated, regardless of their location, are reservoirs for the virus, where it replicates and mutates, and where new variants evolve.  
 ```
 ### Recent Quote:   
 
