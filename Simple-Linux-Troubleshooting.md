@@ -24,7 +24,8 @@ systemctl list-units --failed
 to see what might have failed to start.  
 
 ****
-### What is my hardware?
+### What is my hardware?  
+Sometimes software that is new to you may have hardware constraints.  For example, is my NVIDIA controller supported?  In order to answer that question it is generally important to know the model and version of that device.  'lspci' can reveal those types of information with:  
 ```terminal
 lspci -vmmnn
 ```
