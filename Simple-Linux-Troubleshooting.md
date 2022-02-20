@@ -24,6 +24,11 @@ systemctl list-units --failed
 to see what might have failed to start.  
 
 ****
+### What is my hardware?
+```terminal
+lspci -vmmnn
+```
+
 ### Where is my scanner?  
 ```terminal
 scanimage -L
