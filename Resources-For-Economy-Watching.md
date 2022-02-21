@@ -42,6 +42,7 @@
 **General Government Research Sources:**  
 * U.S. Congressional Research Service: [https://crsreports.congress.gov/](https://crsreports.congress.gov/)  
 * USAspending -- the official open data source of federal spending information: [https://www.usaspending.gov/](https://www.usaspending.gov/)  
+* Although much of it is time-delayed, WorldBank trending data can be useful for building perspective [https://data.worldbank.org/](https://data.worldbank.org/)  
 
 
 
