@@ -94,6 +94,7 @@ Regardless of the scale of your available resources, the most important short te
 
 |Annual Income|Times 20|Times 25|
 |:-----------:|:------:|:------:|
+|$20,000 | $400,000 | $500,000|
 |$30,000 | $600,000 | $750,000|
 |$40,000 | $800,000 | $1,000,000|
 |$50,000 | $1,000,000 | $1,250,000|
@@ -103,10 +104,14 @@ Regardless of the scale of your available resources, the most important short te
 |$90,000 | $1,800,000 | $2,250,000|
 |$100,000 | $2,000,000 | $2,500,000|
 |$110,000 | $2,200,000 | $2,750,000|
+|$120,000 | $2,400,000 | $3,000,000|
+|$130,000 | $2,600,000 | $3,250,000|
+|$140,000 | $2,800,000 | $3,500,000|
+|$150,000 | $3,000,000 | $3,750,000|
 
 Again, these numbers can seem like a challenge in isolation.  But for many who reach them, they are the result of regular *savings* for retirement and full participation in employer plans over many years.  One of the keys is to start and stick with a plan.  
 
-For many, a material component of your retirement readiness equation is your spending behaviors.  Be mindful, self-aware and alert.  Ask yourself, "Am I doing the right thing?"  This is especially true for your 'consumer' behaviors.  For a lot of us, asset accumulation also meant deciding how not to spend our money.  If you can look at your own actions from the perspective of a third party who cares about meeting your retirement goals, you may be able to make choices better aligned with your retirement *asset accumulation* goals.  
+For many, a material component of your retirement readiness equation is your spending behaviors.  Be mindful, self-aware and alert.  Ask yourself, "Am I doing the right thing?"  This is especially true for your 'consumer' behaviors.  For a lot of us, asset accumulation also meant deciding how **not** to spend our money.  If you can look at your own actions from the perspective of a third party who cares about meeting your retirement goals, you may be able to make choices better aligned with your retirement *asset accumulation* goals.  
 
 Also, a number of wise peers have counseled me to remember that it’s never too late to learn, and asking a question is often more important than knowing the answer.  [Thank you Pranav Doctor.](https://blog.avenuecode.com/ac-spotlight-pranava-doctor)  
 
@@ -150,7 +155,7 @@ When you approach or enter *retirement,* your willingness to assume risks in equ
 
 Some individuals and families have retirement cash flow expectations of $150,000/yr, $200,000/yr, even $300,000/yr.  I included some *big* numbers in the Assets column to help demonstrate the scale of preparation required to support income streams like that.  I read that too often, individuals spending at these levels in retirement have not constructed the required financial foundation, and burn through material portions of their retirement funds before aknowledging that situation -- leaving them seriously financially challenged for the duration of their life.  Not where any of us want to land.  
 
-Those upper rows refer to material wealth.  Who has that kind of money?  Most don't.  And the proportion of the U.S. population who have accumulated $1.2 million or more has shrunk and the distance between the medial wealth and entry into the top 9.9% has more than doubled in the last 6 decades.   
+Those upper rows refer to material wealth.  Who has that kind of money?  Most don't.  [Over the past 40 years wages have stagnated against the cost of living for most Americans](https://www.pewresearch.org/fact-tank/2018/08/07/for-most-us-workers-real-wages-have-barely-budged-for-decades/).  And the proportion of the U.S. population who have accumulated $1.2 million or more has shrunk and the distance between the median wealth and entry into the top 9.9% has more than doubled in the last 6 decades.   
 In “The 9.9 Percent,” Matthew Stewart noted that in 1963, the median household would have needed 10 times as much wealth to reach the middle of the (*top*) 9.9 percent. Today, it would need 24 times as much wealth. 
 He also reported that it took $2.4 million in assets to reach the the 9.9 percent group's median...  
 Quoted from a review by Eyal Press: [https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html](https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html)  
