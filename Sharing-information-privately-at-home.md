@@ -36,4 +36,12 @@ It requires users write in HTML, which will be a turn-off for some (it is not at
 
 
 ### Next An Experiment with _________  
+CS Class Chat app using Flask
+[https://github.com/saarikabhasi/Chat-application](https://github.com/saarikabhasi/Chat-application)  
 
+
+### Candidates for Review  
+Este es el repositorio de los contenidos de la Wiki de Python Argentina? [https://github.com/PyAr/wiki](https://github.com/PyAr/wiki)  
+
+Rūrusetto (ルールセット)  
+[https://github.com/Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)  
