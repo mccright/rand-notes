@@ -32,6 +32,7 @@
 * Yield curve: [https://stockcharts.com/freecharts/yieldcurve.php](https://stockcharts.com/freecharts/yieldcurve.php)  
   * [https://www.clevelandfed.org/en/our-research/indicators-and-data/yield-curve-and-gdp-growth.aspx](https://www.clevelandfed.org/en/our-research/indicators-and-data/yield-curve-and-gdp-growth.aspx)  
   * [https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield)  
+* A suite of economic indicators from YCharts [https://ycharts.com/indicators](https://ycharts.com/indicators)  
 
 **Stock market indexes:**  
 * Russell 2000: [https://finance.yahoo.com/quote/%5ERUT?p=^RUT](https://finance.yahoo.com/quote/%5ERUT?p=^RUT)  

@@ -28,7 +28,7 @@ Anyone wanting to specialize in *application security* work should have some awa
 * rake  
 * rant  
 * sbt  
-* scons  
+* **scons**: A multi-language software construction tool [https://scons.org/](https://scons.org/)  
 * waf  
 * vagrant  
 * yarn (yarn.lock)  
