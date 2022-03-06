@@ -41,7 +41,15 @@ CS Class Chat app using Flask
 
 
 ### Candidates for Review  
-Este es el repositorio de los contenidos de la Wiki de Python Argentina? [https://github.com/PyAr/wiki](https://github.com/PyAr/wiki)  
+* SoapBox  
+* GNU Social  
+* HubZilla
+* Este es el repositorio de los contenidos de la Wiki de Python Argentina? [https://github.com/PyAr/wiki](https://github.com/PyAr/wiki)  
 
-Rūrusetto (ルールセット)  
+* Rūrusetto (ルールセット)  
 [https://github.com/Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)  
+
+* Maybe experiment with Funkwhale.  
+  * Docker image from Ned Kelley: [https://github.com/ultimate-pms/ultimate-media-server-core/tree/master/dockerfiles/server/docker-funkwhale](https://github.com/ultimate-pms/ultimate-media-server-core/tree/master/dockerfiles/server/docker-funkwhale)  
+  *  funkwhale music import script from Ned Kelley: [https://github.com/ultimate-pms/ultimate-media-server-core/blob/master/scripts/funkwhale/funkwhale_bump-files.sh](https://github.com/ultimate-pms/ultimate-media-server-core/blob/master/scripts/funkwhale/funkwhale_bump-files.sh)  
+
