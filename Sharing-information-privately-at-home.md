@@ -49,7 +49,7 @@ CS Class Chat app using Flask
 * Rūrusetto (ルールセット)  
 [https://github.com/Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)  
 
-* Maybe experiment with Funkwhale [https://dev.funkwhale.audio/funkwhale/funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale)  
+* This is not core to the mission above, but maybe experiment with [Funkwhale](https://funkwhale.audio/) [https://dev.funkwhale.audio/funkwhale/funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale), [https://blog.funkwhale.audio/](https://blog.funkwhale.audio/), and   
   * Docker image from Ned Kelley: [https://github.com/ultimate-pms/ultimate-media-server-core/tree/master/dockerfiles/server/docker-funkwhale](https://github.com/ultimate-pms/ultimate-media-server-core/tree/master/dockerfiles/server/docker-funkwhale)  
   *  funkwhale music import script from Ned Kelley: [https://github.com/ultimate-pms/ultimate-media-server-core/blob/master/scripts/funkwhale/funkwhale_bump-files.sh](https://github.com/ultimate-pms/ultimate-media-server-core/blob/master/scripts/funkwhale/funkwhale_bump-files.sh)  
 
