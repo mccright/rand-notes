@@ -19,6 +19,8 @@ In late February 2022, as Russian President Vladimir Putin ordered his military 
 
 Praise for jailing adversaries, eliminating political opposition, silencing a free press and replacing an independent judiciary aligns with many leading and participating in far right violence.  
 
+Arizona state Sen. Wendy Rogers (GOP), a retired U.S. Air Force pilot, represents tens of thousands of constituents around the Flagstaff area has called for jailing and executing her political opponents (*and repeatedly saying they deserved the gallows*) and recently (25 Feb. 2022) called at an AFPAC converence in Orlando for violence against "traitors" who criticize Confederate Gen. Robert E. Lee or who promote coronavirus vaccination.  She is also described by Beth Reinhard and Rosalind S. Helderman as ["the most successful fundraiser in the Arizona state legislature."](https://www.washingtonpost.com/investigations/2022/03/08/wendy-rogers-arizona-nick-fuentes-censure/)  
+
 These narratives ignore the facts about terrorist activity in the U.S.  
 Since the early 1990s, far right terrorist attacks and plots in the U.S. outnumber those by any other group.  
 There have been **more than twice as many far right attacks and plots in the U.S.** compared to far left terrorists.  
