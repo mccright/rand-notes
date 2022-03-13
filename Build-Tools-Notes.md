@@ -23,12 +23,15 @@ Anyone wanting to specialize in *application security* work should have some awa
 * npm (package.json, package-lock.json)  
 * nuget  
 * packrat (packrat.lock)  
-* poetry (poetry.lock)  
+* pip (requirements.txt, dependency resolver)  
+* pipenv (dependency resolver)  
+* poetry (poetry.lock, dependency resolver)  
 * setuptools (python)  
 * rake  
 * rant  
 * sbt  
 * **scons**: A multi-language software construction tool [https://scons.org/](https://scons.org/)  
+* Toth (dependency resolver)  
 * waf  
 * vagrant  
 * yarn (yarn.lock)  
