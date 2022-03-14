@@ -31,7 +31,7 @@ Anyone wanting to specialize in *application security* work should have some awa
 * rant  
 * sbt  
 * **scons**: A multi-language software construction tool [https://scons.org/](https://scons.org/)  
-* Toth (dependency resolver)  
+* Thoth ([dependency resolver](https://developers.redhat.com/articles/2022/03/07/manage-python-security-thoths-cloud-based-dependency-resolver#thoth_security_for_python_applications))  
 * waf  
 * vagrant  
 * yarn (yarn.lock)  
