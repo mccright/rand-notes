@@ -27,6 +27,9 @@
  * ProtonVPN [https://protonvpn.com/](https://protonvpn.com/)  
  * TunnelBear [https://www.tunnelbear.com/plans](https://www.tunnelbear.com/plans)  
  * HotSpot Shield [https://www.gethotspotshield.com/](https://www.gethotspotshield.com/)  
+ * Psiphon is a free and open source anti-censorship VPN [https://psiphon.ca/](https://psiphon.ca/)  
+ * nthlink is a free and open source anti-censorship VPN https://www.nthlink.com/](https://www.nthlink.com/https://www.nthlink.com/)
+ * https://www.nthlink.com/](https://www.nthlink.com/)  
 
 
 ### Private Chat Servers  
