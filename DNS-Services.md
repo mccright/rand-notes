@@ -13,7 +13,7 @@ Here is a list of DNS servers having a range of characteristics:
 * [OpenNIC](https://www.opennic.org/): 94.247.43.254 and 192.71.245.208 & IPv6 2a00:dcc0:eda:88:245:71:858e:a15 and 2a00:f826:8:1::254  
 * [Quad9](https://www.quad9.net/)/IBM: 9.9.9.9 and 149.112.112.112  
 * [UltraDNS](https://www.publicdns.neustar/)/Neustar: 156.154.70.5 and 156.154.71.5 or with some threats blocked 156.154.70.2 and 156.154.71.2 & IPv6 2610:a1:1018::5 and 2610:a1:1019::5 or with some threats blocked 2610:a1:1018::2 and 2610:a1:1019::2   
-* [UncensoredDNS](https://blog.uncensoreddns.org/):* 198.180.150.12, 91.239.100.100 and 89.233.43.71 & IPv6 2001:67c:28a4:: and 2a01:3a0:53:53::  
+* [UncensoredDNS](https://blog.uncensoreddns.org/):* 91.239.100.100 and 89.233.43.71 & IPv6 2001:67c:28a4:: and 2a01:3a0:53:53:: [This service is turning off clear text lookups in September 2022](https://blog.uncensoreddns.org/blog/39-the-unfriendly-internet-turning-off-cleartext-lookups-in-september/), config help at: [https://github.com/censurfridns/client-configs](https://github.com/censurfridns/client-configs).  
 * [Verisign Public DNS](https://www.verisign.com/en_US/security-services/public-dns/index.xhtml): 64.6.65.6 and 64.6.64.6 & IPv6 2620:74:1b::1:1 and 2620:74:1c::2:2  
 [*] No logging
 
