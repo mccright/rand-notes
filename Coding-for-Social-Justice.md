@@ -23,6 +23,11 @@ Sanam Malik
 
 ----------------------------------------
 ### More Reasons this is so Important:  
-#### Cyber Surveillance As a Weapon
+#### Cyber Surveillance As a Weapon  
 * “A grim outlook”: How cyber surveillance is booming on a global scale -- New data paints a detailed picture of the ways Western companies are selling cyber weapons and surveillance technology to NATO’s enemies." By Patrick Howell O'Neill, November 8, 2021 [https://www.technologyreview.com/2021/11/08/1039395/grim-outlook-cyber-boom-atlantic-council-report/](https://www.technologyreview.com/2021/11/08/1039395/grim-outlook-cyber-boom-atlantic-council-report/)  
 * "Surveillance Technology at the Fair: Proliferation of Cyber Capabilities in International Arms Markets." By Winnona DeSombre, Lars Gjesvik, and Johann Ole Willers, November 8, 2021 [https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/surveillance-technology-at-the-fair/](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/surveillance-technology-at-the-fair/)  
+
+#### Bias in Machine Learning (ML) and Artificial Intelligence (AI)  
+*  
+*  
+
