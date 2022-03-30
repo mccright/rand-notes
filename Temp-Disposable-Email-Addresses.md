@@ -16,6 +16,7 @@
  * Ten Minute Email: [https://10minutemail.com/](https://10minutemail.com/)  
 
 ## 'Log-Free' VPN Options
+If you are using a VPN or thinking about it, I recommend investing 10 minutes in this video to help build a broader context for your decision-making: "Why VPNs are a WASTE of Your Money (usually…)" By Cyberspatial [https://www.youtube.com/watch?v=9_b8Z2kAFyY](https://www.youtube.com/watch?v=9_b8Z2kAFyY)   
  * ExpressVPN [https://www.expressvpn.com/](https://www.expressvpn.com/)  
  * CyberGhost [https://www.cyberghostvpn.com/](https://www.cyberghostvpn.com/)  
  * IPVanish [https://www.ipvanish.com/](https://www.ipvanish.com/)  
