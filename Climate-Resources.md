@@ -1,5 +1,7 @@
 # Climate Change Reading:  
 
+* "[World Energy Transitions Outlook: 1.5°C Pathway.](https://www.irena.org/publications/2022/Mar/World-Energy-Transitions-Outlook-2022)" from the [International Renewable Energy Agency](https://en.wikipedia.org/wiki/International_Renewable_Energy_Agency) [IRENA].  This second edition of the Outlook outlines priority areas and actions based on available technologies that must be realised by 2030 to achieve net zero emissions by mid-century. March 2022 [https://www.irena.org/publications/2022/Mar/World-Energy-Transitions-Outlook-2022](https://www.irena.org/publications/2022/Mar/World-Energy-Transitions-Outlook-2022)  
+  * IRENA also has a collection of resources on this topic at: [https://www.irena.org/publications](https://www.irena.org/publications)  
 * Articles and Essays about Climate Change from The Electric Typewriter
   * [https://tetw.org/Climate_Change_](https://tetw.org/Climate_Change_)  
   * [https://tetw.org/post/187643116262/10-essential-reads-about-climate-change](https://tetw.org/post/187643116262/10-essential-reads-about-climate-change)  
