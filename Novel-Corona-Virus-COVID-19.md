@@ -3,7 +3,7 @@ Focus on Facts and Restrict the Flow of Misinformation
 ```
 Get vaccinated.  Help your family and friends do the same.  
 Get boosted.  Help your family and friends do the same.  
-Ventilate spaces.  
+Ventilate shared spaces.  
 Avoid crowds.  
 Use masks.  
 Test if you have symptoms.  
