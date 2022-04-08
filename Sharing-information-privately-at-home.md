@@ -2,6 +2,15 @@
 Is it prudent to donate everything you share around the house with your ISP, your email provider, and your chosen social media provider?  I don't think so.  As a result, I have begun experimenting with some simple, isolated information sharing platforms for around the house.  
 
 **Simple** is important to me.  Simple, even primitive, seems best for most of our family information sharing -- most of which is transient.  Simple text and lists will get us far.  I don't have a *favorite* platform in mind and need to look around for options and experiment.  
+**Cleanup** is also important to me.  If any of these experiments really *sticks* then it will accumulate non-public data.  At some point I'll need to *securely* erase that data.  (shred, wipe, srm (secure-delete))  
+```terminal
+shred -zvu -n 5 <filename>
+```
+Then confirm your work:  
+```terminal
+hexdump < <filename>
+```
+
 
 ### An Experiment with openNAMU  
 openNAMU is a Korean wiki that is relatively immature and in active development.  It is also not a highly secure or self-defensive platform.  But it IS simple:  
