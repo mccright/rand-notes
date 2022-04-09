@@ -17,7 +17,7 @@ Add *--delete* option if you also need to remove destination files when they are
 
 
 
-#### Use find to execute command on files  
+### Use find to execute command on files  
 Delete files that have not been modified in the last 30 days:  
 ```  
 $ find ~/tmp -type f -mtime +30 -exec rm {} +  
