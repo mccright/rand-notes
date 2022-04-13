@@ -70,7 +70,7 @@ The organization must regularly review information system audit records for inap
 The information system incorporates an approved audit reduction and report generation capability that supports on-demand audit review, analysis, and reporting requirements, after-the-fact investigations of security incidents.  This functionality must not alter the original content or time order of audit records.  
 
 **NIST AU-8**  
-The information system uses an internal system of clocks to generate audit record time stamps which are mapped to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) and are/remain accurate-enough to meet all applicable laws, regulations, directives, contracts, policies, and standards.  
+The information system uses an internal system of clocks to generate audit record time stamps which are mapped to Coordinated Universal Time ([UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)) or Greenwich Mean Time ([GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time)) and are/remain accurate-enough to meet all applicable laws, regulations, directives, contracts, policies, and standards.  
 
 **NIST AU-9**  
 The information system must effectively protect audit information and tools from unauthorized access, modification, and deletion.  
