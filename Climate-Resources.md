@@ -1,9 +1,14 @@
 # Climate Change Reading:  
 
+* See the most up-to-date physical understanding of the climate system and climate change - latest data and interpretations: [https://www.ipcc.ch/report/ar6/wg1/](https://www.ipcc.ch/report/ar6/wg1/)  
+ * The latest *Synthesis Report* and supporting research from the Intergovernmental Panel on Climate Change (IPCC) will dribble out throughout 2022 [https://www.ipcc.ch/ar6-syr/](https://www.ipcc.ch/ar6-syr/)  Since the IPCC was created in 1988, there have been 5 Synthesis Reports, see links to that historical reporting on this page as well.  
+* Or, if that is too much detail, see *the same* message in xkcd format [https://xkcd.com/1732/](https://xkcd.com/1732/)  
+* New research can help you better understand climate-related risks at your home or where you work.  FloodFactor will help you understand the current and future flood risks at any North American address: [https://www.floodfactor.com/](https://www.floodfactor.com/)  
+* The U.S. National Mortgage Bankers Association researched climate change risks in their domain: [https://img03.en25.com/Web/MortgageBankersAssociation/Research_RIHA_September_2021_Report.pdf](https://img03.en25.com/Web/MortgageBankersAssociation/%7B66e37863-0f2e-45c7-8526-04d615d395e9%7D_22847_Research_RIHA_September_2021_Report.pdf)  
 * Deloitte on accelerated decarbonization](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/economic-cost-climate-change-turning-point.html):  
   > [Deloitte builds an economic argument](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-the-turning-point-a-new-economic-climate-in-the-united-states-january-2022.pdf) that [even without considering the impacts of water availability, crime/war, or ocean acidification](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-the-turning-point-us-tech-appendix-january-2022.pdf) climate change will result in catastrophic economic impacts over the next 50 years (losses of $14.5 trillion in present-value terms for the U.S.) -- requiring immediate action to decarbonize and build economic resiliance.  
 * "[World Energy Transitions Outlook: 1.5°C Pathway.](https://www.irena.org/publications/2022/Mar/World-Energy-Transitions-Outlook-2022)" from the [International Renewable Energy Agency](https://en.wikipedia.org/wiki/International_Renewable_Energy_Agency) [IRENA].  This second edition of the Outlook outlines priority areas and actions based on available technologies that must be realised by 2030 to achieve net zero emissions by mid-century. March 2022 [https://www.irena.org/publications/2022/Mar/World-Energy-Transitions-Outlook-2022](https://www.irena.org/publications/2022/Mar/World-Energy-Transitions-Outlook-2022)  
-  * IRENA also has a collection of resources on this topic at: [https://www.irena.org/publications](https://www.irena.org/publications)  
+* IRENA also has a collection of resources on this topic at: [https://www.irena.org/publications](https://www.irena.org/publications)  
 * Articles and Essays about Climate Change from The Electric Typewriter
   * [https://tetw.org/Climate_Change_](https://tetw.org/Climate_Change_)  
   * [https://tetw.org/post/187643116262/10-essential-reads-about-climate-change](https://tetw.org/post/187643116262/10-essential-reads-about-climate-change)  
@@ -14,7 +19,6 @@
 * Science Daily on Climate Change [https://www.sciencedaily.com/news/earth_climate/climate/](https://www.sciencedaily.com/news/earth_climate/climate/)  
 * Union of Concerned Scientists on Climate Change
 [https://www.ucsusa.org/climate/science](https://www.ucsusa.org/climate/science) and [https://www.ucsusa.org/climate](https://www.ucsusa.org/climate)  
-* The latest reporting from the Intergovernmental Panel on Climate Change (IPCC) will dribble out throughout 2022 [https://www.ipcc.ch/ar6-syr/](https://www.ipcc.ch/ar6-syr/)  Since the IPCC was created in 1988, there have been 5 Synthesis Reports, see links to that historical reporting on this page as well.  
 
 -------------
 Student Essays on Climate Change  
