@@ -10,6 +10,8 @@ For reference, [as of the third quarter of 2021, 50.3% of U.S. adults 55 and old
 
 Getting realistic and explicit about financing your retirement is a topic that is easy to neglect.  Resist that path.  Also resist the force of negativity bias -- the tendency to exaggerate negative information -- and its resulting "[behavioral tendency to overweight a narrow range of possible future events in light of incoming information](https://www.ssa.gov/policy/docs/ssb/v81n4/v81n4p1.html)," even when it is misleading or otherwise inaccurate.  
 
+If you're thinking about preparing for retirement, assume that you will never have everything lined up or figured out perfectly before you start.  Things change.  Constantly.  As is true for virtually any activity that requires you to invest over time, the *secret* to creating lasting momentum is to **start now** and **evolve later**.  
+
 Check the Social Security Administration's [Retirement Benefits Estimator](https://www.ssa.gov/benefits/retirement/estimator.html) to get an idea of what your *guaranteed* income stream may be -- or use their [Quick Calculator](https://www.ssa.gov/OACT/quickcalc/) for an estimate, and the same for a [spouse](https://www.ssa.gov/OACT/quickcalc/spouse.html).  For most, it will not be enough to meet your wishes and you will need to cobble together additional means of retirement support over the course of your working life.  
 
 Health care also needs to be built into your planning.  Medicare.gov has a lot of useful resources, including this summary of 2022 Medicare costs/expenses](https://www.medicare.gov/Pubs/pdf/11579-Medicare-Costs.pdf) and a tool to help get started finding [Medicare supplemental insurance](https://www.medicare.gov/blog/its-time-to-shop-compare-plans-for-2022).  
