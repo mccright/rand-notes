@@ -283,6 +283,8 @@ I'll edit this down as I have an opportunity to better review each resource...
 * And some eye-candy [https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)  
 
 **Random Resources**  
+* Search HealthData.gov for Community profile report [https://beta.healthdata.gov/browse?q=COVID-19%20State%20Profile%20Report%20-%20Iowa&sortBy=relevance](https://beta.healthdata.gov/browse?q=COVID-19%20State%20Profile%20Report%20-%20Iowa&sortBy=relevance)  
+* HealthData.gov State Profile Reports [https://beta.healthdata.gov/browse?tags=covid-19-spr](https://beta.healthdata.gov/browse?tags=covid-19-spr)  
 * "It Won’t Happen to Us". Unrealistic Optimism Affects COVID-19 Risk Assessments and Attitudes Regarding Protective Behaviour." By Sinué Salgadoa, and Dorthe Berntsena. Journal of Applied Res Mem Cogn. 2021 Jul 21. doi: 10.1016/j.jarmac.2021.07.006 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8292110/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8292110/)  
 * Report the U.S. White House Reviewed March 13, 2020: "PanCAP Adapted U.S. Government COVID - 19 Response Plan March 13, 2020" [https://int.nyt.com/data/documenthelper/6819-covid-19-response-plan/d367f758bec47cad361f/optimized/full.pdf#page=1](https://int.nyt.com/data/documenthelper/6819-covid-19-response-plan/d367f758bec47cad361f/optimized/full.pdf#page=1)  
   * Since that report was reviewed in the White House, malfeasance and misfeasance seem to have followed.  For an illustration from 2020-07-09, see: [https://pbs.twimg.com/media/EccYWIoXkAAjgTT?format=jpg&name=medium](https://pbs.twimg.com/media/EccYWIoXkAAjgTT?format=jpg&name=medium)  
