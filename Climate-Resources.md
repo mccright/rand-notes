@@ -21,19 +21,35 @@
 [https://www.ucsusa.org/climate/science](https://www.ucsusa.org/climate/science) and [https://www.ucsusa.org/climate](https://www.ucsusa.org/climate)  
 
 -------------
-Economic Impacts of Climate Change  
+### Economic Impacts of Climate Change  
+"Atlas of Mortality and Economic Losses from Weather, Climate and Water Extremes (1970–2019)." By the World Meteorological Organization, 2021 (page 8) [WMO-No. 1267](https://library.wmo.int/doc_num.php?explnum_id=10989), published in a number of languages: [https://library.wmo.int/index.php?lvl=notice_display&id=21930](https://library.wmo.int/index.php?lvl=notice_display&id=21930)  
 >"According to CRED EM-DAT, from 1970 to 2019 there were 22,326 disasters that met their criteria for recording.  These reported 4,607,671 deaths and US$ 4.92 trillion in economic losses (Figure 1).
 >An analysis of the EM-DAT records indicates that 62% of all recorded disasters, 80% of all deaths and almost all (99%) economic losses were associated with natural hazards.  
 >Of the 22 326 disasters, 11,072 have been attributed to weather, climate and water hazards. These disasters resulted in 2.06 million deaths and US$3.64 trillion in losses. Thus, over the last 50 years, 50% of all recorded disasters, 45% of related deaths and 74% of related economic losses were due to weather, climate and water hazards."  
-"Atlas of Mortality and Economic Losses from Weather, Climate and Water Extremes (1970–2019)." By the World Meteorological Organization, 2021 [WMO-No. 1267](https://library.wmo.int/doc_num.php?explnum_id=10989), published in a number of languages: [https://library.wmo.int/index.php?lvl=notice_display&id=21930](https://library.wmo.int/index.php?lvl=notice_display&id=21930)  
+
+#### Top 10 Weather-Related Disasters in the U.S. in the last 50 Years 
+[WMO-No. 1267](https://library.wmo.int/doc_num.php?explnum_id=10989) page 41
+| Name            | Year | Economic losses US$ billion |
+|-----------------|------|-----------------------------|
+| Storm (Katrina) | 2005 | 163.61 |
+| Storm (Harvey) | 2017 | 96.94 |
+| Storm (Maria) | 2017 | 69.39 |
+| Storm (Irma) | 2017 | 58.16 |
+| Storm (Sandy) | 2012 | 54.47 |
+| Storm (Andrew) | 1992 | 48.27 |
+| Storm (Ike) | 2008 | 35.63 |
+| Wildfire | 2019 | 24.46 |
+| Storm (Ivan) | 2004 | 24.36 |
+| Drought | 2012 | 21.79 |
+
 
 United Nations, “Climate and Weather related Disasters Surge Five-fold Over 50 Years, but Early Warnings Save Lives – WMO report,” UN News, Sept. 1, 2021
 
 -------------
-Student Essays on Climate Change  
+### Student Essays on Climate Change  
 *  Climate Change Essays on Bartlebys: [https://www.bartleby.com/topics/Essay-on-Climate-Change](https://www.bartleby.com/topics/Essay-on-Climate-Change)  
 * Climate Change Reading on CRAM: [https://www.cram.com/subjects/Global-Warming-and-Climate-Change-Essay](https://www.cram.com/subjects/Global-Warming-and-Climate-Change-Essay)  
 
 -------------
-Random Action  
+### Random Action  
 * Fossil fuel, big ag and their enablers knew years ago that their businesses damaged earth and drove climate change. But they invested heavily in climate denial, disinformation, and deception campaigns against climate action for decades to protect their profits and influence.  Their tactics included counterfeit science, harassment of scientists, manufactured uncertainty with no scientific basis, and influence campaigns aimed at political decision makers and career civil servants.  They left communities to pay the price.  Union of Concerned Scientists [https://www.ucsusa.org/climate/disinformation](https://www.ucsusa.org/climate/disinformation) and The Center for Climate Integrity [https://climateintegrity.org/](https://climateintegrity.org/)  
