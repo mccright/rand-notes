@@ -1,6 +1,6 @@
 ## Use "Mermaid" For Flow Diagrams  
 
-Mermaid is a markdown dialetc and a JavaScript library that is just a fantastic toolkit.  It supports creating diagrams as code.  When you host your markdown on github.com it renders well using the approach below (and there are an [increasing number of integrations](https://github.com/mermaid-js/mermaid/blob/develop/docs/integrations.md) with other platforms).  It has features to support a range of diagramming types.  
+Mermaid is a markdown dialetc and a JavaScript library that is just a fantastic toolkit.  It supports creating diagrams as code.  When you host your markdown on github.com or [use Visual Studio Code](https://github.com/mjbvz/vscode-markdown-mermaid) it renders well using the approach below (and there are an [increasing number of integrations](https://github.com/mermaid-js/mermaid/blob/develop/docs/integrations.md) with other platforms).  It has features to support a range of diagramming types.  
 
 Here is a Mermaid block:  
 
