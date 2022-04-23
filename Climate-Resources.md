@@ -4,9 +4,6 @@
  * The latest *Synthesis Report* and supporting research from the Intergovernmental Panel on Climate Change (IPCC) will dribble out throughout 2022 [https://www.ipcc.ch/ar6-syr/](https://www.ipcc.ch/ar6-syr/)  Since the IPCC was created in 1988, there have been 5 Synthesis Reports, see links to that historical reporting on this page as well.  
 * Or, if that is too much detail, see *the same* message in xkcd format [https://xkcd.com/1732/](https://xkcd.com/1732/)  
 * New research can help you better understand climate-related risks at your home or where you work.  FloodFactor will help you understand the current and future flood risks at any North American address: [https://www.floodfactor.com/](https://www.floodfactor.com/)  
-* The U.S. National Mortgage Bankers Association researched climate change risks in their domain: [https://img03.en25.com/Web/MortgageBankersAssociation/Research_RIHA_September_2021_Report.pdf](https://img03.en25.com/Web/MortgageBankersAssociation/%7B66e37863-0f2e-45c7-8526-04d615d395e9%7D_22847_Research_RIHA_September_2021_Report.pdf)  
-* Deloitte on accelerated decarbonization](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/economic-cost-climate-change-turning-point.html):  
-  > [Deloitte builds an economic argument](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-the-turning-point-a-new-economic-climate-in-the-united-states-january-2022.pdf) that [even without considering the impacts of water availability, crime/war, or ocean acidification](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-the-turning-point-us-tech-appendix-january-2022.pdf) climate change will result in catastrophic economic impacts over the next 50 years (losses of $14.5 trillion in present-value terms for the U.S.) -- requiring immediate action to decarbonize and build economic resiliance.  
 * "[World Energy Transitions Outlook: 1.5°C Pathway.](https://www.irena.org/publications/2022/Mar/World-Energy-Transitions-Outlook-2022)" from the [International Renewable Energy Agency](https://en.wikipedia.org/wiki/International_Renewable_Energy_Agency) [IRENA].  This second edition of the Outlook outlines priority areas and actions based on available technologies that must be realised by 2030 to achieve net zero emissions by mid-century. March 2022 [https://www.irena.org/publications/2022/Mar/World-Energy-Transitions-Outlook-2022](https://www.irena.org/publications/2022/Mar/World-Energy-Transitions-Outlook-2022)  
 * IRENA also has a collection of resources on this topic at: [https://www.irena.org/publications](https://www.irena.org/publications)  
 * Articles and Essays about Climate Change from The Electric Typewriter
@@ -27,11 +24,11 @@
 >An analysis of the EM-DAT records indicates that 62% of all recorded disasters, 80% of all deaths and almost all (99%) economic losses were associated with natural hazards.  
 >Of the 22 326 disasters, 11,072 have been attributed to weather, climate and water hazards. These disasters resulted in 2.06 million deaths and US$3.64 trillion in losses. Thus, over the last 50 years, 50% of all recorded disasters, 45% of related deaths and 74% of related economic losses were due to weather, climate and water hazards."  
 
-#### Top 10 Weather-Related Disasters in the U.S. in the last 50 Years 
-[WMO-No. 1267](https://library.wmo.int/doc_num.php?explnum_id=10989) page 41
+#### Top 10 Weather-Related Disasters in the U.S. in the last 50 Years  
+[WMO-No. 1267](https://library.wmo.int/doc_num.php?explnum_id=10989) page 41 (*if we also considered mortality, this table would look very different*)  
 | Name            | Year | Economic losses US$ billion |
 |-----------------|------|-----------------------------|
-| Storm (Katrina) | 2005 | 163.61 |
+| Storm (Katrina) | 2005 | 163.61 | 
 | Storm (Harvey) | 2017 | 96.94 |
 | Storm (Maria) | 2017 | 69.39 |
 | Storm (Irma) | 2017 | 58.16 |
@@ -42,8 +39,20 @@
 | Storm (Ivan) | 2004 | 24.36 |
 | Drought | 2012 | 21.79 |
 
-
 United Nations, “Climate and Weather related Disasters Surge Five-fold Over 50 Years, but Early Warnings Save Lives – WMO report,” UN News, Sept. 1, 2021
+
+* Deloitte on accelerated decarbonization](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/economic-cost-climate-change-turning-point.html):  
+  > [Deloitte builds an economic argument](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-the-turning-point-a-new-economic-climate-in-the-united-states-january-2022.pdf) that [even without considering the impacts of water availability, crime/war, or ocean acidification](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-the-turning-point-us-tech-appendix-january-2022.pdf) climate change will result in catastrophic economic impacts over the next 50 years (losses of $14.5 trillion in present-value terms for the U.S.) -- requiring immediate action to decarbonize and build economic resiliance.  
+* The U.S. National Mortgage Bankers Association researched climate change risks in their domain: [https://img03.en25.com/Web/MortgageBankersAssociation/Research_RIHA_September_2021_Report.pdf](https://img03.en25.com/Web/MortgageBankersAssociation/%7B66e37863-0f2e-45c7-8526-04d615d395e9%7D_22847_Research_RIHA_September_2021_Report.pdf)  
+
+"April 2021 -- The economics of climate change: no action not an option." by Swiss Re Institute  [https://www.swissre.com/dam/jcr:e73ee7c3-7f83-4c17-a2b8-8ef23a8d3312/swiss-re-institute-expertise-publication-economics-of-climate-change.pdf](https://www.swissre.com/dam/jcr:e73ee7c3-7f83-4c17-a2b8-8ef23a8d3312/swiss-re-institute-expertise-publication-economics-of-climate-change.pdf)  (*page 3, with supporting variations on pages 4, 11, 12, 15, 28, and 29*)  
+>"The world economy could be 10% smaller if the 2050 net-zero emissions and Paris Agreement targets on climate change are not met."  
+and  
+>"The world stands to lose close to 10% of total economic value by mid-century if
+climate change stays on the currently-anticipated trajectory"  
+
+"World economy set to lose up to 18% GDP from climate change if no action taken, reveals Swiss Re Institute's stress-test analysis."  22 Apr 2021, Zurich [https://www.swissre.com/media/press-release/nr-20210422-economics-of-climate-change-risks.html](https://www.swissre.com/media/press-release/nr-20210422-economics-of-climate-change-risks.html)  
+>"In a severe scenario of a 3.2°C temperature increase, China stands to lose almost one quarter of its GDP (24%) by mid-century. The US, Canada and the UK would all see around a 10% loss. Europe would suffer slightly more (11%), while economies such as Finland or Switzerland are less exposed (6%) than, for example, France or Greece (13%)."  
 
 -------------
 ### Student Essays on Climate Change  
