@@ -25,6 +25,10 @@ For data on the following categories, see: [https://markets.chainalysis.com/](ht
   * Risk: Illicit flows, Illicit balances and Illicit placement
 [Illiquid cryptocurrency appears to dominate the market](https://markets.chainalysis.com/#supply-liquidity)  
 
+
+"Bitcoin has the yearly carbon footprint equivalent to the Czech Republic while producing as much annual electronic waste as the Netherlands."  In 2021, "Bitcoin has the same power consumption as Thailand over the course of the year. The second most popular cryptocurrency, Ethereum, has an annual power consumption comparable to the entire country of Kazakhstan."  [https://news.yahoo.com/crypto-failing-spectacularly-greenwash-itself-035221911.html](https://news.yahoo.com/crypto-failing-spectacularly-greenwash-itself-035221911.html)  
+
+
 Track digital currency values on your terminal [https://github.com/Gbox4/tstock](https://github.com/Gbox4/tstock)  
 Check exchange rates between currencies, both crypto and fiat [https://github.com/Gbox4/forx](https://github.com/Gbox4/forx)  
 
