@@ -325,7 +325,6 @@ In Iowa:
   * "Actually, getting the vaccine *is* a partisan act, even if it shouldn’t be" By Philip Bump, 2021-06-02 [https://www.washingtonpost.com/politics/2021/06/02/actually-getting-vaccine-is-partisan-act-even-if-it-shouldnt-be/](https://www.washingtonpost.com/politics/2021/06/02/actually-getting-vaccine-is-partisan-act-even-if-it-shouldnt-be/)  
 
 ## What Does All This Mean For Our Future?  
-
 “We know that there are pathogens worse than SARS-CoV-2 that are emerging and re-emerging and waiting for their moment to take off,” said Rick Bright, the chief executive of the Pandemic Prevention Institute at the Rockefeller Foundation. [quoted by By Emily Anthes in NYT](https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html)  
 
 * Surveillance testing is unevenly distributed across the nation & across the globe.  Surveillance testing has been rejected (*or ignored*) by many state and local executives.  That is in spite of the fact that disease surveillance -- identifying who is infected, and where they are -- is a foundational capability for resisting pandemic.  
