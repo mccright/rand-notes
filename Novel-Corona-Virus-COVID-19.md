@@ -10,6 +10,12 @@ Test if you have symptoms.
 Isolate if you are positive or cannot access a test.  
 Support global vaccine distribution.  Pockets of unvaccinated, regardless of their location, are reservoirs for the virus, where it replicates and mutates, and where new variants evolve.  
 ```
+
+### Illustrations and Animations  
+* See an animation of the rapid global COVOD-19 evolution and epidemic spread: [https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/18](https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/18)  
+* Genetic relationships of globally sampled SARS-CoV-2 to April 2022: [https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/26](https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/26)  
+
+
 ### Recent Quote:   
 
 >The loosening of omicron’s grip in many places has given rise to hope that the outbreak is about to enter a new phase in which the virus will become, like the flu, a persistent but generally manageable threat that people can live with. However, experts are warning people against underestimating it or letting their guard down against the possibility of new, more dangerous mutant varieties.
