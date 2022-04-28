@@ -1,6 +1,6 @@
 ## What to do about common technology terms that have racist connotations  
 
-Notes on this topic.  I don't know where the content of this file will go.  
+Notes on this topic -- I don't know where the content of this file will go.  
 
 In the summer of 2020, after officer Derek Chauvin spent nine nonchalant minutes and 29 seconds killing handcuffed, unarmed and face-down George Floyd in public and on camera, social unrest helped some to empathize with [those experiencing a long legacy of violence](https://sayevery.name/take-action) and countless other injustices at the hands of police and others.  For too long this occurred in the context of widespread apathy across United States and beyond.  This new thread of empathy is expressed across many facets of society, including tech in all its forms.  
 
