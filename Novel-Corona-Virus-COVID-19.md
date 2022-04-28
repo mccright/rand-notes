@@ -198,7 +198,7 @@ Viruses mutate.  That is a key feature of their existence.
 
 There appears to be a relatively rapid displacement of SARS-Cov-2 diversity by emerging variants.  
 ![Rapid displacement of SARS-Cov-2 diversity by emerging variant:](https://github.com/mccright/rand-notes/blob/master/images/ncov-variants-tree-frequencies-2022-03-13.png "COVID-19 Variants Tree Frequencies")  
-**Image Source**: "" [https://bedford.io/talks/sars-cov-2-continuing-evolution-vrbpac/#/5](https://bedford.io/talks/sars-cov-2-continuing-evolution-vrbpac/#/5) downloaded on 2022-04-28.  
+**Image Source**: "Continuing SARS-CoV-2 evolution under population immune pressure." by Trevor Bedford [https://bedford.io/talks/sars-cov-2-continuing-evolution-vrbpac/#/5](https://bedford.io/talks/sars-cov-2-continuing-evolution-vrbpac/#/5) downloaded on 2022-04-28.  
 
 You can see an up-to-date visual of variant transmission over time at [https://covid.cdc.gov/covid-data-tracker/#variant-proportions](https://covid.cdc.gov/covid-data-tracker/#variant-proportions).  Vaccines authorized for use in the U.S. currently protect against symptomatic infection and severe disease from all variants of the virus so far.  
 
