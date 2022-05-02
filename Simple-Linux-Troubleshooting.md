@@ -13,10 +13,21 @@ journalctl -b | grep theError
 ```
 *journalctl -b -0* for the current boot, *journalctl -b -1* for the one before, etc.  
 
-or
+or, *-g* or *--grep=PATTERN* to show entries with MESSAGE matching PATTERN (*this can be any string/sub-string and is case insensitive*)  
 ```terminal
 journalctl -b -g theError
 ```
+
+or maybe you only care about the last hour (*and don't yet know exactly what you are looking for*)  
+```terminal
+journalctl --since -1h
+```
+
+or, if you know the name of the service that is the target of your investigation, *-u* shows logs from the specified service and *-x* will add message explanations where available.  
+```terminal
+journalctl -b -1 -xu the.service
+```
+
 or  
 ```terminal
 systemctl list-units --failed
@@ -64,4 +75,8 @@ dmesg | grep -i firmware
 You can *follow* log messages with (example watching for USB plug-in details)  
 ```terminal
 dmesg --follow | grep -e sd | grep -e usb
+```
+or
+```terminal
+journalctl --follow | grep -e sd | grep -e usb
 ```
