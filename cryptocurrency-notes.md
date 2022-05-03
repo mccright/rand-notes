@@ -29,6 +29,11 @@ For data on the following categories, see: [https://markets.chainalysis.com/](ht
 "Bitcoin has the yearly carbon footprint equivalent to the Czech Republic while producing as much annual electronic waste as the Netherlands."  In 2021, "Bitcoin has the same power consumption as Thailand over the course of the year. The second most popular cryptocurrency, Ethereum, has an annual power consumption comparable to the entire country of Kazakhstan."  [https://news.yahoo.com/crypto-failing-spectacularly-greenwash-itself-035221911.html](https://news.yahoo.com/crypto-failing-spectacularly-greenwash-itself-035221911.html)  
 
 
+"Insomnia, addiction, depression: The dark side of life trading crypto -- Crypto was going to make them rich. Instead, therapists say, more people became depressed and addicted." By Pranshu Verma. 2022-04-29 [https://www.washingtonpost.com/technology/2022/04/29/crypto-addiction/](https://www.washingtonpost.com/technology/2022/04/29/crypto-addiction/)  
+>"As the cryptocurrency (*trading*) boom has swollen the ranks of everyday investors chasing a life of mansions and yachts, mental health experts say it is sparking a rise in addiction. Price spikes and dips provide a level of excitement hard to replicate through the most volatile stocks and bonds. The highly unstable nature of cryptocurrency can reduce profits to zero in a flash, leaving investors with mountains of debt, fractured relationships and thoughts of suicide, addiction experts said."  
+>"Cryptocurrency (*trading*) has characteristics that make it more prone to addiction than sports betting, gambling and traditional financial investing, according to addiction scholars. Crypto can be traded around-the-clock, unlike most stocks. People don’t need to drive to a casino to invest in a coin. The volatility in crypto prices, especially alternative currencies like meme coins, can be quick and provide the brain quick feelings of reward. And given crypto’s decentralized nature, it can be easier to hide the financial impacts of addiction."  
+
+
 Track digital currency values on your terminal [https://github.com/Gbox4/tstock](https://github.com/Gbox4/tstock)  
 Check exchange rates between currencies, both crypto and fiat [https://github.com/Gbox4/forx](https://github.com/Gbox4/forx)  
 
