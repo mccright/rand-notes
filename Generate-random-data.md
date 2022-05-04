@@ -42,7 +42,7 @@ list_random_ints = [random.randint(0, 1024) for i in range(10)]
 # [11, 757, 247, 724, 882, 74, 596, 874, 991, 565]
 # in my sample run.
 ```
-Or, if you need the numbers to resist attack, use Python ```secrets```  
+Or, if you need the numbers to resist attack, use Python ```secrets``` [https://docs.python.org/3/library/secrets.html](https://docs.python.org/3/library/secrets.html)  
 ```python
 import secrets
 list_random_ints = [secrets.randbelow(1024) for i in range(10)]
