@@ -53,5 +53,5 @@ list_random_ints = [secrets.randbelow(1024) for i in range(10)]
 # in my sample run.
 ```
   
-NOTE: Unless otherwise noted, these examples are only pseudo-random, but good-enough for many purposes.  In a Python environment, the ```ramdom``` module uses the 'current system time' as the seed, so a hostile party may have a well-defined attack surface (*a related timestamp, or other temporal indicator*) making it unsuitable for security-sensitive use cases.  
+NOTE: Unless otherwise noted, these examples are only pseudo-random, but good-enough for many purposes.  In a Python environment, the ```ramdom``` module uses the 'current system time' as the seed, so a hostile party may have a well-defined attack surface (*including a related timestamp, or other temporal indicator*) making it unsuitable for security-sensitive use cases.  
 If more highly random data is required, use crypto-grade classes in Python, Java or .NET.
