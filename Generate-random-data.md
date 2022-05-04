@@ -33,7 +33,9 @@ function randpass(){  < /dev/urandom  tr -dc '_A-Za-z0-9!@#$%^&*,.=+~' | head -c
 Edit the character set as needed for your system.  
 
 ### In a Python environment  
-Or, generate psudo-random integers within your Python script:   
+I have some ```random``` string examples at: [https://github.com/mccright/PythonStuff/blob/main/createRandomStrings.py](https://github.com/mccright/PythonStuff/blob/main/createRandomStrings.py)  
+
+Generate psudo-random integers within your Python script:   
 ```python
 # Generate a list of 10 random integers between 0 and 1024
 import random
