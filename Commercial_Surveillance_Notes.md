@@ -1,6 +1,18 @@
 ### Rough, unfinished, work notes on this topic
 
-For years I have been reading about how Internet enabled activities have evolved into a complex global *organism* that closely monitors, observes, analyzes, and monitizes our behaviors.  Those practices have enabled a parallel *prediction* industry to *add value* to that surveillance data.  
+For years I have been reading about how Internet enabled activities have evolved into a complex global *organism* that closely monitors, observes, analyzes, and monitizes our behaviors.  Those practices have enabled parallel *analysis* and *prediction* industries that "*add value*" to surveillance data.  
+I agree with Geoffrey A. Fowler that there are many reasons that we need to keep asking ourselves not only ["*what I can get out of any given technology*" but "*what that technology gets from me*."](https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/)  
+
+* Where are you? / Where where you? / Where have you been? / ...and when?  
+* What do you buy? Where do you buy? / How do you spend? / ...and when?  
+* What do you eat? / ...and when?  
+* Who are you? / Bodily? / Legally? / Politically?  
+* What do you care about?  
+* Who do you *listen* to?  
+* Who have you been *close to*?  
+* What types of influencing techniques change your behaviors?  
+* Have you ever been *close to* any primary *target of serveillance*?  
+
 
 #### Who is actually doing this business?  
 * These notes are in support of a still-vaguely-imagined recreational software project that would make some of information about Internet surveillance vendors available via API, browser, or both.  
@@ -11,16 +23,16 @@ For years I have been reading about how Internet enabled activities have evolved
 * Those interested in reducing their exposure to data collectors and scavengers.  
 * Those interested in reducing the effectiveness of AI-driven personalized maniplation.  
 * Those interested in open source projects that involve scraping web sites.  
-* Those interested in helping women (*and those who support them*) protect their reproductive rights.[Note1]()  
+* Those interested in helping women (*and those who support them*) protect their reproductive rights.[Note1](https://github.com/mccright/rand-notes/blob/master/Commercial_Surveillance_Notes.md#note1)  
 * And more.  
 
 #### This is not a new issue:  
 Bruce Schneier (5 years ago):  "Surveillance is the business model of the internet. Everyone is under constant surveillance by many companies, ranging from social networks like Facebook to cellphone providers. This data is collected, compiled, analyzed, and used to try to sell us stuff. Personalized advertising is how these companies make money, and is why so much of the internet is free to users. We’re the product, not the customer."  [https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/](https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/)  
 
 #### Some Terms:  
-* "**surveillance advertising**" -- [Characterized by Leigh Freund](https://thenai.org/wp-content/uploads/2022/01/NAI-Comments-re-Petition-for-Rulemaking-to-Prohibit-Surveillance-Advertising_26Jan22.pdf), President and CEO, Network Advertising Initiative (NAI): "tailored advertising is a key driver of the robust and competitive digital media marketplace that provides substantial benefits to consumers, publishers and advertisers."  Simple observation leads me to believe that *surveillance advertising* technologies and operations are designed and implemented to shape markets and business models.  
+* "**surveillance advertising**" -- [Characterized by Leigh Freund](https://thenai.org/wp-content/uploads/2022/01/NAI-Comments-re-Petition-for-Rulemaking-to-Prohibit-Surveillance-Advertising_26Jan22.pdf), President and CEO, Network Advertising Initiative (NAI): "tailored advertising is a key driver of the robust and competitive digital media marketplace that provides substantial benefits to consumers, publishers and advertisers."  Simple observation leads me to believe that *surveillance advertising* technologies and operations are designed and implemented to shape markets and business models, and in some instances, to generate additional cash flows via sales of raw data.  
 * "**Dark patterns**" -- Data-driven techniques intentionally used to mislead or manipulate users, obscuring, subverting or impairing consumer autonomy, decision-making, or choice.  An implication of this common definition is that the end result of the manipulation is a harmful or undesirable outcome for the user.  Advertisers and their advocates promote analogies with practices used in the physical world like product placement by a retailer to promote certain products over others which they characterize as consistent with the objectives and preferences of its shoppers.  
-* "**notice and choice**" -- The [Network Advertising Initiative (NAI) promotes](https://thenai.org/wp-content/uploads/2021/07/15march2021.pdf) a *notice and choice* framework "within the digital advertising marketplace, and to enable people to make informed decisions -- both initially and with persistence -- about the use of their data for advertising purposes."  Vendors and human tracking companies appear to use a fog of ever-evolving technology, long piles of text and interlinked *policy* statements (too often opaque to *normal* people) to enable these *informing* obligations.  Then they characterize these behaviors as models of "*clarity, efficiency and effectiveness*."  
+* "**notice and choice**" -- The [Network Advertising Initiative (NAI) promotes](https://thenai.org/wp-content/uploads/2021/07/15march2021.pdf) a *notice and choice* framework "within the digital advertising marketplace, and to enable people to make informed decisions -- both initially and with persistence -- about the use of their data for advertising purposes."  Vendors and human tracking companies appear to use a fog of ever-evolving technology, long piles of text and interlinked *policy* statements (too often intentionally opaque to *normal* people) to enable these *informing* obligations.  Then they characterize these behaviors as models of "*clarity, efficiency and effectiveness*."  
 
 
 Some of this information came from the following:  
@@ -29,9 +41,10 @@ https://optout.networkadvertising.org/
 https://en.wikipedia.org/wiki/Computer_and_network_surveillance  
 
 
-### Some Names of Commercial Data Collectors and scavengers
+### Some Names of Commercial Data Collectors and scavengers  
 Below is an imperfect start on a list of companies who *quietly* invade your browser/browsing and then monietize what they learn about you to enable advertisers (and others willing to pay for information about you).  
 ===============================================  
+#### Who is actually doing this business?  
 33Across
 AcuityAds
 AddThis
@@ -113,12 +126,12 @@ Yieldmo
 Below is an imperfect start on a list of companies who *quietly* invade your browser/browsing and then monietize what they learn about you to enable advertisers (and others willing to pay for information about you).  Included is a link and short description of each as scraped from one or another of their their sites.  
 
 ===============================================  
-
+= To Do:
 ===============================================  
-To Do:  
 * Structure the following data for programmic access.  
 * Think about now to organize these companies (tagging?  Human or programmatic review.)  
 * Think about how to update this data (periodic scraping?)  
+* Add content about license plate readers and facial recognition  
 ===============================================  
 
 33Across
@@ -730,7 +743,7 @@ To learn more about how we collect and use information for online advertising, p
 
 ### Notes:  
 #### Note1:  
-Geoffrey A. Fowler and Tatum Hunter reported that on 2022 May 3 there was "new evidence of commercial data brokers selling location information gathered from the phones of people who visit abortion clinics."  
+Geoffrey A. Fowler and Tatum Hunter reported that on 2022 May 3 there was "[new evidence of commercial data brokers selling location information gathered from the phones of people who visit abortion clinics.](https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/)"  
 
 
 #### Additional References:  
@@ -738,4 +751,6 @@ Geoffrey A. Fowler and Tatum Hunter reported that on 2022 May 3 there was "new e
 * "You're Still Being Tracked on the Internet, Just in a Different Way." [https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html](https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html)  
 * [https://en.wikipedia.org/wiki/Computer_and_network_surveillance](https://en.wikipedia.org/wiki/Computer_and_network_surveillance)  
 * "Abu Dhabi state funds were used to buy Israeli spyware group NSO." By Kaye Wiggins and Mehul Srivastava, MARCH 31 2022 [https://www.ft.com/content/09a289f1-1670-4b18-9ee2-5d9081e1773d](https://www.ft.com/content/09a289f1-1670-4b18-9ee2-5d9081e1773d)  
+* "How we survive the surveillance apocalypse -- Online privacy is not dead, but you have to be angry enough to demand it." By Geoffrey A. Fowler, 2019-12-31. [https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/](https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/)  
+* "How America’s surveillance networks helped the FBI catch the Capitol mob." By Drew Harwell and Craig Timberg, 2021-04-02. [https://www.washingtonpost.com/technology/2021/04/02/capitol-siege-arrests-technology-fbi-privacy/](https://www.washingtonpost.com/technology/2021/04/02/capitol-siege-arrests-technology-fbi-privacy/)  
 * "Your phone could reveal if you’ve had an abortion -- Internet searches, visits to clinics and period-tracking apps leave digital trails." By Geoffrey A. Fowler and Tatum Hunter, 2022-05-04 [https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/](https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/)  
