@@ -8,7 +8,7 @@ For years I have been reading about how Internet enabled activities have evolved
 #### Who might care?  
 * Forensic technicians and blue teams.  
 * Developers interested in writing applications in ways that *share*/*expose* less data associated with their users.  
-* Those interested in reducing their exposure to data collectors and scavingers.  
+* Those interested in reducing their exposure to data collectors and scavengers.  
 * Those interested in reducing the effectiveness of AI-driven personalized maniplation.  
 * Those interested in open source projects that involve scraping web sites.  
 * Those interested in helping women (*and those who support them*) protect their reproductive rights.[Note1]()  
@@ -29,7 +29,7 @@ https://optout.networkadvertising.org/
 https://en.wikipedia.org/wiki/Computer_and_network_surveillance  
 
 
-### Some Names of Commercial Data Collectors and Scavingers
+### Some Names of Commercial Data Collectors and scavengers
 Below is an imperfect start on a list of companies who *quietly* invade your browser/browsing and then monietize what they learn about you to enable advertisers (and others willing to pay for information about you).  
 ===============================================  
 33Across
@@ -109,7 +109,7 @@ Yahoo
 Yieldmo
 
 
-### Some Descriptions of Commercial Data Collectors and Scavingers
+### Some Descriptions of Commercial Data Collectors and scavengers  
 Below is an imperfect start on a list of companies who *quietly* invade your browser/browsing and then monietize what they learn about you to enable advertisers (and others willing to pay for information about you).  Included is a link and short description of each as scraped from one or another of their their sites.  
 
 ===============================================  
