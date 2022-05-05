@@ -4,11 +4,14 @@ For years I have been reading about how Internet enabled activities have evolved
 
 #### Who is actually doing this business?  
 * These notes are in support of a still-vaguely-imagined recreational software project that would make some of information about Internet surveillance vendors available via API, browser, or both.  
+
 #### Who might care?  
 * Forensic technicians and blue teams.  
+* Developers interested in writing applications in ways that *share*/*expose* less data associated with their users.  
 * Those interested in reducing their exposure to data collectors and scavingers.  
 * Those interested in reducing the effectiveness of AI-driven personalized maniplation.  
 * Those interested in open source projects that involve scraping web sites.  
+* Those interested in helping women (*and those who support them*) protect their reproductive rights.[Note1]()  
 * And more.  
 
 #### This is not a new issue:  
@@ -26,11 +29,9 @@ https://optout.networkadvertising.org/
 https://en.wikipedia.org/wiki/Computer_and_network_surveillance  
 
 
+### Some Names of Commercial Data Collectors and Scavingers
 Below is an imperfect start on a list of companies who *quietly* invade your browser/browsing and then monietize what they learn about you to enable advertisers (and others willing to pay for information about you).  
-
-
 ===============================================  
-
 33Across
 AcuityAds
 AddThis
@@ -108,6 +109,10 @@ Yahoo
 Yieldmo
 
 
+### Some Descriptions of Commercial Data Collectors and Scavingers
+Below is an imperfect start on a list of companies who *quietly* invade your browser/browsing and then monietize what they learn about you to enable advertisers (and others willing to pay for information about you).  Included is a link and short description of each as scraped from one or another of their their sites.  
+
+===============================================  
 
 ===============================================  
 To Do:  
@@ -723,12 +728,14 @@ To learn more about how we collect and use information for online advertising, p
 
 
 
-
+### Notes:  
+#### Note1:  
+Geoffrey A. Fowler and Tatum Hunter reported that on 2022 May 3 there was "new evidence of commercial data brokers selling location information gathered from the phones of people who visit abortion clinics."  
 
 
 #### Additional References:  
 * "Data leak from Russian delivery app shows dining habits of the secret police -- The leak exposed names, delivery addresses, phone numbers, and delivery instructions."  By Emma Roth  Apr 3, 2022 [https://www.theverge.com/2022/4/3/23008658/data-leak-russian-delivery-app-dining-habits-secret-police-yandex-food](https://www.theverge.com/2022/4/3/23008658/data-leak-russian-delivery-app-dining-habits-secret-police-yandex-food)  
 * "You're Still Being Tracked on the Internet, Just in a Different Way." [https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html](https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html)  
 * [https://en.wikipedia.org/wiki/Computer_and_network_surveillance](https://en.wikipedia.org/wiki/Computer_and_network_surveillance)  
-* "Abu Dhabi state funds were used to buy Israeli spyware group NSO."  
-By Kaye Wiggins and Mehul Srivastava, MARCH 31 2022 [https://www.ft.com/content/09a289f1-1670-4b18-9ee2-5d9081e1773d](https://www.ft.com/content/09a289f1-1670-4b18-9ee2-5d9081e1773d)  
+* "Abu Dhabi state funds were used to buy Israeli spyware group NSO." By Kaye Wiggins and Mehul Srivastava, MARCH 31 2022 [https://www.ft.com/content/09a289f1-1670-4b18-9ee2-5d9081e1773d](https://www.ft.com/content/09a289f1-1670-4b18-9ee2-5d9081e1773d)  
+* "Your phone could reveal if you’ve had an abortion -- Internet searches, visits to clinics and period-tracking apps leave digital trails." By Geoffrey A. Fowler and Tatum Hunter, 2022-05-04 [https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/](https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/)  
