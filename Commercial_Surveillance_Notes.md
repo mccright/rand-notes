@@ -14,8 +14,8 @@ I agree with Geoffrey A. Fowler that there are many reasons that we need to keep
 * Have you ever been *close to* any primary *target of serveillance*?  
 
 
-#### Who is actually doing this business?  
-* These notes are in support of a still-vaguely-imagined recreational software project that would make some of information about Internet surveillance vendors available via API, browser, or both.  
+#### What is the purpose of this file?  
+These notes are in support of a still-vaguely-imagined recreational software project that would make some of information about Internet surveillance vendors available via API, browser, or both.  It may also have an *informing* role for any reader.  
 
 #### Who might care?  
 * Forensic technicians and blue teams.  
