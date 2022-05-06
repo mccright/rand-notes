@@ -27,7 +27,9 @@ These notes are in support of a still-vaguely-imagined recreational software pro
 * And more.  
 
 #### This is not a new issue:  
-Bruce Schneier (5 years ago):  "Surveillance is the business model of the internet. Everyone is under constant surveillance by many companies, ranging from social networks like Facebook to cellphone providers. This data is collected, compiled, analyzed, and used to try to sell us stuff. Personalized advertising is how these companies make money, and is why so much of the internet is free to users. We’re the product, not the customer."  [https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/](https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/)  
+Bruce Schneier (5 years ago):  "Surveillance is the business model of the internet. Everyone is under constant surveillance by many companies, ranging from social networks like Facebook to cellphone providers. This data is collected, compiled, analyzed, and used to try to sell us stuff. Personalized advertising is how these companies make money, and is why so much of the internet is free to users. We're the product, not the customer."  [https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/](https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/)  
+
+Data gatherers and data aggregators are also material contributors to law enforcement and broader *investigative* activities via their responses to subpoenas, search warrants (plus other types of court orders), emergency disclosure requests, pen register orders, wiretap orders, preservation requests and more.  For example, between Jan 2021 – Jun 2021 Google responded to more than 50,000 requests for disclosure of user information on more than 115,000 accounts. [https://transparencyreport.google.com/user-data/overview](https://transparencyreport.google.com/user-data/overview?user_requests_report_period=series:requests,accounts;authority:US;time:2021H1&lu=legal_process_breakdown&legal_process_breakdown=expanded:0)  
 
 #### Some Terms:  
 * "**surveillance advertising**" -- [Characterized by Leigh Freund](https://thenai.org/wp-content/uploads/2022/01/NAI-Comments-re-Petition-for-Rulemaking-to-Prohibit-Surveillance-Advertising_26Jan22.pdf), President and CEO, Network Advertising Initiative (NAI): "tailored advertising is a key driver of the robust and competitive digital media marketplace that provides substantial benefits to consumers, publishers and advertisers."  Simple observation leads me to believe that *surveillance advertising* technologies and operations are designed and implemented to shape markets and business models, and in some instances, to generate additional cash flows via sales of raw data.  
@@ -97,6 +99,7 @@ Quantcast
 Rakuten Marketing
 Retargetly
 RhythmOne
+SafeGraph
 Salesforce Audience Studio
 Samba.TV
 Semasio
@@ -271,7 +274,7 @@ To learn more about how we collect and use information for online advertising, p
 Choreograph
 https://www.choreograph.com/
 
-Choreograph™ is WPP's global data products and technology company fueling growth for the world’s most admired brands. Built on the most advanced global data foundation, Choreograph is powered by 850 technologists, product developers, and data scientists that orchestrate data capabilities across GroupM and WPP into an end-to-end data enablement solution. With a commitment to "Data with Purpose, Fuel for Growth," Choreograph unlocks data inside brands to power deeper customer connections and fuel growth. Discover more about Choreograph at www.choreograph.com.
+Choreograph™ is WPP's global data products and technology company fueling growth for the world's most admired brands. Built on the most advanced global data foundation, Choreograph is powered by 850 technologists, product developers, and data scientists that orchestrate data capabilities across GroupM and WPP into an end-to-end data enablement solution. With a commitment to "Data with Purpose, Fuel for Growth," Choreograph unlocks data inside brands to power deeper customer connections and fuel growth. Discover more about Choreograph at www.choreograph.com.
 
 To learn more about how we collect and use information for online advertising, please visit https://www.choreograph.com/global-privacy-policy/
 
@@ -295,7 +298,7 @@ To learn more about how we collect and use information for online advertising, p
 Cross Pixel
 http://www.crosspixel.net
 
-Cross Pixel is the leading provider of high-performance audience data and information for the real-time advertising industry. Cross Pixel’s mission is to provide the highest quality audience data to help marketers improve campaign performance.
+Cross Pixel is the leading provider of high-performance audience data and information for the real-time advertising industry. Cross Pixel's mission is to provide the highest quality audience data to help marketers improve campaign performance.
 
 To learn more about how we collect and use information for online advertising, please visit http://www.crosspixel.net/privacy-policy/
 
@@ -311,7 +314,7 @@ To learn more about how we collect and use information for online advertising, p
 EMX
 https://emxdigital.com
 
-EMX lives at the intersection of data and media. It connects the industry around what matters: maximum ROI. Whether you’re a publisher, ad tech provider, advertiser or an agency, you’ll benefit from reduced waste, higher quality inventory, precise targeting, and full transparency. EMX is the culmination of bRealTime and Clearstream.tv into a modern, purpose-built solution.
+EMX lives at the intersection of data and media. It connects the industry around what matters: maximum ROI. Whether you're a publisher, ad tech provider, advertiser or an agency, you'll benefit from reduced waste, higher quality inventory, precise targeting, and full transparency. EMX is the culmination of bRealTime and Clearstream.tv into a modern, purpose-built solution.
 
 To learn more about how we collect and use information for online advertising, please visit https://www.emxdigital.com/privacy/
 
@@ -399,7 +402,7 @@ To learn more about how we collect and use information for online advertising, p
 Lotame
 https://www.lotame.com
 
-Lotame is the world’s leading unstacked data solutions company, helping publishers, marketers and agencies find new customers, increase engagement, and grow revenue through audience data. Our real-time data management technologies, global data exchanges, and award-winning customer service make us the unrivaled, unstacked choice for clients that want a flexible, scalable and cost-effective antidote to walled gardens from the large martech stack companies. As the pioneer data management platform thirteen years ago, Lotame has continuously innovated to become the trusted data solutions company for global enterprises. Lotame is headquartered in New York City and Columbia MD, with offices around the world, including London, Singapore, Mumbai and Sydney.
+Lotame is the world's leading unstacked data solutions company, helping publishers, marketers and agencies find new customers, increase engagement, and grow revenue through audience data. Our real-time data management technologies, global data exchanges, and award-winning customer service make us the unrivaled, unstacked choice for clients that want a flexible, scalable and cost-effective antidote to walled gardens from the large martech stack companies. As the pioneer data management platform thirteen years ago, Lotame has continuously innovated to become the trusted data solutions company for global enterprises. Lotame is headquartered in New York City and Columbia MD, with offices around the world, including London, Singapore, Mumbai and Sydney.
 
 To learn more about how we collect and use information for online advertising, please visit http://www.lotame.com/privacy/
 
@@ -407,7 +410,7 @@ To learn more about how we collect and use information for online advertising, p
 Magnite
 https://www.magnite.com/
 
-We’re Magnite (NASDAQ: MGNI), the world’s largest independent sell-side advertising platform. Publishers use our technology to monetize their content across all screens and formats including CTV, online video, display, and audio. The world’s leading agencies and brands trust our platform to access brand-safe, high-quality ad inventory and execute billions of advertising transactions each month. Anchored in sunny Los Angeles, bustling New York City, mile high Denver, historic London, and down under in Sydney, Magnite has offices across North America, EMEA, LATAM, and APAC.
+We're Magnite (NASDAQ: MGNI), the world's largest independent sell-side advertising platform. Publishers use our technology to monetize their content across all screens and formats including CTV, online video, display, and audio. The world's leading agencies and brands trust our platform to access brand-safe, high-quality ad inventory and execute billions of advertising transactions each month. Anchored in sunny Los Angeles, bustling New York City, mile high Denver, historic London, and down under in Sydney, Magnite has offices across North America, EMEA, LATAM, and APAC.
 
 To learn more about how we collect and use information for online advertising, please visit https://www.magnite.com/legal/advertising-technology-privacy-policy/
 
@@ -447,7 +450,7 @@ To learn more about how we collect and use information for online advertising, p
 MNTN
 https://mountain.com/
 
-MNTN is the world’s first self-serve CTV platform that allows brands and agencies to precisely target digital audiences on high-end cable networks, complete with tracking in Google Analytics. We call it Performance TV. MNTN Performance TV has redefined what it means to advertise on television, transforming Connected TV into a direct response, performance marketing channel. Our solutions give advertisers total transparency and complete control over their campaigns – all with the fastest go-live in the industry. Thousands of top brands have partnered with MNTN, including Orangetheory Fitness, Callaway Golf, Lands End, Yeti, and Ferrari.
+MNTN is the world's first self-serve CTV platform that allows brands and agencies to precisely target digital audiences on high-end cable networks, complete with tracking in Google Analytics. We call it Performance TV. MNTN Performance TV has redefined what it means to advertise on television, transforming Connected TV into a direct response, performance marketing channel. Our solutions give advertisers total transparency and complete control over their campaigns – all with the fastest go-live in the industry. Thousands of top brands have partnered with MNTN, including Orangetheory Fitness, Callaway Golf, Lands End, Yeti, and Ferrari.
 
 To learn more about how we collect and use information for online advertising, please visit https://mountain.com/privacy-policy/
 
@@ -471,7 +474,7 @@ To learn more about how we collect and use information for online advertising, p
 NextRoll
 https://www.nextroll.com/
 
-NextRoll, Inc. is a privately-held company headquartered in San Francisco, CA that offers intelligent, data-driven products and solutions for advertising and marketing while honoring the best practices for data use and privacy set forth by leading associations, including the Network Advertising Initiative (NAI) and the Digital Advertising Alliance’s (DAA) App Choices programs.
+NextRoll, Inc. is a privately-held company headquartered in San Francisco, CA that offers intelligent, data-driven products and solutions for advertising and marketing while honoring the best practices for data use and privacy set forth by leading associations, including the Network Advertising Initiative (NAI) and the Digital Advertising Alliance's (DAA) App Choices programs.
 
 To learn more about how we collect and use information for online advertising, please visit https://www.nextroll.com/privacy
 
@@ -511,7 +514,7 @@ To learn more about how we collect and use information for online advertising, p
 PubMatic
 http://pubmatic.com/
 
-PubMatic offer marketing automation for publishers via a strategic selling platform, which enables publishers to optimize their digital assets while protecting their brands. PubMatic’s platform is designed to help its publisher clients increase the amount of revenue they make from advertising sales by increasing the overall competition among media buyers for each advertising impression displayed through the PubMatic platform. PubMatic is a publisher-focused company, but at the same time maintains client relationships with media buyers. As a user you may encounter an ad from one of PubMatic’s media buyer clients by viewing the content on a website or application owned or operated by one of PubMatic’s publisher clients. To learn more about how we collect and use information for online advertising, please visit http://www.pubmatic.com/privacy-policy.
+PubMatic offer marketing automation for publishers via a strategic selling platform, which enables publishers to optimize their digital assets while protecting their brands. PubMatic's platform is designed to help its publisher clients increase the amount of revenue they make from advertising sales by increasing the overall competition among media buyers for each advertising impression displayed through the PubMatic platform. PubMatic is a publisher-focused company, but at the same time maintains client relationships with media buyers. As a user you may encounter an ad from one of PubMatic's media buyer clients by viewing the content on a website or application owned or operated by one of PubMatic's publisher clients. To learn more about how we collect and use information for online advertising, please visit http://www.pubmatic.com/privacy-policy.
 
 To learn more about how we collect and use information for online advertising, please visit http://www.pubmatic.com/privacy-policy.php
 
@@ -519,7 +522,7 @@ To learn more about how we collect and use information for online advertising, p
 PulsePoint
 https://www.pulsepoint.com/
 
-PulsePoint is a leading technology company that uses real-world data in real-time to optimize campaign performance and revolutionize health decision-making. Leveraging proprietary datasets and methodology, PulsePoint targets healthcare professionals and patients with an unprecedented level of accuracy—delivering unparalleled results to the clients we serve. The company was recently acquired by Internet Brands, a KKR portfolio company and owner of WebMD Health Corp. PulsePoint’s teams will continue to operate as their own division from their existing hubs in New York, San Francisco, and London.
+PulsePoint is a leading technology company that uses real-world data in real-time to optimize campaign performance and revolutionize health decision-making. Leveraging proprietary datasets and methodology, PulsePoint targets healthcare professionals and patients with an unprecedented level of accuracy—delivering unparalleled results to the clients we serve. The company was recently acquired by Internet Brands, a KKR portfolio company and owner of WebMD Health Corp. PulsePoint's teams will continue to operate as their own division from their existing hubs in New York, San Francisco, and London.
 
 To learn more about how we collect and use information for online advertising, please visit https://pulsepoint.com/legal/platform-privacy-policy
 
@@ -556,6 +559,12 @@ RhythmOne is a market leader in multiscreen digital advertising solutions. Led
 To learn more about how we collect and use information for online advertising, please visit http://www.rhythmone.com/privacy-policy
 
 
+SafeGraph
+https://www.safegraph.com/
+SafeGraph's places dataset includes a breadth of information about global places. This includes points of interest, spatial hierarchy metadata, foot traffic data, spending patterns, and more. 
+Organizations use our data to help inform their people and machines to make better decisions for growth.
+
+
 Salesforce Audience Studio
 https://www.salesforce.com/products/marketing-cloud/
 
@@ -575,7 +584,7 @@ To learn more about how we collect and use information for online advertising, p
 Semasio
 https://www.semasio.com/
 
-Semasio develops and markets a SaaS platform that turns every contact an agency or advertiser has with internet users into profile data. Based on these data, the platform generates target groups for specific marketing goals. The profiling and target group generation processes rely solely on statistical modeling and machine learning. Founded in 2010 the company is headquartered in Hamburg with development centers in Denmark and Portugal. Semasio’s customers include large media and performance agencies.
+Semasio develops and markets a SaaS platform that turns every contact an agency or advertiser has with internet users into profile data. Based on these data, the platform generates target groups for specific marketing goals. The profiling and target group generation processes rely solely on statistical modeling and machine learning. Founded in 2010 the company is headquartered in Hamburg with development centers in Denmark and Portugal. Semasio's customers include large media and performance agencies.
 
 To learn more about how we collect and use information for online advertising, please visit https://www.semasio.com/privacy
 
@@ -711,7 +720,7 @@ To learn more about how we collect and use information for online advertising, p
 Wunderkind (formerly BounceX)
 https://www.wunderkind.co/
 
-Wunderkind is a leading performance marketing engine that delivers tailored experiences at scale. Digital businesses use Wunderkind to remember who users are better than ever before, allowing them to deliver high-performing, one-to-one messages on websites, through emails and texts, and in ads at a scale that’s not otherwise possible. Wunderkind drives $1.2 billion dollars annually in directly attributable revenue for top eCommerce brands like Uniqlo, Sonos and HelloFresh, often ranking as a top-3 revenue channel in their own analytics. Wunderkind is maniacally obsessed with ROI and aims to be the infrastructural interface between individuals and brands in a world where consumers choose what they want, from whom, and when. Learn more at wunderkind.co.
+Wunderkind is a leading performance marketing engine that delivers tailored experiences at scale. Digital businesses use Wunderkind to remember who users are better than ever before, allowing them to deliver high-performing, one-to-one messages on websites, through emails and texts, and in ads at a scale that's not otherwise possible. Wunderkind drives $1.2 billion dollars annually in directly attributable revenue for top eCommerce brands like Uniqlo, Sonos and HelloFresh, often ranking as a top-3 revenue channel in their own analytics. Wunderkind is maniacally obsessed with ROI and aims to be the infrastructural interface between individuals and brands in a world where consumers choose what they want, from whom, and when. Learn more at wunderkind.co.
 
 To learn more about how we collect and use information for online advertising, please visit https://www.wunderkind.co/privacy/
 
@@ -752,5 +761,7 @@ Geoffrey A. Fowler and Tatum Hunter reported that on 2022 May 3 there was "[new 
 * [https://en.wikipedia.org/wiki/Computer_and_network_surveillance](https://en.wikipedia.org/wiki/Computer_and_network_surveillance)  
 * "Abu Dhabi state funds were used to buy Israeli spyware group NSO." By Kaye Wiggins and Mehul Srivastava, MARCH 31 2022 [https://www.ft.com/content/09a289f1-1670-4b18-9ee2-5d9081e1773d](https://www.ft.com/content/09a289f1-1670-4b18-9ee2-5d9081e1773d)  
 * "How we survive the surveillance apocalypse -- Online privacy is not dead, but you have to be angry enough to demand it." By Geoffrey A. Fowler, 2019-12-31. [https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/](https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/)  
-* "How America’s surveillance networks helped the FBI catch the Capitol mob." By Drew Harwell and Craig Timberg, 2021-04-02. [https://www.washingtonpost.com/technology/2021/04/02/capitol-siege-arrests-technology-fbi-privacy/](https://www.washingtonpost.com/technology/2021/04/02/capitol-siege-arrests-technology-fbi-privacy/)  
-* "Your phone could reveal if you’ve had an abortion -- Internet searches, visits to clinics and period-tracking apps leave digital trails." By Geoffrey A. Fowler and Tatum Hunter, 2022-05-04 [https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/](https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/)  
+* "How America's surveillance networks helped the FBI catch the Capitol mob." By Drew Harwell and Craig Timberg, 2021-04-02. [https://www.washingtonpost.com/technology/2021/04/02/capitol-siege-arrests-technology-fbi-privacy/](https://www.washingtonpost.com/technology/2021/04/02/capitol-siege-arrests-technology-fbi-privacy/)  
+* "What Your Period Tracker App Knows About You -- These apps are popular, but they raise concerns about what happens to the very personal data they collect." By Donna Rosato, Updated January 28, 2020. [https://www.consumerreports.org/health-privacy/what-your-period-tracker-app-knows-about-you-a8701683935/](https://www.consumerreports.org/health-privacy/what-your-period-tracker-app-knows-about-you-a8701683935/)  
+* "Meet Abortion Bans' New Best Friend -- Your Phone; When it comes to reproductive rights, your digital trail matters more than you think." By Lil Kalish, 2022-02-16. [https://www.motherjones.com/politics/2022/02/meet-abortion-bans-new-best-friend-your-phone/](https://www.motherjones.com/politics/2022/02/meet-abortion-bans-new-best-friend-your-phone/)  
+* "Your phone could reveal if you've had an abortion -- Internet searches, visits to clinics and period-tracking apps leave digital trails." By Geoffrey A. Fowler and Tatum Hunter, 2022-05-04. Quote: "Police and private citizens alike could buy data and use it to investigate suspected abortions. Phone location information has been used by activist groups to target ads at people in abortion clinics to try to dissuade them." ... "On Tuesday (2022-05-03), [Vice's Motherboard blog reported](https://www.vice.com/en/article/m7vzjb/location-data-abortion-clinics-safegraph-planned-parenthood) that for $160, it bought a week's worth of data from a company called SafeGraph showing where people who visited more than 600 Planned Parenthood clinics came from and where they went afterward."  [https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/](https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/)  

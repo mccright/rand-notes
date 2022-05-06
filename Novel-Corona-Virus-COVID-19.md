@@ -14,6 +14,7 @@ Support global vaccine distribution.  Pockets of unvaccinated, regardless of the
 ### Illustrations and Animations  
 * See an animation of the rapid global COVOD-19 evolution and epidemic spread: [https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/18](https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/18)  
 * Genetic relationships of globally sampled SARS-CoV-2 to April 2022: [https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/26](https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/26)  
+* WHO Detailed Surveillance Data Dashboard. Includes various data visualizations: [https://app.powerbi.com/view?r=eyJ...jh9](https://app.powerbi.com/view?r=eyJrIjoiYWRiZWVkNWUtNmM0Ni00MDAwLTljYWMtN2EwNTM3YjQzYmRmIiwidCI6ImY2MTBjMGI3LWJkMjQtNGIzOS04MTBiLTNkYzI4MGFmYjU5MCIsImMiOjh9) and for the [U.S.](https://covid19.who.int/region/amro/country/us/measures)  
 
 
 ### Recent Quote:   
@@ -158,6 +159,43 @@ Additional research on the topic of COVID-19 and mask wearing:
 * "An evidence review of face masks against COVID-19." By Jeremy Howard, Austin Huang, Zhiyuan Li, Zeynep Tufekci, Vladimir Zdimal, Helene-Mari van der Westhuizen, Arne von Delft, Amy Price, Lex Fridman, Lei-Han Tang, Viola Tang, Gregory L. Watson, Christina E. Bax, Reshama Shaikh, Frederik Questier, Danny Hernandez, Larry F. Chu, Christina M. Ramirez, and Anne W. Rimoin [https://www.pnas.org/content/118/4/e2014564118](https://www.pnas.org/content/118/4/e2014564118); PNAS January 26, 2021 118 (4) e2014564118; https://doi.org/10.1073/pnas.2014564118  
 
 ### Vaccine Safety and Effectiveness  
+As of May 2022 in the United States, the Pfizer BioNTech - Comirnaty, Moderna - Spikevax, and Janssen - Ad26.COV 2-S vaccines have been used.  As of May 2022 the WHO reports that there have been *approximately 31 COVID-19 vaccines* in use around the globe.  That reporting includes:  
+| Company | Product Name* |
+|---------|---------------|
+| Anhui ZL | Zifivax |
+| AstraZeneca | AZD1222 |
+| AstraZeneca | Vaxzevria |
+| Beijing CNBG | BBIBP-CorV |
+| Bharat | Covaxin |
+| Biological E | Corbevax |
+| CanSino | Convidecia |
+| Chumakov | Covi-Vac |
+| CIGB | CIGB-66 |
+| Finlay | Soberana-02 |
+| Finlay | Soberana Plus |
+| Gamaleya | Gam-Covid-Vac |
+| Gamaleya | Sputnik-Light |
+| Gamaleya | Sputnik V |
+| IMB | Covidful |
+| Janssen | Ad26.COV 2-S |
+| Julphar | Hayat-Vax |
+| Moderna | mRNA-1273 |
+| Moderna | Spikevax |
+| Novavax-NUVAXOVID |
+| Pfizer BioNTech | Comirnaty |
+| RIBSP | QazVac |
+| Shenzhen | LV-SMENP-DC |
+| Shifa | COVIran Barakat |
+| SII | Covishield |
+| SII | Covovax |
+| Sinovac | CoronaVac |
+| SRCVB | EpiVacCorona |
+| Turkovac |
+| Unknown Vaccine* |
+| Wuhan CNBG | Inactivated |
+| Zydus | ZyCov-D |
+Source: WHO Vaccination data [https://covid19.who.int/who-data/vaccination-data.csv](https://covid19.who.int/who-data/vaccination-data.csv) (*downloaded on 2022-05-06*).  The WHO data includes "Unknown Vaccine" administered in 11 countries.  It is possible that some products are known by multiple names.  
+
 You can read about treatement updates at: [https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)  
 
 Dr. Tom Benzoni, a Des Moines, Iowa emergency room physician [said in Dec. 2021](https://desmoinesregister-ia.newsmemory.com?selDate=20211208&goTo=A007&artid=1) that "everyone is going to eventually have antibodies for COVID-19. You can get them via infection or injection, and immunizations carry significantly less risk.  With the natural disease (infection), you get the consequences of the disease itself: hospitalization, long COVID, death and contributing to the formation of new variants."  
