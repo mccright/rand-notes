@@ -159,7 +159,7 @@ Additional research on the topic of COVID-19 and mask wearing:
 * "An evidence review of face masks against COVID-19." By Jeremy Howard, Austin Huang, Zhiyuan Li, Zeynep Tufekci, Vladimir Zdimal, Helene-Mari van der Westhuizen, Arne von Delft, Amy Price, Lex Fridman, Lei-Han Tang, Viola Tang, Gregory L. Watson, Christina E. Bax, Reshama Shaikh, Frederik Questier, Danny Hernandez, Larry F. Chu, Christina M. Ramirez, and Anne W. Rimoin [https://www.pnas.org/content/118/4/e2014564118](https://www.pnas.org/content/118/4/e2014564118); PNAS January 26, 2021 118 (4) e2014564118; https://doi.org/10.1073/pnas.2014564118  
 
 ### Vaccine Safety and Effectiveness  
-As of May 2022 in the United States, the Pfizer BioNTech - Comirnaty, Moderna - Spikevax, and Janssen - Ad26.COV 2-S vaccines have been used.  As of May 2022 the WHO reports that there have been *approximately 31 COVID-19 vaccines* in use around the globe.  That reporting includes:  
+As of May 2022 in the United States, the Pfizer BioNTech - Comirnaty (*starting 2020-12-14*), Moderna - Spikevax (*starting 2020-12-16*), and Janssen - Ad26.COV 2-S (*starting 2020-12-23*) vaccines have been used.  At that time, [WHO data showed](https://covid19.who.int/who-data/vaccination-data.csv) that there were 89 countries reporting a higher percentage of their population who were fully vaccinated compared to the United States.  "*Fully vaccinated*" means something different, depending on where you live.  As of May 2022 the WHO reports that there have been *approximately 31 COVID-19 vaccines* in use around the globe.  That reporting includes:  
 | Company | Product Name* |
 |---------|---------------|
 | Anhui ZL | Zifivax |
@@ -181,7 +181,7 @@ As of May 2022 in the United States, the Pfizer BioNTech - Comirnaty, Moderna - 
 | Julphar | Hayat-Vax |
 | Moderna | mRNA-1273 |
 | Moderna | Spikevax |
-| Novavax-NUVAXOVID |
+| Novavax | NUVAXOVID |
 | Pfizer BioNTech | Comirnaty |
 | RIBSP | QazVac |
 | Shenzhen | LV-SMENP-DC |
@@ -194,6 +194,7 @@ As of May 2022 in the United States, the Pfizer BioNTech - Comirnaty, Moderna - 
 | Unknown Vaccine* |
 | Wuhan CNBG | Inactivated |
 | Zydus | ZyCov-D |
+
 Source: WHO Vaccination data [https://covid19.who.int/who-data/vaccination-data.csv](https://covid19.who.int/who-data/vaccination-data.csv) (*downloaded on 2022-05-06*).  The WHO data includes "Unknown Vaccine" administered in 11 countries.  It is possible that some products are known by multiple names.  
 
 You can read about treatement updates at: [https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)  
