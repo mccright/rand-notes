@@ -34,8 +34,11 @@ For data on the following categories, see: [https://markets.chainalysis.com/](ht
 >"Cryptocurrency (*trading*) has characteristics that make it more prone to addiction than sports betting, gambling and traditional financial investing, according to addiction scholars. Crypto can be traded around-the-clock, unlike most stocks. People don’t need to drive to a casino to invest in a coin. The volatility in crypto prices, especially alternative currencies like meme coins, can be quick and provide the brain quick feelings of reward. And given crypto’s decentralized nature, it can be easier to hide the financial impacts of addiction."  
 
 
-Track digital currency values on your terminal [https://github.com/Gbox4/tstock](https://github.com/Gbox4/tstock)  
-Check exchange rates between currencies, both crypto and fiat [https://github.com/Gbox4/forx](https://github.com/Gbox4/forx)  
+* Track digital currency values on your terminal [https://github.com/Gbox4/tstock](https://github.com/Gbox4/tstock)  
+* Check exchange rates between currencies, both crypto and fiat [https://github.com/Gbox4/forx](https://github.com/Gbox4/forx)  
+* "Crypto’s plummet tests the durability of a hype-driven industry -- 
+The asset class has lost more than a quarter of its value over the past week." By Tory Newmyer and Steven Zeitchik, 2022-05-12. Stablecoin which aims to keep its price at $1, has been falling for a week --  TerraUSD (aka 'UST') was priced as low as 30 cents on Wednesday May 11 and was trading around 40 cents Thursday evening May 12, 2022.  In the last six months Bitcoin is down 59% (*"an estimated 40 percent of bitcoin holders are underwater on the asset"*) and Ethereum is down 60%.  [https://www.washingtonpost.com/business/2022/05/12/crypto-crash-terra-national-bitcoin/](https://www.washingtonpost.com/business/2022/05/12/crypto-crash-terra-national-bitcoin/)  
+ 
 
 
 ### Selected Definitions  
