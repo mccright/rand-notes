@@ -57,7 +57,7 @@ CS Class Chat app using Flask
 * Zulip [https://github.com/zulip/zulip](https://github.com/zulip/zulip) [use this version [https://github.com/zulip/docker-zulip](https://github.com/zulip/docker-zulip)]  
 * RevoltChat [https://github.com/revoltchat/](https://github.com/revoltchat/)  
 * HubZilla 
-* TalkTalkTalk single-page chat room [https://github.com/josephernest/talktalktalk](https://github.com/josephernest/talktalktalk)  
+* TalkTalkTalk single-page chat room [https://github.com/josephernest/talktalktalk](https://github.com/josephernest/talktalktalk); My initial experimentation leads me to believe that its Python 2 code is not going to work in a Python 3 world without some material upgrading.  I am setting this option aside for now.  
 * Este es el repositorio de los contenidos de la Wiki de Python Argentina? [https://github.com/PyAr/wiki](https://github.com/PyAr/wiki)  
 * hedgedoc [https://github.com/hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) and [https://docs.hedgedoc.org/setup/docker/](https://docs.hedgedoc.org/setup/docker/)  
 
