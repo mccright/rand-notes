@@ -212,6 +212,7 @@ Here is an essay that will help you get started thinking: ["How to Enjoy Retirem
 * AARP Bulletin (*paper copy*), "Real Possibilities" October 2019, page 16.  
 * "What's a Safe Retirement Spending Rate for the Decades Ahead?" [https://www.morningstar.com/articles/1066569/whats-a-safe-retirement-spending-rate-for-the-decades-ahead](https://www.morningstar.com/articles/1066569/whats-a-safe-retirement-spending-rate-for-the-decades-ahead)  
 * "Rethinking the 4% Safe Withdrawal Rule." Posted on November 18, 2021 by fritz@theretirementmanifesto.com, [https://www.theretirementmanifesto.com/rethinking-the-4-safe-withdrawal-rule/](https://www.theretirementmanifesto.com/rethinking-the-4-safe-withdrawal-rule/)  
+* Fritz Gilbert's "The 5 Most Important Factors In Your Decision To Retire" [https://www.theretirementmanifesto.com/the-5-most-important-factors-in-your-decision-to-retire/](https://www.theretirementmanifesto.com/the-5-most-important-factors-in-your-decision-to-retire/)  
 * Issues in retirement security [https://en.wikipedia.org/wiki/Issues_in_retirement_security](https://en.wikipedia.org/wiki/Issues_in_retirement_security)  
 
 
