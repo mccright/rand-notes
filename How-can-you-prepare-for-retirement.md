@@ -158,15 +158,17 @@ When you approach or enter *retirement,* your willingness to assume risks in equ
 | $5,500,000 | $55,000 | $68,750 | $82,500 | $96,250 | $110,000 | $137,500 | $165,000 | $192,500 | $220,000 | $247,500 | $275,000 | $302,500 | $330,000 |
 | $5,750,000 | $57,500 | $71,875 | $86,250 | $100,625 | $115,000 | $143,750 | $172,500 | $201,250 | $230,000 | $258,750 | $287,500 | $316,250 | $345,000 |
 
-Some individuals and families have retirement cash flow expectations of $150,000/yr, $200,000/yr, even $300,000/yr.  I included some *big* numbers in the Assets column to help demonstrate the scale of preparation required to support income streams like that.  I read that too often, individuals spending at these levels in retirement have not constructed the required financial foundation, and burn through material portions of their retirement funds before aknowledging that situation -- leaving them seriously financially challenged for the duration of their life.  Not where any of us want to land.  
+Some individuals and families have retirement cash flow expectations of $150,000/yr, $200,000/yr, $300,000/yr, and some even more.  I included some *big* numbers in the Assets column to help demonstrate the scale of preparation required to support income streams like that.  I read that too often, individuals spending at these levels in retirement have not constructed the required financial foundation, and burn through material portions of their retirement funds before aknowledging that situation -- leaving them seriously financially challenged for the duration of their life.  Not where any of us want to land.  
 
 Those upper rows refer to material wealth.  Who has that kind of money?[[Note 5](https://github.com/mccright/rand-notes/blob/master/How-can-you-prepare-for-retirement.md#NOTES)]  Most don't.  While there have been recent wage increases, [over the past 40 years wages have stagnated against the cost of living for most Americans](https://www.pewresearch.org/fact-tank/2018/08/07/for-most-us-workers-real-wages-have-barely-budged-for-decades/).  And the proportion of the U.S. population who have accumulated $1.2 million or more has shrunk and the distance between the median wealth and entry into the top 9.9% has more than doubled in the last 6 decades.   
 In "The 9.9 Percent," Matthew Stewart noted that in 1963, the median household would have needed 10 times as much wealth to reach the middle of the (*top*) 9.9 percent. Today, it would need 24 times as much wealth. 
 He also reported that it took $2.4 million in assets to reach the the 9.9 percent group's median...  
 Quoted from a review by Eyal Press: [https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html](https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html)  The U.S. Federal Reserve reports](https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/chart/#quarter:0;series:Net%20worth;demographic:networth;population:1,5,7;units:shares;range:1989.3,2021.3) that the top 1% of of Americans by accumulated wealth own over a third of all wealth in the country (roughly the same amount as the bottom 90%), while the bottom 50% own about 2.5% of all wealth.  Those are just facts.  They document the distribution of wealth -- that by almost any measure seems unfair.  They do not, though, alter the ruthless impacts of time and aging that require planning for *old age* and whatever will be your retirement.  
 
-Once you *retire* and begin drawing from your accumulated assets, it is also important to consider the tax of your various options.  Withdrawals from defined-contribution plans like some types of IRAs and 401(k)s are taxable on at your federal level, based on your income.  Withdrawals from an Roth IRA is not taxable if you are at least 59 1/2, as long as you have kept the money in the Roth IRA account for at least five years.
+Once you *retire* and begin drawing from your accumulated assets, it is also important to consider the tax of your various options.  Withdrawals from defined-contribution plans like some types of IRAs and 401(k)s are taxable at your federal level, based on your income.  Withdrawals from an Roth IRA is not taxable if you are at least 59 1/2, as long as you have kept the money in the Roth IRA account for at least five years.
 
+
+## Guaranteed Income and the Nature of Your Needs May Impact Investment Withdrawl Rates During Retirement  
 
 The model below is from an AARP Bulletin retelling of "The impact of Guaranteed Income and Dynamic Withdrawals on Safe Initial Withdrawal Rates" by David Blanchett, as well as my reading of the same.  
 
@@ -195,7 +197,7 @@ Some portion of consumption/spending is sometimes discretionary.  In the United 
 |75%|2.2%|3.1%|3.8%|4.7%|6.4%|  
 |100%|2.0%|2.1%|3.6%|4.5%|6.3%|  
 
-The *percent of guaranteed income* columns represent what David Blanchett's calculations estimate how much you can withdraw in your first year of retirement.  The annual amount is then indexed upward to match inflation.  
+The *percent of guaranteed income* columns represent what David Blanchett's calculations estimate how much his model predicts that you can withdraw in your first year of retirement.  The annual amount is then indexed upward to match inflation.  
 
 
 ### Plan for what your retirement will be  
