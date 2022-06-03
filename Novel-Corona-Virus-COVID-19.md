@@ -1,6 +1,7 @@
 Focus on Facts and Restrict the Flow of Misinformation
 ------------------------------------------------------
 ```
+Action on COVID-19 at home and abroad is urgently needed to save lives.  
 Get vaccinated.  Help your family and friends do the same.  
 Get boosted.  Help your family and friends do the same.  
 Ventilate shared spaces.  
@@ -12,7 +13,7 @@ Support global vaccine distribution.  Pockets of unvaccinated, regardless of the
 ```
 
 ### Illustrations and Animations  
-* See an animation of the rapid global COVOD-19 evolution and epidemic spread: [https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/18](https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/18)  
+* See an animation of the rapid global COVID-19 evolution and epidemic spread: [https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/18](https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/18)  
 * Genetic relationships of globally sampled SARS-CoV-2 to April 2022: [https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/26](https://bedford.io/talks/real-time-tracking-response-africa-cdc/#/26)  
 * WHO Detailed Surveillance Data Dashboard. Includes various data visualizations: [https://app.powerbi.com/view?r=eyJ...jh9](https://app.powerbi.com/view?r=eyJrIjoiYWRiZWVkNWUtNmM0Ni00MDAwLTljYWMtN2EwNTM3YjQzYmRmIiwidCI6ImY2MTBjMGI3LWJkMjQtNGIzOS04MTBiLTNkYzI4MGFmYjU5MCIsImMiOjh9) and for the [U.S.](https://covid19.who.int/region/amro/country/us/measures)  
 
