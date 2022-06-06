@@ -4,6 +4,9 @@
 ...since its emergence in 2008, digital currency has existed outside of government and traditional banking controls and constraints, and depends on tight integration with public ledgers called blockchains (decentralized, peer-to-peer record-keeping).  
 
 
+* Molly White's take on the predatory nature of the cryptocurrency marketplace: [https://web3isgoinggreat.com/](https://web3isgoinggreat.com/) and a recent overview of her work: [https://www.washingtonpost.com/technology/2022/05/29/molly-white-crypto/](https://www.washingtonpost.com/technology/2022/05/29/molly-white-crypto/)  
+
+
 * "Qubit Finance platform hacked for $80 million worth of cryptocurrency." By Catalin Cimpanu, 2022-01-28 [https://therecord.media/qubit-finance-platform-hacked-for-80-million-worth-of-cryptocurrency/](https://therecord.media/qubit-finance-platform-hacked-for-80-million-worth-of-cryptocurrency/) with supporting information from [https://medium.com/@QubitFin/protocol-exploit-report-305c34540fa3](https://medium.com/@QubitFin/protocol-exploit-report-305c34540fa3) and [Bridge projects, ‘moving’ tokens and coins from one blockchain to another](Bridge projects, ‘moving’ tokens and coins from one blockchain to another)  On 2022-01-27 a threat actor stole ~$80 million (206,809 Binance coins (BNB)) from Qubit Finance, a decentralized finance (DeFi) platform that allows users to loan and speculate on cryptocurrency price variations.  
 [ToDo]...look up recent hack/thefts at Polychain MATIC and Multichain  
 
