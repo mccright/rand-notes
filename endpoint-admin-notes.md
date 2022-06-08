@@ -16,6 +16,22 @@ rsync compares the files in the source and destination and then copies only thos
 Add *--delete* option if you also need to remove destination files when they are no longer on the source.    
 
 
+### Use find to help copy collections of files  
+Copy all the files in a given directory (*source_directory*) to a different target directory (*target_directory*).  
+```terminal
+find source_directory -type f -exec cp {} target_directory \;
+```
+If you are concerned about duplicate file names, one approach is to add a ```-i``` to the copy command.  That will tell the ```cp``` command to stop and prompt you for input before overwriting any files:  
+```terminal
+find source_directory -type f -exec cp -i {} target_directory \;
+```
+
+### Use find to help move collections of files  
+This approach deals with duplicates by including a description of the directory tree in each file name by replacing the ```'/'``` character with an alternative that is appropriate for file names (*in this example, the dash ```'-'``` character*)  
+```terminal
+find source_directory -type f | while read F; do mv "$F" "target_directory/${F//\//-}" done
+```
+
 
 ### Use find to execute command on files  
 Delete files that have not been modified in the last 30 days:  
@@ -57,4 +73,4 @@ I have been adding some simple Linux troubleshooting reminders to a different fi
 ### Some Flexible Linux Live Distributions  
 * **Fedora Live**: Fedora Xfce Desktop is implemented to be fast and lightweight.  It is shipped as a live operating system.  It includes everything you need to try out Fedora's Xfce Desktop.  You don't have to erase anything on your current system to try it out, and it won't put your existing files at risk.  You can have the boot copy all files to RAM first so that it runs very fast using the ```rd.live.ram=1``` boot parameter (*press the TAB key at the grub boot menu*).  If you like it after a test drive, you can install it to a local hard drive from the Live Media desktop. [https://spins.fedoraproject.org/xfce/](https://spins.fedoraproject.org/xfce/)  
 
-* **Lubuntu**:  Lubuntu is a fast and lightweight Ubuntu based operating system using the minimal desktop LXQT and a selection of light applications. Lubuntu has very low hardware requirements.  [https://lubuntu.me/](https://lubuntu.me/)  
+* **Lubuntu**:  Lubuntu is a fast and lightweight Ubuntu based operating system using the minimal desktop LXQT and a selection of light applications. Lubuntu has very low hardware requirements.  That said, it makes a lean platform on which to build a fast development endpoint.  [https://lubuntu.me/](https://lubuntu.me/)  

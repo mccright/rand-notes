@@ -1,10 +1,15 @@
 # Cryptocurrency Notes  
 
 *This is just a scratchpad for now*.  
-...since its emergence in 2008, digital currency has existed outside of government and traditional banking controls and constraints, and depends on tight integration with public ledgers called blockchains (decentralized, peer-to-peer record-keeping).  
+...since its emergence in 2008/9, digital currency has existed outside of government and traditional banking controls and constraints, and depends on tight integration with public ledgers called blockchains (decentralized, peer-to-peer record-keeping).  
+
+My reading and experience in the financial services industry leads me to believe that for much of their short lifetime, cryptocurrencies and blockchain technology have been pumped using hyper-positive myths that attempt to define them as a safe, inherently egalitarian, democratic, decentralized and anonymity-protecting utopia.  Facts documented by *the blockchain* itself show a reality that "*currency*" generation and ownership (*i.e., market power*) has regularly been highly centralized among a small elite (*analogous to the legacy financial world*), and that anonymity is difficult to achieve and harder to maintain.  There seem to be a relatively high concentration of predatory actors in the cryptocurrency marketplace.  (*unfinished thoughts here...*)  
 
 
 * Molly White's take on the predatory nature of the cryptocurrency marketplace: [https://web3isgoinggreat.com/](https://web3isgoinggreat.com/) and a recent overview of her work: [https://www.washingtonpost.com/technology/2022/05/29/molly-white-crypto/](https://www.washingtonpost.com/technology/2022/05/29/molly-white-crypto/)  
+
+
+* Alyssa Blackburn and collaborators used data leakage from the bitcoin blockchain to identify the activities of *anonymous* individuals over 2 years -- finding that most bitcoin was mined by only sixty-four agents, exhibiting extensive resource centralization and material cooperation among that small group: [https://aidenlab.org/bitcoin.pdf](https://aidenlab.org/bitcoin.pdf) and also see an article about her work: [https://www.nytimes.com/2022/06/06/science/bitcoin-nakamoto-blackburn-crypto.html](https://www.nytimes.com/2022/06/06/science/bitcoin-nakamoto-blackburn-crypto.html)  
 
 
 * "Qubit Finance platform hacked for $80 million worth of cryptocurrency." By Catalin Cimpanu, 2022-01-28 [https://therecord.media/qubit-finance-platform-hacked-for-80-million-worth-of-cryptocurrency/](https://therecord.media/qubit-finance-platform-hacked-for-80-million-worth-of-cryptocurrency/) with supporting information from [https://medium.com/@QubitFin/protocol-exploit-report-305c34540fa3](https://medium.com/@QubitFin/protocol-exploit-report-305c34540fa3) and [Bridge projects, ‘moving’ tokens and coins from one blockchain to another](Bridge projects, ‘moving’ tokens and coins from one blockchain to another)  On 2022-01-27 a threat actor stole ~$80 million (206,809 Binance coins (BNB)) from Qubit Finance, a decentralized finance (DeFi) platform that allows users to loan and speculate on cryptocurrency price variations.  
