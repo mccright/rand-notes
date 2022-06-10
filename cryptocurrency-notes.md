@@ -45,8 +45,20 @@ For data on the following categories, see: [https://markets.chainalysis.com/](ht
 * Track digital currency values on your terminal [https://github.com/Gbox4/tstock](https://github.com/Gbox4/tstock)  
 * Check exchange rates between currencies, both crypto and fiat [https://github.com/Gbox4/forx](https://github.com/Gbox4/forx)  
 * "Crypto’s plummet tests the durability of a hype-driven industry -- 
-The asset class has lost more than a quarter of its value over the past week." By Tory Newmyer and Steven Zeitchik, 2022-05-12. Stablecoin which aims to keep its price at $1, has been falling for a week --  TerraUSD (aka 'UST') was priced as low as 30 cents on Wednesday May 11 and was trading around 40 cents Thursday evening May 12, 2022.  In the last six months Bitcoin is down 59% (*"an estimated 40 percent of bitcoin holders are underwater on the asset"*) and Ethereum is down 60%.  [https://www.washingtonpost.com/business/2022/05/12/crypto-crash-terra-national-bitcoin/](https://www.washingtonpost.com/business/2022/05/12/crypto-crash-terra-national-bitcoin/)  
+The asset class has lost more than a quarter of its value over the past week." By Tory Newmyer and Steven Zeitchik, 2022-05-12. Stablecoin which aims to keep its price at $1, has been falling for a week --  TerraUSD (aka 'UST') was priced as low as 30 cents on Wednesday May 11 and was trading around 40 cents Thursday evening May 12, 2022. By June 9, 2022, UST seemed to have *stabilized* at around 10 cents, or one tenth of the value *promised* by stablecoin hypesters.  In the last eight months Bitcoin is down 59% (*"an estimated 40 percent of bitcoin holders are underwater on the asset"*) and Ethereum is down 60%.  [https://www.washingtonpost.com/business/2022/05/12/crypto-crash-terra-national-bitcoin/](https://www.washingtonpost.com/business/2022/05/12/crypto-crash-terra-national-bitcoin/)  
  
+
+
+### How does Bitcoin have value?  
+Different parties answer this question in a variety of ways.  CoinBase has what is a pretty standard cryptocurrency industry slant.  It makes the normal pokes at humans in *governments* creating new currency (*devaluing yours*), along with a series of assertions about security that are only *true* if you ignore the *real world* where an *attack surface* reality matters and where sentient beings can choose alternate mental models/framing and attack from that perspective.  
+Copied From [https://www.coinbase.com/price/bitcoin](https://www.coinbase.com/price/bitcoin) on 2022 June 9.  
+>Bitcoin’s value is inspired by properties such as:  
+>    * A fixed and predictable monetary supply. Unlike fiat currency  (government-backed money), new Bitcoin cannot be created suddenly or by the trillions by any elected or unelected official. There will only ever be 21 million Bitcoin.  
+>    * Bitcoin operates by open-source code and is globally transparent, unlike fiat currency. At any time, anyone can independently verify the total Bitcoin supply and its underlying code, as well as the balances of each account on the global ledger.  
+>    * Bitcoin is secured by cutting-edge encryption, and is backed by immense amounts of energy. If an individual or organization were to try to undermine Bitcoin’s core encryption, it would require impossible amounts of energy, specialized computers, and space. Bitcoin is the most secure computing network in the world.  
+>    * Unlike traditional bank accounts, anyone, anywhere can connect to the Bitcoin network. Bitcoin is an uncensorable and global network for transacting value.  
+>So long as the above properties are useful to people across the world, Bitcoin will have value.  
+
 
 
 ### Selected Definitions  
