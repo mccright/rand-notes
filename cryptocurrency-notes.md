@@ -1,9 +1,9 @@
 # Cryptocurrency Notes  
 
 *This is just a scratchpad for now*.  
-...since its emergence in 2008/9, digital currency has existed outside of government and traditional banking controls and constraints, and depends on tight integration with public ledgers called blockchains (decentralized, peer-to-peer record-keeping).  
+...since its emergence in 2008/9, digital currency has existed outside of government and traditional banking controls and constraints, and depends on tight integration with public ledgers called blockchains or [*Distributed Ledger Technology* (DLT)](https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp) (decentralized, peer-to-peer record-keeping).  
 
-My reading and experience in the financial services industry leads me to believe that for much of their short lifetime, cryptocurrencies and blockchain technology have been pumped using hyper-positive myths that attempt to define them as a safe, inherently egalitarian, democratic, decentralized and anonymity-protecting utopia.  I assume that the industry is populated with lots of good people and good ideas, but facts documented by *the blockchain* itself show a reality that "*currency*" generation and ownership (*i.e., market power*) has regularly been highly centralized among a small elite (*analogous to the legacy financial world*), and that anonymity is difficult to achieve and harder to maintain.  There seem to be a relatively high concentration of predatory actors in the cryptocurrency marketplace.  And there have been a lot of losses that were (*at least in part*) caused by flawed technology and business implementations and operations.  (*unfinished thoughts here...*)  
+My reading and experience in the financial services industry leads me to believe that for much of their short lifetime, cryptocurrencies and blockchain/DLT technology have been pumped using hyper-positive myths that attempt to define them as a safe, inherently egalitarian, democratic, decentralized and anonymity-protecting utopia.  I assume that the industry is populated with lots of good people and good ideas, but facts documented by *the blockchain* itself show a reality that "*currency*" generation and ownership (*i.e., market power*) has regularly been highly centralized among a small elite (*analogous to the legacy financial world*), and that anonymity is difficult to achieve and harder to maintain.  There seem to be a relatively high concentration of predatory actors in the cryptocurrency marketplace.  And there have been a lot of losses that were (*at least in part*) caused by flawed technology and business implementations and operations.  (*unfinished thoughts here...*)  
 
 
 * Molly White's take on the predatory nature of the cryptocurrency marketplace: [https://web3isgoinggreat.com/](https://web3isgoinggreat.com/) and a recent overview of her work: [https://www.washingtonpost.com/technology/2022/05/29/molly-white-crypto/](https://www.washingtonpost.com/technology/2022/05/29/molly-white-crypto/)  
@@ -12,7 +12,7 @@ My reading and experience in the financial services industry leads me to believe
 * Alyssa Blackburn and collaborators used data leakage from the bitcoin blockchain to identify the activities of *anonymous* individuals over 2 years -- finding that most bitcoin was mined by only sixty-four agents, exhibiting extensive resource centralization and material cooperation among that small group: [https://aidenlab.org/bitcoin.pdf](https://aidenlab.org/bitcoin.pdf) and also see an article about her work: [https://www.nytimes.com/2022/06/06/science/bitcoin-nakamoto-blackburn-crypto.html](https://www.nytimes.com/2022/06/06/science/bitcoin-nakamoto-blackburn-crypto.html)  
 
 
-* "Qubit Finance platform hacked for $80 million worth of cryptocurrency." By Catalin Cimpanu, 2022-01-28 [https://therecord.media/qubit-finance-platform-hacked-for-80-million-worth-of-cryptocurrency/](https://therecord.media/qubit-finance-platform-hacked-for-80-million-worth-of-cryptocurrency/) with supporting information from [https://medium.com/@QubitFin/protocol-exploit-report-305c34540fa3](https://medium.com/@QubitFin/protocol-exploit-report-305c34540fa3) and [Bridge projects, ‘moving’ tokens and coins from one blockchain to another](Bridge projects, ‘moving’ tokens and coins from one blockchain to another)  On 2022-01-27 a threat actor stole ~$80 million (206,809 Binance coins (BNB)) from Qubit Finance, a decentralized finance (DeFi) platform that allows users to loan and speculate on cryptocurrency price variations.  
+* "Qubit Finance platform hacked for $80 million worth of cryptocurrency." By Catalin Cimpanu, 2022-01-28 [https://therecord.media/qubit-finance-platform-hacked-for-80-million-worth-of-cryptocurrency/](https://therecord.media/qubit-finance-platform-hacked-for-80-million-worth-of-cryptocurrency/) with supporting information from [https://medium.com/@QubitFin/protocol-exploit-report-305c34540fa3](https://medium.com/@QubitFin/protocol-exploit-report-305c34540fa3) and [Bridge projects, ‘moving’ tokens and coins from one blockchain to another](https://www.bloomberg.com/news/articles/2022-04-02/understanding-crypto-bridges-and-1-billion-in-thefts-quicktake)  On 2022-01-27 a threat actor stole ~$80 million (206,809 Binance coins (BNB)) from Qubit Finance, a decentralized finance (DeFi) platform that allows users to loan and speculate on cryptocurrency price variations.  
 [ToDo]...look up recent hack/thefts at Polychain MATIC and Multichain  
 
 Hostile parties stole at least US$3.2 billion worth of cryptocurrency in 2021, and in the first three months of 2022 they have stolen another US$1.3 billion. "Hackers Are Stealing More Cryptocurrency From DeFi Platforms Than Ever Before." By the ChainAnalysis Team, 2022-04-14 [https://blog.chainalysis.com/reports/2022-defi-hacks/]](https://blog.chainalysis.com/reports/2022-defi-hacks/)  
@@ -62,7 +62,13 @@ Copied From [https://www.coinbase.com/price/bitcoin](https://www.coinbase.com/pr
 
 
 ### Selected Definitions  
-* **Blockchains** decentralized, peer-to-peer record-keeping.  
-* **Bridge projects** 'move' tokens and coins from one blockchain to another.  
+* **Blockchains** decentralized, peer-to-peer record-keeping.  Blockchain and the broader *Distributed Ledger Technology* (DLT) refer to the technical infrastructure, cryptography, and protocols enabling transaction access, validation, and record updating in an immutable manner on a network that may be distributed amoung multiple entities or locations. [extended definition](https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp)
+* **Bridge projects** 'move' tokens and coins from one blockchain/digital ledger to another.  
 * **Decentralized finance (DeFi)** platforms allow users to loan and speculate on cryptocurrency price variations, among other services.  
+* **Distributed Ledger Technology (DLT)** see "Blockchains" above.
 
+
+Review:  
+* [https://www.washingtonpost.com/business/2022/06/03/crypto-skeptics-growing/](https://www.washingtonpost.com/business/2022/06/03/crypto-skeptics-growing/)  
+* [https://libertystreeteconomics.newyorkfed.org/2022/02/the-future-of-payments-is-not-stablecoins/](https://libertystreeteconomics.newyorkfed.org/2022/02/the-future-of-payments-is-not-stablecoins/)  
+* []()  
