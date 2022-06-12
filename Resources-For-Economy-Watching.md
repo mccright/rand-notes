@@ -33,6 +33,9 @@
   * [https://www.clevelandfed.org/en/our-research/indicators-and-data/yield-curve-and-gdp-growth.aspx](https://www.clevelandfed.org/en/our-research/indicators-and-data/yield-curve-and-gdp-growth.aspx)  
   * [https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield)  
 * A suite of economic indicators from YCharts [https://ycharts.com/indicators](https://ycharts.com/indicators)  
+* Weekly Economic Index (WEI) from the New York Fed's [Applied Macroeconomics and Econometrics Center (AMEC)](https://newyorkfed.org/research/amec).  The WEI provides a signal of the state of the U.S. economy based on data available at a daily or weekly frequency.  [https://www.newyorkfed.org/research/policy/weekly-economic-index#/interactive](https://www.newyorkfed.org/research/policy/weekly-economic-index#/interactive)  
+* Survey of Consumer Expectations from the New York Fed's [Applied Macroeconomics and Econometrics Center (AMEC)](https://newyorkfed.org/research/amec).  [https://www.newyorkfed.org/microeconomics/sce#/](https://www.newyorkfed.org/microeconomics/sce#/)  
+
 
 **Stock market indexes:**  
 * Russell 2000: [https://finance.yahoo.com/quote/%5ERUT?p=^RUT](https://finance.yahoo.com/quote/%5ERUT?p=^RUT)  
@@ -73,3 +76,7 @@ In practice in the U.S. the *trickle-down* variant of supply-side economics has 
 * As long as its economy has the ability to churn out the needed goods and services -- and inflation remains *low*.  
 MMT theorists have not been well tested in the *real world* but may have an opportunity to influence responses to the 2021-2022 U.S. inflation.  
 [Some of this is paraphrased from an article by Jeanna Smialek](https://www.nytimes.com/2022/02/06/business/economy/modern-monetary-theory-stephanie-kelton.html)  
+
+
+#### Need to research these...  
+* A New Barometer of Global Supply Chain Pressures [https://libertystreeteconomics.newyorkfed.org/2022/01/a-new-barometer-of-global-supply-chain-pressures/](https://libertystreeteconomics.newyorkfed.org/2022/01/a-new-barometer-of-global-supply-chain-pressures/)  and  Global Supply Chain Pressure Index: March 2022 Update [https://libertystreeteconomics.newyorkfed.org/2022/03/global-supply-chain-pressure-index-march-2022-update/](https://libertystreeteconomics.newyorkfed.org/2022/03/global-supply-chain-pressure-index-march-2022-update/)  
