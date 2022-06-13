@@ -14,6 +14,9 @@
 * Major Econimic Indicators from the U.S. Bureau of Labor Statistics: [https://www.bls.gov/bls/newsrels.htm#major](https://www.bls.gov/bls/newsrels.htm#major)  
 * Consumer Spending: [https://www.bea.gov/data/consumer-spending/main](https://www.bea.gov/data/consumer-spending/main) and [https://www.bls.gov/cex/](https://www.bls.gov/cex/)  
 * Retail Sales: [https://www.census.gov/retail/index.html](https://www.census.gov/retail/index.html)  
+* Bureau of Labor Statistics Producer Price Index (PPI) page: [https://www.bls.gov/ppi/](https://www.bls.gov/ppi/)  
+* Bureau of Labor Statistics Consumer Price Index (CPI) page: [https://www.bls.gov/cpi/](https://www.bls.gov/cpi/)  
+* 2022 Consumer Price Index (CPI) and Inflation Rate for the United States [https://cpiinflationcalculator.com/2022-cpi-and-inflation-rate-for-the-united-states/](https://cpiinflationcalculator.com/2022-cpi-and-inflation-rate-for-the-united-states/)  
 * Conference Board consumer confidence index: [https://www.conference-board.org/data/consumerconfidence.cfm](https://www.conference-board.org/data/consumerconfidence.cfm)  
 * Conference Board Employment Trends Index: [https://www.conference-board.org/data/eti.cfm](https://www.conference-board.org/data/eti.cfm)  
 * Conference Board Help Wanted OnLine: [https://www.conference-board.org/data/helpwantedonline.cfm](https://www.conference-board.org/data/helpwantedonline.cfm)  
@@ -35,11 +38,15 @@
 * A suite of economic indicators from YCharts [https://ycharts.com/indicators](https://ycharts.com/indicators)  
 * Weekly Economic Index (WEI) from the New York Fed's [Applied Macroeconomics and Econometrics Center (AMEC)](https://newyorkfed.org/research/amec).  The WEI provides a signal of the state of the U.S. economy based on data available at a daily or weekly frequency.  [https://www.newyorkfed.org/research/policy/weekly-economic-index#/interactive](https://www.newyorkfed.org/research/policy/weekly-economic-index#/interactive)  
 * Survey of Consumer Expectations from the New York Fed's [Applied Macroeconomics and Econometrics Center (AMEC)](https://newyorkfed.org/research/amec).  [https://www.newyorkfed.org/microeconomics/sce#/](https://www.newyorkfed.org/microeconomics/sce#/)  
+* List of Bureau of Labor Statistics reports, publications, and data: [https://www.bls.gov/bls/sitemap.htm](https://www.bls.gov/bls/sitemap.htm)  
 
 
 **Stock market indexes:**  
 * Russell 2000: [https://finance.yahoo.com/quote/%5ERUT?p=^RUT](https://finance.yahoo.com/quote/%5ERUT?p=^RUT)  
+* NASDAQ Composite: [https://finance.yahoo.com/quote/%5EIXIC/?p=%5EIXIC](https://finance.yahoo.com/quote/%5EIXIC/?p=%5EIXIC)  
 * S&P 500: [https://finance.yahoo.com/quote/%5EGSPC/](https://finance.yahoo.com/quote/%5EGSPC/)  
+* Dow Jones Industrials: [https://finance.yahoo.com/quote/%5EDJI/?p=%5EDJI](https://finance.yahoo.com/quote/%5EDJI/?p=%5EDJI)  
+* Vanguard Total Stock Market Index Fund (VTI): [https://finance.yahoo.com/quote/VTI/?p=VTI](https://finance.yahoo.com/quote/VTI/?p=VTI)  
 * Cboe Volatility Index® (VIX® Index) [https://www.cboe.com/tradable_products/vix/](https://www.cboe.com/tradable_products/vix/) and [https://www.cboe.com/delayed_quotes/vix](https://www.cboe.com/delayed_quotes/vix) [In this context, "Volatility, or how fast prices change, is often seen as a way to gauge market sentiment, and in particular the degree of fear among market participants." [from: Investopedia)](https://www.investopedia.com/terms/v/vix.asp)]  
 * Tracking them on your terminal [https://github.com/Gbox4/tstock](https://github.com/Gbox4/tstock)  
 
