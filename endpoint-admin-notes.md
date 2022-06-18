@@ -1,5 +1,10 @@
 ## Some Endpoint Admin Notes  
 
+### Booting a PC from a USB drive  
+Many PCs have a configuration screen to select the boot drive/media.  
+It is often accessed by pressing a key while powering on the PC.  See a nearby file for some [Vendor / Key combinations](https://github.com/mccright/rand-notes/blob/master/Boot-PC-from-a-USB-drive.md) in this repository.  
+
+
 ### Backup with rsync  
 rsync synchronizes sets of files.  
 Backup to a local destination file system:  
