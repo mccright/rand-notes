@@ -11,6 +11,7 @@
 
 **Other Technologies**
 * DVFaaS - Damn Vulnerable AWS Lambda Functions as a Service [https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service](https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service)  
+* Death by Lambda - A collection of things you should NEVER DO in AWS when using Lambda [https://github.com/silvexis/death-by-lambda](https://github.com/silvexis/death-by-lambda)  
 * Unhackable Calculator -- an intentionally vulnerable serverless web application [https://github.com/SugarSecurity/unhackable_calculator](https://github.com/SugarSecurity/unhackable_calculator)  
 * An online platform that uses hands-on virtual labs [https://tryhackme.com/](https://tryhackme.com/)  
 * Hosts materials for anyone to gain practical 'hands-on' experience with -- a range of hacking and network admin opportunities  [https://www.vulnhub.com/](https://www.vulnhub.com/)  
