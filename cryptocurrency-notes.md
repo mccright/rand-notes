@@ -71,4 +71,5 @@ Copied From [https://www.coinbase.com/price/bitcoin](https://www.coinbase.com/pr
 Review:  
 * [https://www.washingtonpost.com/business/2022/06/03/crypto-skeptics-growing/](https://www.washingtonpost.com/business/2022/06/03/crypto-skeptics-growing/)  
 * [https://libertystreeteconomics.newyorkfed.org/2022/02/the-future-of-payments-is-not-stablecoins/](https://libertystreeteconomics.newyorkfed.org/2022/02/the-future-of-payments-is-not-stablecoins/)  
+* A little dated, but still a useful way to view cryptocurrency *security* - "Ethereum: hunting for buggy smart contracts" [https://www.palkeo.com/en/projets/ethereum/index.html](https://www.palkeo.com/en/projets/ethereum/index.html)  
 * []()  
