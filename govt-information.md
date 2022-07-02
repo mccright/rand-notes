@@ -8,4 +8,9 @@
 
 ## What have your representatives been doing?
 ====================================================
+* '*[GovTrack.us](https://www.govtrack.us/)*' began in 2004 as a project to use technology to make the U.S. Congress more open and accessible. Today they are a leading non-governmental source of legislative information and statistics [https://www.govtrack.us/](https://www.govtrack.us/)  
 * Search congressional publications using: [https://www.govinfo.gov/](https://www.govinfo.gov/)  
+* U.S. House of Representatives [https://www.house.gov/](https://www.house.gov/)  
+* U.S. Senate [https://www.senate.gov/](https://www.senate.gov/)  
+* [https://www.visitthecapitol.gov/plan-visit](https://www.visitthecapitol.gov/plan-visit)  
+
