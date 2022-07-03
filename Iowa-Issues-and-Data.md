@@ -18,4 +18,14 @@ I read wildly varying characterizations of Internet connectivity across the stat
       * [https://github.com/Brawn1/speedtestcli_db](https://github.com/Brawn1/speedtestcli_db)  
       * [https://github.com/search?l=Shell&q=speedtestcli&type=Code](https://github.com/search?l=Shell&q=speedtestcli&type=Code)  
       * [https://github.com/search?l=Shell&q=speedtestcli&type=Code](https://github.com/search?l=Shell&q=speedtestcli&type=Code) and [https://github.com/search?l=Python&q=speedtestcli&type=Code](https://github.com/search?l=Python&q=speedtestcli&type=Code)  
-      
+
+
+### Elections:  
+* [SJR9](https://legiscan.com/IA/bill/SJR9/2021):	A joint resolution proposing an amendment to the Constitution of the State of Iowa relating to the qualifications of electors. (Formerly SSB 1083.)	2022-06-21. Proof of publication certified. S.J. 943.  
+* [SF413](https://legiscan.com/IA/bill/SF413/2021):	A bill for an act relating to the conduct of elections, including absentee ballots and voter list maintenance activities, making penalties applicable, and including effective date and applicability provisions. (Formerly SSB 1199.)  
+* [SF568](https://legiscan.com/IA/bill/SF568/2021):	A bill for an act relating to the conduct of elections, including nominations, procedures for proposed amendments to the Iowa Constitution, and absentee voting, and including effective date provisions. (Formerly SSB 1237.)  
+
+
+### Finding Information:  
+* The Iowa Legislature [https://www.legis.iowa.gov/](https://www.legis.iowa.gov/)  
+* Legiscan IA [https://legiscan.com/IA](https://legiscan.com/IA)  
