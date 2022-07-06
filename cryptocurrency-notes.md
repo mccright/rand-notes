@@ -20,12 +20,21 @@ Founder of OneCoin Ltd. and former '*Cryptoqueen*' [Ruja Ignatova is now one of 
 
 Hostile parties stole at least US$3.2 billion worth of cryptocurrency in 2021, and in the first three months of 2022 they have stolen another US$1.3 billion. "Hackers Are Stealing More Cryptocurrency From DeFi Platforms Than Ever Before." By the ChainAnalysis Team, 2022-04-14 [https://blog.chainalysis.com/reports/2022-defi-hacks/]](https://blog.chainalysis.com/reports/2022-defi-hacks/)  
 
-DeFi scams, hacks and exploits...  
+"Feds arrest married couple, seize $3.6 billion in hacked bitcoin funds." (*119,754 bitcoin*) By Devlin Barrett, 2022-02-08 [https://www.washingtonpost.com/national-security/2022/02/08/bitfinex-hack-bitcoin-arrests/](https://www.washingtonpost.com/national-security/2022/02/08/bitfinex-hack-bitcoin-arrests/)  
+
+#### DeFi scams, hacks and exploits...  
 Have resulted in $2,813,045,843 by 2022-01-29  
 There have been more than 200 of material scale, see: [https://defiyield.app/rekt-database](https://defiyield.app/rekt-database)  
 
+#### Examples of crypto company's business models failing under stress...  
+A number of crypto companies – especially lenders – have recently stopped or restricted customers from withdrawing their funds.  
+  * [Babel Finance](https://www.pymnts.com/cryptocurrency/2022/crypto-lender-babel-announces-debt-relief/) halted withdrawals and redemptions in late June 2022.  
+  * [Celsius](https://www.coindesk.com/policy/2022/06/13/crypto-lending-service-celsius-pauses-withdrawals-citing-extreme-market-conditions/) stopped allowing withdrawals or redemptions in mid-June 2022.  
+  * [CoinLoan](https://www.coindesk.com/business/2022/07/05/crypto-lender-coinloan-latest-to-limit-user-withdrawals/) limited withdrawals to $5,000 per 24-hour rolling period](https://coinloan.io/blog/temporary-change-in-withdrawal-limits/) on 2022-07-04  
+  * [CoinFLEX](https://coinflex.com/blog/coinflex-update-on-withdrawals/) stopped withdrawls in a late June 2022 blog post and withdrawls remained suspended as of their [June 30 blog post](https://coinflex.com/blog/coinflex-update-june-30-2022/).  
+  * [Vauld](https://www.vauld.com/blog/corporate-statement/) halted withdrawls, trading and deposits on 2022-07-04.
+  * [Voyager](https://www.pymnts.com/cryptocurrency/2022/crypto-lender-voyager-seeks-chapter-11-protection/) initially [halted trading](https://www.coindesk.com/business/2022/07/01/voyager-digital-temporarily-suspends-all-trading-withdrawals-and-deposits/) and [withdrawls](https://www.prnewswire.com/news-releases/voyager-digital-provides-market-update-301579827.html), and then a week later on 2022-07-05 [filed for Chapter 11 bankruptcy protection](https://www.fxempire.com/news/article/crypto-lender-voyager-digital-files-for-chapter-11-bankruptcy-1055275)  
 
-"Feds arrest married couple, seize $3.6 billion in hacked bitcoin funds." (*119,754 bitcoin*) By Devlin Barrett, 2022-02-08 [https://www.washingtonpost.com/national-security/2022/02/08/bitfinex-hack-bitcoin-arrests/](https://www.washingtonpost.com/national-security/2022/02/08/bitfinex-hack-bitcoin-arrests/)  
 
 For data on the following categories, see: [https://markets.chainalysis.com/](https://markets.chainalysis.com/)   
   * Trading: Exchange inflows, Exchange balances, Trade Intensity and Price
@@ -83,6 +92,9 @@ Three Arrows Capital had not made the required payments on a loan worth more tha
 ...
 The Financial Times reported that Three Arrows Capital had failed to meet demands from lenders to show extra funds after its wagers on crypto had gone bust.  
 
+https://www.pymnts.com/cryptocurrency/2022/court-orders-liquidation-of-three-arrows-crypto-fund/  
+
 * "Crypto hedge fund Three Arrows fails to meet lender margin calls." https://www.ft.com/content/126d8b02-f06a-4fd9-a57b-9f4ceab3de71  
 Among Three Arrows' big bets was luna, the sister token to the algorithmic stablecoin terra. Both imploded in May, going to zero, a market- shattering event that turned what had been months of steady declines in crypto prices into a more dramatic rout.  
 
+* [BlockFi](https://www.coindesk.com/layer2/2022/07/01/from-one-to-zero-blockfis-fire-sale-shows-the-uber-startup-model-is-disastrous-for-finance/)  In the face of serious solvency issues, BlockFi s After accumulating [$1.3B U.S. in funding](https://www.crunchbase.com/organization/blockfi-inc), BlockFi appears to have sold itself to FTX for $240M or less in what appears to be a material loss for customers and lenders.  
