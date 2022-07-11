@@ -107,8 +107,6 @@ When so many profit by feeding fear and outrage by generating a constant flow of
 
 None of this is to imply that White grievance is associated with fantasy alone.  The *best* propaganda incorporates verifiable *facts* into it narrative.  The threads of grievance and outrage at *protesters, rioters, and looters* associated with what adherents often label as "*Black Lives Matter*" are associated with collections ([*for example*](https://github.com/xnhl/riots)) (curated, opinionated, or otherwise) of *real data*.  
 
-
-
 It seems like one path to addressing this constellation of issues is to focus on better-functioning and more effective democracy.  One foundational thread of that work requires comprehensive civility to one another throughout governing and governmental bodies in the spirit of [John F. Kennedy's inaugural quote](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/inaugural-address-19610120) on the topic:  
 >So let us begin anew—remembering on both sides that civility is not a sign of weakness, and sincerity is always subject to proof. Let us never negotiate out of fear. But let us never fear to negotiate. Let both sides explore what problems unite us instead of belaboring those problems which divide us.  
 
