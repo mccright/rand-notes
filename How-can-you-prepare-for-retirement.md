@@ -206,7 +206,7 @@ Here is an essay that will help you get started thinking: ["How to Enjoy Retirem
 
 #### References:  
 * "Workers' Expectations About Their Future Social Security Benefits: How Realistic Are They?" by John A. Turner and David Rajnes, Social Security Bulletin, Vol. 81 No. 4, 2021. [https://www.ssa.gov/policy/docs/ssb/v81n4/v81n4p1.html](https://www.ssa.gov/policy/docs/ssb/v81n4/v81n4p1.html)  
-* "How to Enjoy Retirement Without Going Broke" by Peter Coy, 20201-08-27, [https://www.nytimes.com/2021/08/27/opinion/how-to-enjoy-retirement-without-going-broke.html](https://www.nytimes.com/2021/08/27/opinion/how-to-enjoy-retirement-without-going-broke.html)  
+* "How to Enjoy Retirement Without Going Broke" by Peter Coy, 2021-08-27, [https://www.nytimes.com/2021/08/27/opinion/how-to-enjoy-retirement-without-going-broke.html](https://www.nytimes.com/2021/08/27/opinion/how-to-enjoy-retirement-without-going-broke.html)  
 * "Retirement Income Analysis with scenario matrices." by William F. Sharpe, [https://web.stanford.edu/~wfsharpe/RISMAT/](https://web.stanford.edu/~wfsharpe/RISMAT/)  
 * "The impact of Guaranteed Income and Dynamic Withdrawals on Safe Initial Withdrawal Rates" by [David Blanchett](http://www.davidmblanchett.com/research), Journal of Financial Planning  [https://www.financialplanningassociation.org/article/journal/APR17-impact-guaranteed-income-and-dynamic-withdrawals-safe-initial-withdrawal-rates](https://www.financialplanningassociation.org/article/journal/APR17-impact-guaranteed-income-and-dynamic-withdrawals-safe-initial-withdrawal-rates)  
 * AARP Bulletin (*paper copy*), "Real Possibilities" October 2019, page 16.  
@@ -215,6 +215,8 @@ Here is an essay that will help you get started thinking: ["How to Enjoy Retirem
 * Fritz Gilbert's "The 5 Most Important Factors In Your Decision To Retire" [https://www.theretirementmanifesto.com/the-5-most-important-factors-in-your-decision-to-retire/](https://www.theretirementmanifesto.com/the-5-most-important-factors-in-your-decision-to-retire/)  
 * Issues in retirement security [https://en.wikipedia.org/wiki/Issues_in_retirement_security](https://en.wikipedia.org/wiki/Issues_in_retirement_security)  
 * The CNN Fear & Greed Index is a way to view stock market movements and whether stocks are *fairly* priced.  It is a compilation of seven different indicators that measure some aspect of stock market behavior.  The theory is based on the logic that excessive fear tends to drive down share prices, and too much greed tends to have the opposite effect.  CNN suggests it can be used to gauge the mood of the market. [https://www.cnn.com/markets/fear-and-greed](https://www.cnn.com/markets/fear-and-greed)  
+* The **best** command line stock price grabber for a quick sanity check! Thank you Patrick Stadler. [https://github.com/pstadler/ticker.sh](https://github.com/pstadler/ticker.sh)  
+* And another great-looking command line stock price grabber: ```curl https://terminal-stocks.herokuapp.com/<SYMBOL>```.  Thank you Shashi Prakash Gautam for your excellent app. [https://github.com/shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks)  
 
 
 #### NOTES  
