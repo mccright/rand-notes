@@ -51,6 +51,7 @@ CS Class Chat app using Flask
 
 ### Candidates for Review  
 * Minimalist Notepad [https://github.com/pereorga/minimalist-web-notepad/](https://github.com/pereorga/minimalist-web-notepad/)  
+* editPad (*self-hosted*) [https://github.com/shweshi/editpad](https://github.com/shweshi/editpad)  
 * SoapBox  
 * GNU Social  
 * RocketChat [https://github.com/RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)  
