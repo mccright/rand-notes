@@ -15,7 +15,7 @@ Some U.S. regulators want cryptocurrencies regulated as commodities -- without a
 
 
 ["KEYFI, INC., Plaintiff, v. CELSIUS NETWORK LIMITED and CELSIUS KEYFI LLC Defendants" and the accompanying summons from the Supreme Court of the State of New York](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RvF30Mz2IZW63s1mjjau2Q==) outlines reasons to believe that Celsius’ CEO, Alex Mashinsky (*and team?*) failed to invest in risk-reasonable accounting practices, used customer funds to *pump up* the value of Celsius's own 'Celsius token' (CEL), used his control of company accounts for his own personal benefit (at least some activities involving his wife’s wallet), and selling tokens in a manner analogous to a classic *Ponzi scheme*. 
-This 32-page court document is summarized by Molly White on [Mastodon](https://indieweb.social/@web3isgreat/108608465902168706)  
+This 32-page court document is summarized by Molly White on [Mastodon](https://indieweb.social/@web3isgreat/108608465902168706).  Late on 2022-07-13, [Celsius filed for bankruptcy](https://www.bloomberg.com/news/articles/2022-07-14/crypto-lender-celsius-files-for-bankruptcy-in-cash-crunch?sref=PFCuwcPr&utm_medium=social&utm_content=crypto&utm_source=twitter&utm_campaign=socialflow-organic).  After once *offering* 20% yields, [Celsius](https://en.wikipedia.org/wiki/Celsius_Network#Controversy) and co-founder [Alex Mashinsky](https://en.wikipedia.org/wiki/Alex_Mashinsky) are leaving more than 500,000 depositors with the likelhood of a 100% loss.  
 
 
 Founder of OneCoin Ltd. and former '*Cryptoqueen*' [Ruja Ignatova is now one of the FBI's 10 most-wanted fugitives](https://www.fbi.gov/wanted/topten/ruja-ignatova) and [among Europe's most wanted](https://news.bitcoin.com/onecoin-crypto-queen-ruja-ignatova-listed-among-europes-most-wanted/) after allegedly masterminding a global [pyramid scheme that defrauded investors out of more than U.S. $4 billion](https://www.washingtonpost.com/nation/2022/07/01/cryptoqueen-ruja-ignatova-fugitive/)  
@@ -34,6 +34,7 @@ There have been more than 200 of material scale, see: [https://defiyield.app/rek
 
 #### Examples of crypto company's business models failing under stress...  
 A number of crypto companies – especially lenders – have recently stopped or restricted customers from withdrawing their funds.  
+  * [Three Arrows Capital](https://news.bitcoin.com/us-bankruptcy-judge-freezes-crypto-hedge-fund-three-arrows-capitals-assets/)  
   * [Babel Finance](https://www.pymnts.com/cryptocurrency/2022/crypto-lender-babel-announces-debt-relief/) halted withdrawals and redemptions in late June 2022.  
   * [Celsius](https://www.coindesk.com/policy/2022/06/13/crypto-lending-service-celsius-pauses-withdrawals-citing-extreme-market-conditions/) stopped allowing withdrawals or redemptions in mid-June 2022.  
   * [CoinLoan](https://www.coindesk.com/business/2022/07/05/crypto-lender-coinloan-latest-to-limit-user-withdrawals/) limited withdrawals to $5,000 per 24-hour rolling period](https://coinloan.io/blog/temporary-change-in-withdrawal-limits/) on 2022-07-04  
