@@ -93,13 +93,12 @@ Review:
 * []()  
 
 
-* "Three Arrows Capital falls into liquidation after crypto crash." By Hamza Shaban, Updated June 29, 2022 https://www.washingtonpost.com/business/2022/06/29/three-arrows-liquidation-crypto/  
+* "[US Bankruptcy Judge Freezes Crypto Hedge Fund Three Arrows Capital's Assets](https://news.bitcoin.com/us-bankruptcy-judge-freezes-crypto-hedge-fund-three-arrows-capitals-assets/)" by Kevin Helms. "Judge Martin Glenn, a United States bankruptcy judge for the Southern District of New York, granted an emergency motion Tuesday (*2022-07-12*) to freeze the remaining assets of bankrupt crypto hedge fund Three Arrows Capital (3AC)..."  The judge noted that the physical whereabouts of Three Arrows Capital co-founders Zhu Su and Kyle Davies are "currently unknown."  
+* "[Three Arrows Capital falls into liquidation after crypto crash](https://www.washingtonpost.com/business/2022/06/29/three-arrows-liquidation-crypto/)." By Hamza Shaban, Updated June 29, 2022   
 Three Arrows Capital had not made the required payments on a loan worth more than $665 million, paid partly in bitcoin.  
 ...
 The Financial Times reported that Three Arrows Capital had failed to meet demands from lenders to show extra funds after its wagers on crypto had gone bust.  
-
 https://www.pymnts.com/cryptocurrency/2022/court-orders-liquidation-of-three-arrows-crypto-fund/  
-
 * "Crypto hedge fund Three Arrows fails to meet lender margin calls." https://www.ft.com/content/126d8b02-f06a-4fd9-a57b-9f4ceab3de71  
 Among Three Arrows' big bets was luna, the sister token to the algorithmic stablecoin terra. Both imploded in May, going to zero, a market- shattering event that turned what had been months of steady declines in crypto prices into a more dramatic rout.  
 
