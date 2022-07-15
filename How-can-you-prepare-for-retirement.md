@@ -25,6 +25,7 @@ Preparing for retirement is not a race to amass huge sums of liquid assets.  It 
 
 If you have any type(s) of *employer match* components of a *defined contribution plan* use them.  If possible, invest enough to get 100% of the *employer match*.  Those *matching* dollars are a critically important component of your overall employment benefits.  It is impossible to exaggerate their importance in your retirement preparations.  If you do not have this type of employer benefit, you still need to prepare for the future.  If you are still young, [10% is a commonly advised savings goal](https://www.nytimes.com/2022/07/08/business/bear-market-retirement-investment.html).  
 
+#### Formal Education Appears to Help  
 If you have the opportunity -- or if you can create the opportunity -- get a marketable college degree at an accredited non-profit college or university. (*Too many for-profit 'institutions of higher education' and 'trade schools' seem to engage in predatory business models. They seem like an unreasonable risk.*)  [Research by the U.S. Federal Reserve has shown repeatedly that](https://www.federalreserve.gov/publications/files/scf20.pdf): 
 >"Income also shows a strong positive association with education; in particular, income among families in which the reference person (i.e., *head of household*) has a college degree tends to be substantially higher than for those with less schooling.  Mean income among college-educated families in the 2019 SCF was more than twice that of families in any other education group."  
 
@@ -33,6 +34,7 @@ For example, the impacts in real dollars can be seen in the 4th quarter 2021 U.S
 
 The relatively dramatic differences in income can make a huge difference over the 40 or more years that many of us will work.  These facts about income and educational attainment may not be indicators of causation, and your zip code at birth is still a strong indicator of future earnings and asset accumulation.  But earning a college degree still has material value for many and can open opportunities that are virtually closed to those without.  
 
+#### Building a Plan Helps  
 The literature seems to suggest that establishing and periodically grooming a plan with the assistance of a formal [finanical advisor](https://www.letsmakeaplan.org/find-a-cfp-professional) works best.  Also, pick a target age for retirement to use in calculations that will test the viability of that plan over time.  
 And start as early as you can so that *the magic of compounding* has enough time to come to your aid -- while remembering that:  
   * Two key aspects of any retirement plan are future rates of return on retirement assets and future wage growth rates.  Macro-trends and behaviors for both make predictions problematic.  Regardless, you, or more likely, some trusted financial resource will need to make predictions about them as foundational inputs to an analysis of your retirement plan and retirement readiness.  
