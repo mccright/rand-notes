@@ -4,6 +4,16 @@ There is an AI *theme* applied to virtually anything at work.  My experience say
 
 This is alpha interest work.  After percolating in this format for a while, I'll figure out how to better prioritize this reading and content.  
 
+## Where do we encounter AI/ML?  
+* Games  
+* Investing  
+* Logistics systems  
+* Medical diagnosis  
+* autonomous driving  
+* Language translation  
+* Interactive personal assistance  
+* *Consumer*/consumtion suggestions and advice (and product/service reviews)  
+
 
 ## Resources:  
 * Allen Institute for Artificial Intelligence [https://allenai.org/](https://allenai.org/)  
@@ -54,10 +64,12 @@ This is alpha interest work.  After percolating in this format for a while, I'll
   * "Insufficient coverage" --> Pre-trained language models contain *some* commonsense knowledge -- but an impractically small subset of what is needed for most use cases.  
   * "Insufficient precision" --> Language models also generate false facts -- which can be an annoyance or a catastrophy, depending on your use case.  
 * *Machine learning* (ML) is often viewed as a subset of *Artificial Intelligence*.  ML employes previously collected data to predict outcomes.  ML *models* may depend upon direct human inputs (*training or supervision*), or not, depending on their algorithms.  ML enables software (*and supporting infrastructure*) to build upon training/experience and improvise suggestions or results.  
-* *Natural language processing* (NLP) is a growing field within artificial intelligence. The fundamental goal of NLP is to program computers capable of human-level understanding of natural language. Common NLP applications include personal assistants and chatbots, automatic translation, question answering, sentiment analysis and summarization. Among the main challenges of NLP research is that human language is often ambiguous and underspecified. A person processing language relies heavily on their commonsense knowledge and reasoning abilities to resolve these ambiguities and complete missing information. Machine learning based NLP models, on the other hand, lack this commonsense and often make absurd mistakes. by [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/index.html) in her [2022 NLP course description](https://www.cs.ubc.ca/~vshwartz/courses/CPSC532V-22/index.html)  
-
+* *Natural language processing* (NLP) is a growing field within artificial intelligence. The fundamental goal of NLP is to program computers capable of human-level understanding of natural language. Common NLP applications include personal assistants and chatbots, automatic translation, question answering, sentiment analysis and summarization. Among the main challenges of NLP research is that human language is often ambiguous and underspecified. A person processing language relies heavily on their commonsense knowledge and reasoning abilities to resolve these ambiguities and complete missing information. Machine learning based NLP models, on the other hand, lack this commonsense and often make absurd mistakes. From [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/index.html) in her [2022 NLP course description](https://www.cs.ubc.ca/~vshwartz/courses/CPSC532V-22/index.html)  
+* *Generative adversarial networks* (GANs) and *reinforcement learning* endow *deep networks* with the ability to produce artificial content such as fake images that pass for the real thing. "GANs consist of two interlocked components—a generator, responsible for creating realistic content, and a discriminator, tasked with distinguishing the output of the generator from naturally occurring content. The two learn from each other, becoming better and better at their respective tasks over time" [AI100Report_MT_10, page 12](https://ai100.stanford.edu/sites/g/files/sbiybj18871/files/media/file/AI100Report_MT_10.pdf).  
+ 
 
 ## Some References:  
+* "Gathering Strength, Gathering Storms: The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report." September 2021 [http://ai100.stanford.edu/2021-report](http://ai100.stanford.edu/2021-report)  
 * Kahneman, Daniel.  "Thinking, Fast and Slow." [Amazon](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
   
 (https://en.wikipedia.org/wiki/Zero-shot_learning)  
