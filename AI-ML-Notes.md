@@ -6,9 +6,9 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 
 
 ## Resources:  
-Allen Institute for Artificial Intelligence [https://allenai.org/](https://allenai.org/)  
-AI2 Leader Boards [https://leaderboard.allenai.org/](https://leaderboard.allenai.org/)  
-One view of *current topics* in AI/ML: [https://arxiv.org/search/<*truncated*>](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=cs.AI&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first)  
+* Allen Institute for Artificial Intelligence [https://allenai.org/](https://allenai.org/)  
+* AI2 Leader Boards [https://leaderboard.allenai.org/](https://leaderboard.allenai.org/)  
+* One view of *current topics* in AI/ML: [https://arxiv.org/search/<*truncated*>](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=cs.AI&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first)  
 
 
 # Natural Language Processing and Common Sense
@@ -24,9 +24,10 @@ One view of *current topics* in AI/ML: [https://arxiv.org/search/<*truncated*>](
 2020:  
 2019:  
 2018:  
-* 'Human-level performance' on reading comprehension (limited data set)  
+* 'Human-level performance' on reading comprehension (limited data set & limited definition of *comprehension*)  
 2017:  
 * 'Super-human performance' on speech recognition  
+* Google’s [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Chinese Go champion, Ke Jie](https://www.deepmind.com/research/highlighted-research/alphago)
 2016:  
 * 'Google neural' machine translation  
 2015:  
@@ -35,9 +36,13 @@ One view of *current topics* in AI/ML: [https://arxiv.org/search/<*truncated*>](
 2014:  
 2013:  
 2012:  
-2011:  
+2011: IBM's Watson wins Jeopardy.  Apple introduces Siri.  
 2010:  
 
+#### Timeline Notes:  
+* Stanford AI 100 [https://ai100.stanford.edu/reflections-and-framing](https://ai100.stanford.edu/reflections-and-framing)  
+* "The History of Artificial Intelligence." by Rockwell Anyoha, 2017 [https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/](https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/)  
+* "[The History of Artificial Intelligence.](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf)" from 'History of Computing' CSEP 590A, University of Washington, December 2006, By Chris Smith, Brian McGuire, Ting Huang and Gary Yang.  
 
 ## Some Definitions:  
 
