@@ -8,6 +8,8 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 ## Resources:  
 Allen Institute for Artificial Intelligence [https://allenai.org/](https://allenai.org/)  
 AI2 Leader Boards [https://leaderboard.allenai.org/](https://leaderboard.allenai.org/)  
+One view of *current topics* in AI/ML: [https://arxiv.org/search/<*truncated*>](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=cs.AI&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first)  
+
 
 # Natural Language Processing and Common Sense
 ### Types of Reasoning:  
@@ -49,3 +51,14 @@ AI2 Leader Boards [https://leaderboard.allenai.org/](https://leaderboard.allenai
 
 ## Some References:  
 * Kahneman, Daniel.  "Thinking, Fast and Slow." [Amazon](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
+  
+(https://en.wikipedia.org/wiki/Zero-shot_learning)  
+ImageNet (zero-shot): SOTA, surpassing OpenAI CLIP (https://openai.com/blog/clip/).
+LAMA (factual and commonsense knowledge): Surpassed AutoPrompt (https://arxiv.org/abs/2010.15980).
+LAMBADA (cloze tasks): Surpassed Microsoft Turing NLG (https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/).
+SuperGLUE (few-shot): SOTA, surpassing OpenAI GPT-3 (https://arxiv.org/abs/2005.14165).
+UC Merced Land Use (zero-shot): SOTA, surpassing OpenAI CLIP (https://openai.com/blog/clip/).
+MS COCO (text generation diagram): Surpassed OpenAI DALL·E (https://openai.com/blog/dall-e/).
+MS COCO (English graphic retrieval): Surpassed OpenAI CLIP and Google ALIGN (https://ai.googleblog.com/2021/05/align-scaling-up-visual-and-vision.html).
+MS COCO (multilingual graphic retrieval): Surpassed UC² (best multilingual and multimodal pre-trained model) (https://arxiv.org/pdf/2104.00332.pdf).
+
