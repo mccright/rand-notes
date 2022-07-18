@@ -31,23 +31,25 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 
 ## Timeline Ideas:  
 2021:  
-2020:  
+2020:  OpenAI GPT-3 a language model that generates text using pre-trained algorithms.  
 2019:  
 2018:  
-* 'Human-level performance' on reading comprehension (limited data set & limited definition of *comprehension*)  
+* 'Human-level performance' on reading comprehension (limited data set & limited definition of *comprehension*) -- Alibaba language processing AI beats top humans at a Stanford University reading and comprehension test, scoring 82.44 against 82.30 on 100,000 questions.  
 2017:  
 * 'Super-human performance' on speech recognition  
-* Google’s [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Chinese Go champion, Ke Jie](https://www.deepmind.com/research/highlighted-research/alphago)
+* Google’s [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Chinese Go champion, Ke Jie](https://www.deepmind.com/research/highlighted-research/alphago)  
 2016:  
 * 'Google neural' machine translation  
+* Google’s [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Go champion Lee Sedol](https://www.deepmind.com/research/highlighted-research/alphago)  
 2015:  
 * 'Super-human performance' on image captioning  
 * 'Super-human performance' on object recognition  
 2014:  
-2013:  
+2013: Robot HRP-2, built by SCHAFT Inc. of Japan, a subsidiary of Google, defeats 15 teams to win DARPA’s Robotics Challenge Trials by completing disaster response tasks, including driving a vehicle, walking over debris, climbing a ladder, removing debris, walking through doors, cutting a wall, closing valves, and connecting a hose.  
 2012:  
 2011: IBM's Watson wins Jeopardy.  Apple introduces Siri.  
 2010:  
+2005: Computer scientist Sebastian Thrun and a Stanford Artificial Intelligence Laboratory team build a driverless car (*Stanley*) that was the first autonomous vehicle to complete a DARPA Grand Challenge 132-mile course in the Mojave Desert.  
 1955: "[A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence. August 31, 1955."](https://ojs.aaai.org/index.php/aimagazine/article/download/1904/1802)  
 
 
@@ -55,6 +57,7 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * Stanford AI 100 [https://ai100.stanford.edu/reflections-and-framing](https://ai100.stanford.edu/reflections-and-framing)  
 * "The History of Artificial Intelligence." by Rockwell Anyoha, 2017 [https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/](https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/)  
 * "[The History of Artificial Intelligence.](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf)" from 'History of Computing' CSEP 590A, University of Washington, December 2006, By Chris Smith, Brian McGuire, Ting Huang and Gary Yang.  
+* [https://www.ai.nl/artificial-intelligence/timeline-of-ai-a-brief-history-of-artificial-intelligence-its-highlights/](https://www.ai.nl/artificial-intelligence/timeline-of-ai-a-brief-history-of-artificial-intelligence-its-highlights/)  
 
 ## Some Definitions:  
 
@@ -71,7 +74,7 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 ## Some References:  
 * "Gathering Strength, Gathering Storms: The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report." September 2021 [http://ai100.stanford.edu/2021-report](http://ai100.stanford.edu/2021-report)  
 * Kahneman, Daniel.  "Thinking, Fast and Slow." [Amazon](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
-  
+* Stanford 100 Year Study on AI [http://erichorvitz.com/100_year_study_on_AI_presentation_12_2016.pdf](http://erichorvitz.com/100_year_study_on_AI_presentation_12_2016.pdf)    
 (https://en.wikipedia.org/wiki/Zero-shot_learning)  
 ImageNet (zero-shot): SOTA, surpassing OpenAI CLIP (https://openai.com/blog/clip/).
 LAMA (factual and commonsense knowledge): Surpassed AutoPrompt (https://arxiv.org/abs/2010.15980).
