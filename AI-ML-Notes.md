@@ -38,6 +38,8 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 2012:  
 2011: IBM's Watson wins Jeopardy.  Apple introduces Siri.  
 2010:  
+1955: "[A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence. August 31, 1955."](https://ojs.aaai.org/index.php/aimagazine/article/download/1904/1802)  
+
 
 #### Timeline Notes:  
 * Stanford AI 100 [https://ai100.stanford.edu/reflections-and-framing](https://ai100.stanford.edu/reflections-and-framing)  
@@ -51,6 +53,7 @@ This is alpha interest work.  After percolating in this format for a while, I'll
   * Common sense is essential for humans to live and interact with each other in a reasonable and safe way, and it is essential for AI to understand human needs and actions better. [Yejin Choi](https://homes.cs.washington.edu/~yejin/) at: [https://homes.cs.washington.edu/~msap/acl2020-commonsense/slides/01%20-%20Intro.pdf](https://homes.cs.washington.edu/~msap/acl2020-commonsense/slides/01%20-%20Intro.pdf)  
   * "Insufficient coverage" --> Pre-trained language models contain *some* commonsense knowledge -- but an impractically small subset of what is needed for most use cases.  
   * "Insufficient precision" --> Language models also generate false facts -- which can be an annoyance or a catastrophy, depending on your use case.  
+* *Machine learning* (ML) is often viewed as a subset of *Artificial Intelligence*.  ML employes previously collected data to predict outcomes.  ML *models* may depend upon direct human inputs (*training or supervision*), or not, depending on their algorithms.  ML enables software (*and supporting infrastructure*) to build upon training/experience and improvise suggestions or results.  
 * *Natural language processing* (NLP) is a growing field within artificial intelligence. The fundamental goal of NLP is to program computers capable of human-level understanding of natural language. Common NLP applications include personal assistants and chatbots, automatic translation, question answering, sentiment analysis and summarization. Among the main challenges of NLP research is that human language is often ambiguous and underspecified. A person processing language relies heavily on their commonsense knowledge and reasoning abilities to resolve these ambiguities and complete missing information. Machine learning based NLP models, on the other hand, lack this commonsense and often make absurd mistakes. by [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/index.html) in her [2022 NLP course description](https://www.cs.ubc.ca/~vshwartz/courses/CPSC532V-22/index.html)  
 
 
