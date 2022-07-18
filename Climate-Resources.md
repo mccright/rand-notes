@@ -64,7 +64,7 @@ and
 ### Random Action  
 
 #### Use Only What You Need  
-Avoiding energy (*or other*) consumption is the best practice.  It can go far beyond turning down your thermastat or using less hot water...  
+Avoiding energy (*or other*) consumption is the best practice.  It can deliver quick results...  
 * Andrea Stanley wrote an [interesting essay about light, light pollution, and light tresspassing](https://www.nytimes.com/2022/07/15/realestate/light-pollution-effects.html) where she argued that we use too much light without thinking enough about our intended goals.  She concludes that this results in a broad range of negative impacts -- which include material amounts of wasted energy (*citing a 2022 U.S. DoE report on "[Solid-State Lighting R&D Opportunities](https://www.energy.gov/sites/default/files/2022-02/2022-ssl-rd-opportunities.pdf)"*).  
 
 #### Treat Big Oil and Big Ag Like Big Tobacco  
