@@ -11,8 +11,8 @@ AI2 Leader Boards [https://leaderboard.allenai.org/](https://leaderboard.allenai
 
 # Natural Language Processing and Common Sense
 ### Types of Reasoning:  
-* Human intuition and instinct: Its processes are unconscious, effortless, fast, associative, 'automatic-pilot,' slow-learning.  Its content is conceptual, temporal (for example before and after) and can be evoked by language. [D.Kahneman1](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
-* Rational thinking: Its processes are require effort, and are slow, logical, governed by rules, often serial, sometimes flexible, and indecisive.  Its content is conceptual, temporal and can be evoked by language. [D.Kahneman1](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
+* **Human intuition and instinct**: Its processes are unconscious, *effortless*, fast, associative, 'automatic-pilot,' slow-learning.  Its content is conceptual, temporal (for example before and after) and can be evoked by language. [D.Kahneman1](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
+* **Rational thinking**: Its processes are require effort, and are slow, *logical*, governed by rules, often serial, sometimes flexible, and indecisive.  Its content is conceptual, temporal and can be evoked by language. [D.Kahneman1](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
 * 
 * 
 * 
