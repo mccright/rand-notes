@@ -88,3 +88,5 @@ MMT theorists have not been well tested in the *real world* but may have an oppo
 
 #### Need to research these...  
 * A New Barometer of Global Supply Chain Pressures [https://libertystreeteconomics.newyorkfed.org/2022/01/a-new-barometer-of-global-supply-chain-pressures/](https://libertystreeteconomics.newyorkfed.org/2022/01/a-new-barometer-of-global-supply-chain-pressures/)  and  Global Supply Chain Pressure Index: March 2022 Update [https://libertystreeteconomics.newyorkfed.org/2022/03/global-supply-chain-pressure-index-march-2022-update/](https://libertystreeteconomics.newyorkfed.org/2022/03/global-supply-chain-pressure-index-march-2022-update/)  
+* IDEAS is the largest bibliographic database dedicated to Economics and available freely on the Internet [https://ideas.repec.org/](https://ideas.repec.org/)  
+
