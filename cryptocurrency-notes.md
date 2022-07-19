@@ -7,6 +7,8 @@ My reading and experience in the financial services industry leads me to believe
 
 Some U.S. regulators want cryptocurrencies regulated as commodities -- without any of the "*know your customer*" requirements associated with financial instruments.  
 
+* Find economic research on cryptocurrencies at IDEAS [https://ideas.repec.org/cgi-bin/htsearch?form=extended&wm=wrd&dt=range&ul=&q=cryptocurrency&cmd=Search%21&wf=F000&s=D&db=&de=](https://ideas.repec.org/cgi-bin/htsearch?form=extended&wm=wrd&dt=range&ul=&q=cryptocurrency&cmd=Search%21&wf=F000&s=D&db=&de=)  
+
 
 * Molly White's take on the predatory nature of the cryptocurrency marketplace: [https://web3isgoinggreat.com/](https://web3isgoinggreat.com/) and a recent overview of her work: [https://www.washingtonpost.com/technology/2022/05/29/molly-white-crypto/](https://www.washingtonpost.com/technology/2022/05/29/molly-white-crypto/)  
 
