@@ -1,6 +1,7 @@
 **Resources For Economy Watching**  
 =====================================
 
+* Data: 817,000 US and international time series from 108 sources hosted by the Federal Reserve Bank of St. Louis [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)  
 * Economic Indicators Calendar [https://www.newyorkfed.org/research/calendars/nationalecon_cal](https://www.newyorkfed.org/research/calendars/nationalecon_cal)  
 * Jobless claims: [https://fred.stlouisfed.org/series/ICSA](https://fred.stlouisfed.org/series/ICSA)  
 * Unemployment rate: [https://fred.stlouisfed.org/series/UNRATE](https://fred.stlouisfed.org/series/UNRATE)  
