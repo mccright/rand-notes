@@ -32,6 +32,9 @@ If you have the opportunity -- or if you can create the opportunity -- get a mar
 For example, the impacts in real dollars can be seen in the 4th quarter 2021 U.S. Department of Labor ["Usual Weekly Earnings Summary of Wage and Salary Workers" reported](https://www.bls.gov/news.release/wkyeng.nr0.htm): 
 > "full-time workers age 25 and over without a high school diploma had median weekly earnings of $651, compared with $831 for high school graduates (no college) and $1,467 for those holding at least a bachelor's degree. Among college graduates with advanced degrees (master's, professional, and doctoral degrees), the highest earning 10 percent of male workers made $4,317 or more per week, compared with $2,922 or more for their female counterparts."  
 
+Similarly, [Auerbach, Kotlikoff and Koehler](https://kotlikoff.net/wp-content/uploads/2022/07/U.S.-Inequality-and-Fiscal-Progessivity-JPE-7-5-22.pdf) report in July 2022 that:  
+>studies by Goldin and Katz (2008) and Acemoglu and Autor (2011) show a steady and dramatic 75 percent increase in the college/high school wage premium over the last three decades, with typical college graduate wages now double that of high school graduates.  
+
 The relatively dramatic differences in income can make a huge difference over the 40 or more years that many of us will work.  These facts about income and educational attainment may not be indicators of causation, [educational inequality](https://www.nber.org/system/files/working_papers/w29979/w29979.pdf) is real, and your zip code at birth is still a strong indicator of future earnings and asset accumulation.  But earning a college degree still has material value for many and can open opportunities that are virtually closed to those without.  
 
 #### Building a Plan Helps  
