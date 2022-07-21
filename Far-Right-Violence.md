@@ -74,7 +74,20 @@ Economist. 27 October 2020 [https://www.economist.com/graphic-detail/2020/10/27/
 **Image Source**:  
 "The Escalating Terrorism Problem in the United States." CSIS Briefs, By Seth G. Jones, 17 June 2020 [https://www.csis.org/analysis/escalating-terrorism-problem-united-states](https://www.csis.org/analysis/escalating-terrorism-problem-united-states)  
   
-For some context about how organized violence evolves, see the [transcript of a discussion with Barbara F. Walter](https://www.washingtonpost.com/magazine/2022/03/08/they-are-preparing-war-an-expert-civil-wars-discusses-where-political-extremists-are-taking-this-country/), a political science professor at the University of California at San Diego and author of “[How Civil Wars Start: And How to Stop Them](https://www.amazon.com/gp/product/0593137787).”  
+For some context about how organized violence evolves, see the [transcript of a discussion with Barbara F. Walter](https://www.washingtonpost.com/magazine/2022/03/08/they-are-preparing-war-an-expert-civil-wars-discusses-where-political-extremists-are-taking-this-country/), a political science professor at the University of California at San Diego and author of “[How Civil Wars Start: And How to Stop Them](https://www.amazon.com/gp/product/0593137787).”  It appears that the pairing of Republican (*along with other 'legacy' extremest group*) normalizing of concept of using violence to express your beliefs and record-setting arms sales in the U.S. is having its intended impacts.  Recent research from the UC Davis Violence Prevention Research Program and the California Firearm Violence Research Center, ["Views of American Democracy and Society and Support for Political Violence: First Report from a Nationwide Population-Representative Survey" ](https://www.medrxiv.org/content/10.1101/2022.07.15.22277693v1) [2022-07-19] concluded that "several social trends in the United States (US) suggest an increasing risk for political violence," including lethal risks. Their research found that half of U.S. adults [*[page 14](https://www.medrxiv.org/content/10.1101/2022.07.15.22277693v1.full.pdf)*] "in the next few
+years, there will be civil war in the United States" and 
+>If found in a situation where they think violence is justified to advance an important political objective, about one in five respondents thinks they will likely be armed with a gun. About 7% of participants  -- which would correspond to about 18 million U.S. adults -- said they would be willing to kill a person in such a situation [ScienceInsider](https://www.science.org/content/article/half-of-americans-anticipate-a-us-civil-war-soon-survey-finds).  
+
+And when asked about a personal willingness to use force or violence “to advance an important political objective.” Researchers drilled down on the types of violence that would include [*[page 14](https://www.medrxiv.org/content/10.1101/2022.07.15.22277693v1.full.pdf)*].  Among these respondents:  
+>13.7% were at least somewhat willing to use force or
+violence “to damage property,”  
+>12.2% “to threaten or intimidate a person,”  
+>10.4% “to injure a person,” and  
+>7.1% “to kill a person”  
+
+A key conclusion of this research was: "Substantial
+minorities of the population endorse violence, including lethal violence, to obtain political objectives."  While researchers did not map respondents to specific political parties or to other groups, a review of [the questions and detailed responses](https://www.medrxiv.org/content/10.1101/2022.07.15.22277693v1.full.pdf) seem to suggest that more Far Right issues/concerns are aligned with a willingness to engage in violence, than are issues associated with Far Left or otherwise *Liberal* populations.  
+
 
 For more detailed analyses see the analysis of 893 terrorist plots and attacks in the United States between January 1994 and May 2020 by the Center for Strategic and Internal Studies [https://www.csis.org/analysis/escalating-terrorism-problem-united-states](https://www.csis.org/analysis/escalating-terrorism-problem-united-states) and "The War Comes Home: The Evolution of Domestic Terrorism in the United States." CSIS Briefs, By Seth G. Jones, 22 October 2020 [https://www.csis.org/analysis/war-comes-home-evolution-domestic-terrorism-united-states](https://www.csis.org/analysis/war-comes-home-evolution-domestic-terrorism-united-states)  
 
@@ -115,6 +128,13 @@ It seems like one path to addressing this constellation of issues is to focus on
 The [Edelman Trust Barometer 2022](https://www.edelman.com/sites/g/files/aatuss191/files/2022-01/2022%20Edelman%20Trust%20Barometer%20FINAL_Jan25.pdf) survey found that government and media were viewed as strongly dividing forces by participants([page 6](https://www.edelman.com/sites/g/files/aatuss191/files/2022-01/2022%20Edelman%20Trust%20Barometer%20FINAL_Jan25.pdf)).  The researchers concluded on [page 12](https://www.edelman.com/sites/g/files/aatuss191/files/2022-01/2022%20Edelman%20Trust%20Barometer%20FINAL_Jan25.pdf) that "government and media feed (a) cycle of division and disinformation for votes and clicks."  The intensity of this distrust has been growing for more than 5 years and seems to support the idea that our elected representatives are not living up to President Kennedy's plea for civility and unity.  
 
 The U.S. House of Representatives voted May 18, 2022 on and passed the ["Domestic Terrorism Prevention Act of 2022" (H.R.350)](https://www.congress.gov/bill/117th-congress/house-bill/350), which permits/enables more sharing of information about domestic terrorism among government departments (*all Republicans voted against it*).  Notably, it also creates an interagency task force to analyze and combat white supremacist and neo-Nazi infiltration of the uniformed services and federal law enforcement agencies.  There have been [104 U.S. House laws and resolutions associated with "white supremacist" activity -- 97 of them since 2008](https://www.congress.gov/search?q={%22source%22:%22legislation%22,%22search%22:%22\%22white%20supremacist\%22%22}&pageSort=dateOfIntroduction%3Adesc).  
+
+See:  
+"Half of Americans anticipate a U.S. civil war soon, survey finds -- Findings suggest rising gun violence will spill into the political sphere, driven by conspiracy theories." by Rodrigo Pérez Ortega, in *ScienceInsider* 2022-07-19 [https://www.science.org/content/article/half-of-americans-anticipate-a-us-civil-war-soon-survey-finds](https://www.science.org/content/article/half-of-americans-anticipate-a-us-civil-war-soon-survey-finds)  
+"Views of American Democracy and Society and Support for Political Violence: First Report from a Nationwide Population-Representative Survey." 
+By Wintemute, Robinson, Crawford, Schleimer, Barnhorst, Chaplin, Tancredi, Tomsich, and Pear
+https://www.medrxiv.org/content/10.1101/2022.07.15.22277693v1  
+
 
 ToDo: Defining "Far-Right" --> [https://www.irehr.org/reports/breaching-the-mainstream/chapter-4-the-far-right-groups/](https://www.irehr.org/reports/breaching-the-mainstream/chapter-4-the-far-right-groups/)  
 
