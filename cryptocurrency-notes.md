@@ -36,12 +36,13 @@ There have been more than 200 of material scale, see: [https://defiyield.app/rek
 
 #### Examples of crypto company's business models failing under stress...  
 A number of crypto companies – especially lenders – have recently stopped or restricted customers from withdrawing their funds.  
+  * Cryptocurrency exchange [Zipmex froze withdrawals](https://www.washingtonpost.com/business/2022/07/21/zipmex-withdrawals-crypto/) on 2022-07-21 for its 2 million users.  
   * [Three Arrows Capital](https://news.bitcoin.com/us-bankruptcy-judge-freezes-crypto-hedge-fund-three-arrows-capitals-assets/)  
   * [Babel Finance](https://www.pymnts.com/cryptocurrency/2022/crypto-lender-babel-announces-debt-relief/) halted withdrawals and redemptions in late June 2022.  
   * [Celsius](https://www.coindesk.com/policy/2022/06/13/crypto-lending-service-celsius-pauses-withdrawals-citing-extreme-market-conditions/) stopped allowing withdrawals or redemptions in mid-June 2022.  
   * [CoinLoan](https://www.coindesk.com/business/2022/07/05/crypto-lender-coinloan-latest-to-limit-user-withdrawals/) limited withdrawals to $5,000 per 24-hour rolling period](https://coinloan.io/blog/temporary-change-in-withdrawal-limits/) on 2022-07-04  
   * [CoinFLEX](https://coinflex.com/blog/coinflex-update-on-withdrawals/) stopped withdrawls in a late June 2022 blog post and withdrawls remained suspended as of their [June 30 blog post](https://coinflex.com/blog/coinflex-update-june-30-2022/).  
-  * [Vauld](https://www.vauld.com/blog/corporate-statement/) halted withdrawls, trading and deposits on 2022-07-04.
+  * [Vauld](https://www.vauld.com/blog/corporate-statement/) halted withdrawls, trading and deposits on 2022-07-04 for its 800,000 members.  
   * [Voyager](https://www.pymnts.com/cryptocurrency/2022/crypto-lender-voyager-seeks-chapter-11-protection/) initially [halted trading](https://www.coindesk.com/business/2022/07/01/voyager-digital-temporarily-suspends-all-trading-withdrawals-and-deposits/) and [withdrawls](https://www.prnewswire.com/news-releases/voyager-digital-provides-market-update-301579827.html), and then a week later on 2022-07-05 [filed for Chapter 11 bankruptcy protection](https://www.fxempire.com/news/article/crypto-lender-voyager-digital-files-for-chapter-11-bankruptcy-1055275)  
 
 
