@@ -1,5 +1,7 @@
 # Climate Change Reading:  
 
+We have recently been releasing heat-trapping carbon dioxide into the atmosphere [faster than at any time in at least the past 50 million years](https://www.nytimes.com/interactive/2022/07/20/opinion/ancient-trees-climate-change.html) resulting in profound climate change.  Based on relatively undiciplined reading, it seems like only the sum of immediate, intense individual and collective action can deflect the trajectory of global suffering (*or worse*).  
+
 * See the most up-to-date physical understanding of the climate system and climate change - latest data and interpretations: [https://www.ipcc.ch/report/ar6/wg1/](https://www.ipcc.ch/report/ar6/wg1/)  
  * The latest *Synthesis Report* and supporting research from the Intergovernmental Panel on Climate Change (IPCC) will dribble out throughout 2022 [https://www.ipcc.ch/ar6-syr/](https://www.ipcc.ch/ar6-syr/)  Since the IPCC was created in 1988, there have been 5 Synthesis Reports, see links to that historical reporting on this page as well.  
 * Or, if that is too much detail, see *the same* message in xkcd format [https://xkcd.com/1732/](https://xkcd.com/1732/)  
