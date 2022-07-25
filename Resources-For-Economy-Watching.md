@@ -3,6 +3,7 @@
 
 * Data: 817,000 US and international time series from 108 sources hosted by the Federal Reserve Bank of St. Louis [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)  
 * Economic Indicators Calendar [https://www.newyorkfed.org/research/calendars/nationalecon_cal](https://www.newyorkfed.org/research/calendars/nationalecon_cal)  
+* Job Openings and Labor Turnover Survey (JOLTS) program produces data on job openings, hires, and separations: [https://www.bls.gov/jlt/home.htm](https://www.bls.gov/jlt/home.htm)  
 * Jobless claims: [https://fred.stlouisfed.org/series/ICSA](https://fred.stlouisfed.org/series/ICSA)  
 * Unemployment rate: [https://fred.stlouisfed.org/series/UNRATE](https://fred.stlouisfed.org/series/UNRATE)  
   * With supporting information from the U.S. Bureau of Labor Statistics: [https://www.bls.gov/bls/unemployment.htm](https://www.bls.gov/bls/unemployment.htm) and [https://www.bls.gov/bls/newsrels.htm#OEUS](https://www.bls.gov/bls/newsrels.htm#OEUS)  
