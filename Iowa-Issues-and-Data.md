@@ -18,6 +18,19 @@ I read wildly varying characterizations of Internet connectivity across the stat
       * [https://github.com/Brawn1/speedtestcli_db](https://github.com/Brawn1/speedtestcli_db)  
       * [https://github.com/search?l=Shell&q=speedtestcli&type=Code](https://github.com/search?l=Shell&q=speedtestcli&type=Code)  
       * [https://github.com/search?l=Shell&q=speedtestcli&type=Code](https://github.com/search?l=Shell&q=speedtestcli&type=Code) and [https://github.com/search?l=Python&q=speedtestcli&type=Code](https://github.com/search?l=Python&q=speedtestcli&type=Code)  
+  * Install SpeedTest for Terminal on Linux: 
+You can get the 'official' version from speedtest.net: [https://www.speedtest.net/apps/cli](https://www.speedtest.net/apps/cli)  
+* Another approach is to use https://github.com/sivel/speedtest-cli/ from Matt Martz:  
+(Noticed this utility at: https://francoconidi.it/speedtest-cli-failed-su-debian-10/)  
+```terminal
+sudo apt-get install python3-pip
+wget https://raw.github.com/sivel/speedtest-cli/master/speedtest.py
+chmod a+rx speedtest.py
+sudo mv speedtest.py /usr/local/bin/speedtest-cli
+sudo chown root:root /usr/local/bin/speedtest-cli
+sudo speedtest-cli
+```
+
   * If **SpeedTest* is just wrong for you (*for any reason*), you might try [fast](https://fast.com/) from [NetFlix](https://netflixtechblog.com/building-fast-com-4857fe0f8adb). [https://fast.com/](https://fast.com/)
 
 
