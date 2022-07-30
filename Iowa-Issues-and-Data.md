@@ -18,6 +18,7 @@ I read wildly varying characterizations of Internet connectivity across the stat
       * [https://github.com/Brawn1/speedtestcli_db](https://github.com/Brawn1/speedtestcli_db)  
       * [https://github.com/search?l=Shell&q=speedtestcli&type=Code](https://github.com/search?l=Shell&q=speedtestcli&type=Code)  
       * [https://github.com/search?l=Shell&q=speedtestcli&type=Code](https://github.com/search?l=Shell&q=speedtestcli&type=Code) and [https://github.com/search?l=Python&q=speedtestcli&type=Code](https://github.com/search?l=Python&q=speedtestcli&type=Code)  
+  * If **SpeedTest* is just wrong for you (*for any reason*), you might try [fast](https://fast.com/) from [NetFlix](https://netflixtechblog.com/building-fast-com-4857fe0f8adb). [https://fast.com/](https://fast.com/)
 
 
 ### Elections:  
