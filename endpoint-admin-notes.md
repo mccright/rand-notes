@@ -71,6 +71,13 @@ You might also use BleachBit to clean up as well:
 If you use Solid State Drives (SSDs) (standard in modern computers), USB *thumb* drives, or SD cards/flash memory cards do not use the approach described above. Secure deletion on SSD storage media is a challenge because they use *wear leveling*, a technology that attempts to spread data evenly across all of the media so that any one part of that storage will not be overwritten too many times -- so that the storage device will last longer.  Wear leveling interferes with secure erase programs, which deliberately try to overwrite sensitive files with junk data in order to permanently erase them. As a result, it is better to use full-disk encryption. Encryption avoids the difficulty of secure erasing by making any file on the drive difficult to recover without the required secret.
 
 
+### What Application is Using Given Ports  
+If an application barks about not being able to use port *NN* (for example port 80 or 443), use the following to identify if the port is already *owned* by another application.
+```terminal
+sudo ss -tlpn | grep -E ":(80|443)"
+```
+[Based on a blog ](https://francoconidi.it/solved-certbot-error-could-not-bind-to-ipv4/)
+
 ### Some Simple Linux Troubleshooting Reminders  
 I have been adding some simple Linux troubleshooting reminders to a different file in this repo.  See:  [https://github.com/mccright/rand-notes/blob/master/Simple-Linux-Troubleshooting.md](https://github.com/mccright/rand-notes/blob/master/Simple-Linux-Troubleshooting.md)  
 
@@ -79,3 +86,6 @@ I have been adding some simple Linux troubleshooting reminders to a different fi
 * **Fedora Live**: Fedora Xfce Desktop is implemented to be fast and lightweight.  It is shipped as a live operating system.  It includes everything you need to try out Fedora's Xfce Desktop.  You don't have to erase anything on your current system to try it out, and it won't put your existing files at risk.  You can have the boot copy all files to RAM first so that it runs very fast using the ```rd.live.ram=1``` boot parameter (*press the TAB key at the grub boot menu*).  If you like it after a test drive, you can install it to a local hard drive from the Live Media desktop. [https://spins.fedoraproject.org/xfce/](https://spins.fedoraproject.org/xfce/)  
 
 * **Lubuntu**:  Lubuntu is a fast and lightweight Ubuntu based operating system using the minimal desktop LXQT and a selection of light applications. Lubuntu has very low hardware requirements.  That said, it makes a lean platform on which to build a fast development endpoint.  [https://lubuntu.me/](https://lubuntu.me/)  
+
+* **SysLinuxOS**: SysLinuxOS is a specialized Linux operating system for those in infrastructure roles and is currently based on Debian 11 bullseye and a modern kernel.  It comes with a large, broad spectrum of applications and utilities installed that would support many categories of infrastructure, maintenance, and collaboration work.  There are two versions, one using the Mate desktop and the other using Gnome.  [https://syslinuxos.com](https://syslinuxos.com)  
+
