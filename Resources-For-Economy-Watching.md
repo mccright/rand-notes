@@ -3,6 +3,7 @@
 
 * Data: 817,000 US and international time series from 108 sources hosted by the Federal Reserve Bank of St. Louis [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)  
 * Economic Indicators Calendar [https://www.newyorkfed.org/research/calendars/nationalecon_cal](https://www.newyorkfed.org/research/calendars/nationalecon_cal)  
+* A collection of indicators from Trading Economics [https://tradingeconomics.com/indicators](https://tradingeconomics.com/indicators)  
 * Job Openings and Labor Turnover Survey (JOLTS) program produces data on job openings, hires, and separations: [https://www.bls.gov/jlt/home.htm](https://www.bls.gov/jlt/home.htm)  
 * Jobless claims: [https://fred.stlouisfed.org/series/ICSA](https://fred.stlouisfed.org/series/ICSA)  
 * Unemployment rate: [https://fred.stlouisfed.org/series/UNRATE](https://fred.stlouisfed.org/series/UNRATE)  
@@ -41,7 +42,10 @@
 * Weekly Economic Index (WEI) from the New York Fed's [Applied Macroeconomics and Econometrics Center (AMEC)](https://newyorkfed.org/research/amec).  The WEI provides a signal of the state of the U.S. economy based on data available at a daily or weekly frequency.  [https://www.newyorkfed.org/research/policy/weekly-economic-index#/interactive](https://www.newyorkfed.org/research/policy/weekly-economic-index#/interactive)  
 * Survey of Consumer Expectations from the New York Fed's [Applied Macroeconomics and Econometrics Center (AMEC)](https://newyorkfed.org/research/amec).  [https://www.newyorkfed.org/microeconomics/sce#/](https://www.newyorkfed.org/microeconomics/sce#/)  
 * List of Bureau of Labor Statistics reports, publications, and data: [https://www.bls.gov/bls/sitemap.htm](https://www.bls.gov/bls/sitemap.htm)  
-
+* Proxies for global shipping supply and demand:  
+  * [Baltic Dry Index](https://en.wikipedia.org/wiki/Baltic_Dry_Index#How_it_works) tracks global shipping prices.  It describes the demand for shipping capacity (*the amount of cargo that is being traded or moved*) versus the supply of dry bulk carriers (*which is generally both tight and inelastic*).  "Supply and demand" for bulk, dry, ocean cargo shipping.  See ["Baltic Exchange Dry Index" from Trading Economics](https://tradingeconomics.com/commodity/baltic) or []()  
+  * [Freightos Baltic Index](https://en.wikipedia.org/wiki/Freightos_Baltic_Index) (*also sometimes known as the "Freightos Baltic Daily Index" or "Freightos Baltic Global Container Index"*) tracks global 40-foot container freight rates.  See: [https://fbx.freightos.com/](https://fbx.freightos.com/) or [https://en.macromicro.me/charts/35158/fbx-global-container-index](https://en.macromicro.me/charts/35158/fbx-global-container-index)  
+  
 
 **Stock market indexes:**  
 * Russell 2000: [https://finance.yahoo.com/quote/%5ERUT?p=^RUT](https://finance.yahoo.com/quote/%5ERUT?p=^RUT)  
