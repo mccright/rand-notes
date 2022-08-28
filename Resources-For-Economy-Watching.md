@@ -45,6 +45,7 @@
 * Proxies for global shipping supply and demand:  
   * [Baltic Dry Index](https://en.wikipedia.org/wiki/Baltic_Dry_Index#How_it_works) tracks global shipping prices.  It describes the demand for shipping capacity (*the amount of cargo that is being traded or moved*) versus the supply of dry bulk carriers (*which is generally both tight and inelastic*).  "Supply and demand" for bulk, dry, ocean cargo shipping.  See ["Baltic Exchange Dry Index" from Trading Economics](https://tradingeconomics.com/commodity/baltic) or []()  
   * [Freightos Baltic Index](https://en.wikipedia.org/wiki/Freightos_Baltic_Index) (*also sometimes known as the "Freightos Baltic Daily Index" or "Freightos Baltic Global Container Index"*) tracks global 40-foot container freight rates.  See: [https://fbx.freightos.com/](https://fbx.freightos.com/) or [https://en.macromicro.me/charts/35158/fbx-global-container-index](https://en.macromicro.me/charts/35158/fbx-global-container-index)  
+* There is a thread of industry logic that says excessive fear tends to drive down share prices, and too much greed tends to have the opposite effect.  CNN suggests it can be used to gauge the mood of the market. [https://www.cnn.com/markets/fear-and-greed](https://www.cnn.com/markets/fear-and-greed)  
   
 
 **Stock market indexes:**  
