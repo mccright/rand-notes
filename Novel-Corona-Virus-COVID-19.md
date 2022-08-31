@@ -30,7 +30,7 @@ Support global vaccine distribution.  Pockets of unvaccinated, regardless of the
 >“We are concerned that a narrative has taken hold in some countries that because of vaccines – and because of omicron’s high transmissibility and lower severity – preventing transmission is no longer possible and no longer necessary,” WHO chief Tedros Adhanom Ghebreyesus said 01 Feb 2022. “Nothing could be further from the truth.”
 [https://desmoinesregister-ia.newsmemory.com?selDate=20220203&goTo=A003&artid=3](https://desmoinesregister-ia.newsmemory.com?selDate=20220203&goTo=A003&artid=3)  
 
->In 2021, the average American could expect to live until the age of 76, federal health researchers reported on Wednesday. The figure represents a loss of almost three years since 2019, when Americans could expect to live, on average, nearly 79 years.
+>In 2021, the average American could expect to live until the age of 76, federal health researchers reported on Wednesday. The figure represents a loss of almost three years since 2019, when Americans could expect to live, on average, nearly 79 years.  ...For white and Black Americans, life expectancy is now the lowest it has been since 1995, federal researchers said. 
 [https://www.nytimes.com/2022/08/31/health/life-expectancy-covid-pandemic.html](https://www.nytimes.com/2022/08/31/health/life-expectancy-covid-pandemic.html)  
 
 ### Do your part to resist and constrain the flow of misinformation.  
