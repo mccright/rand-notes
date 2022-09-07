@@ -21,6 +21,14 @@ echo "U2FsdGVkX18bV/Clc1Y5I94C9RwTy+mJ9sKCv2fWV2A=" | openssl enc -d -base64 -ae
 The secret textroot
 ```
 
+### Research These:  
+* **[RFC 9180 Hybrid public-key encryption (HPKE)](https://datatracker.ietf.org/doc/html/rfc9180)**   See a useful overview from CloudFlare: [https://blog.cloudflare.com/hybrid-public-key-encryption/](https://blog.cloudflare.com/hybrid-public-key-encryption/).  
+  * "[TL;DR - Hybrid Public Key Encryption.](https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/)"  
+  * "[Hybrid Public Key Encryption: My Involvement in Development and Analysis of a Cryptographic Standard](https://www.benjaminlipp.de/p/hpke-cryptographic-standard/)."  
+  * "[An Analysis of Hybrid Public Key Encryption.](https://www.semanticscholar.org/paper/An-Analysis-of-Hybrid-Public-Key-Encryption-Lipp/d8627eb52a4211e59ec897f1a10dd15c96ff7311)" 
+  * And some Python implementations of *[draft version 1](https://datatracker.ietf.org/doc/html/draft-barnes-cfrg-hpke-01)* at: [https://github.com/dwd/crypto-examples/blob/master/hpke.py](https://github.com/dwd/crypto-examples/blob/master/hpke.py); and others at   [https://github.com/nymble/hpke](https://github.com/nymble/hpke) and [https://github.com/ctz/hpke-py](https://github.com/ctz/hpke-py), or just check GitHub again: [https://github.com/search?q=HPKE&type=Repositories](https://github.com/search?q=HPKE&type=Repositories).  
+
+
 ### ToDo:  
 * Encrypt/Decrypt a file  
 * Encrypt/Decrypt a directory of files  
