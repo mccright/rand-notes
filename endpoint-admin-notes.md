@@ -18,7 +18,9 @@ rsync -a ~/sourcefiles/ <user>@<host>:destinationfiles/
 ```
 The *-a* preserves timestamps, file ownerships, permissions and recursive scanning.  The trailing slash means to copy the contents of the source directory, but not the directory name itself.  
 rsync compares the files in the source and destination and then copies only those source files that are missing or different from the destination.  
-Add *--delete* option if you also need to remove destination files when they are no longer on the source.    
+Add *--delete* option if you also need to remove destination files when they are no longer on the source.  
+
+Use [https://crontab-generator.org/](https://crontab-generator.org/) to help get your crontab entries perfect...  
 
 
 ### Use find to help copy collections of files  
@@ -93,3 +95,6 @@ I have been adding some simple Linux troubleshooting reminders to a different fi
 
 * **SysLinuxOS**: SysLinuxOS is a specialized Linux operating system for those in infrastructure roles and is currently based on Debian 11 bullseye and a modern kernel (*kernel 5.16-amd64 on 2022-09-03*).  It comes with a large, broad spectrum of applications and utilities installed that would support many categories of infrastructure, maintenance, and collaboration work.  There are two versions, one using the Mate desktop and the other using Gnome.  [https://syslinuxos.com](https://syslinuxos.com)  
 
+
+### Some Windows Endpoint Notes  
+* Some scripts to (*help*) set up a clean Windows 10 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
