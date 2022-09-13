@@ -31,6 +31,8 @@ If you are using a VPN or thinking about it, I recommend investing 10 minutes in
  * Psiphon is a free and open source anti-censorship VPN [https://psiphon.ca/](https://psiphon.ca/)  
  * nthlink is a free and open source anti-censorship VPN https://www.nthlink.com/](https://www.nthlink.com/https://www.nthlink.com/)
  * https://www.nthlink.com/](https://www.nthlink.com/)  
+### Run your own VPN(s)  
+ * [https://github.com/trailofbits/algo](https://github.com/trailofbits/algo)  
 
 
 ### Private Chat Servers  
