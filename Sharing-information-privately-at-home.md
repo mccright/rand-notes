@@ -10,6 +10,7 @@ Then confirm your work:
 ```terminal
 hexdump < <filename>
 ```
+You might see: [https://icorn.org/digital-security](https://icorn.org/digital-security) for more information about digital security  
 
 
 ### An Experiment with openNAMU  
@@ -50,6 +51,13 @@ CS Class Chat app using Flask
 
 
 ### Candidates for Review  
+* **Use a local Matrix server:**  
+* Here is a description of installing the Element Matrix server using Docker: [https://github.com/vector-im/element-web#running-from-docker](https://github.com/vector-im/element-web#running-from-docker)  
+* Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker [https://github.com/spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy)  
+* Dockerising a full Matrix server with Element (Riot) messaging, coTURN NAT traversal and Traefik(v2.2) proxy on RancherOS and Digital Ocean (*which violates my "at home" mandate, but may be a template for this target*) [https://github.com/b-venter/Matrix-Docker-install](https://github.com/b-venter/Matrix-Docker-install)  
+  * Admin Support: This is a simple library for functions that I use with my Matrix-Server [https://github.com/btesteracc/matrix_admin](https://github.com/btesteracc/matrix_admin)  
+* And maybe -- A "lightweight (but full-featured) Matrix server, written in Go language, which has ease of deployment. The implementation is aimed specifically to HOMEservers (which are usually small, for example, Raspberry Pi)" [https://github.com/signaller-matrix/signaller](https://github.com/signaller-matrix/signaller)  
+
 * ChatServer: JustSaying [https://github.com/subhashi31/ChatServer](https://github.com/subhashi31/ChatServer)  
 * Minimalist Notepad [https://github.com/pereorga/minimalist-web-notepad/](https://github.com/pereorga/minimalist-web-notepad/)  
 * editPad (*self-hosted*) [https://github.com/shweshi/editpad](https://github.com/shweshi/editpad)  
@@ -61,7 +69,11 @@ CS Class Chat app using Flask
 * HubZilla 
 * TalkTalkTalk single-page chat room [https://github.com/josephernest/talktalktalk](https://github.com/josephernest/talktalktalk); My initial experimentation leads me to believe that its Python 2 code is not going to work in a Python 3 world without some material upgrading.  I am setting this option aside for now.  
 * Este es el repositorio de los contenidos de la Wiki de Python Argentina? [https://github.com/PyAr/wiki](https://github.com/PyAr/wiki)  
+* Another Python 2 chat system: [https://github.com/illBeRoy/secured-chat-server](https://github.com/illBeRoy/secured-chat-server)  
+* surevine / web-chat [https://github.com/surevine/web-chat](https://github.com/surevine/web-chat)  
 * hedgedoc [https://github.com/hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) and [https://docs.hedgedoc.org/setup/docker/](https://docs.hedgedoc.org/setup/docker/)  
+* MatterMost [https://github.com/mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)  
+  * or one of the other XMPP servers listed at: [https://en.wikipedia.org/wiki/Comparison_of_XMPP_server_software](https://en.wikipedia.org/wiki/Comparison_of_XMPP_server_software)  
 
 * Rūrusetto (ルールセット)  
 [https://github.com/Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)  
@@ -71,3 +83,4 @@ CS Class Chat app using Flask
   * Docker image from Ned Kelley: [https://github.com/ultimate-pms/ultimate-media-server-core/tree/master/dockerfiles/server/docker-funkwhale](https://github.com/ultimate-pms/ultimate-media-server-core/tree/master/dockerfiles/server/docker-funkwhale)  
   *  funkwhale music import script from Ned Kelley: [https://github.com/ultimate-pms/ultimate-media-server-core/blob/master/scripts/funkwhale/funkwhale_bump-files.sh](https://github.com/ultimate-pms/ultimate-media-server-core/blob/master/scripts/funkwhale/funkwhale_bump-files.sh)  
 
+* Also a little off-topic, but still relevant to the *privately sharing information* mission -- SecretShare, A *simple* library implementing Adi Shamir's "How to share a secret" algorithm written in Python: [https://github.com/HacKanCuBa/secretshare-py](https://github.com/HacKanCuBa/secretshare-py)  
