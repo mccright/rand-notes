@@ -69,6 +69,10 @@ and
 https://www.factcheck.org/issue/coronavirus/  
 Especially:  
 https://www.factcheck.org/2020/02/baseless-conspiracy-theories-claim-new-coronavirus-was-bioengineered/  
+And for COVID-19 health data in Iowa:  
+Iowa COVID-19 Tracker [https://iowacovid19tracker.org/](https://iowacovid19tracker.org/)  
+*[because Iowa has chosen to report incomplete and misleading COVID-19 data](https://iowacapitaldispatch.com/2022/09/16/state-health-department-is-not-reporting-covid-19-reinfections/)*  
+
 
 Here are a couple sources for raw facts related to COVID-19:  
 OurWorldInData COVID-19 page has a "What is the global situation now?" graph that may be useful for many: [https://ourworldindata.org/coronavirus](https://ourworldindata.org/coronavirus)  
