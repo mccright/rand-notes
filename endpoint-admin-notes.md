@@ -96,5 +96,13 @@ I have been adding some simple Linux troubleshooting reminders to a different fi
 * **SysLinuxOS**: SysLinuxOS is a specialized Linux operating system for those in infrastructure roles and is currently based on Debian 11 bullseye and a modern kernel (*kernel 5.16-amd64 on 2022-09-03*).  It comes with a large, broad spectrum of applications and utilities installed that would support many categories of infrastructure, maintenance, and collaboration work.  There are two versions, one using the Mate desktop and the other using Gnome.  [https://syslinuxos.com](https://syslinuxos.com)  
 
 
+### When Your AppImage-Delivered Application Does Not Work
+Some applications are delivered via AppImage.  This can be a benefit, as you can be more confident that all the application dependencies are present and correct.  Unfortunately, just downloading the AppImage file may not be all that you need to do...  
+In my experience, it can save you some time to verify that the <appName>.AppImage file is executable.  
+```ls -al <appName>.AppImage```  
+If it is not, set it so:  
+```chmod +x <appName>.AppImage```  
+
+
 ### Some Windows Endpoint Notes  
 * Some scripts to (*help*) set up a clean Windows 10 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
