@@ -103,6 +103,8 @@ Review:
 * [https://www.washingtonpost.com/business/2022/06/03/crypto-skeptics-growing/](https://www.washingtonpost.com/business/2022/06/03/crypto-skeptics-growing/)  
 * [https://libertystreeteconomics.newyorkfed.org/2022/02/the-future-of-payments-is-not-stablecoins/](https://libertystreeteconomics.newyorkfed.org/2022/02/the-future-of-payments-is-not-stablecoins/)  
 * A little dated, but still a useful way to view cryptocurrency *security* - "Ethereum: hunting for buggy smart contracts" [https://www.palkeo.com/en/projets/ethereum/index.html](https://www.palkeo.com/en/projets/ethereum/index.html)  
+* "Is crypto a house of cards? A look behind the scenes of the unstable industry." By Steven Zeitchik, 
+Tucker Harris and Jeremy B. Merrill, 2022-09-22 [https://www.washingtonpost.com/technology/interactive/2022/crypto-exchange-bitcoin-history/](https://www.washingtonpost.com/technology/interactive/2022/crypto-exchange-bitcoin-history/)  
 * []()  
 
 
