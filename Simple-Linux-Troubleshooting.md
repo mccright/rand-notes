@@ -22,6 +22,14 @@ or maybe you only care about the last hour (*and don't yet know exactly what you
 ```terminal
 journalctl --since -1h
 ```
+or
+```terminal
+journalctl --since 1 hour
+```
+and if you didn't guess the time right..
+```terminal
+journalctl --since today
+```
 
 or, if you know the name of the service that is the target of your investigation, *-u* shows logs from the specified service and *-x* will add message explanations where available.  
 ```terminal
@@ -79,4 +87,8 @@ dmesg --follow | grep -e sd | grep -e usb
 or
 ```terminal
 journalctl --follow | grep -e sd | grep -e usb
+```
+or
+```terminal
+journalctl -w | grep -e sd | grep -e usb
 ```
