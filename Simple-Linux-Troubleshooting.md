@@ -36,6 +36,12 @@ or, if you know the name of the service that is the target of your investigation
 journalctl -b -1 -xu the.service
 ```
 
+Find all entries of priority level range error or higher since booting:
+```terminal
+journalctl -b -p error
+```
+
+
 or  
 ```terminal
 systemctl list-units --failed
@@ -91,4 +97,13 @@ journalctl --follow | grep -e sd | grep -e usb
 or
 ```terminal
 journalctl -w | grep -e sd | grep -e usb
+```
+
+### The OS resists my urge to remove my USB thumb drive  
+```terminal
+/usr/bin/lsof | grep media/theUSBdrive
+```
+and if nothing appears, try the same with root to see if it is a system process or the activity of another user causing the problem  
+```terminal
+sudo /usr/bin/lsof | grep media/theUSBdrive
 ```
