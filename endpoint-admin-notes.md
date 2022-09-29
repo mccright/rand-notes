@@ -57,6 +57,10 @@ Delete files larger than 100MB:
 $ find ~/tmp -type f -size +100M -exec rm {} +  
 ```  
 
+### Use find to delete all files in a directory structure  
+```terminal
+$ find /home/<username>/directory/start/deletes/here -delete
+```
 
 ### Securely Delete Files  
 Endpoints accumulate non-public data.  At some point you will need to *securely* erase that data.  If you still use traditional hard drives (that have spinning disks), tools like shred, wipe, srm (secure-delete) should work well.  
