@@ -4,6 +4,7 @@ Chuck Grassley, an elderly U.S. Senator (*and lifetime politician*) from Iowa, l
 
 Altogether, Grassley's Supreme Court now has a majority of activist judges legislating from the bench -- rewriting laws it doesn’t like, ignoring statutory text that is inconvenient, cherry-picking historical fact sets to support their new narratives.  
 
+### Some of their 2021 decisions  
 * End constitutional protection for abortion: [Dobbs v. Jackson Women’s Health Organization](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf)  
 * Expand gun rights: [New York State Rifle & Pistol Assn. v Bruen](https://www.supremecourt.gov/opinions/21pdf/20-843_7j80.pdf)  
 * Imposed severe new constraints on the power of regulatory agencies: [West Virginia v. EPA](https://www.supremecourt.gov/opinions/21pdf/20-1530_n758.pdf)  
