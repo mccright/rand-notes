@@ -21,7 +21,7 @@ export url=https://anduin.linuxfromscratch.org/sources/linux-firmware/i915/
 
 /lib/firmware/i915$ wget --spider -r -l1 $url 2>&1 | grep '^--' | awk '{ print $3 }' | grep -v '\.\(css\|js\|png\|gif\|jpg\)$' > /tmp/binlist.txt  
 
-/lib/firmware/i915$ cat ~/tmp/t.txt | while read a; do sudo wget $a; done  
+/lib/firmware/i915$ cat ~/tmp/binlist.txt | while read a; do sudo wget $a; done  
 
 /lib/firmware/i915$ sudo update-initramfs -u -k all  
 ```  
