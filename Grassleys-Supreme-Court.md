@@ -8,12 +8,13 @@ Altogether, Grassley's Supreme Court now has a majority of activist judges legis
 * End constitutional protection for abortion: [Dobbs v. Jackson Women’s Health Organization](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf)  
 * Expand gun rights: [New York State Rifle & Pistol Assn. v Bruen](https://www.supremecourt.gov/opinions/21pdf/20-843_7j80.pdf)  
 * Imposed severe new constraints on the power of regulatory agencies: [West Virginia v. EPA](https://www.supremecourt.gov/opinions/21pdf/20-1530_n758.pdf)  
-* Reduce separation between church and state: [Carson v. Makin](https://www.supremecourt.gov/opinions/21pdf/20-1088_dbfi.pdf)  
+* Reduce separation between church and state: [Carson v. Makin](https://www.supremecourt.gov/opinions/21pdf/20-1088_dbfi.pdf) and see the dessent in [Yeshiva University v. YU Pride Alliance]() (*Begin at the heading "Justice Alito, with whom Justice Thomas, Justice Gorsuch, and Justice Barrett join, dissenting."*)  
 * Weakening prohibitions on voting practices that result in the “denial or abridgment” of the right to vote on account of race: [Brnovich v. Democratic National Committee](https://www.supremecourt.gov/opinions/20pdf/19-1257_g204.pdf)  
 * Severely weakening voting rights in 2013 by eliminating constraints on jurisdictions with a history of voting discrimination: [Shelby County v. Holder](https://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf)  
 
 
 ### On-Deck for 2022  
+* The constitutionality of environmental protections of 45 million acres of land, and of water quality for millions of people  
 * The constitutionality of race-conscious college admissions programs  
 * The constitionality of controls to ensure that state legislative and congressional district lines are drawn fairly (*primarily Section 2 of the Voting Rights Act*)  
 * The constitionality of constraints on "*religious liberties*" and/or "*gay rights*," or simply *when discrimination must be tolerated*  
