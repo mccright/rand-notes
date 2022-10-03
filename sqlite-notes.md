@@ -1,7 +1,7 @@
 # SQLite Notes  
 
 ### A collection of Recipes from Python SQLite docs by [Redowan Delowar](https://rednafi.github.io/reflections/pages/contact.html)  
-These are from his essay "Recipes from Python SQLite docs" at [https://rednafi.github.io/reflections/recipes-from-python-sqlite-docs.html](https://rednafi.github.io/reflections/recipes-from-python-sqlite-docs.html).  The use cases that it covers include:  
+These links are to supporting text and code resources in his excellent essay "Recipes from Python SQLite docs" at [https://rednafi.github.io/reflections/recipes-from-python-sqlite-docs.html](https://rednafi.github.io/reflections/recipes-from-python-sqlite-docs.html).  The use cases that it covers include:  
 * [Executing individual statements](https://rednafi.github.io/reflections/recipes-from-python-sqlite-docs.html#executing-individual-statements)  
 * [Executing batch statements](https://rednafi.github.io/reflections/recipes-from-python-sqlite-docs.html#executing-batch-statements)  
 * [Applying user-defined callbacks](https://rednafi.github.io/reflections/recipes-from-python-sqlite-docs.html#applying-user-defined-callbacks)  
