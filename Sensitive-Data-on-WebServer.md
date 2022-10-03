@@ -4,7 +4,7 @@ The best approach is to avoid locating any sensitive data on your web server.
 
 If that is not possible, configure your web server to explicitly deny access to that sensitive data.  
 
-For this example, assume that the sensitive files are in a directory named 'sensitivefiles.'  
+For this example, assume that the sensitive files are in a directory named 'sensitivefiles' (*I am not recommending this naming convention -- in some use cases descriptive resource naming may increase your risks*)  
 
 Below find one approach to denying access to the 'sensitivefiles' directory and its subdirectories on several different servers.  
 
