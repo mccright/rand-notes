@@ -110,3 +110,12 @@ If it is not, set it so:
 
 ### Some Windows Endpoint Notes  
 * Some scripts to (*help*) set up a clean Windows 10 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
+
+### Some Mobile Device Endpoint Notes  
+* When you have a business or social visitor who needs Internet access via your WiFi...  This situation can appear as part of a large number of use cases.  Even when you have a dedicated *visitor* SSID set up, getting your visitor's phone or tablet configured requires sharing one or more secrets -- which is not ideal.  Most of us don't have easy-to-use [one-time-password](https://en.wikipedia.org/wiki/One-time_password) systems available for these situations, so sharing secrets can involve some material risks.  The simple act of having *eyes-friendly* passwords laying around, or voicing WiFi connection secrets to those who need them, increases the likelihood of *leakage.*  One simple way to reduce (*not to eliminate*) some of those risks is to have the mobile endpoint configuration details coded into a QR code.  They are not very *eyes-friendly,* but still require careful handling throughout their lifecycle.  
+The Linux utility "qrencode" is one way to generate QR code for your mobile endpoint WiFi configuration details.  For example:
+```terminal
+user@host:~/QR$qrencode -s 9 -l H -o "<QRcodeFileName>.png" "WIFI:S:<theTargetSSID>;T:WPA2;P:<thePassword>;;"
+```
+Replace "<theTargetSSID>" with your visitor SSID and "<thePassword>" with your visitor WiFi password, and name the file something that does not give away the secrets.  When the mobile endpoint WiFi configuration details are needed, bring up the "<QRcodeFileName>.png" file in your browser and have the visitor scan the QR code on your screen with their mobile device.  *Use this idea only in the "access to visitor/guest WiFi networks.  This approach is NOT risk-appropriate for providing access to high security networks.*  
+
