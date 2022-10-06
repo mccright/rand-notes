@@ -21,6 +21,7 @@ for file in *.heic; do heif-convert -q 100 $file ${file/%.heic/.jpg}; done
 ```
 One example (the one above) is at [https://lokarithm.com/2021/02/27/linux-how-to-convert-heic-files-to-jpg-or-png/](https://lokarithm.com/2021/02/27/linux-how-to-convert-heic-files-to-jpg-or-png/)  
 And a more elaborate version of the same at: [https://github.com/lokarithm/HandyBashCommands/tree/main/heic-converter](https://github.com/lokarithm/HandyBashCommands/tree/main/heic-converter)  
+Or a really simple recommendation at: [https://linuxnightly.com/convert-heif-images-to-jpg-or-png-on-linux/](https://linuxnightly.com/convert-heif-images-to-jpg-or-png-on-linux/)  
 
 Another example is at:  
 [https://github.com/shellbro/dockerfile-heif-convert/blob/master/convert-all](https://github.com/shellbro/dockerfile-heif-convert/blob/master/convert-all)  
