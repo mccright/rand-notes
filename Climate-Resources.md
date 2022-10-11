@@ -56,7 +56,7 @@ and
 >"The world stands to lose close to 10% of total economic value by mid-century if climate change stays on the currently-anticipated trajectory"  
 
 "World economy set to lose up to 18% GDP from climate change if no action taken, reveals Swiss Re Institute's stress-test analysis."  22 Apr 2021, Zurich [https://www.swissre.com/media/press-release/nr-20210422-economics-of-climate-change-risks.html](https://www.swissre.com/media/press-release/nr-20210422-economics-of-climate-change-risks.html)  
->"In a severe scenario of a 3.2°C temperature increase, China stands to lose almost one quarter of its GDP (24%) by mid-century. The US, Canada and the UK would all see around a 10% loss. Europe would suffer slightly more (11%), while economies such as Finland or Switzerland are less exposed (6%) than, for example, France or Greece (13%)."  
+>"In a severe scenario of a 3.2°C (37.76&#x2070;F)temperature increase, China stands to lose almost one quarter of its GDP (24%) by mid-century. The US, Canada and the UK would all see around a 10% loss. Europe would suffer slightly more (11%), while economies such as Finland or Switzerland are less exposed (6%) than, for example, France or Greece (13%)."  
 
 -------------
 ### Student Essays on Climate Change  
