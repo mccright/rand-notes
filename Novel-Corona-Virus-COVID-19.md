@@ -183,7 +183,7 @@ As of 2022-07-21 in the United States, the Pfizer BioNTech - Comirnaty (*startin
 
 Because of how the COVID-19 virus continues to evolve as well as how the vaccines do their work, vaccination and boosting hasn't prevented all vaccinated people from getting infected.  That said, there is strong evidence that the rates of people ending up in the hospital and dying have significantly decreased among vaccinated and boosted populations.  
 
-As of June 2022 the WHO reports that there have been *approximately 33 COVID-19 vaccines* in use around the globe.  That reporting includes:  
+As of June 2022 the WHO reported that there were *approximately 33 COVID-19 vaccines* in use around the globe. Since that time bivalent vaccines have been added.  That reporting includes:  
 | Company | Product Name* |
 |---------|---------------|
 | Anhui ZL | Zifivax |
@@ -201,13 +201,15 @@ As of June 2022 the WHO reports that there have been *approximately 33 COVID-19 
 | Gamaleya | Sputnik-Light |
 | Gamaleya | Sputnik V |
 | IMB | Covidful |
-| Janssen | Ad26.COV 2-S |
+| Johnson & Johnson/Janssen | Ad26.COV 2-S |
 | Julphar | Hayat-Vax |
 | Moderna | mRNA-1273 |
-| Moderna | Spikevax |
+| Moderna | SPIKEVAX |
+| Moderna | bivalent |
 | Novavax | Covavax |
 | Novavax | NUVAXOVID |
-| Pfizer BioNTech | Comirnaty |
+| Pfizer-BioNTech | COMIRNATY |
+| Pfizer-BioNTech | bivalent |
 | RIBSP | QazVac |
 | Shenzhen | LV-SMENP-DC |
 | Shifa | COVIran Barakat |
@@ -221,7 +223,7 @@ As of June 2022 the WHO reports that there have been *approximately 33 COVID-19 
 | Wuhan CNBG | Inactivated |
 | Zydus | ZyCov-D |
 
-Source: WHO Vaccination data [https://covid19.who.int/who-data/vaccination-data.csv](https://covid19.who.int/who-data/vaccination-data.csv) (*downloaded on 2022-06-30*).  The WHO data includes "Unknown Vaccine" administered in 11 countries.  In addition, it is possible that some products are known by multiple names, which may influence the *count* above.  
+Source: WHO Vaccination data [https://covid19.who.int/who-data/vaccination-data.csv](https://covid19.who.int/who-data/vaccination-data.csv) (*downloaded on 2022-06-30*).  The WHO data includes "Unknown Vaccine" administered in 11 countries.  In addition, it is possible that some products are known by multiple names, which may influence the *count* above.  Updated list on 2022-10-17 from data at: [https://www.vaccines.gov/search/](https://www.vaccines.gov/search/)  
 
 You can read about treatement updates at: [https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)  
 
