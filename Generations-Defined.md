@@ -6,6 +6,9 @@
 The Generations Defined                        Generation age
   +--------+--------+--------+--------+--------+ in 2022
   |        |        |        |        |        |
+  |        |        |        |   Born 2010-... |Generation Alpha
+  |        |        |        |        |        |ages 0-12
+  |        |        |        |        |        |
   |        |        |        |Born 1997-2012   |Generation Z
   |        |        |        |        |        |ages 10-25
   |        |        |        |        |        |
@@ -27,7 +30,10 @@ The Generations Defined                        Generation age
 <a href="https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/ft_19-01-17_generations_2019/"><img src="https://www.pewresearch.org/wp-content/uploads/2019/01/FT_19.01.17_generations_2019.png?w=640"></a>  
 -->  
 
-**Source**: "The Generations Defined" Pew Research 
+**Sources**:  
+Market Segments -- Doing Consumer Research: A Resource Guide (*U.S. Library of Congress Research Guide*) 
+[https://guides.loc.gov/consumer-research/market-segments/generations](https://guides.loc.gov/consumer-research/market-segments/generations)  
+"The Generations Defined" Pew Research 
 [https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/ft_19-01-17_generations_2019/](https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/ft_19-01-17_generations_2019/)  
 
 **Additional Reference**:  
