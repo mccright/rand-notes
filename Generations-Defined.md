@@ -10,3 +10,29 @@
 **Additional Reference**:  
 "Defining generations: Where Millennials end and Generation Z begins." By Michael Dimock, 17 January 2019 
 https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/
+
+
+
+```ditaa {cmd=true args=["-E"]}
+The Generations Defined                        Generation age
+  +--------+--------+--------+--------+--------+ in 2022
+  |        |        |        |        |        |
+  |        |        |        |Born 1997-2012   |Generation Z
+  |        |        |        |        |        |ages 10-25
+  |        |        |        |        |        |
+  |        |        |   Born 1981-96  |        |Millennials
+  |        |        |        |        |        |ages 26-41
+  |        |        |        |        |        |
+  |        |     Born 1965-80|        |        |Generation X
+  |        |        |        |        |        |ages 42-57
+  |        |        |        |        |        |
+  |        Born 1946-64      |        |        |Boomers
+  |        |        |        |        |        |ages 58-76
+  |        |        |        |        |        |
+  |Born 1928-45     |        |        |        |Silent Generation
+  |        |        |        |        |        |ages 77-94
+  +--------+--------+--------+--------+--------+
+1920     1940     1960     1980     2000     2020
+```
+
+
