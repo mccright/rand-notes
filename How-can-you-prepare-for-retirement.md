@@ -115,10 +115,29 @@ Regardless of the scale of your available resources, the most important short te
 |$140,000 | $2,800,000 | $3,500,000|
 |$150,000 | $3,000,000 | $3,750,000|
 
+
 >[*I have seen opinion pieces and research papers that replace the "Annual Income" I used above, with "Annual Spending."  There may be material distance between these two values.  "Annual Spending" **may** be a more appropriate value for some.  Use which ever seems most appropriate for your situation.*]  
 
 Again, these numbers can seem like a challenge in isolation.  But for many who reach them, they are the result of regular *savings* for retirement and full participation in employer plans over many years.  One of the keys is to start and stick with a plan.  
-*There is some disagreement about this 20x to 25x target -- the approach outlined above may not be right for everyone.  See the ["Are You Saving Enough For Retirement? At this household income:"](https://www.investors.com/etfs-and-funds/retirement/you-need-this-much-retirement-savings-at-your-age-and-income/) table in [this article](https://www.investors.com/etfs-and-funds/retirement/you-need-this-much-retirement-savings-at-your-age-and-income/) by Paul Katzeff for an alternative idea -- one that I believe materially increases one's longevity, uncertain (*medical or other*) material expenses in old age, and market timing risks.*  Fidelity mirrors some of Mr. Katzeff's ideas when they argue for a goal of "[saving 10x (times) your preretirement income by age 67](https://www.fidelity.com/viewpoints/retirement/how-much-do-i-need-to-retire)."  
+*There is some disagreement about this 20x to 25x target -- the approach outlined above may not be right for everyone.  See the ["Are You Saving Enough For Retirement? At this household income:"](https://www.investors.com/etfs-and-funds/retirement/you-need-this-much-retirement-savings-at-your-age-and-income/) table in [this article](https://www.investors.com/etfs-and-funds/retirement/you-need-this-much-retirement-savings-at-your-age-and-income/) by Paul Katzeff for an alternative idea -- one that I believe materially increases one's longevity, uncertain (*medical or other*) material expenses in old age, and market timing risks.*  Fidelity mirrors some of Mr. Katzeff's ideas when they argue for a goal of "[saving 10x (times) your preretirement income by age 67](https://www.fidelity.com/viewpoints/retirement/how-much-do-i-need-to-retire)."  As a result, I've added another table below that includes examples of what 10 and 15-times some sample annual incomes look like (*understanding that less retirement savings means, for most, increased risks*):  
+
+|Annual Income|Times 10|Times 15|Times 20|Times 25|
+|:-----------:|:------:|:------:|:------:|:------:|
+|$20,000 | $200,000 | $200,000 | $400,000 | $500,000|
+|$30,000 | $300,000 | $450,000 | $600,000 | $750,000|
+|$40,000 | $400,000 | $600,000 | $800,000 | $1,000,000|
+|$50,000 | $500,000 | $750,000 | $1,000,000 | $1,250,000|
+|$60,000 | $600,000 | $900,000 | $1,200,000 | $1,500,000|
+|$70,000 | $700,000 | $1,050,000 | $1,400,000 | $1,750,000|
+|$80,000 | $800,000 | $1,200,000 | $1,600,000 | $2,000,000|
+|$90,000 | $900,000 | $1,350,000 | $1,800,000 | $2,250,000|
+|$100,000 | $1,000,000 | $1,500,000 | $2,000,000 | $2,500,000|
+|$110,000 | $1,100,000 | $1,650,000 | $2,200,000 | $2,750,000|
+|$120,000 | $1,200,000 | $1,800,000 | $2,400,000 | $3,000,000|
+|$130,000 | $1,300,000 | $1,950,000 | $2,600,000 | $3,250,000|
+|$140,000 | $1,400,000 | $2,100,000 | $2,800,000 | $3,500,000|
+|$150,000 | $1,500,000 | $2,250,000 | $3,000,000 | $3,750,000|
+
 
 For many, a material component of your retirement readiness equation is your spending behaviors.  As of Q1 2022 America's household debt is around a staggering [$15.84 trillion](https://www.newyorkfed.org/microeconomics/hhdc.html).  Be mindful, self-aware and alert.  Ask yourself, "Am I doing the right thing?"  This is especially true for your 'consumer' behaviors.  For a lot of us, asset accumulation also meant deciding how **not** to spend our money.  This does not have to involve negative self-denial.  [Some argue](https://en.wikipedia.org/wiki/Simple_living) that *[voluntary simplicity](https://www.investopedia.com/terms/v/voluntary-simplicity.asp)* is the most approprate target.  If you can look at your own actions from the perspective of a third party who cares about meeting your retirement goals, you may be able to make consumption choices better aligned with your retirement *asset accumulation* goals.  
 
