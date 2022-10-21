@@ -40,6 +40,11 @@ sudo speedtest-cli
 * [SF568](https://legiscan.com/IA/bill/SF568/2021):	A bill for an act relating to the conduct of elections, including nominations, procedures for proposed amendments to the Iowa Constitution, and absentee voting, and including effective date provisions. (Formerly SSB 1237.)  
 
 
+### Water in Iowa  
+* A [2019 University of Iowa study](https://desmoinesregister-ia.newsmemory.com?selDate=20221020&goTo=A007&artid=1) found Iowa leads the country in manure waste.  
+* [751 rivers, streams, lakes, reservoirs and wetlands are considered impaired](https://desmoinesregister-ia.newsmemory.com?selDate=20221020&goTo=A007&artid=1) -- roughly half of Iowa’s waterways that were assessed.  
+
+
 ### Finding Information:  
 * The Iowa Legislature [https://www.legis.iowa.gov/](https://www.legis.iowa.gov/)  
 * Legiscan IA [https://legiscan.com/IA](https://legiscan.com/IA)  
