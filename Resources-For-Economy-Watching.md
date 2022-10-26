@@ -61,8 +61,7 @@
 * U.S. Congressional Research Service: [https://crsreports.congress.gov/](https://crsreports.congress.gov/)  
 * USAspending -- the official open data source of federal spending information: [https://www.usaspending.gov/](https://www.usaspending.gov/)  
 * Although much of it is time-delayed, WorldBank trending data can be useful for building perspective [https://data.worldbank.org/](https://data.worldbank.org/)  
-
-
+* An interesting CBO report "The Budget and Economic Outlook: 2022 to 2032" that includes lots of analysis covering the period 1972-2022, as well as accompanying projections through 2032 (*and beyond*).  Especially interesting may be "Appendix B: The 10-Year Outlook for Major Federal Trust Funds" -- with special emphasis on Social Security and on Medicare’s Trust Funds, along with military and civilian retirement, and the highway & mass transit trust funds: [https://www.cbo.gov/publication/58147](https://www.cbo.gov/publication/58147).  Reading this report leaves me believing that this is an area that will be the focus of material energy and creativity soon -- effort that could influence other areas of the economy...  
 
 **Use** the data above.  
 Try to isolate it from the economic *religions* that dominate too many of the published discussions about the economy:  
@@ -95,4 +94,7 @@ MMT theorists have not been well tested in the *real world* but may have an oppo
 #### Need to research these...  
 * A New Barometer of Global Supply Chain Pressures [https://libertystreeteconomics.newyorkfed.org/2022/01/a-new-barometer-of-global-supply-chain-pressures/](https://libertystreeteconomics.newyorkfed.org/2022/01/a-new-barometer-of-global-supply-chain-pressures/)  and  Global Supply Chain Pressure Index: March 2022 Update [https://libertystreeteconomics.newyorkfed.org/2022/03/global-supply-chain-pressure-index-march-2022-update/](https://libertystreeteconomics.newyorkfed.org/2022/03/global-supply-chain-pressure-index-march-2022-update/)  
 * IDEAS is the largest bibliographic database dedicated to Economics and available freely on the Internet [https://ideas.repec.org/](https://ideas.repec.org/)  
+* Rational Heuristics? Expectations and Behaviors in Evolving Economies with Heterogeneous Interacting Agents. By Giovanni Dosi, Mauro Napoletano, Andrea Roventini, Joseph E. Stiglitz, Tania Treibich. First published: 14 April 2020  [https://doi.org/10.1111/ecin.12897](https://doi.org/10.1111/ecin.12897)  
+    * Referenced in: "In Praise of the Humble Rule of Thumb" by Peter Coy. [https://www.nytimes.com/2022/10/24/opinion/decision-making-rules-of-thumb.html](https://www.nytimes.com/2022/10/24/opinion/decision-making-rules-of-thumb.html)  
+
 
