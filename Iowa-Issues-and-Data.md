@@ -45,6 +45,21 @@ sudo speedtest-cli
 * [751 rivers, streams, lakes, reservoirs and wetlands are considered impaired](https://desmoinesregister-ia.newsmemory.com?selDate=20221020&goTo=A007&artid=1) -- roughly half of Iowa’s waterways that were assessed.  
 
 
+### Lead Poisioning  
+The CDC says there is no safe level for lead in blood. Exposure at any level has been shown to cause irreversible harm to children, including damage to the brain and nervous systems, slowed growth and development, learning and behavior problems, and hearing and speech difficulty.  
+
+Nearly 70% of homes in Iowa were built before 1978, when the toxic lead paint was banned for residential use, a proportion far larger than in most other states. Children in low-income families and children of color are most at risk for lead exposure, according to several studies.  
+
+A 2021 study by Quest Diagnostics and Boston Children’s Hospital found that nearly 2% of U.S. children had lead in their blood at or above the 5-microgram action level. It found that in Iowa, the figure was much higher: 3.6%, the ninth-largest proportion among U.S. states.  
+
+Iowa has the nation’s fourth-highest percentage of children under 6 who have detectable levels of lead in their blood — 76%, according to a study published in the Journal of Pediatrics in September 2021 that looked at blood tests from 1.14 million children under 6.  
+
+At the same time, he said, enforcement “is weakening or absent in most parts of the state.”  
+
+FROM: " Few options exist to remove lead paint, despite risk to kids." By Lee Rood, [https://desmoinesregister-ia.newsmemory.com?selDate=20221023&goTo=A001&artid=1](https://desmoinesregister-ia.newsmemory.com?selDate=20221023&goTo=A001&artid=1)  
+
+
 ### Finding Information:  
 * The Iowa Legislature [https://www.legis.iowa.gov/](https://www.legis.iowa.gov/)  
 * Legiscan IA [https://legiscan.com/IA](https://legiscan.com/IA)  
+* Iowa Data Center [https://www.iowadatacenter.org/index.php/quick-facts/iowa-quick-facts](https://www.iowadatacenter.org/index.php/quick-facts/iowa-quick-facts)  
