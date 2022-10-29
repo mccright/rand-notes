@@ -45,7 +45,7 @@ sudo speedtest-cli
 * [751 rivers, streams, lakes, reservoirs and wetlands are considered impaired](https://desmoinesregister-ia.newsmemory.com?selDate=20221020&goTo=A007&artid=1) -- roughly half of Iowa’s waterways that were assessed.  
 
 
-### Lead Poisioning  
+### Lead Poisoning  
 The CDC says there is no safe level for lead in blood. Exposure at any level has been shown to cause irreversible harm to children, including damage to the brain and nervous systems, slowed growth and development, learning and behavior problems, and hearing and speech difficulty.  
 
 Nearly 70% of homes in Iowa were built before 1978, when the toxic lead paint was banned for residential use, a proportion far larger than in most other states. Children in low-income families and children of color are most at risk for lead exposure, according to several studies.  
