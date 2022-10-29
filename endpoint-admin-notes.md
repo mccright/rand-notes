@@ -107,6 +107,17 @@ In my experience, it can save you some time to verify that the <appName>.AppImag
 If it is not, set it so:  
 ```chmod +x <appName>.AppImage```  
 
+### Writing and Reading Bootable USB Drives  
+* USBImager is a simple GUI application that writes compressed disk images to USB drives and creates backups. Available platforms: Windows, MacOSX and Linux. [https://bztsrc.gitlab.io/usbimager/](https://bztsrc.gitlab.io/usbimager/) and source at [https://gitlab.com/bztsrc/usbimager](https://gitlab.com/bztsrc/usbimager)  
+* Etcher  
+* Gnome Disks  
+* SUSE Imagewriter  
+* dd  
+* *to be continued*
+
+### My Host has Hundreds of Processes Running. What the hell?
+It is common for Linux hosts to run a lot of processes.  ps and top may help, but their ability to visualize what is going on is limited.  
+One tool that has helped me better understand some of what is going on is **[pscircle](https://gitlab.com/mildlyparallel/pscircle).**  
 
 ### Some Windows Endpoint Notes  
 * Some scripts to (*help*) set up a clean Windows 10 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
