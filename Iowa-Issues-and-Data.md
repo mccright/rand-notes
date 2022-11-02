@@ -59,6 +59,13 @@ At the same time, he said, enforcement “is weakening or absent in most parts o
 FROM: " Few options exist to remove lead paint, despite risk to kids." By Lee Rood, [https://desmoinesregister-ia.newsmemory.com?selDate=20221023&goTo=A001&artid=1](https://desmoinesregister-ia.newsmemory.com?selDate=20221023&goTo=A001&artid=1)  
 
 
+### Housing  
+(September 2022) Polk County is seeing a rise in the number of people who are homeless. According to a point-in-time count conducted by Homeward, the county’s homelessness planning organization, the population increased by 23% in the last year. And the number of people who are unsheltered in Polk County has nearly doubled since January. 
+https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0  
+(October 2022 - Polk County) 521 households are on the waitlist to find affordable housing in the county. 
+https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0  
+
+
 ### Finding Information:  
 * The Iowa Legislature [https://www.legis.iowa.gov/](https://www.legis.iowa.gov/)  
 * Legiscan IA [https://legiscan.com/IA](https://legiscan.com/IA)  
