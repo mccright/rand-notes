@@ -1,5 +1,9 @@
 ## Some Endpoint Admin Notes  
 
+### Developers who want to expose their applications on their endpoint to the Internet
+Consider **[ngrok](https://ngrok.com)**: ngrok is a globally distributed reverse proxy fronting your web services running on a given endpoint, or in any cloud or private network.  *Paid [ngrok](https://ngrok.com/pricing)* has additional features that support its promotion as "the programmable network edge that adds connectivity, security, and observability to your apps with no code changes."  Pay attention to the details of every request.  The free version may not be suitable for your business, your local environment, or your regulators/investors/customers.  
+
+  
 ### Booting a PC from a USB drive  
 Many PCs have a configuration screen to select the boot drive/media.  
 It is often accessed by pressing a key while powering on the PC.  See a nearby file for some [Vendor / Key combinations](https://github.com/mccright/rand-notes/blob/master/Boot-PC-from-a-USB-drive.md) in this repository.  
@@ -109,6 +113,7 @@ In my experience, it can save you some time to verify that the <appName>.AppImag
 ```ls -al <appName>.AppImage```  
 If it is not, set it so:  
 ```chmod +x <appName>.AppImage```  
+
 
 ### Writing and Reading Bootable USB Drives  
 * USBImager is a simple GUI application that writes compressed disk images to USB drives and creates backups. Available platforms: Windows, MacOSX and Linux. [https://bztsrc.gitlab.io/usbimager/](https://bztsrc.gitlab.io/usbimager/) and source at [https://gitlab.com/bztsrc/usbimager](https://gitlab.com/bztsrc/usbimager)  
