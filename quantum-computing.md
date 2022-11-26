@@ -16,3 +16,14 @@ Here are some resources to learn more about this topic:
 
 ### Quantum-Resilience  
 
+
+### Related Fiction  
+#### Anathem.  
+https://en.wikipedia.org/wiki/Anathem  
+https://www.nealstephenson.com/anathem.html  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)  
+Published 2008, 937 pages.  
+See the plot summary at: https://en.wikipedia.org/wiki/Anathem#Plot_summary  
+When you are finished with the book (or whenever...) consider reading Stephenson's [Acknowledgments page](https://www.nealstephenson.com/acknowledgments.html) to get a sense of what parts of this story are more tightly coupled to other's ideas.  
+This story has enormous scope, incorporating a broad spectrum of science fiction and religious themes as it builds out science, technology, religion, and secular societies across multiple worlds.  
+
