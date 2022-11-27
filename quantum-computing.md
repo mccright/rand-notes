@@ -10,6 +10,9 @@ Here are some resources to learn more about this topic:
 * IBM Quantum Lab [https://quantum-computing.ibm.com/lab](https://quantum-computing.ibm.com/lab)  
 * "Qiskit Textbook" -- It is really a broad (*comprehensive?*) course on the topic [https://qiskit.org/learn/](https://qiskit.org/learn/)  
 
+* "Entangled Secrets." By Stefan-Lukas Gazdag, Sophia Grundner-Culemann, Tobias Guggemos, Tobias Heider, and Daniel Loebenberger; Linux Magazine, Issue 247/2021 [https://www.linux-magazine.com/Issues/2021/247/Quantum-Computing-and-Encryption](https://www.linux-magazine.com/Issues/2021/247/Quantum-Computing-and-Encryption)  
+* "Google and NASA Partner in Quantum Computing Project -- Vendor D-Wave scores big with a sale to NASA's Quantum Intelligence Lab." By Joe Casad; May 21, **2013** [https://www.linux-magazine.com/Online/News/Google-and-NASA-Partner-in-Quantum-Computing-Project](https://www.linux-magazine.com/Online/News/Google-and-NASA-Partner-in-Quantum-Computing-Project)  
+ 
 
 ### Quantum-Resilient Encryption  
 
