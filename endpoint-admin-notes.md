@@ -136,5 +136,5 @@ The Linux utility "qrencode" is one way to generate QR code for your mobile endp
 ```terminal
 user@host:~/QR$qrencode -s 9 -l H -o "<QRcodeFileName>.png" "WIFI:S:<theTargetSSID>;T:WPA2;P:<thePassword>;;"
 ```
-Replace "<theTargetSSID>" with your visitor SSID and "<thePassword>" with your visitor WiFi password, and name the file something that does not give away the secrets.  When the mobile endpoint WiFi configuration details are needed, bring up the "<QRcodeFileName>.png" file in your browser and have the visitor scan the QR code on your screen with their mobile device.  *Use this idea only in the "access to visitor/guest WiFi networks.  This approach is NOT risk-appropriate for providing access to high security networks.*  
+Replace `<theTargetSSID>` with your visitor SSID and `<thePassword>` with your visitor WiFi password, and name the file something that does not give away the secrets.  When the mobile endpoint WiFi configuration details are needed, bring up the `<QRcodeFileName>.png` file in your browser and have the visitor scan the QR code on your screen with their mobile device.  *Use this idea only in the "access to visitor/guest WiFi networks.  This approach is NOT risk-appropriate for providing access to high security networks.*  
 
