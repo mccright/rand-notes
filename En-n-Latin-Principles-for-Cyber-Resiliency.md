@@ -45,7 +45,8 @@
 | use isolation                               | uti segregationem                          |
 | concentrate on common critical assets       | incumbo in communi discrimine bona         |
 | concentrate on common critical systems      | incumbo in communi discrimine ratio        |
-| [understand every tradeoff]understand every compromise                 | intelligere omnis compromissum|
+| understand every tradeoff                   | intelligere omnis compromissum             |
+| understand every compromise                 | intelligere omnis compromissum             |
 | instrument sensitive transactions           | instrumentum sensitiva rebus               |
 | handle exceptions                           | tractare exceptiones                       |
 | enforce access control                      | exigendum accessum imperium                |
