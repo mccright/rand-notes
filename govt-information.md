@@ -4,6 +4,11 @@
 * Use your government - interact with your representatives: [https://github.com/unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)  
 * Congressional Research Service Reports: [https://www.everycrsreport.com/topics.html](https://www.everycrsreport.com/topics.html) and How that site is built: [https://github.com/JoshData/crs-reports-website](https://github.com/JoshData/crs-reports-website)  
     * Downloads Congressional Research Service (CRS) reports from the CRS.gov website (which is only visible from within the U.S. Capitol computer network) [https://github.com/JoshData/crs-reports-scraper](https://github.com/JoshData/crs-reports-scraper)  
+* Guide to the Records of the U.S. House of Representatives at the National Archives, 1789-1989, National Archives and Records Administration [http://www.archives.gov/legislative/guide/house/table-of-contents-short.html](http://www.archives.gov/legislative/guide/house/table-of-contents-short.html)  
+* Guide to the Records of the U.S. Senate at the National Archives, 1789-1989, National Archives and Records Administration [http://www.archives.gov/legislative/guide/senate/table-of-contents-short.html](http://www.archives.gov/legislative/guide/senate/table-of-contents-short.html)  
+* Journals of the Continental Congress https://memory.loc.gov/ammem/amlaw/lwjc.html  
+* Religion and the Founding of the American Republic https://www.loc.gov/exhibits/religion/rel04.html  
+* A Library of Congress page linking to a range of government resources [https://memory.loc.gov/ammem/amlaw/lwrel.html](https://memory.loc.gov/ammem/amlaw/lwrel.html)  
 
 
 ## What have your representatives been doing?
