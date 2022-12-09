@@ -65,12 +65,10 @@ CS Class Chat app using Flask
 * GNU Social  
 * RocketChat [https://github.com/RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)  
 * Zulip [https://github.com/zulip/zulip](https://github.com/zulip/zulip) [use this version [https://github.com/zulip/docker-zulip](https://github.com/zulip/docker-zulip)]  
-* RevoltChat [https://github.com/revoltchat/](https://github.com/revoltchat/)  
+* RevoltChat [https://github.com/revoltchat/](https://github.com/revoltchat/) and [https://github.com/revoltchat/self-hosted](https://github.com/revoltchat/self-hosted)  
 * HubZilla 
-* TalkTalkTalk single-page chat room [https://github.com/josephernest/talktalktalk](https://github.com/josephernest/talktalktalk); My initial experimentation leads me to believe that its Python 2 code is not going to work in a Python 3 world without some material upgrading.  I am setting this option aside for now.  
 * Este es el repositorio de los contenidos de la Wiki de Python Argentina? [https://github.com/PyAr/wiki](https://github.com/PyAr/wiki)  
 * Another Python 2 chat system: [https://github.com/illBeRoy/secured-chat-server](https://github.com/illBeRoy/secured-chat-server)  
-* surevine / web-chat [https://github.com/surevine/web-chat](https://github.com/surevine/web-chat)  
 * hedgedoc [https://github.com/hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) and [https://docs.hedgedoc.org/setup/docker/](https://docs.hedgedoc.org/setup/docker/)  
 * MatterMost [https://github.com/mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)  
   * or one of the other XMPP servers listed at: [https://en.wikipedia.org/wiki/Comparison_of_XMPP_server_software](https://en.wikipedia.org/wiki/Comparison_of_XMPP_server_software)  
@@ -78,9 +76,13 @@ CS Class Chat app using Flask
 * Rūrusetto (ルールセット)  
 [https://github.com/Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)  
 * Passing on Okuna - it is interesting, but looks *too big* and likely too much work for my home environment needs [https://github.com/OkunaOrg/okuna-api](https://github.com/OkunaOrg/okuna-api)  
+* TalkTalkTalk single-page chat room [https://github.com/josephernest/talktalktalk](https://github.com/josephernest/talktalktalk); My initial experimentation leads me to believe that its Python 2 code is not going to work in a Python 3 world without some material upgrading.  I am setting this option aside for now.  
+* surevine / web-chat (*it requires a collection of distributed dependencies that does not fit my urge for external independence*) [https://github.com/surevine/web-chat](https://github.com/surevine/web-chat)  
 
 * This is not core to the mission above, but maybe experiment with [Funkwhale](https://funkwhale.audio/) [https://dev.funkwhale.audio/funkwhale/funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale), [https://blog.funkwhale.audio/](https://blog.funkwhale.audio/), and   
   * Docker image from Ned Kelley: [https://github.com/ultimate-pms/ultimate-media-server-core/tree/master/dockerfiles/server/docker-funkwhale](https://github.com/ultimate-pms/ultimate-media-server-core/tree/master/dockerfiles/server/docker-funkwhale)  
   *  funkwhale music import script from Ned Kelley: [https://github.com/ultimate-pms/ultimate-media-server-core/blob/master/scripts/funkwhale/funkwhale_bump-files.sh](https://github.com/ultimate-pms/ultimate-media-server-core/blob/master/scripts/funkwhale/funkwhale_bump-files.sh)  
+
+* If standing up your own is just too much work but you still want an easy-to-use primative, text-only chat interface, you might try [https://www.chatzy.com](https://www.chatzy.com/)  
 
 * Also a little off-topic, but still relevant to the *privately sharing information* mission -- SecretShare, A *simple* library implementing Adi Shamir's "How to share a secret" algorithm written in Python: [https://github.com/HacKanCuBa/secretshare-py](https://github.com/HacKanCuBa/secretshare-py)  
