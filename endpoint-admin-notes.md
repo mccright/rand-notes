@@ -103,6 +103,7 @@ I have been adding some simple Linux troubleshooting reminders to a different fi
 * **Fedora Live**: Fedora Xfce Desktop is implemented to be fast and lightweight.  It is shipped as a live operating system.  It includes everything you need to try out Fedora's Xfce Desktop.  You don't have to erase anything on your current system to try it out, and it won't put your existing files at risk.  You can have the boot copy all files to RAM first so that it runs very fast using the ```rd.live.ram=1``` boot parameter (*press the TAB key at the grub boot menu*).  If you like it after a test drive, you can install it to a local hard drive from the Live Media desktop. [https://spins.fedoraproject.org/xfce/](https://spins.fedoraproject.org/xfce/)  
 
 * **Lubuntu**:  Lubuntu is a fast and lightweight Ubuntu based operating system using the minimal desktop LXQT and a selection of light applications. Lubuntu has very low hardware requirements.  That said, it makes a lean platform on which to build a fast development endpoint.  [https://lubuntu.me/](https://lubuntu.me/)  
+  * NOTE: Starting with Ubuntu 22.04 some legacy behaviors have changed. When you customize audio playback options using Audio Playback Devices (*for example, using the speakers on a non-default HDMI display*), the configuration is changed back to defaults after the endpoint system returns from being in *sleep* mode.  Use pavucontrol (*install the **pavucontrol-qt** package*) to set the default and fallback audio outputs, and they will remain as you expect with legacy expectations. [*this fix was explained by Neil Bothwick in the December 2022 Linux Format, page 11*]  
 
 * **SysLinuxOS**: SysLinuxOS is a specialized Linux operating system for those in infrastructure roles and is currently based on Debian 11 bullseye and a modern kernel (*kernel 5.16-amd64 on 2022-09-03*).  It comes with a large, broad spectrum of applications and utilities installed that would support many categories of infrastructure, maintenance, and collaboration work.  There are two versions, one using the Mate desktop and the other using Gnome.  [https://syslinuxos.com](https://syslinuxos.com)  
 
@@ -113,7 +114,29 @@ In my experience, it can save you some time to verify that the <appName>.AppImag
 ```ls -al <appName>.AppImage```  
 If it is not, set it so:  
 ```chmod +x <appName>.AppImage```  
+See also, "Updating your menu manually" section below if your issue is that a given AppImage-delivered application is not available in your menu...  
 
+### Install a Given Flatpack-Packaged Application  
+Assume -- *for this example* -- what we need Flatpak because that is how Github Desktop is distributed.  
+1. Install Flatpak (once)  
+```sudo apt install flatpak -y```  
+Then, before you proceed, reboot your system, or else you will have issues such as applications icons not appearing.  
+```reboot```  
+2. Enable Flatpack using the following command in your terminal (once).  
+``sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo```  
+3.  Now install Github Desktop with the following flatpak command:  
+```flatpak install flathub io.github.shiftey.Desktop -y```  
+You can launch GitHub Desktop with:  
+```flatpak run io.github.shiftey.Desktop```  
+Or use your menu:  
+```Activities > Show Applications > Github Desktop```  
+4. Periodically, update/upgrade Github Desktop  
+For Flatpak, run the following command to check in your terminal for upgrades.  
+```flatpak update```  
+See also, "Updating your menu manually" section below if your issue is that a given Flatpack-delivered application is not available in your menu...   
+
+### Updating your menu manually  
+System-wide desktop configuration files are in ```/usr/share/applications/```.  User desktop configuration files are in ```$HOME/.local/share/applications```.  Check there for a ```.desktop``` file associated with the one you want to appear in the menu.  ToDo: Explain how to fix it, or to create a new one...  
 
 ### Writing and Reading Bootable USB Drives  
 * USBImager is a simple GUI application that writes compressed disk images to USB drives and creates backups. Available platforms: Windows, MacOSX and Linux. [https://bztsrc.gitlab.io/usbimager/](https://bztsrc.gitlab.io/usbimager/) and source at [https://gitlab.com/bztsrc/usbimager](https://gitlab.com/bztsrc/usbimager)  
