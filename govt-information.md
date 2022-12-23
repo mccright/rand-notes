@@ -19,3 +19,14 @@
 * U.S. Senate [https://www.senate.gov/](https://www.senate.gov/)  
 * [https://www.visitthecapitol.gov/plan-visit](https://www.visitthecapitol.gov/plan-visit)  
 
+-----------
+### Publicly available geospatial datasets  
+* https://github.com/giswqs/aws-open-data-geo  
+and from there:  
+- A list of open datasets on AWS: [aws-open-data](https://github.com/giswqs/aws-open-data)  
+- A list of open geospatial datasets on AWS: [aws-open-data-geo](https://github.com/giswqs/aws-open-data-geo)  
+- A list of open geospatial datasets on AWS with a STAC endpoint: [aws-open-data-stac](https://github.com/giswqs/aws-open-data-stac)  
+- A list of STAC endpoints from stacindex.org: [stac-index-catalogs](https://github.com/giswqs/stac-index-catalogs)  
+- A list of geospatial datasets on Microsoft Planetary Computer: [Planetary-Computer-Catalog](https://github.com/giswqs/Planetary-Computer-Catalog)  
+- A list of geospatial datasets on Google Earth Engine: [Earth-Engine-Catalog](https://github.com/giswqs/Earth-Engine-Catalog)  
+- A list of geospatial data catalogs: [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs)  
