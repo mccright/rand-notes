@@ -83,7 +83,7 @@ Or better, see: [https://securityinabox.org/en/files/destroy-sensitive-informati
 [https://github.com/jlevy/the-art-of-command-line#one-liners](https://github.com/jlevy/the-art-of-command-line#one-liners)  
 And The Art of Command Line from the same author: [https://github.com/jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)  
 
-If you use Solid State Drives (SSDs) (standard in modern computers), USB *thumb* drives, or SD cards/flash memory cards do not use the approach described above. Secure deletion on SSD storage media is a challenge because they use *wear leveling*, a technology that attempts to spread data evenly across all of the media so that any one part of that storage will not be overwritten too many times -- so that the storage device will last longer.  Wear leveling interferes with secure erase programs, which deliberately try to overwrite sensitive files with junk data in order to permanently erase them. As a result, it is better to use full-disk encryption. Encryption avoids the difficulty of secure erasing by making any file on the drive difficult to recover without the required secret.
+**If you use Solid State Drives (SSDs)** (standard in modern computers), USB *thumb* drives, or SD cards/flash memory cards do not use the approach described above. Secure deletion on SSD storage media is a challenge because they use *wear leveling*, a technology that attempts to spread data evenly across all of the media so that any one part of that storage will not be overwritten too many times -- so that the storage device will last longer.  Wear leveling interferes with secure erase programs, which deliberately try to overwrite sensitive files with junk data in order to permanently erase them. As a result, it is better to use full-disk encryption. Encryption avoids the difficulty of secure erasing by making any file on the drive difficult to recover without the required secret.
 
 For more on this topic and about digital security more broadly, you might review: [https://icorn.org/digital-security](https://icorn.org/digital-security)  
 
@@ -93,7 +93,13 @@ If an application barks about not being able to use port *NN* (for example port 
 ```terminal
 sudo ss -tlpn | grep -E ":(80|443)"
 ```
-[Based on a blog ](https://francoconidi.it/solved-certbot-error-could-not-bind-to-ipv4/)
+[Based on a blog ](https://francoconidi.it/solved-certbot-error-could-not-bind-to-ipv4/)  
+
+If that gives some evidence that an application is using a given TCP port, but leaves the root problem dangling, then we might need to *see* the network traffic...  One approach is to '*listen*' to the network interface that *should* be receiving that traffic.  One of the most portable ways to approach this task is with ```tcpdump```.  See:  
+* "A tcpdump Primer with Examples." [https://danielmiessler.com/study/tcpdump/](https://danielmiessler.com/study/tcpdump/)  
+* "Tcpdump usage examples." [http://www.rationallyparanoid.com/articles/tcpdump.html](http://www.rationallyparanoid.com/articles/tcpdump.html)  
+* Network Traffic Analysis [http://sleepyhead.de/howto/?href=network#traffic](http://sleepyhead.de/howto/?href=network#traffic)  
+* And a close relative, tstat, "TCP STatistic and Analysis Tool." [http://tstat.tlc.polito.it/](http://tstat.tlc.polito.it/)  
 
 ### Some Simple Linux Troubleshooting Reminders  
 I have been adding some simple Linux troubleshooting reminders to a different file in this repo.  See:  [https://github.com/mccright/rand-notes/blob/master/Simple-Linux-Troubleshooting.md](https://github.com/mccright/rand-notes/blob/master/Simple-Linux-Troubleshooting.md)  
@@ -160,4 +166,29 @@ The Linux utility "qrencode" is one way to generate QR code for your mobile endp
 user@host:~/QR$qrencode -s 9 -l H -o "<QRcodeFileName>.png" "WIFI:S:<theTargetSSID>;T:WPA2;P:<thePassword>;;"
 ```
 Replace `<theTargetSSID>` with your visitor SSID and `<thePassword>` with your visitor WiFi password, and name the file something that does not give away the secrets.  When the mobile endpoint WiFi configuration details are needed, bring up the `<QRcodeFileName>.png` file in your browser and have the visitor scan the QR code on your screen with their mobile device.  *Use this idea only in the "access to visitor/guest WiFi networks.  This approach is NOT risk-appropriate for providing access to high security networks.*  
+
+
+## If you support Windows endpoints as well:  
+
+### Searching for user details in Active Directory using PowerShell  
+ * If you know the login name: All the details that you are permitted to see  
+     `$user="\<userName\>"`  
+     `Get-ADUser -Identity $user -Properties *`  
+ * If you only know the email address: All the details that you are permitted to see   
+     `$emailAddr="<Email_Address\>"`  
+     `Get-ADUser -Filter {EmailAddress -eq $emailAddr} -Properties *`  
+ * If you want to know information about the manager of a given user  
+     `$user="\<userName\>"`  
+     `$mgrcn = Get-ADUser -Identity $user -Properties Manager | Select-Object -Property Manager`  
+     `$mgrcnstr = $mgrcn.Manager`  
+     `Get-ADUser -Filter {DistinguishedName -eq $mgrcnstr} -Properties DisplayName,UserPrincipalName,whenCreated,CanonicalName,City,LastLogonDate,mobile,MobilePhone,EmailAddress`  
+
+  
+### List all the Windows Domain Controllers and Sites within a given Domain  
+At a command prompt:  
+`c:\windows\system32\nltest.exe /DCLIST:<domainName>`  
+  
+### Simple way to temporarily bypass PowerShell execution policy
+ * From the run dialog (or command prompt) just execute “powershell –ExecutionPolicy Bypass” and it will start a PowerShell session that allows for running scripts and keeps the lowered permissions isolated to just the current running process.  
+      `C:\> powershell –ExecutionPolicy Bypass [command] [parameters]`  
 
