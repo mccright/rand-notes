@@ -24,7 +24,7 @@ d. Incarceration information. On at least a monthly basis, information from the 
 **2. State records —— households.** The department shall receive and review all of the following information concerning individuals in households enrolled in the supplemental nutrition assistance program that indicates a change in circumstances that may affect eligibility:  
 a. Tax information. On at least a quarterly basis, information from the department of revenue including but not limited to potential changes in income, wages, or residency as identified by tax records.  
 b. Unemployment information. On at least a semi-monthly basis, information from the department of workforce development including but not limited to potential changes in employment, income, or assets.  
-***then add the following for applicants to and recipients of the Iowa Medicaid program:**  
+(*plus the following additional data requirements for applicants to and recipients of the Iowa Medicaid program:*)  
 a. Death records. On at least a monthly basis, information from the department including but not limited to death records.  
 b. Employment information. On at least a quarterly basis, information from the department of workforce development including but not limited to changes in employment or wages.  
 c. Residency information. On at least a monthly basis, information including but not limited to potential changes in residency as identified by out-of-state electronic benefit transfer transactions.  
@@ -35,11 +35,9 @@ b. Income and employment information maintained in the national directory of new
 c. Payment and earnings information maintained by the United States department of housing and urban development.  
 d. National fleeing felon information maintained by the United States federal bureau of investigation.  
 
+(*plus the following additional data requirements for applicants to and recipients of the Iowa Medicaid program:*)  
 **3. Real-time record review —— applicants.** Prior to determining the eligibility of an applicant for Medicaid, the department shall access information for every member of the applicant’s household from the data sources specified in this section and shall conduct a review of nationwide public records data sources of physical asset ownership. The nationwide public records data sources may include but are not limited to records of real property and automobiles, watercraft, aircraft, luxury vehicles, and any other vehicles owned by the applicant.  
-
 **4. Residency information —— applicants.** Prior to determining the eligibility of an applicant for Medicaid, the department shall require proof of residency from the applicant. (*Note: ...which seems to imply an already-required definition: "as identified by out-of-state electronic benefit 8 transfer transactions."*)  
-
-
 
 
 ### The bill also introduces additional/new identity *verification* requirements (Section 2) 
