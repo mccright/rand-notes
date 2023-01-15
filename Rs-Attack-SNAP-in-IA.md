@@ -46,5 +46,6 @@ d. National fleeing felon information maintained by the United States federal bu
 >...prior to the department awarding public assistance benefits, an applicant shall complete a computerized identity authentication process to confirm the identity of the applicant. Identity authentication shall be accomplished through a knowledge-based questionnaire consisting of financial and personal questions.  
 
 ## Additional Resource  
-### "The Terrible, Horrible, No Good, Very Bad SNAP Bill."  
-https://www.iowahungercoalition.org/2023/01/13/the-terrible-horrible-no-good-very-bad-snap-bill/  
+* **"The Terrible, Horrible, No Good, Very Bad SNAP Bill."** https://www.iowahungercoalition.org/2023/01/13/the-terrible-horrible-no-good-very-bad-snap-bill/  
+* **"Protect SNAP -- Tell our lawmakers not to take food away from Iowans"** 
+https://www.iowahungercoalition.org/protect-snap/#details  
