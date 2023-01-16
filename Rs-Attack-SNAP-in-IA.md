@@ -14,6 +14,7 @@ In addition to limiting food choices (*and more*), this bill adds new data colle
 
 Concentrating detailed and comprehensive data about Iowans into systems/services required by Iowa Law, and then expanding the number and range of personnel requiring access to that data is a sure path to enhancing the security risks that Iowans must manage.  That information security risk management is not cheap and this new law will add materially to the cost of State government operations.  Periodically responding to information security breaches (*because they **will** occur*) will also impose new and hard-to-predict expenses on State government and new workloads on State government personnel.  
 
+Call or write your Iowa State Representative to let them know about the negative implications of House File 3 and your feelings about it.  
 
 ### New Data Requirements / New Data Matching Challenges  
 a. Death records. On at least a monthly basis, information from the department including but not limited to death records.  
