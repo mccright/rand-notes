@@ -4,6 +4,11 @@
 * A searchable database of health care data breaches starting in 2009 and updated daily. [https://c0cqk195.caspio.com/dp/49083000924a653ece704bd889c6](https://c0cqk195.caspio.com/dp/49083000924a653ece704bd889c6)  
 
 
+* [Census.gov data](https://www.census.gov/quickfacts/fact/table/US/PST045222):  
+    * Quickfacts (by state) [https://www.census.gov/quickfacts/IA](https://www.census.gov/quickfacts/IA)  
+    * Analogous data from the state of Iowa [https://www.iowadatacenter.org/](https://www.iowadatacenter.org/)  
+
+
 * List of more than 30,000 police officers banned/decertified by 44 states: [https://www.usatoday.com/in-depth/news/investigations/2019/04/24/biggest-collection-police-accountability-records-ever-assembled/2299127002/](https://www.usatoday.com/in-depth/news/investigations/2019/04/24/biggest-collection-police-accountability-records-ever-assembled/2299127002/)  
 
 
