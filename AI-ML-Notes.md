@@ -29,12 +29,9 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * 
 * 
 
-BERT, one of our first Transformer models, was revolutionary in understanding the intricacies of human language. Two years ago, we introduced MUM, which is 1,000 times more powerful than BERT and has next-level and multi-lingual understanding of information which can pick out key moments in videos and provide critical information, including crisis support, in more languages.
-
-Now, our newest AI technologies — like LaMDA, PaLM, Imagen and MusicLM — are building on this, creating entirely new ways to engage with information, from language and images to video and audio. 
-
 ## Timeline Ideas:  
-2022: OpenAI released ChatGPT - an AI system that accepts inputs in plain language and spit out human-friendly, content relevant results.
+2023: [Google releases a conversational AI service called "*Bard*"](https://blog.google/technology/ai/bard-google-ai-search-updates/) to compte with ChatGPT.
+2022: OpenAI released ChatGPT - an a conversational AI service that accepts inputs in plain language and spits out human-friendly, content relevant results.
 2021: [Language Model for Dialogue Applications](https://blog.google/technology/ai/lamda/) (or LaMDA for short)
 2020: OpenAI GPT-3 a language model that generates text using pre-trained algorithms.  
 2019:  
@@ -85,6 +82,7 @@ Now, our newest AI technologies — like LaMDA, PaLM, Imagen and MusicLM — are
  
 
 ## Some References:  
+* "Artificial Intelligence at Google: Our Principles" [https://ai.google/principles/](https://ai.google/principles/)  
 * "Gathering Strength, Gathering Storms: The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report." September 2021 [http://ai100.stanford.edu/2021-report](http://ai100.stanford.edu/2021-report)  
 * Kahneman, Daniel.  "Thinking, Fast and Slow." [Amazon](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
 * Stanford 100 Year Study on AI [http://erichorvitz.com/100_year_study_on_AI_presentation_12_2016.pdf](http://erichorvitz.com/100_year_study_on_AI_presentation_12_2016.pdf)    
