@@ -1,5 +1,14 @@
 ## Some Endpoint Admin Notes  
 
+### Don't forget that Microsoft PowerShell runs on Linux  
+[https://github.com/PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)  
+Binary packages are available for some distributions, and [documentation for a range of distributions is available](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.3).  You can also [install PowerShell from the Snap store](https://learn.microsoft.com/en-us/powershell/scripting/install/install-other-linux?source=recommendations&view=powershell-7.3#installation-via-snap):  
+```terminal
+sudo snap install powershell --classic  
+```
+Then use ```pwsh``` to open PowerShell.  
+
+
 ### Developers who want to expose their applications on their endpoint to the Internet
 Consider **[ngrok](https://ngrok.com)**: ngrok is a globally distributed reverse proxy fronting your web services running on a given endpoint, or in any cloud or private network.  *Paid [ngrok](https://ngrok.com/pricing)* has additional features that support its promotion as "the programmable network edge that adds connectivity, security, and observability to your apps with no code changes."  Pay attention to the details of every request.  The free version may not be suitable for your business, your local environment, or your regulators/investors/customers.  
 
@@ -169,6 +178,11 @@ Replace `<theTargetSSID>` with your visitor SSID and `<thePassword>` with your v
 
 
 ## If you support Windows endpoints as well:  
+
+### If you are just starting in this role  
+...you might start with [PowerShell 101](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.3)  
+And "[Deep Dives](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/overview?view=powershell-7.3)"  
+And a collection of [sample scripts for system administration](https://learn.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.3)  
 
 ### Searching for user details in Active Directory using PowerShell  
  * If you know the login name: All the details that you are permitted to see  
