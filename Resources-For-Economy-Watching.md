@@ -32,6 +32,7 @@
 * Durable-goods orders: [https://tradingeconomics.com/united-states/durable-goods-orders](https://tradingeconomics.com/united-states/durable-goods-orders)  
 * Industrial production: [https://www.federalreserve.gov/releases/g17/current/](https://www.federalreserve.gov/releases/g17/current/)  
 * Senior loan officer survey: [https://www.federalreserve.gov/data/sloos.htm](https://www.federalreserve.gov/data/sloos.htm)  
+* Total Consumer Credit Owned and Securitized [TOTALSL] from the Board of Governors of the Federal Reserve System (US) [https://fred.stlouisfed.org/series/TOTALSL](https://fred.stlouisfed.org/series/TOTALSL)  
 * Building permits: [https://tradingeconomics.com/united-states/building-permits](https://tradingeconomics.com/united-states/building-permits)  
 * Housing starts: [https://www.census.gov/construction/nrc/index.html](https://www.census.gov/construction/nrc/index.html)  
 * Distributional Financial Accounts Overview [https://www.federalreserve.gov/releases/z1/dataviz/dfa/](https://www.federalreserve.gov/releases/z1/dataviz/dfa/) and [https://www.federalreserve.gov/releases/efa/efa-distributional-financial-accounts.htm](https://www.federalreserve.gov/releases/efa/efa-distributional-financial-accounts.htm)  
@@ -96,6 +97,7 @@ MMT theorists have not been well tested in the *real world* but may have an oppo
 
 
 #### Need to research these...  
+* Cost-of-Thriving Index (by the conservative "American Compass" organization: [https://americancompass.org/2023-cost-of-thriving-index/](https://americancompass.org/2023-cost-of-thriving-index/)  
 * A New Barometer of Global Supply Chain Pressures [https://libertystreeteconomics.newyorkfed.org/2022/01/a-new-barometer-of-global-supply-chain-pressures/](https://libertystreeteconomics.newyorkfed.org/2022/01/a-new-barometer-of-global-supply-chain-pressures/)  and  Global Supply Chain Pressure Index: March 2022 Update [https://libertystreeteconomics.newyorkfed.org/2022/03/global-supply-chain-pressure-index-march-2022-update/](https://libertystreeteconomics.newyorkfed.org/2022/03/global-supply-chain-pressure-index-march-2022-update/)  
 * IDEAS is the largest bibliographic database dedicated to Economics and available freely on the Internet [https://ideas.repec.org/](https://ideas.repec.org/)  
 * Rational Heuristics? Expectations and Behaviors in Evolving Economies with Heterogeneous Interacting Agents. By Giovanni Dosi, Mauro Napoletano, Andrea Roventini, Joseph E. Stiglitz, Tania Treibich. First published: 14 April 2020  [https://doi.org/10.1111/ecin.12897](https://doi.org/10.1111/ecin.12897)  
