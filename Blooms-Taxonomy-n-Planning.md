@@ -87,6 +87,7 @@ Internalize values - *demonstrate* a value system that aligns with their behavio
 
 #### REFERENCES:  
 * [https://en.wikipedia.org/wiki/Bloom%27s_taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)  
-* [http://www.infosemantics.com.au/sites/default/files/Blooms_Taxonomy_for_Drag_and_Drop.png](http://www.infosemantics.com.au/sites/default/files/Blooms_Taxonomy_for_Drag_and_Drop.png) {Downloaded 2011-08-16}  
+* [http://www.infosemantics.com.au/sites/default/files/Blooms_Taxonomy_for_Drag_and_Drop.png](http://www.infosemantics.com.au/sites/default/files/Blooms_Taxonomy_for_Drag_and_Drop.png) (Downloaded 2011-08-16)  
+  * ...and later at: [https://www.infosemantics.com.au/wp-content/uploads/2010/11/Blooms_Taxonomy_for_E-Learning-1024x706.png](https://www.infosemantics.com.au/wp-content/uploads/2010/11/Blooms_Taxonomy_for_E-Learning-1024x706.png) (Downloaded 2023-02-23)  
 
 
