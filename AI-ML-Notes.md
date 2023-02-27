@@ -13,18 +13,18 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * Autonomous driving  
 * Language translation  
 * Interactive personal assistance  
-* *Consumer*/consumption suggestions, advice, and '*support*' (and product/service reviews)  
+* *Consumer*/consumption suggestions, advice, and *support* (and product/service reviews)  
 
 
 ## Resources:  
 * Allen Institute for Artificial Intelligence [https://allenai.org/](https://allenai.org/)  
 * AI2 Leader Boards [https://leaderboard.allenai.org/](https://leaderboard.allenai.org/)  
-* One view of *current topics* in AI/ML: [https://arxiv.org/search/<*truncated*>](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=cs.AI&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first)  
+* One view of *current topics* in AI/ML:  [https://arxiv.org/search/truncated](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=cs.AI&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first)  
 
 
 # Natural Language Processing and Common Sense
 ### Types of Reasoning:  
-* **Human intuition and instinct**: Its processes are unconscious, *effortless*, fast, associative, 'automatic-pilot,' slow-learning.  Its content is conceptual, temporal (for example before and after) and can be evoked by language. [D.Kahneman1](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
+* **Human intuition and instinct**: Its processes are unconscious, *effortless*, fast, associative, *automatic-pilot*, slow-learning.  Its content is conceptual, temporal (for example before and after) and can be evoked by language. [D.Kahneman1](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
 * **Rational thinking**: Its processes are require effort, and are slow, *logical*, governed by rules, often serial, sometimes flexible, and indecisive.  Its content is conceptual, temporal and can be evoked by language. [D.Kahneman1](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
 
 
@@ -35,18 +35,15 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 2020: OpenAI GPT-3 a language model that generates text using pre-trained algorithms.  
 2019:  
 2018:  'Human-level performance' on reading comprehension (limited data set & limited definition of *comprehension*) -- Alibaba language processing AI beats top humans at a Stanford University reading and comprehension test, scoring 82.44 against 82.30 on 100,000 questions.  
-2017:  
- * 'Super-human performance' on speech recognition  
+2017:  'Super-human performance' on speech recognition  
  * [Transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) neural network architecture  
- * Google’s [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Chinese Go champion, Ke Jie](https://www.deepmind.com/research/highlighted-research/alphago)  
-2016:  
- * 'Google neural' machine translation  
- * Google’s [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Go champion Lee Sedol](https://www.deepmind.com/research/highlighted-research/alphago)  
-2015:  
- * 'Super-human performance' on image captioning  
+ * Google's [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Chinese Go champion, Ke Jie](https://www.deepmind.com/research/highlighted-research/alphago)  
+2016:  'Google neural' machine translation  
+ * Google's [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Go champion Lee Sedol](https://www.deepmind.com/research/highlighted-research/alphago)  
+2015:  'Super-human performance' on image captioning  
  * 'Super-human performance' on object recognition  
 2014:  
-2013: Robot HRP-2, built by SCHAFT Inc. of Japan, a subsidiary of Google, defeats 15 teams to win DARPA’s Robotics Challenge Trials by completing disaster response tasks, including driving a vehicle, walking over debris, climbing a ladder, removing debris, walking through doors, cutting a wall, closing valves, and connecting a hose.  
+2013: Robot HRP-2, built by SCHAFT Inc. of Japan, a subsidiary of Google, defeats 15 teams to win DARPA's Robotics Challenge Trials by completing disaster response tasks, including driving a vehicle, walking over debris, climbing a ladder, removing debris, walking through doors, cutting a wall, closing valves, and connecting a hose.  
 2012:  
 2011: IBM's Watson wins Jeopardy.  Apple introduces Siri.  
 2010:  
@@ -67,7 +64,7 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 
 ## Some Definitions:  
 
-* *Common Sense* "It's the unspoken, implicit knowledge that you and I have. It's so obvious that we often don’t talk about it." [Interview with Yejin Choi](https://www.nytimes.com/interactive/2022/12/26/magazine/yejin-choi-interview.html)  
+* *Common Sense* "It's the unspoken, implicit knowledge that you and I have. It's so obvious that we often don't talk about it." [Interview with Yejin Choi](https://www.nytimes.com/interactive/2022/12/26/magazine/yejin-choi-interview.html)  
 * *Common Sense* is the basic level of 'practical' knowledge and reasoning concerning everyday situations and events that are commonly shared among most people.  It is essential for humans to live and interact with each other in a reasonable and safe way. [Yejin Choi](https://homes.cs.washington.edu/~yejin/) [at](https://homes.cs.washington.edu/~msap/acl2020-commonsense/slides/01%20-%20Intro.pdf)  *Common Sense* is a difficult challenge and integration into AI implementations still suffer from:  
   * *Common sense inferences* are about predicting new information that is likely to be true based on partially available information. [Yejin Choi](https://homes.cs.washington.edu/~yejin/) at: [https://homes.cs.washington.edu/~msap/acl2020-commonsense/slides/01%20-%20Intro.pdf](https://homes.cs.washington.edu/~msap/acl2020-commonsense/slides/01%20-%20Intro.pdf)  
   * *Common sense* is essential for humans to live and interact with each other in a reasonable and safe way, and it is essential for AI to understand human needs and actions better. [Yejin Choi](https://homes.cs.washington.edu/~yejin/) at: [https://homes.cs.washington.edu/~msap/acl2020-commonsense/slides/01%20-%20Intro.pdf](https://homes.cs.washington.edu/~msap/acl2020-commonsense/slides/01%20-%20Intro.pdf)  
