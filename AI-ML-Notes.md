@@ -36,18 +36,16 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 2021: [Language Model for Dialogue Applications](https://blog.google/technology/ai/lamda/) (or LaMDA for short)  
 2020: OpenAI GPT-3 a language model that generates text using pre-trained algorithms.  
 2019:  
-2018:  
-* 'Human-level performance' on reading comprehension (limited data set & limited definition of *comprehension*) -- Alibaba language processing AI beats top humans at a Stanford University reading and comprehension test, scoring 82.44 against 82.30 on 100,000 questions.  
-2017:  
-* 'Super-human performance' on speech recognition  
-* [Transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) neural network architecture  
-* Google’s [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Chinese Go champion, Ke Jie](https://www.deepmind.com/research/highlighted-research/alphago)  
+2018:  'Human-level performance' on reading comprehension (limited data set & limited definition of *comprehension*) -- Alibaba language processing AI beats top humans at a Stanford University reading and comprehension test, scoring 82.44 against 82.30 on 100,000 questions.  
+2017:  'Super-human performance' on speech recognition  
+      * [Transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) neural network architecture  
+      * Google’s [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Chinese Go champion, Ke Jie](https://www.deepmind.com/research/highlighted-research/alphago)  
 2016:  
-* 'Google neural' machine translation  
-* Google’s [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Go champion Lee Sedol](https://www.deepmind.com/research/highlighted-research/alphago)  
+      * 'Google neural' machine translation  
+      * Google’s [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Go champion Lee Sedol](https://www.deepmind.com/research/highlighted-research/alphago)  
 2015:  
-* 'Super-human performance' on image captioning  
-* 'Super-human performance' on object recognition  
+      * 'Super-human performance' on image captioning  
+      * 'Super-human performance' on object recognition  
 2014:  
 2013: Robot HRP-2, built by SCHAFT Inc. of Japan, a subsidiary of Google, defeats 15 teams to win DARPA’s Robotics Challenge Trials by completing disaster response tasks, including driving a vehicle, walking over debris, climbing a ladder, removing debris, walking through doors, cutting a wall, closing valves, and connecting a hose.  
 2012:  
