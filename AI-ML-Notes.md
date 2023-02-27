@@ -9,6 +9,7 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * Investing  
 * Logistics systems  
 * Medical diagnosis  
+* Ssearch 
 * Autonomous driving  
 * Language translation  
 * Interactive personal assistance  
@@ -64,6 +65,8 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * [https://www.ai.nl/artificial-intelligence/timeline-of-ai-a-brief-history-of-artificial-intelligence-its-highlights/](https://www.ai.nl/artificial-intelligence/timeline-of-ai-a-brief-history-of-artificial-intelligence-its-highlights/)  
 * "LaMDA: our breakthrough conversation technology." [https://blog.google/technology/ai/lamda/](https://blog.google/technology/ai/lamda/) By Eli Collins and Zoubin Ghahramani.  
 * "Transformer: A Novel Neural Network Architecture for Language Understanding." [https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) Thursday, August 31, 2017, By Jakob Uszkoreit  
+* "Why Do A.I. Chatbots Tell Lies and Act Weird? Look in the Mirror." [https://www.nytimes.com/2023/02/26/technology/ai-chatbot-information-truth.html](https://www.nytimes.com/2023/02/26/technology/ai-chatbot-information-truth.html) By Cade Metz  
+
 
 ## Some Definitions:  
 
@@ -87,12 +90,12 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * Kahneman, Daniel.  "Thinking, Fast and Slow." [Amazon](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
 * Stanford 100 Year Study on AI [http://erichorvitz.com/100_year_study_on_AI_presentation_12_2016.pdf](http://erichorvitz.com/100_year_study_on_AI_presentation_12_2016.pdf)    
 (https://en.wikipedia.org/wiki/Zero-shot_learning)  
-ImageNet (zero-shot): SOTA, surpassing OpenAI CLIP (https://openai.com/blog/clip/).
-LAMA (factual and commonsense knowledge): Surpassed AutoPrompt (https://arxiv.org/abs/2010.15980).
-LAMBADA (cloze tasks): Surpassed Microsoft Turing NLG (https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/).
-SuperGLUE (few-shot): SOTA, surpassing OpenAI GPT-3 (https://arxiv.org/abs/2005.14165).
-UC Merced Land Use (zero-shot): SOTA, surpassing OpenAI CLIP (https://openai.com/blog/clip/).
-MS COCO (text generation diagram): Surpassed OpenAI DALL·E (https://openai.com/blog/dall-e/).
-MS COCO (English graphic retrieval): Surpassed OpenAI CLIP and Google ALIGN (https://ai.googleblog.com/2021/05/align-scaling-up-visual-and-vision.html).
-MS COCO (multilingual graphic retrieval): Surpassed UC² (best multilingual and multimodal pre-trained model) (https://arxiv.org/pdf/2104.00332.pdf).
+ImageNet (zero-shot): SOTA, surpassing OpenAI CLIP (https://openai.com/blog/clip/).  
+LAMA (factual and commonsense knowledge): Surpassed AutoPrompt (https://arxiv.org/abs/2010.15980).  
+LAMBADA (cloze tasks): Surpassed Microsoft Turing NLG (https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/).  
+SuperGLUE (few-shot): SOTA, surpassing OpenAI GPT-3 (https://arxiv.org/abs/2005.14165).  
+UC Merced Land Use (zero-shot): SOTA, surpassing OpenAI CLIP (https://openai.com/blog/clip/).  
+MS COCO (text generation diagram): Surpassed OpenAI DALL·E (https://openai.com/blog/dall-e/).  
+MS COCO (English graphic retrieval): Surpassed OpenAI CLIP and Google ALIGN (https://ai.googleblog.com/2021/05/align-scaling-up-visual-and-vision.html).  
+MS COCO (multilingual graphic retrieval): Surpassed UC² (best multilingual and multimodal pre-trained model) (https://arxiv.org/pdf/2104.00332.pdf).  
 
