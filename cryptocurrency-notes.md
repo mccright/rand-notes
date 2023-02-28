@@ -25,6 +25,9 @@ Some U.S. regulators want cryptocurrencies regulated as commodities -- without a
 * Molly White's take on the predatory nature of the cryptocurrency marketplace: [https://web3isgoinggreat.com/](https://web3isgoinggreat.com/) and a recent overview of her work: [https://www.washingtonpost.com/technology/2022/05/29/molly-white-crypto/](https://www.washingtonpost.com/technology/2022/05/29/molly-white-crypto/)  
 
 
+*  In her essay on "*fake it till you make it*" culture, [Helaine Olen characterized cryptocurrency](https://www.washingtonpost.com/opinions/2023/02/27/fake-it-phrase-american-con-man/) this way: "Cryptocurrency arrived, basically a “*fake it till you make it*” form of money. It’s backed by no government, is all but impossible to use and serves no legal need."  
+
+
 * Alyssa Blackburn and collaborators used data leakage from the bitcoin blockchain to identify the activities of *anonymous* individuals over 2 years -- finding that most bitcoin was mined by only sixty-four agents, exhibiting extensive resource centralization and material cooperation among that small group: [https://aidenlab.org/bitcoin.pdf](https://aidenlab.org/bitcoin.pdf) and also see an article about her work: [https://www.nytimes.com/2022/06/06/science/bitcoin-nakamoto-blackburn-crypto.html](https://www.nytimes.com/2022/06/06/science/bitcoin-nakamoto-blackburn-crypto.html)  
 
 
