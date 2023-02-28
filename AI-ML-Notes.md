@@ -29,27 +29,30 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 
 
 ## Timeline Ideas:  
-2023: [Google releases a conversational AI service called "*Bard*"](https://blog.google/technology/ai/bard-google-ai-search-updates/) to compte with ChatGPT.  
-2022: OpenAI released ChatGPT - an a conversational AI service that accepts inputs in plain language and spits out human-friendly, content relevant results.  
-2021: [Language Model for Dialogue Applications](https://blog.google/technology/ai/lamda/) (or LaMDA for short)  
-2020: OpenAI GPT-3 a language model that generates text using pre-trained algorithms.  
-2019:  
-2018:  'Human-level performance' on reading comprehension (limited data set & limited definition of *comprehension*) -- Alibaba language processing AI beats top humans at a Stanford University reading and comprehension test, scoring 82.44 against 82.30 on 100,000 questions.  
-2017:  'Super-human performance' on speech recognition  
+* 2023: [Google releases a conversational AI service called "*Bard*"](https://blog.google/technology/ai/bard-google-ai-search-updates/) to compte with ChatGPT.  
+* 2022: OpenAI released ChatGPT - an a conversational AI service that accepts inputs in plain language and spits out human-friendly, content relevant results.  
+* 2021: [Language Model for Dialogue Applications](https://blog.google/technology/ai/lamda/) (or LaMDA for short)  
+* 2020: OpenAI GPT-3 a language model that generates text using pre-trained algorithms.  
+* 2019:  
+* 2018:  'Human-level performance' on reading comprehension (limited data set & limited definition of *comprehension*) -- Alibaba language processing AI beats top humans at a Stanford University reading and comprehension test, scoring 82.44 against 82.30 on 100,000 questions.  
+* 2017:  
+ * 'Super-human performance' on speech recognition  
  * [Transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) neural network architecture  
  * Google's [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Chinese Go champion, Ke Jie](https://www.deepmind.com/research/highlighted-research/alphago)  
-2016:  'Google neural' machine translation  
+* 2016:  
+ * 'Google neural' machine translation  
  * Google's [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo) [defeats Go champion Lee Sedol](https://www.deepmind.com/research/highlighted-research/alphago)  
-2015:  'Super-human performance' on image captioning  
+* 2015:  
+ * 'Super-human performance' on image captioning  
  * 'Super-human performance' on object recognition  
-2014:  
-2013: Robot HRP-2, built by SCHAFT Inc. of Japan, a subsidiary of Google, defeats 15 teams to win DARPA's Robotics Challenge Trials by completing disaster response tasks, including driving a vehicle, walking over debris, climbing a ladder, removing debris, walking through doors, cutting a wall, closing valves, and connecting a hose.  
-2012:  
-2011: IBM's Watson wins Jeopardy.  Apple introduces Siri.  
-2010:  
-2005: Computer scientist Sebastian Thrun and a Stanford Artificial Intelligence Laboratory team build a driverless car (*Stanley*) that was the first autonomous vehicle to complete a DARPA Grand Challenge 132-mile course in the Mojave Desert.  
-1980: The "neocognitron", which introduced the two basic types of layers in *Convolutional neural networks* (CNNs) -- convolutional layers and downsampling layers -- was [introduced by Kunihiko Fukushima in 1980](https://en.wikipedia.org/wiki/Convolutional_neural_network#History).  
-1955: "[A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence. August 31, 1955."](https://ojs.aaai.org/index.php/aimagazine/article/download/1904/1802)  
+* 2014:  
+* 2013: Robot HRP-2, built by SCHAFT Inc. of Japan, a subsidiary of Google, defeats 15 teams to win DARPA's Robotics Challenge Trials by completing disaster response tasks, including driving a vehicle, walking over debris, climbing a ladder, removing debris, walking through doors, cutting a wall, closing valves, and connecting a hose.  
+* 2012:  
+* 2011: IBM's Watson wins Jeopardy.  Apple introduces Siri.  
+* 2010:  
+* 2005: Computer scientist Sebastian Thrun and a Stanford Artificial Intelligence Laboratory team build a driverless car (*Stanley*) that was the first autonomous vehicle to complete a DARPA Grand Challenge 132-mile course in the Mojave Desert.  
+* 1980: The "neocognitron", which introduced the two basic types of layers in *Convolutional neural networks* (CNNs) -- convolutional layers and downsampling layers -- was [introduced by Kunihiko Fukushima in 1980](https://en.wikipedia.org/wiki/Convolutional_neural_network#History).  
+* 1955: "[A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence. August 31, 1955."](https://ojs.aaai.org/index.php/aimagazine/article/download/1904/1802)  
 
 
 #### Timeline Notes:  
