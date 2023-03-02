@@ -13,7 +13,7 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * Autonomous driving  
 * Language translation  
 * Interactive personal assistance  
-* *Consumer*/consumption suggestions, advice, and *support* (and product/service reviews)  
+* *Consumer*/*customer*/consumption suggestions, advice, and *support* (and product/service reviews)  
 
 
 ## Resources:  
@@ -30,7 +30,7 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 
 ## Timeline Ideas:  
 * 2023: [Google releases a conversational AI service called "*Bard*"](https://blog.google/technology/ai/bard-google-ai-search-updates/) to compte with ChatGPT.  
-* 2022: OpenAI released ChatGPT - an a conversational AI service that accepts inputs in plain language and spits out human-friendly, content relevant results.  
+* 2022: OpenAI released ChatGPT - an a LLM conversational AI service that accepts inputs in plain language and spits out human-friendly, content relevant results.  
 * 2021: [Language Model for Dialogue Applications](https://blog.google/technology/ai/lamda/) (or LaMDA for short)  
 * 2020: OpenAI GPT-3 a language model that generates text using pre-trained algorithms.  
 * 2019:  
@@ -78,6 +78,7 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * *[Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network)* (CNN)"In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of artificial neural network (ANN), most commonly applied to analyze visual imagery. CNNs are also known as Shift Invariant or Space Invariant Artificial Neural Networks (SIANN), based on the shared-weight architecture of the convolution kernels or filters that slide along input features and provide translation-equivariant responses known as feature maps. Counter-intuitively, most convolutional neural networks are not invariant to translation, due to the downsampling operation they apply to the input. They have applications in image and video recognition, recommender systems, image classification, image segmentation, medical image analysis, natural language processing, brain–computer interfaces, and financial time series."  
 * *Generative adversarial networks* (GANs) and *reinforcement learning* endow *deep networks* with the ability to produce artificial content such as fake images that pass for the real thing. "GANs consist of two interlocked components—a generator, responsible for creating realistic content, and a discriminator, tasked with distinguishing the output of the generator from naturally occurring content. The two learn from each other, becoming better and better at their respective tasks over time" [AI100Report_MT_10, page 12](https://ai100.stanford.edu/sites/g/files/sbiybj18871/files/media/file/AI100Report_MT_10.pdf).  
 * *[Recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_network)* (RNN) "is a class of artificial neural networks where connections between nodes can create a cycle, allowing output from some nodes to affect subsequent input to the same nodes. This allows it to exhibit temporal dynamic behavior. Derived from feedforward neural networks, RNNs can use their internal state (memory) to process variable length sequences of inputs. This makes them applicable to tasks such as unsegmented, connected handwriting recognition[4] or speech recognition."  
+* Large Language Model (LLM)  
 * *Sensibleness and Specificity Average* (SSA)  
  
 
@@ -87,6 +88,8 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * Kahneman, Daniel.  "Thinking, Fast and Slow." [Amazon](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
 * Stanford 100 Year Study on AI [http://erichorvitz.com/100_year_study_on_AI_presentation_12_2016.pdf](http://erichorvitz.com/100_year_study_on_AI_presentation_12_2016.pdf)    
 (https://en.wikipedia.org/wiki/Zero-shot_learning)  
+* "Section 230 Won’t Protect ChatGPT." By Matt Perault, 2023-02-23  [https://www.lawfareblog.com/section-230-wont-protect-chatgpt ](https://www.lawfareblog.com/section-230-wont-protect-chatgpt)  Quote:  
+>"The emergence of products fueled by generative artificial intelligence (AI) such as ChatGPT will usher in a new era in the platform liability wars. Previous waves of new communication technologies—from websites and chat rooms to social media apps and video sharing services—have been shielded from legal liability for content posted on their platforms, enabling these digital services to rise to prominence. But with products like ChatGPT, critics of that legal framework are likely to get what they have long wished for: a regulatory model that makes tech platforms responsible for online content."  
 ImageNet (zero-shot): SOTA, surpassing OpenAI CLIP (https://openai.com/blog/clip/).  
 LAMA (factual and commonsense knowledge): Surpassed AutoPrompt (https://arxiv.org/abs/2010.15980).  
 LAMBADA (cloze tasks): Surpassed Microsoft Turing NLG (https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/).  
