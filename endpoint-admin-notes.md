@@ -1,5 +1,16 @@
 ## Some Endpoint Admin Notes  
 
+### Understand the hardware that you are dealing with  
+**inxi** is a command line system information tool that can be as targeted or as comprehensive as is needed.  See: [https://github.com/smxi/inxi](https://github.com/smxi/inxi) and the documentation at: [https://smxi.org/docs/inxi-installation.htm](https://smxi.org/docs/inxi-installation.htm)  
+On an Ubuntu 20.04 endpoint, I needed to install the ```inxi`` application and a collection of recommended utilities to squeeze out a full description of the hardware and setup...  
+```terminal
+sudo apt-get install --no-install-recommends inxi  
+
+sudo apt-get install --no-install-recommends hddtemp ipmitool freeipmi-tools lm-sensors smartmontools glxinfo mesa-utils wmctrl libcpanel-json-xs-perl libjson-xs-perl libxml-dumper-perl hddtemp  
+```
+Then get an overview of the hardware with ```inxi -F``` and a more comprehensive view with ```inxi -v8```  
+
+
 ### Don't forget that Microsoft PowerShell runs on Linux  
 [https://github.com/PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)  
 Binary packages are available for some distributions, and [documentation for a range of distributions is available](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.3).  You can also [install PowerShell from the Snap store](https://learn.microsoft.com/en-us/powershell/scripting/install/install-other-linux?source=recommendations&view=powershell-7.3#installation-via-snap):  
