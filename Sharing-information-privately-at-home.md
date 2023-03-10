@@ -59,7 +59,8 @@ CS Class Chat app using Flask
 * And maybe -- A "lightweight (but full-featured) Matrix server, written in Go language, which has ease of deployment. The implementation is aimed specifically to HOMEservers (which are usually small, for example, Raspberry Pi)" [https://github.com/signaller-matrix/signaller](https://github.com/signaller-matrix/signaller)  
 
 * ChatServer: JustSaying [https://github.com/subhashi31/ChatServer](https://github.com/subhashi31/ChatServer)  
-* Minimalist Notepad [https://github.com/pereorga/minimalist-web-notepad/](https://github.com/pereorga/minimalist-web-notepad/)  
+* Minimalist Notepad [https://github.com/pereorga/minimalist-web-notepad/](https://github.com/pereorga/minimalist-web-notepad/) and a [model Docker config](https://github.com/pereorga/docker-php-test)  
+* EtherPad (*self-hosted*) [https://etherpad.org/](https://etherpad.org/),  [https://github.com/ether/etherpad-lite/](https://github.com/ether/etherpad-lite/) and [https://github.com/ether/etherpad-lite/wiki/](https://github.com/ether/etherpad-lite/wiki/How-to-deploy-Etherpad-Lite-as-a-service)  
 * editPad (*self-hosted*) [https://github.com/shweshi/editpad](https://github.com/shweshi/editpad)  
 * SoapBox  
 * GNU Social  
@@ -72,6 +73,10 @@ CS Class Chat app using Flask
 * hedgedoc [https://github.com/hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) and [https://docs.hedgedoc.org/setup/docker/](https://docs.hedgedoc.org/setup/docker/)  
 * MatterMost [https://github.com/mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)  
   * or one of the other XMPP servers listed at: [https://en.wikipedia.org/wiki/Comparison_of_XMPP_server_software](https://en.wikipedia.org/wiki/Comparison_of_XMPP_server_software)  
+* p2p https://briarproject.org/  
+* ngIRCd - Internet Relay Chat Server [https://github.com/ngircd/ngircd](https://github.com/ngircd/ngircd)  
+* https://github.com/georgeOsdDev/markdown-edit/  
+
 
 * Rūrusetto (ルールセット)  
 [https://github.com/Rurusetto/rurusetto](https://github.com/Rurusetto/rurusetto)  
@@ -86,3 +91,9 @@ CS Class Chat app using Flask
 * If standing up your own is just too much work but you still want an easy-to-use primative, text-only chat interface, you might try [https://www.chatzy.com](https://www.chatzy.com/)  
 
 * Also a little off-topic, but still relevant to the *privately sharing information* mission -- SecretShare, A *simple* library implementing Adi Shamir's "How to share a secret" algorithm written in Python: [https://github.com/HacKanCuBa/secretshare-py](https://github.com/HacKanCuBa/secretshare-py)  
+
+https://github.com/miroslavpejic85/awesome-selfhosted-mirotalk#communication---irc  
+
+https://github.com/topics/p2p-chat  
+
+https://www.gutenberg.org/ebooks/70235  
