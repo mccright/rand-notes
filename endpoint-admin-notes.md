@@ -2,7 +2,7 @@
 
 ### Understand the hardware that you are dealing with  
 **inxi** is a command line system information tool that can be as targeted or as comprehensive as is needed.  See: [https://github.com/smxi/inxi](https://github.com/smxi/inxi) and the documentation at: [https://smxi.org/docs/inxi-installation.htm](https://smxi.org/docs/inxi-installation.htm)  
-On an Ubuntu 20.04 endpoint, I needed to install the ```inxi`` application and a collection of recommended utilities to squeeze out a full description of the hardware and setup...  
+On an Ubuntu 20.04 endpoint, I needed to install the ```inxi``` application and a collection of recommended utilities to squeeze out a full description of the hardware and setup...  
 ```terminal
 sudo apt-get install --no-install-recommends inxi  
 
@@ -19,6 +19,11 @@ sudo snap install powershell --classic
 ```
 Then use ```pwsh``` to open PowerShell.  
 
+
+### Set your timesource to a credible reference  
+Use the NTP protocol.  
+In the U.S., the global address ```time.nist.gov``` is resolved to all of the server addresses listed in the first table at [https://tf.nist.gov/tf-cgi/servers.cgi](https://tf.nist.gov/tf-cgi/servers.cgi) in a round-robin sequence to equalize the load across all of the servers.  Outside North America, see the list of time source maintainers [here](https://webtai.bipm.org/ftp/pub/tai/annual-reports/bipm-annual-report/TIMESERVICES/timeservices.pdf).  It is a bad practice to "hard-code" a particular server name or IP address into an endpoint as this infrastructure incorporates maintenance and evolves...  Also, never query a server more frequently than once every 4 seconds because systems that exceed this rate will be refused service by NIST and possibly be identified as a DoS source.  
+Do not use the ancient and expensive "TIME" (port 37) or "DAYTIME" (port 13) protocols.  
 
 ### Developers who want to expose their applications on their endpoint to the Internet
 Consider **[ngrok](https://ngrok.com)**: ngrok is a globally distributed reverse proxy fronting your web services running on a given endpoint, or in any cloud or private network.  *Paid [ngrok](https://ngrok.com/pricing)* has additional features that support its promotion as "the programmable network edge that adds connectivity, security, and observability to your apps with no code changes."  Pay attention to the details of every request.  The free version may not be suitable for your business, your local environment, or your regulators/investors/customers.  
