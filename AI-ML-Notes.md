@@ -20,6 +20,7 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * Allen Institute for Artificial Intelligence [https://allenai.org/](https://allenai.org/)  
 * AI2 Leader Boards [https://leaderboard.allenai.org/](https://leaderboard.allenai.org/)  
 * One view of *current topics* in AI/ML:  [https://arxiv.org/search/truncated](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=cs.AI&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first)  
+* NIST on the topic: "[Powerful AI Is Already Here: To Use It Responsibly, We Need to Mitigate Bias](https://www.nist.gov/blogs/taking-measure/powerful-ai-already-here-use-it-responsibly-we-need-mitigate-bias)."  
 
 
 # Natural Language Processing and Common Sense
