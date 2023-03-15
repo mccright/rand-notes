@@ -180,6 +180,7 @@ System-wide desktop configuration files are in ```/usr/share/applications/```.  
 ### My Host has Hundreds of Processes Running. What the hell?
 It is common for Linux hosts to run a lot of processes.  ps and top may help, but their ability to visualize what is going on is limited.  
 One tool that has helped me better understand some of what is going on is **[pscircle](https://gitlab.com/mildlyparallel/pscircle).**  
+Another tool that gets positive reviews is **[bpytop](https://github.com/aristocratos/bpytop)**, resource monitor that shows usage and stats for processor, memory, disks, network and processes.  
 
 ### Some Windows Endpoint Notes  
 * Some scripts to (*help*) set up a clean Windows 10 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
