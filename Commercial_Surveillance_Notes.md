@@ -4,13 +4,21 @@ For years I have been reading about how Internet enabled activities have evolved
 I agree with Geoffrey A. Fowler that there are many reasons that we need to keep asking ourselves not only ["*what I can get out of any given technology*" but "*what that technology gets from me*."](https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/)  
 
 * Where are you? / Where where you? / Where have you been? / ...and when?  
+ * Using the location data above, are you sharing information about the constellations of relationships that make up your life?  
+* What do you say (*and what do other say around you*)?  Is what you "say" a useful proxy for what you think?...what you value?  
 * Where do you invest your *attention*? / ...and when?  
+* Where are your assets?  
+* What is the scale of the financial (*and other*) assets that you own/control?  
+ * What type(s) of authentication do you use to protect your financial (*and other*) assets?  
 * What do you buy? Where do you buy? / How do you spend? / ...and when?  
 * What do you eat? / ...and when?  
 * Who are you? / Bodily? / Legally? / Politically?  
 * What do you care about?  
 * Who do you *listen* to?  
+* Who do you *know*?  
+* Who do you *meet*?  
 * Who have you been *close to*?  
+* What types of events appear to change your behavior(s)?  
 * What types of influencing techniques change your behaviors?  
 * Have you ever been *close to* any primary *target of serveillance*?  
 
@@ -759,6 +767,8 @@ Geoffrey A. Fowler and Tatum Hunter reported that on 2022 May 3 there was "[new 
 
 
 #### Additional References:  
+* "The Vulkan Files: Secret trove offers rare look into Russian cyberwar ambitions -- More than 5,000 pages of documents from a Moscow-based contractor offer unusual glimpses into planning and training for security services, including the notorious hacking group Sandworm." By Craig Timberg, Ellen Nakashima, Hannes Munzinger and Hakan Tanriverdi, March 30, 2023.  [https://www.washingtonpost.com/national-security/2023/03/30/russian-cyberwarfare-documents-vulkan-files/](https://www.washingtonpost.com/national-security/2023/03/30/russian-cyberwarfare-documents-vulkan-files/)  
+ * "7 takeaways from the Vulkan Files investigation." By Craig Timberg, March 30, 2023  [https://www.washingtonpost.com/national-security/2023/03/30/takeaways-vulkan-files-investigation/](https://www.washingtonpost.com/national-security/2023/03/30/takeaways-vulkan-files-investigation/)  
 * "Data leak from Russian delivery app shows dining habits of the secret police -- The leak exposed names, delivery addresses, phone numbers, and delivery instructions."  By Emma Roth  Apr 3, 2022 [https://www.theverge.com/2022/4/3/23008658/data-leak-russian-delivery-app-dining-habits-secret-police-yandex-food](https://www.theverge.com/2022/4/3/23008658/data-leak-russian-delivery-app-dining-habits-secret-police-yandex-food)  
 * "You're Still Being Tracked on the Internet, Just in a Different Way." [https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html](https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html)  
 * [https://en.wikipedia.org/wiki/Computer_and_network_surveillance](https://en.wikipedia.org/wiki/Computer_and_network_surveillance)  
