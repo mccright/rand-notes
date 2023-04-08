@@ -2,6 +2,7 @@
 
 
 ## Temporary Disposable Email Address/Inbox Services  
+Why might you need them?  See: https://www.nytimes.com/2023/01/25/technology/personaltech/email-address-digital-tracking.html  
  * Fake My Inbox: [https://www.fakemyinbox.com/](https://www.fakemyinbox.com/)  
  * Temp Mail: [https://temp-mail.org/en/](https://temp-mail.org/en/)  
  * Guerrilla Mail: [https://www.guerrillamail.com/](https://www.guerrillamail.com/)  
