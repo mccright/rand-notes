@@ -39,7 +39,7 @@
 | Maintain situational awareness              | Esse situational notitia                   |
 | Maximize transience; minimize persistence   | Maximize celeritas; minimize perseverantia |
 | more transience; less persistence           | magis celeritas; minus perseverantia       |
-| employ deception                            | uti deceptio                               |
+| employ deception                            | uti dēcipiō                               |
 | use deception                               | uti deceptio                               |
 | employ isolation                            | uti segregationem                          |
 | use isolation                               | uti segregationem                          |
@@ -60,7 +60,7 @@
 | authenticate messages                       | authenticitatis nuntius                    |
 | authenticate requests                       | authenticitatis petitionem                 |
 | use reputation analysis                     | uti fama analysis                          |
-| employ traffic analysis                     | employ traffic analysis                    |
+| employ traffic analysis                     | utuntur negotiationis analysis             |
 | [study the certificate]certificate analysis | studium testimonium                        |
 | employ allow list[s]                        | uti patitur album                          |
 | employ deny list[s]                         | uti negare album                           |
@@ -69,3 +69,4 @@
 
 *I started this list when my peer Jason Battani was creating certificates for a set 
 application security assessments.  Thank you Jason.*  
+Some verification via https://www.perseus.tufts.edu/hopper/search  
