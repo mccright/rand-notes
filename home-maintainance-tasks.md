@@ -31,6 +31,7 @@
 - [ ] Schedule lawnmower tune-up and blade sharpening.  
 
 **APRIL**  
+- [ ] Schedule specialist to have the sprinkler back-flow checked & certified.  
 - [ ] Wash and/or vacuum curtains and blinds.  
 - [ ] Wipe down baseboards and moldings. Touch up paint if needed.  
 - [ ] Dust ceiling fans.  
@@ -40,6 +41,7 @@
 - [ ] Remove leaves from gutters and window wells.  
 
 **MAY**  
+- [ ] Have the sprinkler back-flow checked & certified (*required by the city*).  
 - [ ] Clean the coffee-maker.  
 - [ ] Vacuum out dryer vent pipe.  
 - [ ] Inspect hoses on washing machine, dishwasher, and
