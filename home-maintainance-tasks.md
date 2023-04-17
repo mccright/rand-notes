@@ -3,6 +3,7 @@
  
 **JANUARY**  
 - [ ] Clear all snow from the driveway and sidewalks every time is snows.  
+- [ ] Clean the coffee-maker.  
 - [ ] Vacuum the coils on the back and bottom of your refrigerator.  
 - [ ] Run dishwasher with a cup of white vinegar in the top rack.  
 - [ ] Grind ice cubes, baking soda, & lemon peel through garbage disposal.  
@@ -20,6 +21,7 @@
 - [ ] Clean & maintain your sump pump to get ready for spring showers.  
 
 **MARCH**  
+- [ ] Clean the coffee-maker.  
 - [ ] Check furnace filter and replace if dirty.  
 - [ ] Wipe out the inside of indoor trash and recycling bins.  
 - [ ] Change batteries in carbon monoxide and smoke detectors when you set the clocks forward.  
@@ -38,7 +40,8 @@
 - [ ] Remove leaves from gutters and window wells.  
 
 **MAY**  
-- [ ] Vacuum out dryer vent.  
+- [ ] Clean the coffee-maker.  
+- [ ] Vacuum out dryer vent pipe.  
 - [ ] Inspect hoses on washing machine, dishwasher, and
 - [ ] icemaker for leaks.  
 - [ ] Check sinks and toilets for leaks and replace washers or seals as needed.  
@@ -56,6 +59,7 @@
 - [ ] Power-wash exterior walls.  
 
 **JULY**  
+- [ ] Clean the coffee-maker.  
 - [ ] Check doors for squeaky hinges and lubricate if needed.  
 - [ ] Flip the switch on ceiling fans so air blows down.  
 - [ ] Run dehumidifier in basement if necessary.  
@@ -64,6 +68,7 @@
 - [ ] Repair and/or repaint your fence.  
 
 **AUGUST**  
+- [ ] Clean the coffee-maker.  
 - [ ] Run dehumidifier if necessary.  
 - [ ] Check foundation and basement for ants or termites.  
 - [ ] Mend cracks in the driveway.  
@@ -79,6 +84,7 @@
 - [ ] Wash windows and replace screens with storm windows.  
 
 **OCTOBER**  
+- [ ] Clean the coffee-maker.  
 - [ ] Vacuum heat registers.  
 - [ ] Seal gaps in window and door frames with caulk or weather stripping.   
 - [ ] Check fireplace for damage and schedule a chimney cleaning and inspection.   
@@ -99,6 +105,7 @@
 - [ ] Check furnace exhaust for leaf, snow and ice obstructions.  
 
 **DECEMBER**  
+- [ ] Clean the coffee-maker.  
 - [ ] Clear all snow from the driveway and sidewalks every time is snows.  
 - [ ] Check furnace filter and replace if dirty.  
 - [ ] Inspect attic insulation and replace or add more if needed.  
