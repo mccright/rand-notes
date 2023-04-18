@@ -1,6 +1,6 @@
 
-# Home Maintenance Checklist  
- 
+# Home Maintenance Checklist    
+
 **JANUARY**  
 - [ ] Clear all snow from the driveway and sidewalks every time is snows.  
 - [ ] Clean the coffee-maker.  
@@ -32,11 +32,12 @@
 
 **APRIL**  
 - [ ] Schedule specialist to have the sprinkler back-flow checked & certified.  
+- [ ] Sweep garage floor.  
 - [ ] Wash and/or vacuum curtains and blinds.  
 - [ ] Wipe down baseboards and moldings. Touch up paint if needed.  
 - [ ] Dust ceiling fans.  
 - [ ] Remove door/window screens and hose them down. Repair/ replace any damaged screens.  
-- [ ] Reconnect water supply to outdoor faucets.  
+- [ ] Remove covers from and reconnect water supply to outdoor faucets.  
 - [ ] Rake yard and cut back any dead plants in garden.  
 - [ ] Remove leaves from gutters and window wells.  
 
@@ -91,13 +92,15 @@
 - [ ] Seal gaps in window and door frames with caulk or weather stripping.   
 - [ ] Check fireplace for damage and schedule a chimney cleaning and inspection.   
 - [ ] Flip the switch on ceiling fans so air blows up.  
-- [ ] Turn off water supply to outdoor faucets.  
+- [ ] Turn off water supply to outdoor faucets and put on winter faucet covers.  
 - [ ] Drain and store hoses for the winter.  
 - [ ] Winterize air conditioning system, covering unit to protect from leaves and snow.  
 - [ ] Rake leaves and cut back dormant plants in garden.  
+- [ ] Sweep garage floor.  
 - [ ] Aerate lawn.   
 
 **NOVEMBER**  
+- [ ] Sweep garage floor.  
 - [ ] Use outlet covers to prevent heat loss.  
 - [ ] Remove lint from dryer exhaust vent.  
 - [ ] Wrap insulation around hot water pipes in basement.  
