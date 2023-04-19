@@ -23,9 +23,8 @@
 **MARCH**  
 - [ ] Clean the coffee-maker.  
 - [ ] Check furnace filter and replace if dirty.  
-- [ ] Wipe out the inside of indoor trash and recycling bins.  
-- [ ] Change batteries in carbon monoxide and smoke detectors when you set the clocks forward.  
-- [ ] Drain and flush hot water heater.  
+- [ ] Change batteries in carbon monoxide and smoke detectors in years that end in 2 and 7.  
+- [ ] Drain and flush hot water heater when you set the clocks forward.  
 - [ ] Inspect roofing for damaged shingles and leaks, and schedule repair if necessary.  
 - [ ] Schedule spring air conditioning and/or sprinkling system maintenance.  
 - [ ] Schedule lawnmower tune-up and blade sharpening.  
@@ -55,11 +54,12 @@
 **JUNE**  
 - [ ] Check furnace filter and replace if dirty.  
 - [ ] Check grout in tile floors and repair as needed.  
-- [ ] Wash and wax wood floors (or schedule refinishing).  
+- [ ] Wash and *wax* wood floors (or schedule refinishing).  
 - [ ] Oil garage door tracks.  
 - [ ] Trim tree branches away from house.  
 - [ ] Maintain lawn and garden, adding mulch if necessary.  
-- [ ] Power-wash exterior walls.  
+- [ ] Spray out the inside of indoor trash and recycling bins.  
+- [ ] Spray off or power-wash any dirty exterior walls.  
 
 **JULY**  
 - [ ] Clean the coffee-maker.  
@@ -89,6 +89,7 @@
 **OCTOBER**  
 - [ ] Clean the coffee-maker.  
 - [ ] Vacuum heat registers.  
+- [ ] Inspect attic insulation and replace or add more if needed.  
 - [ ] Seal gaps in window and door frames with caulk or weather stripping.   
 - [ ] Check fireplace for damage and schedule a chimney cleaning and inspection.   
 - [ ] Flip the switch on ceiling fans so air blows up.  
@@ -113,7 +114,6 @@
 - [ ] Clean the coffee-maker.  
 - [ ] Clear all snow from the driveway and sidewalks every time is snows.  
 - [ ] Check furnace filter and replace if dirty.  
-- [ ] Inspect attic insulation and replace or add more if needed.  
 - [ ] Check date on fire extinguisher and replace if needed.  
 - [ ] Regularly check gutters for ice dams and icicles.  
 - [ ] Fill bird feeders.  
