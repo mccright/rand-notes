@@ -183,9 +183,6 @@ It is common for Linux hosts to run a lot of processes.  ps and top may help, bu
 One tool that has helped me better understand some of what is going on is **[pscircle](https://gitlab.com/mildlyparallel/pscircle).**  
 Another tool that gets positive reviews is **[bpytop](https://github.com/aristocratos/bpytop)**, resource monitor that shows usage and stats for processor, memory, disks, network and processes.  
 
-### Some Windows Endpoint Notes  
-* Some scripts to (*help*) set up a clean Windows 10 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
-
 ### Some Mobile Device Endpoint Notes  
 * When you have a business or social visitor who needs Internet access via your WiFi...  This situation can appear as part of a large number of use cases.  Even when you have a dedicated *visitor* SSID set up, getting your visitor's phone or tablet configured requires sharing one or more secrets -- which is not ideal.  Most of us don't have easy-to-use [one-time-password](https://en.wikipedia.org/wiki/One-time_password) systems available for these situations, so sharing secrets can involve some material risks.  The simple act of having *eyes-friendly* passwords laying around, or voicing WiFi connection secrets to those who need them, increases the likelihood of *leakage.*  One simple way to reduce (*not to eliminate*) some of those risks is to have the mobile endpoint configuration details coded into a QR code.  They are not very *eyes-friendly,* but still require careful handling throughout their lifecycle.  
 The Linux utility "qrencode" is one way to generate QR code for your mobile endpoint WiFi configuration details.  For example:
@@ -201,6 +198,9 @@ Replace `<theTargetSSID>` with your visitor SSID and `<thePassword>` with your v
 ...you might start with [PowerShell 101](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.3)  
 And "[Deep Dives](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/overview?view=powershell-7.3)"  
 And a collection of [sample scripts for system administration](https://learn.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.3)  
+
+### Some Windows Endpoint Notes  
+* Some scripts to (*help*) set up a clean Windows 10 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
 
 ### Searching for user details in Active Directory using PowerShell  
  * If you know the login name: All the details that you are permitted to see  
