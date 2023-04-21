@@ -1,6 +1,6 @@
-# Screen Command Cheat Sheet  
+# screen Command Cheat Sheet  
 | Command     |    Description    |
-|:-----------:|:-----------------:|
+|:------------|:------------------|
 | screen -S <session_name> | Start a new session with session name |
 | screen -ls | List running sessions / screens |
 | screen -x | Attach to a running session |
@@ -26,5 +26,13 @@
 | Ctrl-a H | Enable logging in the screen session |
 | Ctrl-a M | Monitor a window for output (a notification pops up when that window has activity). |
 | Ctrl-a _ | Watch a window for absence of output (such as when a process finishes) |  
+
 Started with the list at: https://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/  
+Some content also from: https://phoenixnap.com/kb/how-to-use-linux-screen-with-commands, https://devhints.io/screen  
+
+
+# tmux Command Cheat Sheet  
+| Command     |    Description    |
+|:-----------:|:-----------------:|
+
 
