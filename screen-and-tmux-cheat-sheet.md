@@ -47,10 +47,10 @@ Some content also from: https://phoenixnap.com/kb/how-to-use-linux-screen-with-c
 | $tmux at -t session_name | Attaches to session by the name "session_name" |
 | $tmux attach -t session_name | Attaches to session by the name "session_name" |
 | $tmux attach-session -t session_name | Attaches to session by the name "session_name" |
+| Ctrl+b $ | Rename the session name |
 | $tmux kill-ses -t session_name | Kills session by the name "session_name" |
 | $tmux kill-session -t session_name | Kills session by the name "session_name" |
 | Ctrl+b d | Detaches from the session, leaving the session running in the background |
-| Ctrl+b $ | Rename the session name |
 | Ctrl+b ( | Move to the previous session |
 | Ctrl+b ) | Move to the next session |
 
