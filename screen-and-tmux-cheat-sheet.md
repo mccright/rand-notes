@@ -33,6 +33,26 @@ Some content also from: https://phoenixnap.com/kb/how-to-use-linux-screen-with-c
 
 # tmux Command Cheat Sheet  
 | Command     |    Description    |
-|:-----------:|:-----------------:|
+|:------------|:------------------|
+| $tmux | Create new session with default session name |
+| $tmux new | Create new session with default session name |
+| $tmux new-session | Create new session with default session name |
+| $tmux new -s session_name | Creates a new session called "session_name" |
+| Ctrl+b : | Enters command mode |
+| Ctrl+b :new -s session_name | Creates new session within an existing session |
+| $tmux ls | List active tmux sessions |
+| $tmux list-sessions | List active tmux sessions |
+| Ctrl+b s | List active tmux sessions |
+| $tmux a -t session_name | Attaches to session by the name "session_name" |
+| $tmux at -t session_name | Attaches to session by the name "session_name" |
+| $tmux attach -t session_name | Attaches to session by the name "session_name" |
+| $tmux attach-session -t session_name | Attaches to session by the name "session_name" |
+| $tmux kill-ses -t session_name | Kills session by the name "session_name" |
+| $tmux kill-session -t session_name | Kills session by the name "session_name" |
+| Ctrl+b d | Detaches from the session, leaving the session running in the background |
+| Ctrl+b $ | Rename the session name |
+| Ctrl+b ( | Move to the previous session |
+| Ctrl+b ) | Move to the next session |
 
-
+Started with the list at: https://www.golinuxcloud.com/tmux-cheatsheet/  
+How-To page at: https://github.com/tmux/tmux/wiki  
