@@ -6,7 +6,11 @@ How does this happen?  Maybe you need to support or administer multiple hosts, o
 Here are some useful ```screen``` resources:  
 * The pair https://www.golinuxcloud.com/command-screen-linux/ and https://www.golinuxcloud.com/screen-command-in-linux/  
 * https://phoenixnap.com/kb/how-to-use-linux-screen-with-commands  
-* 
+* https://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/  
+* https://devhints.io/screen and https://devhints.io/tmux  
+* Started with the list at: https://www.golinuxcloud.com/tmux-cheatsheet/  
+* How-To page at: https://github.com/tmux/tmux/wiki  
+
 
 
 ### Understand the hardware that you are dealing with  
