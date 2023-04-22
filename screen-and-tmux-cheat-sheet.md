@@ -53,6 +53,13 @@ Some content also from: https://phoenixnap.com/kb/how-to-use-linux-screen-with-c
 | Ctrl+b d | Detaches from the session, leaving the session running in the background |
 | Ctrl+b ( | Move to the previous session |
 | Ctrl+b ) | Move to the next session |
+| Ctrl+b ? | Help |
+| Ctrl+b [ | copy/paste # 1. Enter scroll mode first |
+|   Space | copy/paste # 2. Start selecting and move around |
+|   Enter | copy/paste # 3. Press enter to copy |
+| Ctrl+b ] | copy/paste # 4. Paste |  
 
 Started with the list at: https://www.golinuxcloud.com/tmux-cheatsheet/  
 How-To page at: https://github.com/tmux/tmux/wiki  
+Also: https://devhints.io/tmux  
+
