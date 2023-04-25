@@ -11,7 +11,9 @@ Test if you have symptoms.
 Isolate if you are positive or cannot access a test.  
 Support global vaccine distribution.  Pockets of unvaccinated, regardless of their location, are reservoirs for the virus, where it replicates and mutates, and where new variants evolve.  Vaccinations reduce human suffering both locally and globally.  
 ```
-*[in July 2022 CDC officials said between 26 million and 37 million adults in the U.S. haven't had a single COVID-19 vaccine dose](https://desmoinesregister-ia.newsmemory.com?selDate=20220721&goTo=A002&artid=0)*
+*[in July 2022 CDC officials said between 26 million and 37 million adults in the U.S. haven't had a single COVID-19 vaccine dose](https://desmoinesregister-ia.newsmemory.com?selDate=20220721&goTo=A002&artid=0)*  
+
+The [KFF COVID-19 Vaccine Monitor (January 17-24, 2023) reported](https://www.kff.org/coronavirus-covid-19/poll-finding/kff-covid-19-vaccine-monitor-january-2023/) that nearly four in ten say that they or someone in their household were sick with either COVID-19, RSV, or flu over the past month.  
 
 The Covid pandemic has killed nearly as many Americans as [U.S. troops died in battle during all of our wars combined](https://www.va.gov/opa/publications/factsheets/fs_americas_wars.pdf). (*This is a near-quote from Dr. Craig Spencer at [https://www.nytimes.com/2022/10/24/opinion/covid-ebola-pandemic-prevention.html](https://www.nytimes.com/2022/10/24/opinion/covid-ebola-pandemic-prevention.html)*)  
 
