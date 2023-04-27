@@ -4,16 +4,18 @@ For years I have been reading about how Internet enabled activities have evolved
 I agree with Geoffrey A. Fowler that there are many reasons that we need to keep asking ourselves not only ["*what I can get out of any given technology*" but "*what that technology gets from me*."](https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/)  
 
 * Where are you? / Where where you? / Where have you been? / ...and when?  
- * Using the location data above, are you sharing information about the constellations of relationships that make up your life?  
-* What do you say (*and what do other say around you*)?  Is what you "say" a useful proxy for what you think?...what you value?  
+ * Using the location and proximity data above, are you sharing information about the constellations of relationships that make up your life?  
+* What do you say (*and what do others say around you*)?  Is what you "say" a useful proxy for what you think?...what you value?  
 * Where do you invest your *attention*? / ...and when?  
 * Where are your assets?  
 * What is the scale of the financial (*and other*) assets that you own/control?  
  * What type(s) of authentication do you use to protect your financial (*and other*) assets?  
+* What is the scale of your debt/credit obligations?  Where, when, how and for what do you aquire/exercise debt/credit?  
 * What do you buy? Where do you buy? / How do you spend? / ...and when?  
-* What do you eat? / ...and when?  
-* Who are you? / Bodily? / Legally? / Politically?  
+* What do you eat? / ...where and when?  
+* Who are you? / Bodily? / Legally? / Politically?  How do you describe yourself?  
 * What do you care about?  
+* Who/what do you read?  
 * Who do you *listen* to?  
 * Who do you *know*?  
 * Who do you *meet*?  
@@ -21,6 +23,7 @@ I agree with Geoffrey A. Fowler that there are many reasons that we need to keep
 * What types of events appear to change your behavior(s)?  
 * What types of influencing techniques change your behaviors?  
 * Have you ever been *close to* any primary *target of serveillance*?  
+* What patterns of your behavior signal *monitizable* contexts?  
 
 
 #### What is the purpose of this file?  
@@ -52,6 +55,7 @@ Some of this information came from the following:
 https://thenai.org/opt-out/  
 https://optout.networkadvertising.org/  
 https://en.wikipedia.org/wiki/Computer_and_network_surveillance  
+https://lithub.com/julia-angwin-on-myspace-facebook-twitter-and-the-origins-of-our-age-of-advertising-driven-surveillance-capitalism/
 
 
 ### Some Names of Commercial Data Collectors and scavengers  
@@ -97,6 +101,7 @@ MediaMath
 Microsoft
 MiQ
 MNTN
+Mutiny https://www.mutinyhq.com/  
 Nativo
 Neustar/Aggregate Knowledge
 NextRoll
@@ -466,6 +471,12 @@ MNTN is the world's first self-serve CTV platform that allows brands and agencie
 To learn more about how we collect and use information for online advertising, please visit https://mountain.com/privacy-policy/
 
 
+Mutiny  
+https://www.mutinyhq.com/  
+
+Turn your website into your #1 revenue channel.  95% of your web visitors won't convert on your generic website. Mutiny makes it easy to target and convert more B2B buyers on your site with no code web personalization.  
+
+
 Nativo
 https://www.nativo.com
 
@@ -780,3 +791,4 @@ Geoffrey A. Fowler and Tatum Hunter reported that on 2022 May 3 there was "[new 
 * "Your phone could reveal if you've had an abortion -- Internet searches, visits to clinics and period-tracking apps leave digital trails." By Geoffrey A. Fowler and Tatum Hunter, 2022-05-04. Quote: "Police and private citizens alike could buy data and use it to investigate suspected abortions. Phone location information has been used by activist groups to target ads at people in abortion clinics to try to dissuade them." ... "On Tuesday (2022-05-03), [Vice's Motherboard blog reported](https://www.vice.com/en/article/m7vzjb/location-data-abortion-clinics-safegraph-planned-parenthood) that for $160, it bought a week's worth of data from a company called SafeGraph showing where people who visited more than 600 Planned Parenthood clinics came from and where they went afterward."  [https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/](https://www.washingtonpost.com/technology/2022/05/04/abortion-digital-privacy/)  
 * "Simple Online Security for Borders and Protests." By Thorin Klosowski, 2022-04-22  [https://www.nytimes.com/wirecutter/guides/simple-online-security-for-borders-and-protests/](https://www.nytimes.com/wirecutter/guides/simple-online-security-for-borders-and-protests/)  
   * or better, work through the broader range of risk management activities outlined in "Every Step to Simple Online Security." By Thorin Klosowski, 2022-04-01  [https://www.nytimes.com/wirecutter/guides/simple-online-security/](https://www.nytimes.com/wirecutter/guides/simple-online-security/)  
+* Money Reimagined -- "The Politicizing of Crypto and Gensler’s Response to a Question of Law." 2023-04-21 https://www.coindesk.com/podcasts/coindesks-money-reimagined/the-politicizing-of-crypto-and-genslers-response-to-a-question-of-law/  
