@@ -2,18 +2,18 @@
 
 ### What happened last boot?  
 "*dmesg vs journalctl*"  
-Remember that *dmesg* is so 1990s...  
+Remember that ```dmesg``` is *so* 1990s...  
 ```terminal
-dmesg | grep theError
+dmesg | grep -i theError
 ```
 
-Now we use journalctl -b  
+*Now* we use ```journalctl -b``` -- building on our habits learned with dmesg:  
 ```terminal
 journalctl -b | grep theError
 ```
 *journalctl -b -0* for the current boot, *journalctl -b -1* for the one before, etc.  
 
-or, *-g* or *--grep=PATTERN* to show entries with MESSAGE matching PATTERN (*this can be any string/sub-string and is case insensitive*)  
+or -- *shedding some of our old habits and joining the 21st century* -- *-g* or *--grep=PATTERN* to show entries with MESSAGE matching PATTERN (*this can be any string/sub-string and is case insensitive*)  
 ```terminal
 journalctl -b -g theError
 ```
@@ -41,8 +41,7 @@ Find all entries of priority level range error or higher since booting:
 journalctl -b -p error
 ```
 
-
-or  
+or, using a completely different approach...  
 ```terminal
 systemctl list-units --failed
 ```
@@ -115,3 +114,7 @@ One approach is to '*listen*' to the network interface that *should* be receivin
 * Network Traffic Analysis [http://sleepyhead.de/howto/?href=network#traffic](http://sleepyhead.de/howto/?href=network#traffic)  
 * And a close relative, tstat, "TCP STatistic and Analysis Tool." [http://tstat.tlc.polito.it/](http://tstat.tlc.polito.it/)  
 
+
+### An endpoint was returned to you -- *or you just found one of your 'old' PCs and want to use it again* -- and you don't have access to root  
+An easy approach is to press ```e``` when the GRUB menu appears (*or ESC if the boot is silent*) and edit the boot menu.  
+Edit the line starting with ```linux``` or add a new one and comment out the old.  It needs to include ```init=/bin/bash```.  That will tell the kernel to run a Bash shell without running any other services.  Only the ```/``` root file system is mounted.  Set the root password with ```$ passwd root``` and then reboot.  You are good to go...   ***If the root filesystem mount read-only***: You also need to add ```rootflags=rw``` to the Grub menu that you initially edited above.  
