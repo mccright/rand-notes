@@ -3,7 +3,7 @@
 ### If you need to open *lots of Terminals* at the same time in order to do your job  
 How does this happen?  Maybe you need to support or administer multiple hosts, or maybe you need to routinely execute long-running commands.  In either use case, having a way to open multiple separate terminal instances within a single terminal window manager or physical terminal is a common way to satisfy your needs.  
 [```screen```](https://github.com/mccright/rand-notes/blob/master/screen-and-tmux-cheat-sheet.md#screen-command-cheat-sheet) and [```tmux```](https://github.com/mccright/rand-notes/blob/master/screen-and-tmux-cheat-sheet.md#tmux-command-cheat-sheet) are a couple of the most popular tools for opening and managing multiple *terminals* from a single terminal session.  
-Here are some useful ```screen``` resources:  
+Here are some useful ```screen``` and ```tmux``` resources:  
 * The pair https://www.golinuxcloud.com/command-screen-linux/ and https://www.golinuxcloud.com/screen-command-in-linux/  
 * https://phoenixnap.com/kb/how-to-use-linux-screen-with-commands  
 * https://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/  
@@ -14,7 +14,7 @@ Here are some useful ```screen``` resources:
 
 
 ### Understand the hardware that you are dealing with  
-**inxi** is a command line system information tool that can be as targeted or as comprehensive as is needed.  See: [https://github.com/smxi/inxi](https://github.com/smxi/inxi) and the documentation at: [https://smxi.org/docs/inxi-installation.htm](https://smxi.org/docs/inxi-installation.htm)  
+```inxi``` is a command line system information tool that can be as targeted or as comprehensive as is needed.  See: [https://github.com/smxi/inxi](https://github.com/smxi/inxi) and the documentation at: [https://smxi.org/docs/inxi-installation.htm](https://smxi.org/docs/inxi-installation.htm)  
 On an Ubuntu 20.04 endpoint, I needed to install the ```inxi``` application and a collection of recommended utilities to squeeze out a full description of the hardware and setup...  
 ```terminal
 sudo apt-get install --no-install-recommends inxi  
