@@ -25,6 +25,7 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * One view of *current topics* in AI/ML:  [https://arxiv.org/search/truncated](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=cs.AI&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first)  
 * NIST on the topic: "[Powerful AI Is Already Here: To Use It Responsibly, We Need to Mitigate Bias](https://www.nist.gov/blogs/taking-measure/powerful-ai-already-here-use-it-responsibly-we-need-mitigate-bias)."  
 * "A curious person's guide to artificial intelligence -- Everything you wanted to know about the AI boom but were too afraid to ask." By Pranshu Verma and Rachel Lerman, 2023-05-07  https://www.washingtonpost.com/technology/2023/05/07/ai-beginners-guide/  
+* "You probably don't know how to do Prompt Engineering -- Features missing from most LLM front-ends that should exist." https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf  
 
 
 # Natural Language Processing and Common Sense
