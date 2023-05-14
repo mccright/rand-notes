@@ -18,8 +18,22 @@ U2FsdGVkX18bV/Clc1Y5I94C9RwTy+mJ9sKCv2fWV2A=
 The **destination** actor base-64 decodes and decrypts message with the pre-shared password hosted in an environment variable.  
 ```terminal
 echo "U2FsdGVkX18bV/Clc1Y5I94C9RwTy+mJ9sKCv2fWV2A=" | openssl enc -d -base64 -aes-256-ecb -k $ENC_VAR
-The secret textroot
+The secret text
 ```
+
+In a second scenario the **source** actor encrypts and base64-encodes a text file with pre-shared password hosted in an environment variable.  
+```terminal
+user@demohost:~# openssl enc -e -aes-256-ecb -a -salt -k $ENC_VAR < 100-Notable-Books-of-2020.txt > tmp.enc
+user@demohost:~#
+```
+
+The **destination** actor base-64 decodes and decrypts the encrypted file with the pre-shared password hosted in an environment variable.  
+```terminal
+user@demohost:~# openssl enc -d -base64 -aes-256-ecb -k $ENC_VAR < tmp.enc
+The original file contents in clear text...
+user@demohost:~#
+```
+
 
 ### Research These:  
 * **[RFC 9180 Hybrid public-key encryption (HPKE)](https://datatracker.ietf.org/doc/html/rfc9180)**   See a useful overview from CloudFlare: [https://blog.cloudflare.com/hybrid-public-key-encryption/](https://blog.cloudflare.com/hybrid-public-key-encryption/).  
