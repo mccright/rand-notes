@@ -44,7 +44,7 @@ user@demohost:~#
 
 
 ### ToDo:  
-* Encrypt/Decrypt a file  
+* Encrypt/Decrypt a file - Done  
 * Encrypt/Decrypt a directory of files  
 * Encrypt/Decrypt with a strong pass-phrase  
 * Add bash scripting for these scenarios  
