@@ -158,6 +158,6 @@ and
 By [late January 2023, the U.S. Justice department had identified roughly U.S $700 million in accounts linked to Sam Bankman-Fried](https://www.washingtonpost.com/business/2023/01/20/us-seizes-170-million-ftx/) and had already seized some of it.  These were '*real U.S. currency*' accounts, not crypto (circle back to *SBF the grifter* and his aparent distain for FTX crypto *customers*).  
 and  
 "Taking a Beat: Recognizing the Victims of FTX Downfall and Celebrating the Journalism That Made It Happen."  [https://www.coindesk.com/podcasts/coindesks-money-reimagined/taking-a-beat-recognizing-the-victims...](https://www.coindesk.com/podcasts/coindesks-money-reimagined/taking-a-beat-recognizing-the-victims-of-ftx-downfall-and-celebrating-the-journalism-that-made-it-happen/)  Feb 24, 2023  
-
+ 
 
 * See: "The 2023 Crypto Crime Report." from Chainanalysis. [https://go.chainalysis.com/2023-crypto-crime-report.html](https://go.chainalysis.com/2023-crypto-crime-report.html)  
