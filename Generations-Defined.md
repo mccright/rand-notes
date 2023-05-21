@@ -6,25 +6,25 @@
 https://github.com/stathissideris/ditaa -->
 ```ditaa {cmd=true args=["-E"]}
 The Generations Defined                        Generation age
-  +--------+--------+--------+--------+--------+ in 2022
+  +--------+--------+--------+--------+--------+ in 2023
   |        |        |        |        |        |
   |        |        |        |   Born 2010-... |Generation Alpha
-  |        |        |        |        |        |ages 0-12
+  |        |        |        |        |        |ages 0-13
   |        |        |        |        |        |
   |        |        |        |Born 1997-2012   |Generation Z
-  |        |        |        |        |        |ages 10-25
+  |        |        |        |        |        |ages 11-26
   |        |        |        |        |        |
   |        |        |   Born 1981-96  |        |Millennials
-  |        |        |        |        |        |ages 26-41
+  |        |        |        |        |        |ages 27-42
   |        |        |        |        |        |
   |        |     Born 1965-80|        |        |Generation X
-  |        |        |        |        |        |ages 42-57
+  |        |        |        |        |        |ages 43-58
   |        |        |        |        |        |
   |        Born 1946-64      |        |        |Boomers
-  |        |        |        |        |        |ages 58-76
+  |        |        |        |        |        |ages 59-77
   |        |        |        |        |        |
   |Born 1928-45     |        |        |        |Silent Generation
-  |        |        |        |        |        |ages 77-94
+  |        |        |        |        |        |ages 78-95
   +--------+--------+--------+--------+--------+
 1920     1940     1960     1980     2000     2020
 ```
