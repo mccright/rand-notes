@@ -2,6 +2,8 @@
 
 #### Recent generations, or generational cohorts:  
 
+<!-- The ditaa '-E' prevents the separation of common edges of shapes. 
+https://github.com/stathissideris/ditaa -->
 ```ditaa {cmd=true args=["-E"]}
 The Generations Defined                        Generation age
   +--------+--------+--------+--------+--------+ in 2022
