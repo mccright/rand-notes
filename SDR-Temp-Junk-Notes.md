@@ -1,6 +1,7 @@
 ***Libraries to Watch***  
 * CyberRadio - An SDR Based FM/AM Radio for your PC: https://github.com/luigifreitas/CyberRadio  
-
+* dump1090: dump1090-fa is a ADS-B, Mode S, and Mode 3A/3C demodulator and decoder that will receive and decode aircraft transponder messages received via a directly connected software defined radio, or from data provided over a network connection. https://github.com/flightaware/dump1090  
+* TheAirTraffic feed client - (https://theairtraffic.com/feed/ and https://grndcntrl.net/links/) - https://github.com/Jxck-S/tat-feeder and https://github.com/Jxck-S?tab=repositories  
 * Useful references [https://github.com/kaltic/SDR-Notes](https://github.com/kaltic/SDR-Notes)  
 
 ***Hardware: NESDR SMArt***  
