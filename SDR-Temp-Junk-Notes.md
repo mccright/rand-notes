@@ -1,10 +1,10 @@
-***Libraries to Watch***  
+### Libraries to Watch  
 * CyberRadio - An SDR Based FM/AM Radio for your PC: https://github.com/luigifreitas/CyberRadio  
 * dump1090: dump1090-fa is a ADS-B, Mode S, and Mode 3A/3C demodulator and decoder that will receive and decode aircraft transponder messages received via a directly connected software defined radio, or from data provided over a network connection. https://github.com/flightaware/dump1090  
 * TheAirTraffic feed client - (https://theairtraffic.com/feed/ and https://grndcntrl.net/links/) - https://github.com/Jxck-S/tat-feeder and https://github.com/Jxck-S?tab=repositories  
 * Useful references [https://github.com/kaltic/SDR-Notes](https://github.com/kaltic/SDR-Notes)  
 
-***Hardware: NESDR SMArt***  
+### Hardware: NESDR SMArt  
 Part of a new NooElec NESDR SMArt Bundle (Premium RTL-SDR w/ Aluminum Enclosure, 0.5PPM TCXO, SMA Input & 3 Antennas. RTL2832U & R820T2-Based, plus, re-designed antenna base, and 3 antenna masts).  
 http://www.nooelec.com/store/sdr/sdr-receivers/nesdr/nesdr-smart.html  
    
@@ -13,7 +13,7 @@ I plugged in the device (Fedore 27) and it worked perfectly.
 SpyServer from: https://airspy.com/download/  
 Then set up the Pi as an SDR streaming server: https://eliaselectronics.com/rtlsdr/2014/11/19/raspi-rtl-streaming-server.html  
   
-**Planning for GPS reception**  
+### Planning for GPS reception  
 The **U.S. Global Positioning System** (GPS) technology operates in [the following frequency bands](https://en.wikipedia.org/wiki/GPS_signals):  
 * GPS L1 Band: 1575.42 MHz with a bandwidth of 15.345 MHz  
 * GPS L2 Band: 1227.6 MHz with a bandwidth of 11 MHz  
@@ -29,7 +29,7 @@ The **U.S. Global Positioning System** (GPS) technology operates in [the followi
    * B2a:    1176.45 MHz with  a bandwidth of 20.46 MHz    
    * B3I:     1268.52 MHz with a bandwidth of 20.46 MHz  
 
-**Antenna Notes:**  
+### Antenna Notes:  
 See this general reference "Antennas, Aerials, & Propagation" [http://www.radio-electronics.com/info/antennas/](http://www.radio-electronics.com/info/antennas/)    
 Calculating WaveLengths: Calculate Wavelength: [https://www.easycalculation.com/physics/electromagnetism/antenna-wavelength.php](https://www.easycalculation.com/physics/electromagnetism/antenna-wavelength.php), or [http://wxtofly.net/wavecalc.htm](http://wxtofly.net/wavecalc.htm)  
 Calculating Antenna Lengths:  Monopole antennas: [https://itstillworks.com/calculate-monopole-length-8644948.html](https://itstillworks.com/calculate-monopole-length-8644948.html) and Dipole antennas: [http://www.radio-electronics.com/info/antennas/dipole/dipole.php](http://www.radio-electronics.com/info/antennas/dipole/dipole.php), or [http://www.westmountainradio.com/antenna_calculator.php?frequency=433](http://www.westmountainradio.com/antenna_calculator.php?frequency=433)  
@@ -38,9 +38,98 @@ and for more detail, see Skew-Planar Wheel Antenna [http://www.slvrc.org/902band
 N.B. Testing and analysis has shown that the elements should be slightly more than one wavelength long ( WL x 1.0443 ).
 The factors to use are:  31329 / F (centimeters) or 12334 / F (inches) long.  
 
+### Assembling an ADS-B Receiver  
+First, where am I?  https://www.freemaptools.com/elevation-finder.htm  
+**Virtually-Random Notes (*for now*)**  
+TheAirTraffic feed client
+    These scripts aid in setting up your current ADS-B receiver to feed TheAirTraffic.
+    They will not disrupt any existing feed clients already present.
+	Feed TheAirTraffic.com using an existing receiver running readsb / dump1090 / piaware / Raspbian / Linux. 
+https://grndcntrl.net/links/
+https://github.com/Jxck-S/tat-feeder
+Find coordinates / elevation:
+https://www.freemaptools.com/elevation-finder.htm
+https://theairtraffic.com/feed/#scripts
+https://theairtraffic.com/feed/
+https://github.com/Jxck-S?tab=repositories
+https://github.com/Jxck-S/tat-feeder
+https://grndcntrl.net/falconlanding/
+https://opensky-network.org/
+
+
+Build your own Raspberry Pi flight tracker
+https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/
+
+dump1090-fa Debian/Raspbian packages
+https://github.com/flightaware/dump1090
+
+How to Track Local Airplanes with Raspberry Pi 
+https://www.tomshardware.com/how-to/raspberry-pi-airplane-tracker
+ADS-B Receiver Kit (Antenna and USB dongle)
+How to Track Local Airplanes with Raspberry Pi 
+
+1090MHz Antenna
+Antennas that broadcast 1090MHz signals (the signal the antenna is receiving) are set up vertically and the best way to receive the signal is to align the antenna vertically, also.
+1090 MHz Antenna
+Regular price:    $49.99
+https://flightaware.store/products/antenna-1090mhz
+Specifically tuned for flight tracking of 1090 MHz ADS-B equipped aircraft. 
+    Indoor/Outdoor (waterproof) 1090 MHz antenna
+    Length 66cm/26in
+    5.5 dBi gain
+    N Type Termination
+    2.5 cm to 4 cm diameter mounting bracket included
+10m of LMR400 cable
+ I saw an instant and dramatic improvement in reception range in comparison with a simple $8 wire antenna. I used the "MOOKEERF SMA to N Cable 25ft" to connect it to the Flightaware Pro.
+ 
+Coaxial Cable 5 Meter
+https://flightaware.store/products/coaxial-cable-5-meter
+Regular price:   $35.25 
+This coaxial cable is compatible with both our 1090MHz & 978MHz antenna and will plug directly into any of our Software Defined Radios (SDR).
+    Low Loss RF Communication 50Ohms Impedance Cable
+    17 AWG (0.056")
+    ROHS compliant
+    Impedance - 50 Ohms
+    Capacitance - 24.2pF/foot
+Coaxial Cable 10 Meter
+https://flightaware.store/products/copy-of-coaxial-cable-10-meter
+Regular price:   $48.25 
+
+Do you want to build your own FlightAware PiAware ADS-B Ground Station? 
+Get a free FlightAware Enterprise Account (USD89.95/mo value) 
+Build a PiAware ADS-B Receiver
+https://flightaware.com/adsb/piaware
+https://flightaware.com/adsb/piaware/build/
+View the PiAware installation page to install the latest version on your Pi: 
+https://flightaware.com/adsb/piaware/install
+ To build a PiAware, you must obtain the following components:
+    Raspberry Pi 3 / 4 / Zero W
+    Power supply for the Raspberry Pi
+        5.1 Volts 2.5 Amps power supply recommended
+    Micro SD Card (size: 8 GB or larger)
+    Micro SD card reader
+        If your computer does not have a built-in SD card reader/writer, you will need the optional USB SD card reader/writer.
+    USB SDR ADS-B Receiver (FlightAware Pro Stick or Pro Stick Plus recommended)
+        The USB SDR (Software Defined Radio) ADS-B (Automatic Dependent Surveillance-Broadcast) receiver translates the 1090 MHz radio signal into something the computer can understand
+        Hint: If you are choosing between the FlightAware Pro Stick and the Pro Stick Plus remember the Plus has an on-board filter that works well in locations that have a lot of radio noise, such as urban environments.
+    1090 MHz Antenna
+        An indoor antenna can be purchased to start. If using the FlightAware USB adapter be sure the antenna has an SMA connector.
+        If you use a telescoping mast antenna be sure to collapse it to a quarter wavelength of 1090 MHz (6.9 cm) to maximize reception.
+
+1090MHz ADS-B Filtered Preamp
+https://store.uputronics.com/index.php?route=product/product&path=59&product_id=50
+    Brand: Uputronics
+    Product Code: HAB-FPA1090SAW
+    £43.19
+	All our preamps are compatible with most USB SDR Dongles such as the RTL USB, Airspy, Fun Cube. You can power them from either bias tee (This item is 100% compatible with the Airspy bias-tee) or a simple USB-C cable (Not Supplied - See related items for a suitable USB Type A to C Cable).
+	Bias-tee voltage input is 5V. Note: Unlike previous models, component supply issues mean bias-tee input voltage is 5V max. 
+	This unit is a small filter and preamp designed to go between a software defined radio receiver and an antenna. Using a SAW bandpass filter and a low noise amplifier (LNA), it stops out of band intermodulation while providing additional gain for increased sensitivity. The LNA is before the SAW filter in this design to reduce the noise factor of the unit. This particular model is tuned for use with ADS-B frequencies (1090MHz).
+
+The LNA used is a MiniCircuits PSA4-5043+ which provides about 16dB of gain @ 1090MHz.
 
 
 
+### ANCIENT HISTORY: SDR startup at my house  
 ***Originally had a DoA Device (below)***  
 **Error Message Summary**  
 From Fedora 27, Ubuntu 17.04, and Lubuntu 16.10 and on three different laptops, trying USB 1.1, 2.0, & 3.0 ports, I received the same series of usb device error messages:  
