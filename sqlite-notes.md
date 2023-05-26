@@ -1,5 +1,9 @@
 # SQLite Notes  
 
+### Educational Environment  
+SQLite3 programming language image --  Official Referrence of SQLite3: https://hub.docker.com/r/esolang/sqlite3
+
+
 ### A collection of Recipes from Python SQLite docs by [Redowan Delowar](https://rednafi.github.io/reflections/pages/contact.html)  
 These links are to supporting text and code resources in his excellent essay "Recipes from Python SQLite docs" at [https://rednafi.github.io/reflections/recipes-from-python-sqlite-docs.html](https://rednafi.github.io/reflections/recipes-from-python-sqlite-docs.html).  The use cases that it covers include:  
 * [Executing individual statements](https://rednafi.github.io/reflections/recipes-from-python-sqlite-docs.html#executing-individual-statements)  
