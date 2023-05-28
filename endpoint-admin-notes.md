@@ -214,7 +214,30 @@ And "[Deep Dives](https://learn.microsoft.com/en-us/powershell/scripting/learn/d
 And a collection of [sample scripts for system administration](https://learn.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.3)  
 
 ### Some Windows Endpoint Notes  
-* Some scripts to (*help*) set up a clean Windows 10 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
+* See what is installed:  
+  List apps for all users:  
+    ```Get-AppxProvisionedPackage -Online | Select-Object DisplayName | Format-Table -HideTableHeaders```  
+  List apps for all users and remove all Microsoft apps from the list:  
+	```Get-AppxProvisionedPackage -Online | Select-Object DisplayName, PackageName | Select-String -Pattern 'Microsoft'  -NotMatch```  
+  List apps for all users and present only apps from a specified vendor in the list (example 'Lenovo'):  
+	```Get-AppxProvisionedPackage -Online | Select-Object DisplayName, PackageName | Select-String -Pattern 'lenovo'```  
+  List apps for the current user:  
+    ```Get-AppxPackage | Select-Object Name | Format-Table -HideTableHeaders```  
+  List apps for the current user and remove all Microsoft apps from the list:  
+    ```Get-AppxPackage | Select-Object Name, Publisher | Select-String -Pattern 'Microsoft'  -NotMatch```  
+  List apps for the current user and present only apps from a specified vendor in the list (example 'Lenovo'):  
+    ```Get-AppxPackage | Select-Object Name, Publisher | Select-String -Pattern 'lenovo'```  
+
+* Some scripts to (*help*) set up a clean Windows 10/11 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
+And edit these to meet your needs:  
+https://github.com/Digressive/Remove-MS-Store-Apps/blob/master/Remove-MS-Store-Apps.ps1  
+https://github.com/UNC0V3R3D/resources/blob/main/remove_bloatware_regkeys.ps1  
+https://github.com/UNC0V3R3D/resources/blob/main/privacy.ps1  
+
+
+
+### List the local Windows users:  
+    `Get-LocalUser`
 
 ### Searching for user details in Active Directory using PowerShell  
  * If you know the login name: All the details that you are permitted to see  
