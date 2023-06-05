@@ -26,6 +26,8 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * NIST on the topic: "[Powerful AI Is Already Here: To Use It Responsibly, We Need to Mitigate Bias](https://www.nist.gov/blogs/taking-measure/powerful-ai-already-here-use-it-responsibly-we-need-mitigate-bias)."  
 * "A curious person's guide to artificial intelligence -- Everything you wanted to know about the AI boom but were too afraid to ask." By Pranshu Verma and Rachel Lerman, 2023-05-07  https://www.washingtonpost.com/technology/2023/05/07/ai-beginners-guide/  
 * "You probably don't know how to do Prompt Engineering -- Features missing from most LLM front-ends that should exist." https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf  
+* "Humans Feel Too Special for Machines to Score Their Morals." By Zoe A Purcell and Jean-François Bonnefon, 29 May 2023. https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgad179/7185601?searchresult=1  PNAS Nexus, pgad179,  https://doi.org/10.1093/pnasnexus/pgad179  
+
 
 
 # Natural Language Processing and Common Sense
