@@ -3,7 +3,7 @@
 
 | Date |Event|Relevance|
 |:----:|:---|:-------|
-|[Late 2020](#Ref1) |Talks begin between the National Archives and Trump |Trump and team understand government document-handling requirements required by the Presidential Records Act  - Chief of Staff Mark Meadows is involved |
+|[Late 2020](#Ref1) |Talks about what is required by the Presidential Records Act begin between the National Archives and the Trump team - Chief of Staff Mark Meadows is also involved |Trump and team understand government document-handling requirements required by the Presidential Records Act before the move out of the White House |
 |[2021-01-18](#Ref1) | Begin move to Mar-a-Lago, including boxes of records |  |
 |[2021-01-20](#Ref1) |Trump and boxes of records leave the White House for Mar-a-Lago |  |
 |[2021-05-06](#Ref1) |National archives’ general counsel Gary M. Stern notifies Trump’s representatives that Pat A. Cipollone, the former White House counsel, identified roughly two dozen boxes of material that had been in the White House residence but was never transferred to the archives, and that the original correspondence with North Korean leader Kim Jong-un and a letter that President Barack Obama had left for Trump at the White House upon leaving office were not returned to the National archives. (*According to an affidavit supporting the 08-05-2022 warrant to search Mar-a-Lago the archives continued to make such requests for months*.) |  |
