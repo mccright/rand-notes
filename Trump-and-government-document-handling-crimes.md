@@ -2,7 +2,7 @@
 
 
 | Date |Event|Relevance|
-|:----:|:---:|:-------:|
+|:----:|:---|:-------|
 |[Late 2020](#Ref1) |Talks begin between the National Archives and Trump |Trump and team understand government document-handling requirements required by the Presidential Records Act  - Chief of Staff Mark Meadows is involved |
 |[2021-01-18](#Ref1) | Begin move to Mar-a-Lago, including boxes of records |  |
 |[2021-01-20](#Ref1) |Trump and boxes of records leave the White House for Mar-a-Lago |  |
@@ -13,12 +13,14 @@
 |[2021 *late in the year*](#Ref1) |Mr. Trump goes through the boxes at Mar-a-Lago himself then... |  |
 |[2021 (*late December*)](#Ref1) |Trump’s lawyers tell the archives that they have found 12 boxes of documents at Mar-a-Lago and that they are now ready for retrieval |  |
 |[2022-01-18](#Ref1) |The National archives recovers 15 boxes of material from Mar-a-Lago, some of which “appear to contain national defense information,” sometimes called NDI | NDI is protected by the Espionage Act so the National archives informs the Justice Department |
+|[2022-01~18](#Ref1) |Justice Department asks President Biden to request that the National archives provide the F.B.I. with access to the boxes for examination |  |
 |[2022-01-31](#Ref1) |National archives publicly criticizes Trump’s destruction of documents because end-of-administration returns “included paper records that had been torn up by former President Trump.” |  |
 |[2022-02~07](#Ref1) |National archives publicly asserts that Mr. Trump still has presidential records that should have been turned over to the archives at the end of his time in office |  |
 |[2022-02-09](#Ref1) |National archives tells the Justice Department that a preliminary review of the 15 boxes recovered in January indicated that they contained “a lot of classified records,” including highly classified records that were “unfoldered, intermixed with other records and otherwise unproperly identified.” |  |
-|[](#Ref1) |  |  |
-|[](#Ref1) |  |  |
-|[](#Ref1) |  |  |
+|[2022-02-10](#Ref1) |House Oversight Committee announces an investigation into the records retrieved from Mar-a-Lago |  |
+|[2022 *spring*](#Ref1) |A grand jury is seated to look into the missing boxes of documents  |  |
+|[2022 *spring*](#Ref1) |The F.B.I. begins interviewing several of Mr. Trump’s aids and lawyers who had been among his representatives to the National archives |  |
+|[2022 *spring*](#Ref1) |Trump begins insisting to his advisers that he has returned everything and is unwilling to discuss the matter further  |  |
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
