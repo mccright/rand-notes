@@ -5,7 +5,7 @@
 |:----:|:---|:-------|
 |[Late 2020](#Ref1) |Talks about what is required by the Presidential Records Act begin between the National Archives and the Trump team - Chief of Staff Mark Meadows is also involved |Trump and team understand government document-handling requirements required by the Presidential Records Act before the move out of the White House |
 |[2021-01-18](#Ref1) | Begin move to Mar-a-Lago, including boxes of records |  |
-|[2021-01-20](#Ref1) |Trump and boxes of records leave the White House for Mar-a-Lago |  |
+|[2021-01-20](#Ref1) |Trump and boxes of records leave the White House for Mar-a-Lago |Some of these boxes contained "classified documents (*that*) included information regarding defense and weapons capabilities of both the United States and foreign countries; United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for possible retaliation in response to a foreign attack." ([page 2](#Ref2)) |
 |[2021-05-06](#Ref1) |National archives’ general counsel Gary M. Stern notifies Trump’s representatives that Pat A. Cipollone, the former White House counsel, identified roughly two dozen boxes of material that had been in the White House residence but was never transferred to the archives, and that the original correspondence with North Korean leader Kim Jong-un and a letter that President Barack Obama had left for Trump at the White House upon leaving office were not returned to the National archives. (*According to an affidavit supporting the 08-05-2022 warrant to search Mar-a-Lago the archives continued to make such requests for months*.) |National archives’ initial attempt have the Trump team return government records to the National archives as required by the Presidential Records Act |
 |[2021-05-18](#Ref1) |Trump offers to return letters from Kim Jong-un, but the letters are not returned |  |
 |[2021 *summer*](#Ref1) |Trump displays the Kim letters, boxes of documents from the White House are being stored in Trump's Mar-a-Lago office |  |
@@ -39,12 +39,18 @@
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
-|[](#Ref1) |  |  |
-|[](#Ref1) |  |  |
+|[2023-06-08](#Ref2) |Federal prosecutors documented their case under seal against Donald J. Trump in a 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart) |  |
+|[2023-06-09](#Ref3) |Federal prosecutors released their 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart).  31 counts related to withholding national defense information. 5 counts related to concealing possession of classified documents and conspiracy to obstruct justice and withholding documents and records against Trump and Walt Nauta. 2 counts related to false statements to the F.B.I. by Trump and Walt Nauta |31 of the documents are subject to Espionage Act violations |
 |[](#Ref1) |  |  |
 
 ## Sources:  
 ### Ref1  
 "Inside the 20-Month Fight to Get Trump to Return Presidential Material." By Luke Broadwater, Katie Benner and Maggie Haberman; 26 Aug 2022
-https://www.nytimes.com/2022/08/26/us/politics/trump-documents-search-timeline.html
+https://www.nytimes.com/2022/08/26/us/politics/trump-documents-search-timeline.html  
+### Ref2  
+"United States of America v. Donald J. Trump and Waltine Nauta." US District Court/Southern District of Florida Case 23-80101-CR-Cannon/Reinhart 
+https://www.justice.gov/storage/US_v_Trump-Nauta_23-80101.pdf  
+### Ref3  
+"The Trump Classified Documents Indictment, Annotated." Produced by Charlie Smart; 09 June 2023
+
 
