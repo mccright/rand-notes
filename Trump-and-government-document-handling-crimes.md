@@ -26,11 +26,11 @@
 |[2022-05-16](#Ref1) |The FBI identifies classified documents in 14 of the 15 boxes recovered on 2022-01-18. In that collection there were 184 unique documents with classification markings; of those, 67 are confidential, 92 are secret and 25 are top secret. Markings show that some documents pertained to foreign intelligence surveillance and information gathered by human intelligence sources. Some were not to be shared with foreign entities, and others were marked “ORCON,” meaning that the agency that originated the document had to approve any dissemination beyond the government entities approved to see it. Some of those documents include Trump’s handwritten notes |  |
 |[2022-05-25](#Ref1) |Trump lawyer M. Evan Corcoran sent the Justice Department a letter including a claim that Trump had the absolute authority to declassify the documents |  |
 |[2022-06-03](#Ref1) |Justice Department’s chief of counterintelligence Jay I. Bratt and F.B.I. agents visit Mar-a-Lago.  Trump greets them in the dining room (*Trump’s lawyers say Trump said: “Whatever you need, just let us know.”*). Bratt inspected a Mar-a-Lago storage room. Trump lawyer Christina Bobb signed a written statement asserting that to the best of the lawyers’ understanding, they have turned over all the remaining classified material from the White House boxes, satisfying the subpoena |  |
-|[](#Ref1) |  |  |
-|[](#Ref1) |  |  |
-|[](#Ref1) |  |  |
-|[](#Ref1) |  |  |
-|[](#Ref1) |  |  |
+|[2022-06-08](#Ref1) |Bratt requests Trump’s lawyers move all boxes that had been taken from the White House to Mar-a-Lago be preserved in the Mar-a-Lago storage room where the classified materials were being kept be effectively secured. “As I previously indicated to you, Mar-a-Lago does not include a secure location authorized for the storage of classified information,” he writes, adding that since being taken from the White House, the documents “have not been handled in an appropriate manner or stored in an appropriate location.” |  |
+|[2022 June](#Ref1) |F.B.I. interviews Trump’s personal and household staff.  |  |
+|[2022-06-22](#Ref1) |60-day period of Mar-a-Lago surveillance footage is subpoenaed. It shows people moving boxes from the basement storage area around the time of one of the outreaches from the Justice Department |  |
+|[2022-08-05](#Ref1) |A federal judge approves a search warrant for Mar-a-Lago. The warrant application says that “there is probable cause to believe that additional documents that contain classified N.D.I. or that are presidential records subject to record retention requirements currently remain at the premises.” |  |
+|[2022-08-08](#Ref1) |The F.B.I. searches Mar-a-Lago, finding 11 sets of classified material, comprising scores of pages, are recovered from the basement storage area, a container on the floor of a closet in Mr. Trump’s office, a former dressing room in the bridal suite above a ballroom |  |
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
