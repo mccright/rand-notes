@@ -6,7 +6,7 @@
 |[Late 2020](#Ref1) |Talks about what is required by the Presidential Records Act begin between the National Archives and the Trump team - Chief of Staff Mark Meadows is also involved |Trump and team understand government document-handling requirements required by the Presidential Records Act before the move out of the White House |
 |[2021-01-18](#Ref1) | Begin move to Mar-a-Lago, including boxes of records |  |
 |[2021-01-20](#Ref1) |Trump and boxes of records leave the White House for Mar-a-Lago |  |
-|[2021-05-06](#Ref1) |National archives’ general counsel Gary M. Stern notifies Trump’s representatives that Pat A. Cipollone, the former White House counsel, identified roughly two dozen boxes of material that had been in the White House residence but was never transferred to the archives, and that the original correspondence with North Korean leader Kim Jong-un and a letter that President Barack Obama had left for Trump at the White House upon leaving office were not returned to the National archives. (*According to an affidavit supporting the 08-05-2022 warrant to search Mar-a-Lago the archives continued to make such requests for months*.) |  |
+|[2021-05-06](#Ref1) |National archives’ general counsel Gary M. Stern notifies Trump’s representatives that Pat A. Cipollone, the former White House counsel, identified roughly two dozen boxes of material that had been in the White House residence but was never transferred to the archives, and that the original correspondence with North Korean leader Kim Jong-un and a letter that President Barack Obama had left for Trump at the White House upon leaving office were not returned to the National archives. (*According to an affidavit supporting the 08-05-2022 warrant to search Mar-a-Lago the archives continued to make such requests for months*.) |National archives’ initial attempt have the Trump team return government records to the National archives as required by the Presidential Records Act |
 |[2021-05-18](#Ref1) |Trump offers to return letters from Kim Jong-un, but the letters are not returned |  |
 |[2021 *summer*](#Ref1) |Trump displays the Kim letters, boxes of documents from the White House are being stored in Trump's Mar-a-Lago office |  |
 |[2021 *late in the year*](#Ref1) |National Archives officials warn Trump team that there could be a referral to the Justice Department or an alert to Congress if the former president continues to refuse to comply with the Presidential Records Act  |  |
@@ -21,6 +21,20 @@
 |[2022 *spring*](#Ref1) |A grand jury is seated to look into the missing boxes of documents  |  |
 |[2022 *spring*](#Ref1) |The F.B.I. begins interviewing several of Mr. Trump’s aids and lawyers who had been among his representatives to the National archives |  |
 |[2022 *spring*](#Ref1) |Trump begins insisting to his advisers that he has returned everything and is unwilling to discuss the matter further  |  |
+|[2022-04-29](#Ref1) |Justice Department tells Mr. Trump’s lawyers that the archives has found over 100 documents — more than 700 pages — with classification markings in the 15 boxes recovered on 2022-01-18, and says the executive branch must assess “the potential damage resulting from the apparent matter in which these materials were stored and transported and take any necessary remedial steps.” |  |
+|[2022-05-11](#Ref1) |A grand jury issues a subpoena to Trump seeking additional documents bearing classified markings |  |
+|[2022-05-16](#Ref1) |The FBI identifies classified documents in 14 of the 15 boxes recovered on 2022-01-18. In that collection there were 184 unique documents with classification markings; of those, 67 are confidential, 92 are secret and 25 are top secret. Markings show that some documents pertained to foreign intelligence surveillance and information gathered by human intelligence sources. Some were not to be shared with foreign entities, and others were marked “ORCON,” meaning that the agency that originated the document had to approve any dissemination beyond the government entities approved to see it. Some of those documents include Trump’s handwritten notes |  |
+|[2022-05-25](#Ref1) |Trump lawyer M. Evan Corcoran sent the Justice Department a letter including a claim that Trump had the absolute authority to declassify the documents |  |
+|[2022-06-03](#Ref1) |Justice Department’s chief of counterintelligence Jay I. Bratt and F.B.I. agents visit Mar-a-Lago.  Trump greets them in the dining room (*Trump’s lawyers say Trump said: “Whatever you need, just let us know.”*). Bratt inspected a Mar-a-Lago storage room. Trump lawyer Christina Bobb signed a written statement asserting that to the best of the lawyers’ understanding, they have turned over all the remaining classified material from the White House boxes, satisfying the subpoena |  |
+|[](#Ref1) |  |  |
+|[](#Ref1) |  |  |
+|[](#Ref1) |  |  |
+|[](#Ref1) |  |  |
+|[](#Ref1) |  |  |
+|[](#Ref1) |  |  |
+|[](#Ref1) |  |  |
+|[](#Ref1) |  |  |
+|[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
