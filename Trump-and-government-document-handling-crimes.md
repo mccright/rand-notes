@@ -40,7 +40,7 @@
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
 |[2023-06-08](#Ref2) |Federal prosecutors documented their case under seal against Donald J. Trump in a 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart) |  |
-|[2023-06-09](#Ref3) |Federal prosecutors released their 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart).  31 counts related to withholding national defense information. 5 counts related to concealing possession of classified documents and conspiracy to obstruct justice and withholding documents and records against Trump and Walt Nauta. 2 counts related to false statements to the F.B.I. by Trump and Walt Nauta |31 of the documents are subject to Espionage Act violations |
+|[2023-06-09](#Ref3) |Federal prosecutors released their 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart).  31 counts related to withholding national defense information (*1 for each classified document relating to national defense after serving the 2022-05-11 subpoena* [summarized on pages 28-33](#Ref2)). 5 counts related to concealing possession of classified documents and conspiracy to obstruct justice and withholding documents and records against Trump and Walt Nauta. 2 counts related to false statements to the F.B.I. by Trump and Walt Nauta |31 of the documents are subject to Espionage Act violations |
 |[](#Ref1) |  |  |
 
 ## Sources:  
@@ -52,5 +52,5 @@ https://www.nytimes.com/2022/08/26/us/politics/trump-documents-search-timeline.h
 https://www.justice.gov/storage/US_v_Trump-Nauta_23-80101.pdf  
 ### Ref3  
 "The Trump Classified Documents Indictment, Annotated." Produced by Charlie Smart; 09 June 2023
-
+https://www.nytimes.com/interactive/2023/06/09/us/trump-indictment-document-annotated.html
 
