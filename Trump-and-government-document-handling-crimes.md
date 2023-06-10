@@ -12,7 +12,7 @@
 |[2021 *late in the year*](#Ref1) |National Archives officials warn Trump team that there could be a referral to the Justice Department or an alert to Congress if the former president continues to refuse to comply with the Presidential Records Act  |  |
 |[2021 *late in the year*](#Ref1) |Mr. Trump goes through the boxes at Mar-a-Lago himself then... |  |
 |[2021 (*late December*)](#Ref1) |Trump’s lawyers tell the archives that they have found 12 boxes of documents at Mar-a-Lago and that they are now ready for retrieval |  |
-|[2022-01-18](#Ref1) |The National archives recovers 15 boxes of material from Mar-a-Lago, some of which “appear to contain national defense information,” sometimes called NDI | NDI is protected by the Espionage Act so the National archives informs the Justice Department |
+|[2022-01-18](#Ref1) |The National archives recovers 15 boxes of material from Mar-a-Lago, some of which “appear to contain national defense information,” sometimes called NDI | NDI is protected by the [Espionage Act](#Ref4) so the National archives informs the Justice Department |
 |[2022-01~18](#Ref1) |Justice Department asks President Biden to request that the National archives provide the F.B.I. with access to the boxes for examination |  |
 |[2022-01-31](#Ref1) |National archives publicly criticizes Trump’s destruction of documents because end-of-administration returns “included paper records that had been torn up by former President Trump.” |  |
 |[2022-02~07](#Ref1) |National archives publicly asserts that Mr. Trump still has presidential records that should have been turned over to the archives at the end of his time in office |  |
@@ -40,7 +40,7 @@
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
 |[2023-06-08](#Ref2) |Federal prosecutors documented their case under seal against Donald J. Trump in a 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart) |  |
-|[2023-06-09](#Ref3) |Federal prosecutors released their 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart).  31 counts related to withholding national defense information (*1 for each classified document relating to national defense after serving the 2022-05-11 subpoena* [summarized on pages 28-33](#Ref2)). 5 counts related to concealing possession of classified documents and conspiracy to obstruct justice and withholding documents and records against Trump and Walt Nauta. 2 counts related to false statements to the F.B.I. by Trump and Walt Nauta |31 of the documents are subject to Espionage Act violations |
+|[2023-06-09](#Ref3) |Federal prosecutors unsealed their 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart).  It included 37 felony counts.  31 counts related to withholding national defense information (*1 for each classified document relating to national defense after serving the 2022-05-11 subpoena* [summarized on pages 28-33](#Ref2)). 5 counts related to concealing possession of classified documents and conspiracy to obstruct justice and withholding documents and records against Trump and Walt Nauta. 2 counts related to false statements to the F.B.I. by Trump and Walt Nauta |31 of the documents are subject to [Espionage Act violations](#Ref4) |
 |[](#Ref1) |  |  |
 
 ## Sources:  
@@ -53,4 +53,13 @@ https://www.justice.gov/storage/US_v_Trump-Nauta_23-80101.pdf
 ### Ref3  
 "The Trump Classified Documents Indictment, Annotated." Produced by Charlie Smart; 09 June 2023
 https://www.nytimes.com/interactive/2023/06/09/us/trump-indictment-document-annotated.html
+
+### Ref4  
+"18 U.S. Code § 793 - Gathering, transmitting or losing defense information."  
+https://www.govinfo.gov/app/details/USCODE-2009-title18/USCODE-2009-title18-partI-chap37-sec793/summary and   https://www.law.cornell.edu/uscode/text/18/793
+
+
+
+"Photos from Trump indictment show boxes of classified documents stored in Mar-a-Lago shower, ballroom." Jun 9, 2023 4:41 PM EDT  
+https://www.pbs.org/newshour/politics/photos-from-trump-indictment-show-boxes-of-classified-documents-stored-in-mar-a-lago-shower-ballroom  
 
