@@ -32,7 +32,7 @@
 |[2022-08-05](#Ref1) |A federal judge approves a search warrant for Mar-a-Lago. The warrant application says that “there is probable cause to believe that additional documents that contain classified N.D.I. or that are presidential records subject to record retention requirements currently remain at the premises.” |  |
 |[2022-08-08](#Ref1) |The F.B.I. searches Mar-a-Lago, finding 11 sets of classified material, comprising scores of pages, are recovered from the basement storage area, a container on the floor of a closet in Mr. Trump’s office, a former dressing room in the bridal suite above a ballroom |  |
 |[](#Ref1) |  |  |
-|[2022-09-01](#Refx) |Cannon hearing |  |
+|[2022-09-01](#Refx) |Federal judge [Aileen M. Cannon](https://www.fjc.gov/history/judges/cannon-aileen-mercedes) signaled that she supported granting Trump’s request to appoint a special master to go through documents the F.B.I. seized on 8 August 2022 to identify any protected by attorney-client privilege or by (*mythical*) "executive privilege." |  |
 |[2022-09-05](#Refx) |Cannon decision for special master & "executive priv"  |  |
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
@@ -44,6 +44,7 @@
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
 |[2023-06-08](#Ref2) |Federal prosecutors documented their case under seal against Donald J. Trump in a 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart) |  |
+|[2023-06-08](#Ref5) |9:23-cr-80101-AMC, USA v. Trump, et al. is assigned to Federal judge [Aileen M. Cannon](https://www.fjc.gov/history/judges/cannon-aileen-mercedes) |  |
 |[2023-06-09](#Ref3) |Federal prosecutors unsealed their 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart).  It included 37 felony counts.  31 counts related to withholding national defense information (*1 for each classified document relating to national defense after serving the 2022-05-11 subpoena* [summarized on pages 28-33](#Ref2)). 5 counts related to concealing possession of classified documents and conspiracy to obstruct justice and withholding documents and records against Trump and Walt Nauta. 2 counts related to false statements to the F.B.I. by Trump and Walt Nauta |31 of the documents are subject to [Espionage Act violations](#Ref4) |
 |[](#Ref1) |  |  |
 
@@ -60,8 +61,13 @@ https://www.nytimes.com/interactive/2023/06/09/us/trump-indictment-document-anno
 
 ### Ref4  
 "18 U.S. Code § 793 - Gathering, transmitting or losing defense information."  
-https://www.govinfo.gov/app/details/USCODE-2009-title18/USCODE-2009-title18-partI-chap37-sec793/summary and   https://www.law.cornell.edu/uscode/text/18/793
+https://www.govinfo.gov/app/details/USCODE-2009-title18/USCODE-2009-title18-partI-chap37-sec793/summary and   https://www.law.cornell.edu/uscode/text/18/793  
 
+### Ref5  
+"Recent Criminal Filings - As of 06/09/2023 - Last 7 Days": "9:23-cr-80101-AMC, USA v. Trump, et al., Cannon, 06/08/2023" (*accessed 2023-06-10*) https://www.flsd.uscourts.gov/recent-criminal-filings  
+
+### Ref6  
+Aileen Mercedes Cannon biographies: https://en.wikipedia.org/wiki/Aileen_Cannon and https://www.fjc.gov/history/judges/cannon-aileen-mercedes along with: "[Judge Dismisses Ethics Complaints Accusing Aileen Cannon of Bias in Trump Special Master Order](https://www.law.com/nationallawjournal/2022/12/06/judge-dismisses-ethics-complaints-accusing-aileen-cannon-of-bias-in-trump-special-master-order/?slreturn=20230510195057)," "[Was Aileen Cannon the Biggest Loser in the 11th Circuit's Special Master Ruling?](https://www.law.com/nationallawjournal/2022/12/02/was-aileen-cannon-the-biggest-loser-in-the-11th-circuits-special-master-ruling/)," "[11th Circuit Ends Special Master Review of Records Seized at Mar-a-Lago](https://www.law.com/nationallawjournal/2022/12/01/11th-circuit-ends-special-master-review-of-records-seized-at-mar-a-lago/)," "[Panel Appears Unmoved by Trump’s Request for Special Treatment Over Mar-a-Lago Docs](https://www.law.com/nationallawjournal/2022/11/22/panel-appears-unmoved-by-trumps-request-for-special-treatment-over-mar-a-lago-docs/)," and "['Red Herring': 11th Circuit Ravages Trump's Claims He Declassified Secret Docs](https://www.law.com/nationallawjournal/2022/09/21/red-herring-11th-circuit-ravages-trumps-declassification-claims/)."
 
 
 "Photos from Trump indictment show boxes of classified documents stored in Mar-a-Lago shower, ballroom." Jun 9, 2023 4:41 PM EDT  
