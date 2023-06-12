@@ -45,7 +45,7 @@
 |[](#Ref1) |  |  |
 |[2023-06-08](#Ref2) |Federal prosecutors documented their case under seal against Donald J. Trump in a 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart) |  |
 |[2023-06-08](#Ref5) |9:23-cr-80101-AMC, USA v. Trump, et al. is assigned to Federal judge [Aileen M. Cannon](https://www.fjc.gov/history/judges/cannon-aileen-mercedes) |  |
-|[2023-06-09](#Ref3) |Federal prosecutors unsealed their 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart).  It included 37 felony counts.  31 counts related to withholding national defense information (*1 for each classified document relating to national defense after serving the 2022-05-11 subpoena* [summarized on pages 28-33](#Ref2)). 5 counts related to concealing possession of classified documents and conspiracy to obstruct justice and withholding documents and records against Trump and Walt Nauta. 2 counts related to false statements to the F.B.I. by Trump and Walt Nauta |31 of the documents are subject to [Espionage Act violations](#Ref4) |
+|[2023-06-09](#Ref3) |Federal prosecutors unsealed their 38-count indictment (*United States of America v. Donald J. Trump and Waltine Nauta* 23-80101-CR-Cannon/Reinhart).  It included 37 felony counts.  31 counts related to withholding national defense information (*1 for each classified document relating to national defense after serving the 2022-05-11 subpoena* [summarized on pages 28-33](#Ref2)). 5 counts related to concealing possession of classified documents and conspiracy to obstruct justice and withholding documents and records against Trump and Walt Nauta. 2 counts related to false statements to the F.B.I. by Trump and Walt Nauta |31 of the documents are subject to [Espionage Act violations](#Ref4) |  
 |[](#Ref1) |  |  |
 
 ## Sources:  
@@ -54,20 +54,26 @@
 https://www.nytimes.com/2022/08/26/us/politics/trump-documents-search-timeline.html  
 ### Ref2  
 "United States of America v. Donald J. Trump and Waltine Nauta." US District Court/Southern District of Florida Case 23-80101-CR-Cannon/Reinhart 
-https://www.justice.gov/storage/US_v_Trump-Nauta_23-80101.pdf  
+https://www.justice.gov/storage/US_v_Trump-Nauta_23-80101.pdf, which included charges of violating the following laws: [18 U.S.C. § 793(e)](https://www.govinfo.gov/app/details/USCODE-2009-title18/USCODE-2009-title18-partI-chap37-sec793), [18 U.S.C. § 1512(k)](https://www.govinfo.gov/app/details/USCODE-2021-title18/USCODE-2021-title18-partI-chap73-sec1512), [18 U.S.C. § 1512(b)(2)(A)](https://www.govinfo.gov/app/details/USCODE-2021-title18/USCODE-2021-title18-partI-chap73-sec1512), [18 U.S.C. § 1512(c)(1)](https://www.govinfo.gov/app/details/USCODE-2021-title18/USCODE-2021-title18-partI-chap73-sec1512), [18 u.s.c. § 1519](https://www.govinfo.gov/app/details/USCODE-2021-title18/USCODE-2021-title18-partI-chap73-sec1519), [18 U.S.C. § 1001(a)(1)](https://www.govinfo.gov/app/details/USCODE-2021-title18/USCODE-2021-title18-partI-chap47-sec1001), [18 U.S.C. § 1001(a)(2)](https://www.govinfo.gov/app/details/USCODE-2021-title18/USCODE-2021-title18-partI-chap47-sec1001), and [18 u.s.c. § 2](https://www.govinfo.gov/content/pkg/USCODE-2021-title18/html/USCODE-2021-title18-partI-chap1-sec2.htm).  
+
 ### Ref3  
 "The Trump Classified Documents Indictment, Annotated." Produced by Charlie Smart; 09 June 2023
 https://www.nytimes.com/interactive/2023/06/09/us/trump-indictment-document-annotated.html
 
 ### Ref4  
 "18 U.S. Code § 793 - Gathering, transmitting or losing defense information."  
-https://www.govinfo.gov/app/details/USCODE-2009-title18/USCODE-2009-title18-partI-chap37-sec793/summary and   https://www.law.cornell.edu/uscode/text/18/793  
+https://www.govinfo.gov/app/details/USCODE-2009-title18/USCODE-2009-title18-partI-chap37-sec793/summary and   https://www.law.cornell.edu/uscode/text/18/793. The Trump Justice Department [charged Reality Winner (26) with 18 U.S. Code § 793](https://www.justice.gov/opa/press-release/file/971331/download), she pled guilty and was sentenced to more than 5 years in prison, and [Nghia Pho](https://www.nytimes.com/2017/12/01/us/politics/nsa-nghia-pho-classified-information-stolen-guilty.html) (67) pled guilty to a single count of willful retention of national defense information was sentenced to more than 5 years in prison. While President, Trump was exposed to the reality of information security and document management crimes.  
 
 ### Ref5  
 "Recent Criminal Filings - As of 06/09/2023 - Last 7 Days": "9:23-cr-80101-AMC, USA v. Trump, et al., Cannon, 06/08/2023" (*accessed 2023-06-10*) https://www.flsd.uscourts.gov/recent-criminal-filings  
 
 ### Ref6  
 Aileen Mercedes Cannon biographies: https://en.wikipedia.org/wiki/Aileen_Cannon and https://www.fjc.gov/history/judges/cannon-aileen-mercedes along with: "[Judge Dismisses Ethics Complaints Accusing Aileen Cannon of Bias in Trump Special Master Order](https://www.law.com/nationallawjournal/2022/12/06/judge-dismisses-ethics-complaints-accusing-aileen-cannon-of-bias-in-trump-special-master-order/?slreturn=20230510195057)," "[Was Aileen Cannon the Biggest Loser in the 11th Circuit's Special Master Ruling?](https://www.law.com/nationallawjournal/2022/12/02/was-aileen-cannon-the-biggest-loser-in-the-11th-circuits-special-master-ruling/)," "[11th Circuit Ends Special Master Review of Records Seized at Mar-a-Lago](https://www.law.com/nationallawjournal/2022/12/01/11th-circuit-ends-special-master-review-of-records-seized-at-mar-a-lago/)," "[Panel Appears Unmoved by Trump’s Request for Special Treatment Over Mar-a-Lago Docs](https://www.law.com/nationallawjournal/2022/11/22/panel-appears-unmoved-by-trumps-request-for-special-treatment-over-mar-a-lago-docs/)," and "['Red Herring': 11th Circuit Ravages Trump's Claims He Declassified Secret Docs](https://www.law.com/nationallawjournal/2022/09/21/red-herring-11th-circuit-ravages-trumps-declassification-claims/)."
+
+
+
+Executive Order 13526 is one of a series of executive orders from US Presidents outlining how classified information should be handled. It revokes and replaces the previous Executive Orders in effect for this, which were [EO 12958](https://en.wikipedia.org/wiki/Executive_Order_12958) and [EO 13292](https://en.wikipedia.org/wiki/Executive_Order_13292): "The President Executive Order 13526 -- Classified National Security Information." https://www.archives.gov/isoo/policy-documents/cnsi-eo.html and "Executive Order 13526" https://en.wikipedia.org/wiki/Executive_Order_13526
+
 
 
 "Photos from Trump indictment show boxes of classified documents stored in Mar-a-Lago shower, ballroom." Jun 9, 2023 4:41 PM EDT  
