@@ -33,7 +33,7 @@
 |[2022-08-08](#Ref1) |The F.B.I. searches Mar-a-Lago, finding 11 sets of classified material, comprising scores of pages, are recovered from the basement storage area, a container on the floor of a closet in Mr. Trump’s office, a former dressing room in the bridal suite above a ballroom |  |
 |[](#Ref1) |  |  |
 |[2022-09-01](#Refx) |Federal judge [Aileen M. Cannon](https://www.fjc.gov/history/judges/cannon-aileen-mercedes) signaled that she supported granting Trump’s request to appoint a special master to go through documents the F.B.I. seized on 8 August 2022 to identify any protected by attorney-client privilege or by (*mythical*) "executive privilege." |  |
-|[2022-09-05](#Refx) |Cannon decision for special master & "executive priv"  |  |
+|[2022-09-05](#Refx) |Cannon decision grants Trump's request for special master & invents (*mythical*) "executive privilege"  |  |
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
 |[2022-12-01](#Refx) |U.S. Court of Appeals for the 11th Circuit in Atlanta rejects Cannon's ... "This appeal requires us to consider whether the district court had jurisdiction to block the United States from using lawfully seized records in a criminal investigation. The answer is no." ...“Federal courts are courts of limited jurisdiction. They possess only that power authorized by Constitution and statute, which is not to be expanded by judicial decree.” ..."So the case must be dismissed."  |The final U.S. Court of Appeals ruling on the case called Judge Cannon's behavior an attempt to "carve out an unprecedented exception in our law for former presidents." [page 3](https://int.nyt.com/data/documenttools/11th-cir/eb9858de31042399/full.pdf) |
