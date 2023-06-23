@@ -106,6 +106,12 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 >From Los Angeles to Colorado and throughout Oregon, as child welfare agencies use or consider tools similar to the one in Allegheny County, Pennsylvania, an Associated Press review has identified a number of concerns about the technology, including questions about its reliability and its potential to harden racial disparities in the child welfare system. Related issues have already torpedoed some jurisdictions' plans to use predictive models, such as the tool notably dropped by the state of Illinois. According to [new research from a Carnegie Mellon University team](https://loganstapleton.com/wp-content/uploads/2022/04/Extended_Analysis__How_Child_Welfare_Workers_Reduced_Racial_Disparities_in_Algorithmic_Decisions.pdf) obtained exclusively by AP, Allegheny's algorithm in its first years of operation showed a pattern of flagging a disproportionate number of Black children for a "mandatory" neglect investigation, when compared with white children. The independent researchers, who received data from the county, also found that social workers disagreed with the risk scores the algorithm produced about one-third of the time.  
 
 
+ToDo: Experiment with the following to build additional context:  
+* Language Models: Python building blocks to explore large language models on any computer with 512MB of RAM [https://github.com/jncraton/languagemodels](https://github.com/jncraton/languagemodels) This package is designed to be as simple as possible for learners and educators exploring how large language models intersect with modern software development.  
+* SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation 
+[https://github.com/OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker)  
+* FableForge: "Generate a picture book from a single prompt using OpenAI's new function calling and Replicate's API for Stable Diffusion." [https://github.com/e-johnstonn/FableForge](https://github.com/e-johnstonn/FableForge)  
+
 -----
 
 ImageNet (zero-shot): SOTA, surpassing OpenAI CLIP (https://openai.com/blog/clip/).  
