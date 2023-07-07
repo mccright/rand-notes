@@ -125,3 +125,15 @@ One approach is to '*listen*' to the network interface that *should* be receivin
 ### An endpoint was returned to you -- *or you just found one of your 'old' PCs and want to use it again* -- and you don't have access to root  
 An easy approach is to press ```e``` when the GRUB menu appears (*or ESC if the boot is silent*) and edit the boot menu.  
 Edit the line starting with ```linux``` or add a new one and comment out the old.  It needs to include ```init=/bin/bash```.  That will tell the kernel to run a Bash shell without running any other services.  Only the ```/``` root file system is mounted.  Set the root password with ```$ passwd root``` and then reboot.  You are good to go...   ***If the root filesystem mount read-only***: You also need to add ```rootflags=rw``` to the Grub menu that you initially edited above.  
+
+### My endpoint (*or server*) is "locked up" -- What next?  
+Over the course of more than 30 years of being a user and an administrator on Unix and then Linux hosts, I have experienced a small number of situations where the endpoint would no longer accept user input from the keyboard (*any keyboard*).  These hosts were virtually *always* busy and employed in some types of business activities, so just pressing the power switch was not a practical option given the risk of corrupted file systems.  In the LXF303 volume of "Linux Format" Neil Bothwick published an excellent overview of *what to do next* and why (page 14 of the July 2023 print version of "Linux Format").  
+#### **R**eboot **E**ven **I**f **S**ystem **U**tterly **B**roken  
+The Linux kernel listens for the combintation of Alt and SysReq (*PrtScr*), then a number of specific letter keys.  
+**R**: "R" to reset the keyboard  
+**E**: "E" to send a TERM signal to all processes (*"wait" while those processes attempt to end.  Depending on the nature of your host and its load, that can take some time*)  
+**I**: "I" to send a KILL signal to all remaining processes  
+**S**: "S" telling the kernel to sync -- to flush all buffers to disk  
+**U**: "U" telling the kernel to unmount all filesystems and remount them ```read-only```  
+**B**: "B" telling the kernel to reboot the system  
+"So, that is hold down the Alt and SysReq keys, and then press R, E, I, S, U, and B in turn leaving a (*the time needed*) between each." [Neil Bothwick]  
