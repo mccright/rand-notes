@@ -41,6 +41,13 @@ Find all entries of priority level range error or higher since booting:
 journalctl -b -p error
 ```
 
+or, if you find yourself thinking that you need to ```tail -f``` your log(s) and watch for an error...  
+Open two terminals, in the first:  
+```terminal
+journalctl -f 
+```
+and then go to the second terminal and perform the action that you suspect is causing the problem at hand, while watching the ```journalctl``` output in the other terminal.  
+
 or, using a completely different approach...  
 ```terminal
 systemctl list-units --failed
