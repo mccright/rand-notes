@@ -147,4 +147,4 @@ The Linux kernel listens for the combintation of Alt and SysReq (*PrtScr*), then
 **S**: "S" telling the kernel to sync -- to flush all buffers to disk  
 **U**: "U" telling the kernel to unmount all filesystems and remount them ```read-only```  
 **B**: "B" telling the kernel to reboot the system  
-"So, that is hold down the Alt and SysReq keys, and then press R, E, I, S, U, and B in turn leaving a (*the time needed*) between each." [Neil Bothwick]  
+"So, that is hold down the Alt and SysReq keys, and then press R, E, I, S, U, and B in turn leaving (*the time needed*) between each." [Neil Bothwick]  
