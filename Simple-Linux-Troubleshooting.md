@@ -137,7 +137,7 @@ Edit the line starting with ```linux``` or add a new one and comment out the old
 
 -----
 ### My endpoint (*or server*) is "locked up" -- What next?  
-Over the course of more than 30 years of being a user and an administrator on Unix and then Linux hosts, I have experienced a small number of situations where the endpoint would no longer accept user input from the keyboard (*any keyboard*).  These hosts were virtually *always* busy and employed in some types of business activities, so just pressing the power switch was not a practical option given the risk of corrupted file systems.  In the LXF303 volume of "Linux Format" Neil Bothwick published an excellent overview of *what to do next* and why (page 14 of the July 2023 print version of "Linux Format").  
+Over the course of more than 30 years of being a user and an administrator on Unix and then Linux hosts, I have experienced a small number of situations where the endpoint would no longer accept user input from the keyboard (*any keyboard*).  These hosts were virtually *always* busy and employed in some types of business activities, so just pressing the power switch was not a practical option given the risk of corrupted file systems.  In the LXF303 volume of "Linux Format" Neil Bothwick published an excellent overview of *what to do next* and why (page 14 of the [July 2023 print version of "Linux Format"](https://linuxformat.com/linux-format-303.html)).  
 
 **R**eboot **E**ven **I**f **S**ystem **U**tterly **B**roken  
 The Linux kernel listens for the combintation of Alt and SysReq (*PrtScr*), then a number of specific letter keys.  
