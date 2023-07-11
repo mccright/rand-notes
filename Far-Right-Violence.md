@@ -166,7 +166,7 @@ Right Wing Watch Posts About Gun Violence: [https://www.rightwingwatch.org/topic
 #### ToDo: 
 * Defining "Far-Right" --> [https://www.irehr.org/reports/breaching-the-mainstream/chapter-4-the-far-right-groups/](https://www.irehr.org/reports/breaching-the-mainstream/chapter-4-the-far-right-groups/)  
 * Do some research on the Constitutional Sheriff and Peace Officers Association (CSPOA) to see if their activities belong on this page.  Their founding premise that "the county sheriff is the definitive law officer constitutionally" and their assertions that county sheriffs determine whether to enforce given laws based on their *understanding of the constitution*.  
-* Do some research on the intersection of violent individuals & groups within political & religious conservatives and the "manosphere" [male supremacist activists, men’s rights activism (MRA) and “involuntary celibates” (incels)](https://www.isdglobal.org/explainers/the-manosphere-explainer/.).  
+* Do some research on the intersection of violent individuals & groups within political & religious conservatives and the "manosphere" [male supremacist activists, men’s rights activism (MRA) and “involuntary celibates” (incels)](https://www.isdglobal.org/explainers/the-manosphere-explainer/.) and [here](https://www.washingtonpost.com/opinions/2023/07/10/christine-emba-masculinity-new-model/).  
 * There is research about an empathy bias for members of one's own tribe/group.  See if any of that research if related to Far Right violence.  
 * An essay by [Thomas B. Edsall](https://www.nytimes.com/2023/02/22/opinion/democrats-republicans-education-racial-resentment.html) pointed to a collection of research on Right/Left extremes.  
 Review these:  
