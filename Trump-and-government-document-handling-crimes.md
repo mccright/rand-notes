@@ -49,6 +49,11 @@
 |[2023-06-14](#Refx) |[Trump pleads not guilty](https://apnews.com/article/trump-classified-documents-indictment-miami-court-e9412bb71b63ab1b7cfb8e8b122e9809) to federal charges that he mishandled government secrets (37 felony counts). |  |
 |[2023-06-19](#Refx) |Judge orders Trump lawyers not to disclose evidence in documents case "without prior notice to and consent of the United States or approval of the court". |  |
 |[2023-06-21](#Refx) |[Justice Department begins turning over evidence to Trump team](https://apnews.com/article/trump-indictment-classified-maralago-c10d15c6d0325a8a38757ed18413de79) in classified documents case. |Includes [transcripts of grand jury testimony as well as video and audio evidence](https://www.washingtonpost.com/politics/2023/06/21/trump-indictment-classified-maralago/ed9af23c-10a2-11ee-8d22-5f65b2e2f6ad_story.html) that will be presented by the prosecutors in court. |
+|[2023-07-10](#Refx) |Walt Nauta's lawyers asked the court to delay an end-of-week CIPA conference to discuss the handling of classified evidence in the case.  |Intentional delay? Nauta attorney Stanley Woodward had not yet completed his Form SF-86 -- necessary for him to receive an interim security clearance as well as final clearance, despite having been put in contact with the Litigation Security Group on June 12 (3 weeks before Mon July 10th)  |
+|[2023-07-11](https://www.nytimes.com/2023/07/11/us/politics/trump-documents-trial-postponement.html) |Trump lawyers file a request for indefinite delay in the trial. ([Case 9 : 23- cr- 80101- AMC Document 66](https://int.nyt.com/data/documenttools/trump-motion-for-continuance/6f05611cb6b92439/full.pdf))  |Trump's lawyers compared defendent Trump with "Panama's former dictator, Manuel Noriega" and described the current case as a "prosecution of a leading Presidential candidate by his political opponent." (both on page 6) |
+|[](#Ref1) |  |  |
+|[](#Ref1) |  |  |
+|[](#Ref1) |  |  |
 
 ## Sources:  
 ### Ref1  
