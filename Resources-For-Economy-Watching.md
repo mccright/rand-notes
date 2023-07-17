@@ -43,6 +43,7 @@
 * Yield curve: [https://stockcharts.com/freecharts/yieldcurve.php](https://stockcharts.com/freecharts/yieldcurve.php)  
   * [https://www.clevelandfed.org/en/our-research/indicators-and-data/yield-curve-and-gdp-growth.aspx](https://www.clevelandfed.org/en/our-research/indicators-and-data/yield-curve-and-gdp-growth.aspx)  
   * [https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield)  
+  * or just [Treasury Yield - 10 Years](https://finance.yahoo.com/quote/%5ETNX?p=%5ETNX&ncid=yahooproperties_peoplealso_km0o32z3jzm)
 * A suite of economic indicators from YCharts [https://ycharts.com/indicators](https://ycharts.com/indicators)  
 * Weekly Economic Index (WEI) from the New York Fed's [Applied Macroeconomics and Econometrics Center (AMEC)](https://newyorkfed.org/research/amec).  The WEI provides a signal of the state of the U.S. economy based on data available at a daily or weekly frequency.  [https://www.newyorkfed.org/research/policy/weekly-economic-index#/interactive](https://www.newyorkfed.org/research/policy/weekly-economic-index#/interactive)  
 * Survey of Consumer Expectations from the New York Fed's [Applied Macroeconomics and Econometrics Center (AMEC)](https://newyorkfed.org/research/amec).  [https://www.newyorkfed.org/microeconomics/sce#/](https://www.newyorkfed.org/microeconomics/sce#/)  
