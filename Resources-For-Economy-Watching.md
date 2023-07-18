@@ -96,6 +96,15 @@ In practice in the U.S. the *trickle-down* variant of supply-side economics has 
 MMT theorists have not been well tested in the *real world* but may have an opportunity to influence responses to the 2021-2022 U.S. inflation.  
 [Some of this is paraphrased from an article by Jeanna Smialek](https://www.nytimes.com/2022/02/06/business/economy/modern-monetary-theory-stephanie-kelton.html)  
 
+#### The Representative Agent and HANK  
+For at least half a century, [economists](https://en.wikipedia.org/wiki/Economics#Theory) used an imaginary person they called a “[representative agent](https://en.wikipedia.org/wiki/Representative_agent)” to replace all of us in a model of *how the economy works*.  This "representative agent" had perfect knowledge and acted with scrupulous rationality.  Given the diversity that characterized humans (economic decision-makers), the "representative agent" idea seems unproductive (*and maybe self-serving*).  Modeling this way has been problematic at best.  After decades of "representative agent" modeling, acceptance of humanity's diversity has been creeping into economic modeling:  
+* Heterogeneous Agent New Keynesian (HANK) incorporates "household heterogeneity" into (New) Keynesian modeling and accounts for low-income (hand-to-mouth) actors, actors having material wealth but few liquid assets, and more...  The "[New Keynesian](https://en.wikipedia.org/wiki/New_Keynesian_economics)" part of HANK attempts to provide microeconomic foundations for Keynesian economics.  This seems like a productive trajectory for economic thinking and modeling.  
+
+"The ‘Representative Agent’ Is Always Rational. The Rest of Us Are Not." By Peter Coy, July 10, 2023
+https://www.nytimes.com/2023/07/10/opinion/economic-modeling-hank-representative-agent.html
+
+HANK is “still in its infancy but it’s catching on quite a bit,” Moll said. He said the Federal Reserve Bank of New York and Norges Bank, the central bank of Norway, have built HANK models, and others, including the European Central Bank, are diving in. Still, he said: “I don’t think it’s going to completely replace the existing models. It’s going to be an additional model that they have at their disposal.”
+
 
 #### Need to research these...  
 * Cost-of-Thriving Index (by the conservative "American Compass" organization: [https://americancompass.org/2023-cost-of-thriving-index/](https://americancompass.org/2023-cost-of-thriving-index/)  
