@@ -16,6 +16,15 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * Chatbots (general) 
 * Interactive personal assistance  
 * *Consumer*/*customer*/consumption suggestions, advice, and *support* (and product/service reviews)  
+* *Customer* support  
+* Application development  
+
+## Maybe Leave This Page Now and Read "This" for Context!
+Yes.  Go read this now...  
+**"AI Is a Lot of Work."**  
+As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere.  
+By **[Josh Dzieza](https://www.theverge.com/authors/josh-dzieza)**, June 20, 2023.  New York Magazine.  
+https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html  
 
 
 ## Resources:  
