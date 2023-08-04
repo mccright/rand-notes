@@ -46,7 +46,7 @@ https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-techno
 
 
 ## Timeline Ideas:  
-* 2023: [Google releases a conversational AI service called "*Bard*"](https://blog.google/technology/ai/bard-google-ai-search-updates/) to compte with ChatGPT.  
+* 2023: [Google releases a conversational AI service called "*Bard*"](https://blog.google/technology/ai/bard-google-ai-search-updates/) to compte with ChatGPT. ...There are many *competitors*: Bing AI (research), Claud (writing), Google Docs AI (Notes), BlueWillow (images), ChatGPT+ (research, writing, search), Notion AI (Notes), Midjourney (images), Canva AI (art/design)  
 * 2022: OpenAI released ChatGPT - an a LLM conversational AI service that accepts inputs in plain language and spits out human-friendly, content relevant results.  
 * 2021: [Language Model for Dialogue Applications](https://blog.google/technology/ai/lamda/) (or LaMDA for short)  
 * 2020: OpenAI GPT-3 a language model that generates text using pre-trained algorithms.  
@@ -96,6 +96,7 @@ https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-techno
 * *Generative adversarial networks* (GANs) and *reinforcement learning* endow *deep networks* with the ability to produce artificial content such as fake images that pass for the real thing. "GANs consist of two interlocked components—a generator, responsible for creating realistic content, and a discriminator, tasked with distinguishing the output of the generator from naturally occurring content. The two learn from each other, becoming better and better at their respective tasks over time" [AI100Report_MT_10, page 12](https://ai100.stanford.edu/sites/g/files/sbiybj18871/files/media/file/AI100Report_MT_10.pdf).  
 * *[Recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_network)* (RNN) "is a class of artificial neural networks where connections between nodes can create a cycle, allowing output from some nodes to affect subsequent input to the same nodes. This allows it to exhibit temporal dynamic behavior. Derived from feedforward neural networks, RNNs can use their internal state (memory) to process variable length sequences of inputs. This makes them applicable to tasks such as unsegmented, connected handwriting recognition[4] or speech recognition."  
 * Large Language Model (LLM)  
+* *Reinforcement Learning from Human Feedback* (RLHF) https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback  
 * *Sensibleness and Specificity Average* (SSA)  
  
 
