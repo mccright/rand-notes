@@ -1,5 +1,7 @@
 ## Trump's Crimes Related to Government Documents  
 
+* In the classified documents case that Smith has also brought against the former president in June, the Trump team has sought to slow-walk the schedule for the proceedings. There were hints of a similar strategy in the first hearing in the election subversion case.
+* [Federal prosecutors allege](#Ref8) that Trump "was determined to remain in power" after losing the election and that he and others orchestrated a plot to reverse the nation's voters' decision, which led up to the January 6, 2021, attack on the US Capitol.  
 
 | Date |Event|Relevance|
 |:----:|:---|:-------|
@@ -55,8 +57,8 @@
 |[2023-08-01](#Ref8) |Trump is indicted by a Federal grand jury in Washington D.C. investigating election inteference for his role in leading events resulting in the Jan 6th 2021 attack on the U.S. Capitol. Count 1: 18 U.S.C. § 371 (Conspiracy to Defraud the United States); Count 2: 18 U.S.C. § 1512(k) (Conspiracy to Obstruct an Official Proceeding); Count 3: 18 U.S.C. §§ 1512(c)(2), 2 (Obstruction of and Attempt to Obstruct an Official Proceeding); Count 4: 18 U.S.C. § 241 (Conspiracy Against Rights).  |The indicted documents the most grave crimes against U.S. democracy since succession... |
 |[2023-06-14](#Ref8) | |  |
 
-|[2023-08-03](#Refx) |Trump was placed under arrest and arraigned for the third time in four months. [Trump plead not guilty](https://www.cnn.com/2023/08/03/politics/arraignment-trump-election-interference-indictment/index.html) to four federal comspiracy charges.  U.S. Magistrate Judge Moxila Upadhyaya told Trump "[not to discuss the case with any witnesses without lawyers present](). |  |
-|[2023-08-04](#Refx) |Trump posts: "[IF YOU GO AFTER ME, I'M COMING AFTER YOU!](https://s3.documentcloud.org/documents/23898465/protectiveorder.pdf)" and the Special Counsel, [Jack Smith, filed a motion](https://s3.documentcloud.org/documents/23898465/protectiveorder.pdf) about the importance of issuing a "protective order" to protect the jury pool in [criminal case number 23-cr-257 (TSC)](#Ref8). |  |
+|[2023-08-03](#Refx) |Trump was placed under arrest and arraigned for the third time in four months. [Trump plead not guilty](https://www.cnn.com/2023/08/03/politics/arraignment-trump-election-interference-indictment/index.html) to four federal comspiracy charges.  U.S. Magistrate Judge Moxila Upadhyaya told Trump "[not to discuss the case with any witnesses without lawyers present](https://apnews.com/article/trump-jan-6-riot-2024-reelection-president-3bb89a1e458ffa92baeb24ad69a93925) or a warrant might be issued for his arrest. |  |
+|[2023-08-04](#Refx) |Trump posts: "[IF YOU GO AFTER ME, I'M COMING AFTER YOU!](https://apnews.com/article/trump-election-capitol-riot-indictment-protective-order-71cd642e876c47fff4e1283c15f8ca01)" and the Special Counsel, [Jack Smith, filed a motion](https://s3.documentcloud.org/documents/23898465/protectiveorder.pdf) about the importance of issuing a "protective order" to protect the jury pool in [criminal case number 23-cr-257 (TSC)](#Ref8). |  |
 
 ## Sources:  
 ### Ref1  
