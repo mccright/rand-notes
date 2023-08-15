@@ -55,13 +55,17 @@
 |[2023-07-11](https://www.nytimes.com/2023/07/11/us/politics/trump-documents-trial-postponement.html) |Trump lawyers file a request for indefinite delay in the trial. ([Case 9 : 23- cr- 80101- AMC Document 66](https://int.nyt.com/data/documenttools/trump-motion-for-continuance/6f05611cb6b92439/full.pdf))  |Trump's lawyers compared defendent Trump with "Panama's former dictator, Manuel Noriega" and described the current case as a "prosecution of a leading Presidential candidate by his political opponent." (both on page 6) |
 |[2023-07-27](#Ref7) |Prosecutors filed a [superseding indictment](https://www.washingtonpost.com/documents/d9b51c7a-b7a7-44b2-a146-c675b3170adf.pdf) / additional charges (the 32nd count) accusing Trump, Nauta and a newly indicted aide [Carlos De Oliveira](https://www.washingtonpost.com/politics/2023/07/28/carlos-de-oliveira-trump-indictment/).  It accuses Trump of sharing a secret military document concerning Iran at a Bedminster NJ property, and Trump, Nauta, and De Oliveira of trying to have security camera footage deleted so that it would/could not reviewed by investigators. |  |
 
-
 |[2023-03-28](#Ref8) |In [a civil case](https://www.justsecurity.org/wp-content/uploads/2022/03/january-6-clearinghouse-eastman-district-court-march-28-2022.pdf) Federal District Court judge David Carter held that Trump and John Eastman likely engaged in a criminal conspiracy when planning and executing their schemes to organize false electors and pressure the vice president to violate the Electoral Count Act. |  |
 |[2023-08-01](#Ref9) |Trump is indicted by a Federal grand jury in Washington D.C. investigating election inteference for his role in leading events resulting in the Jan 6th 2021 attack on the U.S. Capitol. Count 1: 18 U.S.C. § 371 (Conspiracy to Defraud the United States); Count 2: 18 U.S.C. § 1512(k) (Conspiracy to Obstruct an Official Proceeding); Count 3: 18 U.S.C. §§ 1512(c)(2), 2 (Obstruction of and Attempt to Obstruct an Official Proceeding); Count 4: 18 U.S.C. § 241 (Conspiracy Against Rights).  |The indicted documents the most grave crimes against U.S. democracy since succession... |
 |[2023-06-14](#Ref9) | |  |
 
 |[2023-08-03](#Ref9) |Trump was placed under arrest and arraigned for the third time in four months. [Trump plead not guilty](https://www.cnn.com/2023/08/03/politics/arraignment-trump-election-interference-indictment/index.html) to four federal comspiracy charges.  U.S. Magistrate Judge Moxila Upadhyaya told Trump "[not to discuss the case with any witnesses without lawyers present](https://apnews.com/article/trump-jan-6-riot-2024-reelection-president-3bb89a1e458ffa92baeb24ad69a93925) or a warrant might be issued for his arrest. |  |
 |[2023-08-04](#Ref9) |Trump posts: "[IF YOU GO AFTER ME, I'M COMING AFTER YOU!](https://apnews.com/article/trump-election-capitol-riot-indictment-protective-order-71cd642e876c47fff4e1283c15f8ca01)" and the Special Counsel, [Jack Smith, filed a motion](https://s3.documentcloud.org/documents/23898465/protectiveorder.pdf) about the importance of issuing a "protective order" to protect the jury pool in [criminal case number 23-cr-257 (TSC)](#Ref8). |  |
+|[](#Ref1) |  |  |
+|[2023-08-14](#Ref10) |A grand jury in Fulton County, Ga. unveiled a criminal indictment of former President Donald J. Trump concerning Mr. Trump’s efforts to overturn his 2020 election loss.  The indictment also charges 18 other defendants who are alleged to have taken part in the scheme.  “[Trump and the other defendants charged in this indictment refused to accept that Trump lost, and they knowingly and willfully joined a conspiracy to unlawfully change the outcome of the election in favor of Trump.](https://int.nyt.com/data/documenttools/georgia-indictment-trump/daed97d37562a76f/full.pdf)” |  |
+|[](#Ref1) |  |  |
+|[](#Ref1) |  |  |
+|[](#Ref1) |  |  |
 
 ## Sources:  
 ### Ref1  
@@ -123,6 +127,12 @@ C Co-Conspirator 3, an attorney whose unfounded claims of election fraud the Def
 d. Co-Conspirator 4, a Justice Department official who worked on civil matters and who, with the Defendant, attempted to use the Justice Department to open sham election crime investigations and influence state legislatures with knowingly false claims of election fraud. (Jeffrey Clark)  
 e Co-Conspirator 5, an attorney who assisted in devising and attempting to implement a plan to submit fraudulent slates of presidential electors to obstruct the certification proceeding. (Kenneth Chesebro)  
 f. Co-Conspirator 6, a political consultant who helped implement a plan to submit fraudulent slates of presidential electors to obstruct the certification proceeding. (A political consultant)  
+
+
+### Ref10  
+A grand jury in Fulton County, Ga. unveiled a criminal indictment of former President Donald J. Trump concerning Mr. Trump’s efforts to overturn his 2020 election loss.  The indictment also charges 18 other defendants who are alleged to have taken part in the scheme.  [https://www.nytimes.com/interactive/2023/08/14/us/georgia-indictment-trump.html](https://www.nytimes.com/interactive/2023/08/14/us/georgia-indictment-trump.html)  
+
+
 
 
 Executive Order 13526 is one of a series of executive orders from US Presidents outlining how classified information should be handled. It revokes and replaces the previous Executive Orders in effect for this, which were [EO 12958](https://en.wikipedia.org/wiki/Executive_Order_12958) and [EO 13292](https://en.wikipedia.org/wiki/Executive_Order_13292): "The President Executive Order 13526 -- Classified National Security Information." https://www.archives.gov/isoo/policy-documents/cnsi-eo.html and "Executive Order 13526" https://en.wikipedia.org/wiki/Executive_Order_13526
