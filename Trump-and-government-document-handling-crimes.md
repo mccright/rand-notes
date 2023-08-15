@@ -145,10 +145,12 @@ A grand jury in Fulton County, Ga. unveiled a criminal indictment of former Pres
 
 
 **What are the accused being charged with in the Georgia indictment?**  
-|Name          |Title            |# of charges | List of Specific Criminal Counts |
-|:-------------|:----------------|:------------|*---------------------------------|
+
+|              |                 |# of    |List of Specific Criminal Counts  |
+|Name          |Title            |charges |List of Specific Criminal Counts  |
+|:-------------|:----------------|:-------|:---------------------------------|
 |Donald Trump  |Former president |13 |1, 5, 9, 11, 13, 15, 17, 19, 27-29, 38-39 |
-|Rudy Giuliani |Lawyer |13 |1-3, 6-7, 9, 11, 13, 15, 17, 19, 23-24 |
+|Rudy Giuliani |Lawyer |13  |1-3, 6-7, 9, 11, 13, 15, 17, 19, 23-24 |
 |Ray S. Smith III |Atlanta-based lawyer |12 |1-2, 4, 6, 9, 11, 13, 15, 17, 19, 23, 25 |
 |Cathy Latham  |Coffee Co. GOP chairwoman |11 |1, 8, 10, 12, 14, 32-37 |
 |Robert Cheeley|Lawyer |10 |1, 9, 11, 13, 15, 17, 19, 23, 26, 41 |
