@@ -129,8 +129,45 @@ f. Co-Conspirator 6, a political consultant who helped implement a plan to submi
 
 ### Ref10  
 A grand jury in Fulton County, Ga. unveiled a criminal indictment of former President Donald J. Trump concerning Mr. Trump’s efforts to overturn his 2020 election loss.  The indictment also charges 18 other defendants who are alleged to have taken part in the scheme.  [https://www.nytimes.com/interactive/2023/08/14/us/georgia-indictment-trump.html](https://www.nytimes.com/interactive/2023/08/14/us/georgia-indictment-trump.html)  
+[The indictment contains](https://www.washingtonpost.com/national-security/2023/08/15/georgia-indictment-charges/) 41 counts, including many aimed at multiple defendants, for a total of 135 charges against 19 people.  
+41 individual counts in the indictment, many of which involve multiple people.  
+
+**Who is being charged in the Georgia indictment?**  
+|Name              |Name                           |Name                 |
+|:-----------------|:------------------------------|:--------------------|
+|Donald John Trump |Rudolph William Louis Giuliani |John Charles Eastman |
+|Mark Randall Meadows |Kenneth John Chesebro |Jeffrey Bossert Clark |
+|Jenna Lynn Ellis |Ray Stallings Smith III |Robert David Cheeley |
+|Michael A. Roman |David James Shafer |Shawn Mcah Tresher Still |
+|Stephen Cliffgard Lee |Harrison William Prescott Floyd |Trevian C. Kutti |
+|Sidney Katherine Powell |Cathleen Alston Latham |Scott Graham Hall |
+|Misty Hampton, Aka Emily Mistyhayes | | |
 
 
+**What are the accused being charged with in the Georgia indictment?**  
+|Name          |Title            |# of charges | List of Specific Criminal Counts |
+|:-------------|:----------------|:------------|*---------------------------------|
+|Donald Trump  |Former president |13 |1, 5, 9, 11, 13, 15, 17, 19, 27-29, 38-39 |
+|Rudy Giuliani |Lawyer |13 |1-3, 6-7, 9, 11, 13, 15, 17, 19, 23-24 |
+|Ray S. Smith III |Atlanta-based lawyer |12 |1-2, 4, 6, 9, 11, 13, 15, 17, 19, 23, 25 |
+|Cathy Latham  |Coffee Co. GOP chairwoman |11 |1, 8, 10, 12, 14, 32-37 |
+|Robert Cheeley|Lawyer |10 |1, 9, 11, 13, 15, 17, 19, 23, 26, 41 |
+|John Eastman  |Lawyer |9 |1-2, 9, 11, 13, 15, 17, 19, 27 |
+|David Shafer  |Former Ga. GOP chairman |8 |1, 8, 10, 12, 14, 16, 18, 40 |
+|Kenneth Chesebro|Lawyer |7 |1, 9, 11, 13, 15, 17,19 |
+|Sidney Powell |Lawyer | 7 |1, 32-37 |
+|Shawn Still   |Former Ga. GOP finance chairman| 7 |1, 8, 10, 12, 14, 16, 18 |
+|Mike Roman    |Trump campaign aide| 7 |1, 9, 11, 13, 15, 17, 19 |
+|Misty Hampton |Coffee Co. elections supervisor| 7 |1, 32-37 |
+|Scott Hall    |Bail bonds company owner| 7 |1, 32-37 |
+|Stephen Cliffgard Lee |Suburban Chicago pastor| 5 |1, 20-21, 30-31 |
+|Harrison Floyd|Executive director of Black Voices for Trump |3 |1, 30-31 |
+|Trevian Kutti |Lobbyist and former publicist | 3 |1, 30-31 |
+|Mark Meadows  |W.H. chief of staff| 2 |1, 28 |
+|Jenna Ellis   |Lawyer |2 |1-2 |
+|Jeffrey Clark |Justice Department official |2 |1, 22 |
+
+Table data above from the [charging document](https://int.nyt.com/data/documenttools/georgia-indictment-trump/daed97d37562a76f/full.pdf) and: [https://www.washingtonpost.com/national-security/2023/08/15/georgia-indictment-charges/](https://www.washingtonpost.com/national-security/2023/08/15/georgia-indictment-charges/)  
 
 
 Executive Order 13526 is one of a series of executive orders from US Presidents outlining how classified information should be handled. It revokes and replaces the previous Executive Orders in effect for this, which were [EO 12958](https://en.wikipedia.org/wiki/Executive_Order_12958) and [EO 13292](https://en.wikipedia.org/wiki/Executive_Order_13292): "The President Executive Order 13526 -- Classified National Security Information." https://www.archives.gov/isoo/policy-documents/cnsi-eo.html and "Executive Order 13526" https://en.wikipedia.org/wiki/Executive_Order_13526
