@@ -121,6 +121,7 @@ ToDo: Experiment with the following to build additional context:
 * SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation 
 [https://github.com/OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker)  
 * FableForge: "Generate a picture book from a single prompt using OpenAI's new function calling and Replicate's API for Stable Diffusion." [https://github.com/e-johnstonn/FableForge](https://github.com/e-johnstonn/FableForge)  
+*  Machine Learning A-Z -- A step towards Data Science and Machine Learning [https://github.com/srafay/Machine_Learning_A-Z](https://github.com/srafay/Machine_Learning_A-Z)  
 
 -----
 
