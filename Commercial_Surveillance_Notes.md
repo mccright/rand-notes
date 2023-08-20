@@ -1,6 +1,7 @@
 ### Rough, unfinished, work notes on this topic
 
-For years I have been reading about how Internet enabled activities have evolved into a complex global *organism* that closely monitors, observes, analyzes, and monitizes our behaviors.  Those practices have enabled parallel *analysis* and *prediction* industries that "*add value*" to surveillance data.  
+For years I have been reading about how Internet enabled activities have evolved into a complex global *organism* that closely monitors, observes, analyzes, and monitizes our behaviors.  Those practices have enabled parallel *analysis* and *prediction* industries that "*add value*" to surveillance data.  Law enforcement organizations increrasingly consume a range of survelliance data across their operations.  Government organizations also [seem to invest increasing energy (*and money*) in a broad spectrum of digital data collection](https://www2.deloitte.com/content/dam/insights/articles/in176014%5Fcgi%5Fdigital-citizen-survey/DI%5FDigital-citizen-global.pdf).  One facet of that activity is aimed at [establishing digital-identity systems](https://www.institute.global/insights/tech-and-digitalisation/ten-actions-countries-should-take-to-create-digital-identity-ecosystem) (*with an emphasis on smartphone integration*) to help -- among other things -- identify and *index* our activities...  
+  
 I agree with Geoffrey A. Fowler that there are many reasons that we need to keep asking ourselves not only ["*what I can get out of any given technology*" but "*what that technology gets from me*."](https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/)  
 
 * Where are you? / Where where you? / Where have you been? / ...and when?  
@@ -14,12 +15,14 @@ I agree with Geoffrey A. Fowler that there are many reasons that we need to keep
 * What do you buy? Where do you buy? / How do you spend? / ...and when?  
 * What do you eat? / ...where and when?  
 * Who are you? / Bodily? / Legally? / Politically?  How do you describe yourself?  
+* What questions do you ask?  
 * What do you care about?  
 * Who/what do you read?  
 * Who do you *listen* to?  
 * Who do you *know*?  
 * Who do you *meet*?  
 * Who have you been *close to*?  
+* What do you *share*/*publish*?  
 * What types of events appear to change your behavior(s)?  
 * What types of influencing techniques change your behaviors?  
 * Have you ever been *close to* any primary *target of serveillance*?  
@@ -57,7 +60,8 @@ Some of this information came from the following:
 https://thenai.org/opt-out/  
 https://optout.networkadvertising.org/  
 https://en.wikipedia.org/wiki/Computer_and_network_surveillance  
-https://lithub.com/julia-angwin-on-myspace-facebook-twitter-and-the-origins-of-our-age-of-advertising-driven-surveillance-capitalism/
+https://lithub.com/julia-angwin-on-myspace-facebook-twitter-and-the-origins-of-our-age-of-advertising-driven-surveillance-capitalism/  
+"Ten Actions Countries Should Take to Create a Digital-Identity Ecosystem." By Yiannis Theodorou, 2023-07-14. https://www.institute.global/insights/tech-and-digitalisation/ten-actions-countries-should-take-to-create-digital-identity-ecosystem.  A Deloitte survey from in November–December 2022 -- Deloitte surveyed 5,800 individuals to understand their use of government digital services in 13 countries.  
 
 
 ### Some Names of Commercial Data Collectors and scavengers  
