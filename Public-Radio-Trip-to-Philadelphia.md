@@ -67,4 +67,32 @@
 | WNIN | 88.3 FM | Evansville, IN | | Public Radio |
 | WVPE | 88.1 FM | Elkhart, IN | | Public Radio |
 |      |         | **[OHIO](https://radio-locator.com/cgi-bin/finder?call=&band=&freq=&freq_exact=Yes&city=&state=ohio&country=&format=pub&owner_search=starts&owner=&scope=&is_ful=Y&is_fx=Y&is_fb=Y&is_lic=Y&sort=Call&count=100&sr=1&sid=)**    | | |
+| W201DP (WYSU) | 88.1 FM | Ashtabula, OH | Youngstown State University | Public Radio |
+| W234CX (WKSU) | 94.7 FM | Mansfield, OH | Kent State University | Public Radio |
+| W239AZ (WKSU) | 95.7 FM | Ashland, OH | Kent State University | Public Radio |
+| W292EA (WCBE) | 106.3 FM | Newark, OH | Columbus Board of Education | Public Radio |
+| WCBE | 90.5 FM | Columbus, OH | Columbus Board of Education | Public Radio |
+| WCPN | 104.9 FM | Lorain, OH | | Public Radio |
+| WGBE | 90.9 FM | Bryan, OH | | Public Radio |
+| WGDE | 91.9 FM | Defiance, OH | | Public Radio |
+| WGLE | 90.7 FM | Lima, OH | | Public Radio |
+| WGTE | 91.3 FM | Toledo, OH | | Public Radio |
+| WKRJ | 91.5 FM | New Philadelphia, OH | Kent State University | Public Radio |
+| WKRW | 89.3 FM | Wooster, OH | Kent State University | Public Radio |
+| WKSU | 89.7 FM | Kent, OH | Kent State University | Public Radio |
+| WKSU-1 | 89.7 FM | Kent, OH | Kent State University | Public Radio |
+| WKSV | 89.1 FM | Thompson, OH | Kent State University | Public Radio |
+| WMUB | 88.5 FM | Oxford, OH | | Public Radio |
+| WNRK | 90.7 FM | Norwalk, OH | Kent State University | Public Radio |
+| WOSU | 89.7 FM | Columbus, OH | Ohio State University | Public Radio |
+| WOUB | 1340 AM | Athens, OH | Ohio University | Public Radio |
+| WOUB | 91.3 FM | Athens, OH | Ohio University | Public Radio |
+| WOUC | 89.1 FM | Cambridge, OH | Ohio University | Public Radio |
+| WOUH | 91.9 FM | Chillicothe, OH | Ohio University | Public Radio |
+| WOUL | 89.1 FM | Ironton, OH | Ohio University | Public Radio |
+| WOUZ | 90.1 FM | Zanesville, OH | Ohio University | Public Radio |
+| WVXU | 91.7 FM | Cincinnati, OH | | Public Radio |
+| WYSO | 91.3 FM | Yellow Springs, OH | Antioch College | Public Radio |
+| WYSU | 88.5 FM | Youngstown, OH | Youngstown State University | Public Radio |
+
 
