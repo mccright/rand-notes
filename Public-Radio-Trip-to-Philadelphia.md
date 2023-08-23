@@ -1,10 +1,9 @@
-
-
-
+# Public Radio Stations on our latest Trip  
+From:  https://radio-locator.com/cgi-bin/finder  
 
 | Call Sign | Freq. | City | School | Format |
 |:----------|:------|:-----|:-------|:-------|
-|      |         | **IOWA**    | | |
+|      |         | **[IOWA](https://radio-locator.com/cgi-bin/finder?call=&band=&freq=&freq_exact=Yes&city=&state=Iowa&country=&format=pub&owner_search=starts&owner=&scope=&is_ful=Y&is_lic=Y&sort=Call&count=100&sr=1&sid=)**    | | |
 | KLNI | 88.7 FM | Decorah, IA | | Public Radio |
 | KNSZ | 89.1 FM | Ottumwa, IA | | Public Radio |
 | KNSY | 89.7 FM | Dubuque, IA | University of Northern Iowa | Public Radio |
@@ -42,7 +41,7 @@
 | WSIU | 91.9 FM | Carbondale, IL | Southern Illinois University | Public Radio |
 | WUIS | 91.9 FM | Springfield, IL | University of Illinois - Springfield | Public Radio |
 | WILL | 580 AM  | Urbana, IL | University of Illinois at Urbana-Champaign | Public Radio |
-|      |         | **INDIANA**    | | |
+|      |         | **[INDIANA](https://radio-locator.com/cgi-bin/finder?call=&band=&freq=&freq_exact=Yes&city=&state=Indiana&country=&format=pub&owner_search=starts&owner=&scope=&is_ful=Y&is_lic=Y&sort=Call&count=100&sr=1&sid=)**    | | |
 | W236AE (WFIU) | 95.1 FM | Terre Haute, IN | Indiana University | Public Radio |
 | W255BG (WFIU) | 98.9 FM | Greensburg, IN | Indiana University | Public Radio |
 | W261CM (WFIU-HD2) | 100.1 FM | Seymour, IN | Indiana University | Public Radio |
@@ -94,6 +93,33 @@
 | WVXU | 91.7 FM | Cincinnati, OH | | Public Radio |
 | WYSO | 91.3 FM | Yellow Springs, OH | Antioch College | Public Radio |
 | WYSU | 88.5 FM | Youngstown, OH | Youngstown State University | Public Radio |
+|      |         | **[MICHIGAN](https://radio-locator.com/cgi-bin/finder?call=&band=&freq=&freq_exact=Yes&city=&state=Michigan&country=&format=pub&owner_search=starts&owner=&scope=&is_ful=Y&is_lic=Y&sort=Call&count=100&sr=1&sid=)** | | |
+| WCMB | 95.7 FM | Oscoda, MI | Central Michigan University | Public Radio |
+| WCML | 91.7 FM | Alpena, MI | Central Michigan University | Public Radio |
+| WCMU | 89.5 FM | Mount Pleasant, MI | Central Michigan University | Public Radio |
+| WCMV | 94.3 FM | Leland, MI | Central Michigan University | Public Radio |
+| WCMW | 103.9 FM | Harbor Springs, MI | Central Michigan University | Public Radio |
+| WCMZ | 98.3 FM | Sault Sainte Marie, MI | Central Michigan University | Public Radio |
+| WDET | 101.9 FM | Detroit, MI | Wayne State University | Public Radio |
+| WEMU | 89.1 FM | Ypsilanti, MI | Eastern Michigan University | Public Radio |
+| WFUM | 91.1 FM | Flint, MI | University of Michigan | Public Radio |
+| WGGL | 91.1 FM | Houghton, MI | | Public Radio |
+| WGVS | 95.3 FM | Whitehall, MI | Grand Valley State University | Public Radio |
+| WGVU | 88.5 FM | Allendale, MI | Grand Valley State University | Public Radio |
+| WHBP | 90.1 FM | Harbor Springs, MI | Interlochen Center For the Arts | Public Radio |
+| WICA | 91.5 FM | Traverse City, MI | Interlochen Center For The Arts | Public Radio |
+| WKAR | 870 AM | East Lansing, MI | Michigan State University | Public Radio |
+| WKAR | 90.5 FM | East Lansing, MI | Michigan State University | Public Radio |
+| WLMN | 89.7 FM | Manistee, MI | Interlochen Center for the Arts | Public Radio |
+| WLNZ | 89.7 FM | Lansing, MI | University of Michigan | Public Radio |
+| WMUK | 102.1 FM | Kalamazoo, MI | Western Michigan University | Public Radio |
+| WNMU | 90.1 FM | Marquette, MI | Northern Michigan University | Public Radio |
+| WPRR | 90.1 FM | Clyde Township, MI | | Public Radio |
+| WRSX | 91.3 FM | Port Huron, MI | University of Michigan | Public Radio |
+| WUCX | 90.1 FM | Bay City, MI | Central Michigan University | Public Radio |
+| WUOM | 91.7 FM | Ann Arbor, MI | University of Michigan | Public Radio |
+| WVGR | 104.1 FM | Grand Rapids, MI | University of Michigan | Public Radio |
+| WWCM | 96.9 FM | Standish, MI | Central Michigan University | Public Radio |
 |      |         | **[PENNSYLVANIA](https://radio-locator.com/cgi-bin/finder?call=&band=&freq=&freq_exact=Yes&city=&state=ohio&country=&format=pub&owner_search=starts&owner=&scope=&is_ful=Y&is_fx=Y&is_fb=Y&is_lic=Y&sort=Call&count=100&sr=1&sid=)** | | |
 | W207AA (WVYA) | 89.3 FM | Williamsport, PA | | Public Radio |
 | W209CQ (WYSU) | 89.7 FM | New Wilmington, PA | Youngstown State University | Public Radio |
