@@ -36,4 +36,10 @@ see also: [https://note.nkmk.me/en/python-platform-system-release-version/](http
 
 or  
 
+If you have the means to push out and maintain custom scripts on all hosts, you might try a script like: https://github.com/mccright/bash-fragments/blob/master/current-os.sh  
+or  
+an alias like "*whatos*" in: https://github.com/mccright/mydotfiles/blob/main/bash/.bash_aliases  
+
+or  
+
 add an alias for a Python script like: [https://github.com/easybuilders/easybuild/wiki/OS_flavor_name_version](https://github.com/easybuilders/easybuild/wiki/OS_flavor_name_version)  
