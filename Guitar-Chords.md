@@ -510,6 +510,11 @@
   x+---+---+---+---+---+---
 ```
 
+## Chord Lookup Resources:  
+
+* https://www.scales-chords.com/chord/guitar  
+* https://www.all-guitar-chords.com/chords/index  
+* https://jguitar.com/chordsearch  
 
 -----------------------
   
