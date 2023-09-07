@@ -46,7 +46,7 @@ https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-techno
 
 
 ## Timeline Ideas:  
-* 2023: [Google releases a conversational AI service called "*Bard*"](https://blog.google/technology/ai/bard-google-ai-search-updates/) to compte with ChatGPT. ...There are many *competitors*: [Bing AI](https://www.microsoft.com/en-us/edge/features/the-new-bing?form=MT00D8) (research), Claud (writing), Google Docs AI (Notes), BlueWillow (images), ChatGPT+ (research, writing, search), Notion AI (Notes), Midjourney (images), Canva AI (art/design)  
+* 2023: [Google releases a conversational AI service called "*Bard*"](https://blog.google/technology/ai/bard-google-ai-search-updates/) (*or go directly to [https://bard.google.com/](https://bard.google.com/)*) to compte with ChatGPT. ...There are many *competitors*: [Bing AI](https://www.microsoft.com/en-us/edge/features/the-new-bing?form=MT00D8) (*or go directly to [https://www.bing.com/new](https://www.bing.com/new)*) (research), Claud (writing), Google Docs AI (Notes), BlueWillow (images), ChatGPT+ (research, writing, search), Notion AI (Notes), Midjourney (images), Canva AI (art/design)  
 * 2022: OpenAI released ChatGPT - an a LLM conversational AI service that accepts inputs in plain language and spits out human-friendly, content relevant results.  
 * 2021: [Language Model for Dialogue Applications](https://blog.google/technology/ai/lamda/) (or LaMDA for short)  
 * 2020: OpenAI GPT-3 a language model that generates text using pre-trained algorithms.  
