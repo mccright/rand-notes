@@ -7,10 +7,10 @@ One common use case is to quickly set up a web server to host your app at variou
 
 This is only a low-functioning, generally insecure server option...
 ```bash
-python -m http.server 8080 --bind 127.0.0.1
+python3 -m http.server -d ~/dev/myCurrentApplication/ 8080 --bind 127.0.0.1
 ```
 
-
+ 
 ### Gunicorn [https://gunicorn.org/](https://gunicorn.org/)  
 ---
 
