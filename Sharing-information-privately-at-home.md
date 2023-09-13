@@ -13,6 +13,15 @@ hexdump < <filename>
 You might see: [https://icorn.org/digital-security](https://icorn.org/digital-security) for more information about digital security  
 
 
+### LocalSend May Be The One  
+My testing between iOS and Windows seems to work as claimed.  
+https://github.com/localsend/localsend/  
+>"LocalSend is a free, open-source app that allows you to securely share files and messages with nearby devices over your local network, without needing an internet connection."  
+>"About: LocalSend is a cross-platform app that enables secure communication between devices using a REST API and HTTPS encryption. Unlike other messaging apps that rely on external servers, LocalSend doesn't require an internet connection or third-party servers, making it a fast and reliable solution for local communication."  
+>"All data is sent securely over HTTPS, and the TLS/SSL certificate is generated on the fly on each device, ensuring maximum security."  
+This app is implemented to work on Windows, macOS, Linux, Android, iOS and Fire OS.  
+
+
 ### An Experiment with openNAMU  
 openNAMU is a Korean wiki that is relatively immature and in active development.  It is also not a highly secure or self-defensive platform.  But it IS simple:  
 
@@ -48,9 +57,10 @@ It requires users write in HTML, which will be a turn-off for some (it is not at
 ### Next An Experiment with _________  
 CS Class Chat app using Flask
 [https://github.com/saarikabhasi/Chat-application](https://github.com/saarikabhasi/Chat-application)  
+My limited experimentation did not show this as a contender at test time.  
 
 
-### Candidates for Review  
+### Other Candidates for Review  
 * **Use a local Matrix server:**  
 * A Matrix homeserver written in Rust  [https://github.com/social-network/conduit](https://github.com/social-network/conduit) and [https://hub.docker.com/r/matrixconduit/matrix-conduit](https://hub.docker.com/r/matrixconduit/matrix-conduit): "A fast Matrix homeserver that's easy to set up and just works. You can install it on a mini-computer like the Raspberry Pi to host Matrix for your family, friends or company."  Or clone the repo, build it with cargo build --release and call the binary (target/release/conduit) from somewhere like a systemd script. Read more [https://github.com/social-network/conduit/blob/master/DEPLOY_FROM_SOURCE.md](https://github.com/social-network/conduit/blob/master/DEPLOY_FROM_SOURCE.md)  
 * Here is a description of installing the Element Matrix server using Docker: [https://github.com/vector-im/element-web#running-from-docker](https://github.com/vector-im/element-web#running-from-docker) or  
