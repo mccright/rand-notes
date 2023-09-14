@@ -98,7 +98,11 @@ https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-techno
   * *Common sense* is essential for humans to live and interact with each other in a reasonable and safe way, and it is essential for AI to understand human needs and actions better. [Yejin Choi](https://homes.cs.washington.edu/~yejin/) at: [https://homes.cs.washington.edu/~msap/acl2020-commonsense/slides/01%20-%20Intro.pdf](https://homes.cs.washington.edu/~msap/acl2020-commonsense/slides/01%20-%20Intro.pdf)  
   * "Insufficient coverage" --> Pre-trained language models contain *some* commonsense knowledge -- but an impractically small subset of what is needed for most use cases.  
   * "Insufficient precision" --> Language models also generate false facts -- which can be an annoyance or a catastrophy, depending on your use case.  
-* *Generative artificial intelligence*, clarifying the concept and advising to consider the models’ tendency to generate inaccurate responses to queries. (*from the [AP Stylebook](https://www.apstylebook.com/)*)  
+* *Generative artificial intelligence* (generative AI) "Generative AI is the technology to create new content by utilizing existing text, audio files, or images. With generative AI, computers detect the underlying pattern related to the input and produce similar content. This is in contrast to most other AI techniques where the AI model attempts to solve a problem which has a single answer (e.g. a classification or prediction problem)." (*from the [AIMultiple](https://research.aimultiple.com/generative-ai/)*)  Various techniques include (*but are not limited to*):  
+    * **Transformers**: "Transformers, such as [GPT-3](https://research.aimultiple.com/gpt/), [LaMDA](https://research.aimultiple.com/lamda/), [Wu-Dao](https://research.aimultiple.com/wu-dao/) and [ChatGPT](https://research.aimultiple.com/chatgpt/) imitate cognitive attention and differentially measure the significance of the input data parts. They are trained to understand the language or image, learn some classification tasks and generate texts or images from massive datasets." (*from the [AIMultiple](https://research.aimultiple.com/generative-ai/)*)  
+    * **Generative adversarial networks** (GANs): "[GANs](https://research.aimultiple.com/gan-synthetic-data/) are two neural networks: a generator and a discriminator that pit against each other to find equilibrium between the two networks:  The *generator network* is responsible for generating new data or content resembling the source data.  The *discriminator network* is in charge of differentiating between the source and the generated data in order to recognize what is closer to the original data." (*from the [AIMultiple](https://research.aimultiple.com/generative-ai/)*)  
+    * **Variational auto-encoders**:  "The encoder encodes the input into compressed code while the decoder reproduces the initial information from this code.  If chosen and trained correctly, this compressed representation stores the input data distribution in a much smaller dimensional representation." (*from the [AIMultiple](https://research.aimultiple.com/generative-ai/)*)  
+Always consider "the models’ tendency to generate inaccurate responses to queries." (*from the [AP Stylebook](https://www.apstylebook.com/)*)  
 * *Machine learning* (ML) is often viewed as a subset of *Artificial Intelligence*.  ML employes previously collected data to predict outcomes.  ML *models* may depend upon direct human inputs (*training or supervision*), or not, depending on their algorithms and their level of training maturity.  ML enables software (*and supporting infrastructure*) to build upon training/experience and improvise suggestions or results.  At some point, *modern* implementations involve [AI systems helping humans oversee other AI](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)" to enable *economical* ML/AI at scale.  
 * *Natural language processing* (NLP) is a growing field within artificial intelligence. The fundamental goal of NLP is to program computers capable of human-level understanding of natural language. Common NLP applications include personal assistants and chatbots, automatic translation, question answering, sentiment analysis and summarization. Among the main challenges of NLP research is that human language is often ambiguous and underspecified. A person processing language relies heavily on their commonsense knowledge and reasoning abilities to resolve these ambiguities and complete missing information. Machine learning based NLP models, on the other hand, lack this commonsense and often make absurd mistakes. From [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/index.html) in her [2022 NLP course description](https://www.cs.ubc.ca/~vshwartz/courses/CPSC532V-22/index.html)  
 * *[Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network)* (CNN)"In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of artificial neural network (ANN), most commonly applied to analyze visual imagery. CNNs are also known as Shift Invariant or Space Invariant Artificial Neural Networks (SIANN), based on the shared-weight architecture of the convolution kernels or filters that slide along input features and provide translation-equivariant responses known as feature maps. Counter-intuitively, most convolutional neural networks are not invariant to translation, due to the downsampling operation they apply to the input. They have applications in image and video recognition, recommender systems, image classification, image segmentation, medical image analysis, natural language processing, brain–computer interfaces, and financial time series."  
@@ -107,7 +111,7 @@ https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-techno
 * Large Language Model (LLM)  
 * *Reinforcement Learning from Human Feedback* (RLHF) https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback  
 * *Sensibleness and Specificity Average* (SSA)  
-* *Training data*  "Explaining the term, and advising to consider the specific information training data may contain as machine learning models learn to find patterns from these datasets. The types of training data used in different AI tools can vary widely." (*from the [AP Stylebook](https://www.apstylebook.com/)*)  
+* *Training data*  "refers to the vast corpus of information used to train large language models. This data can include text, images, audio, or video. Generative models learn patterns from this data, enabling them to generate new content matching the input data’s complexity, style, and structure." (*from [AIMultiple](https://research.aimultiple.com/generative-ai-data/)*)  "Explaining the term, and advising to consider the specific information training data may contain as machine learning models learn to find patterns from these datasets. The types of training data used in different AI tools can vary widely." (*from the [AP Stylebook](https://www.apstylebook.com/)*)  
  
 
 ## Some References:  
@@ -128,15 +132,33 @@ https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-techno
 >Any output from a generative AI tool should be treated as unvetted source material. AP staff must apply their editorial judgment and AP’s sourcing standards when considering any information for publication.  
 >Generative AI makes it even easier for people to intentionally spread mis- and disinformation through altered words, photos, video or audio, including content that may have no signs of alteration, appearing realistic and authentic. To avoid using such content inadvertently, journalists should exercise the same caution and skepticism they would normally, including trying to identify the source of the original content, doing a reverse image search to help verify an image’s origin, and checking for reports with similar content from trusted media.  
 
-ToDo: Experiment with the following to build additional context:  
+## ToDo: Experiment with the following to build additional context:  
 * Language Models: Python building blocks to explore large language models on any computer with 512MB of RAM [https://github.com/jncraton/languagemodels](https://github.com/jncraton/languagemodels) This package is designed to be as simple as possible for learners and educators exploring how large language models intersect with modern software development.  
 * SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation 
 [https://github.com/OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker)  
 * FableForge: "Generate a picture book from a single prompt using OpenAI's new function calling and Replicate's API for Stable Diffusion." [https://github.com/e-johnstonn/FableForge](https://github.com/e-johnstonn/FableForge)  
 *  Machine Learning A-Z -- A step towards Data Science and Machine Learning [https://github.com/srafay/Machine_Learning_A-Z](https://github.com/srafay/Machine_Learning_A-Z)  
+READ:  
+"What is generative AI?"  (January 19, 2023) https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai  
+
+"Seven new no-cost generative AI training courses to advance your cloud career." May 18, 2023 https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources  
+
+"Generative AI Data in 2023: Importance & 7 Methods"  Updated on July 10, 2023 https://research.aimultiple.com/generative-ai-data/  
+
+"Introduction to Generative AI." 2 hr 33 min    Learning Path    3 Modules. https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/  
+
+"Generative Design & Generative AI: Definition, 10 Use Cases, Challenges." By Cem Dilmegani  https://research.aimultiple.com/generative-design/  
+
+"Generative Adversarial Networks (GAN) & Synthetic Data [2023]." By Cem Dilmegani, Updated on December 22, 2022  https://research.aimultiple.com/gan-synthetic-data/  
+
+"Generative AI: 7 Steps to Enterprise GenAI Growth in 2023." By Cem Dilmegani, Updated on July 20, 2023  https://research.aimultiple.com/generative-ai/  
+
+https://apnews.com/hub/generative-ai  
+
+
 
 -----
-
+### Random  
 ImageNet (zero-shot): SOTA, surpassing OpenAI CLIP (https://openai.com/blog/clip/).  
 LAMA (factual and commonsense knowledge): Surpassed AutoPrompt (https://arxiv.org/abs/2010.15980).  
 LAMBADA (cloze tasks): Surpassed Microsoft Turing NLG (https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/).  
