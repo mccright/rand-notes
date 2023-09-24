@@ -80,6 +80,7 @@ https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-techno
 * "LaMDA: our breakthrough conversation technology." [https://blog.google/technology/ai/lamda/](https://blog.google/technology/ai/lamda/) By Eli Collins and Zoubin Ghahramani.  
 * "Transformer: A Novel Neural Network Architecture for Language Understanding." [https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) Thursday, August 31, 2017, By Jakob Uszkoreit  
 * "Why Do A.I. Chatbots Tell Lies and Act Weird? Look in the Mirror." [https://www.nytimes.com/2023/02/26/technology/ai-chatbot-information-truth.html](https://www.nytimes.com/2023/02/26/technology/ai-chatbot-information-truth.html) By Cade Metz  
+* [NewsGuard](https://www.newsguardtech.com/special-reports/ai-tracking-center/) -- "Tracking AI-enabled Misinformation" -- identified [475 ‘unreliable AI-generated news’ websites by 2023-09-18](https://www.newsguardtech.com/special-reports/ai-tracking-center/).  These unreliable AI-generated news outlets operatied "with little to no human oversight."  NewsGuard concluded that these outlets "have been a boon to content farms and misinformation purveyors alike."  
 
 
 ## Resource Consumption:  
