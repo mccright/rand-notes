@@ -1,5 +1,13 @@
 ## Trump's Crimes Related to Government Documents  
 
+
+### Four Main Indictments Against Trump  
+1. **Washington D.C.: Federal case on 2020 election.** [Trump faces four federal charges](https://www.washingtonpost.com/national-security/2023/08/01/trump-indicted-jan-6-overturn-2020-election-results) for alleged efforts to overturn the results of the 2020 election. (*trial scheduled to start 2024-03-04*)  
+2. **Georgia: State case on 2020 election** [Trump faces 13 state charges](https://www.washingtonpost.com/national-security/2023/08/14/trump-indictment-georgia-election-2020), with prosecutors alleging that he tried to undo the election results in that state. (*trial of two defendants are scheduled to start 2023-10-23*)  
+3. **Florida: Federal classified-documents case.** [Trump faces 40 federal charges](https://www.washingtonpost.com/national-security/2023/07/27/trump-carlos-deoliveira-classified-indictment) over accusations that he kept top-secret government documents at Mar-a-Lago — his home and private club — and then thwarted government demands that he return them.(*trial scheduled to start 2024-05-20*)  
+4. **New York: State business fraud case. ** [Trump faces 34 state charges](https://www.washingtonpost.com/national-security/2023/03/30/trump-ny-indictment) in connection with hush money paid to adult-film actress Stormy Daniels during the 2016 campaign. (*trial scheduled to start 2024-03-26*)  
+
+
 * In the classified documents case that Smith has also brought against the former president in June, the Trump team has sought to slow-walk the schedule for the proceedings. There were hints of a similar strategy in the first hearing in the election subversion case.
 * [Federal prosecutors allege](#Ref8) that Trump "was determined to remain in power" after losing the election and that he and others orchestrated a plot to reverse the nation's voters' decision, which led up to the January 6, 2021, attack on the US Capitol.  
 
