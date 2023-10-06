@@ -261,3 +261,354 @@ At a command prompt:
  * From the run dialog (or command prompt) just execute “powershell –ExecutionPolicy Bypass” and it will start a PowerShell session that allows for running scripts and keeps the lowered permissions isolated to just the current running process.  
       `C:\> powershell –ExecutionPolicy Bypass [command] [parameters]`  
 
+-----
+
+# Now some temporary notes on monitoring my UPS:  
+
+## APC UPS Monitoring -- apcupsd  
+Manual:  
+
+* http://www.apcupsd.org/manual/manual.html  
+* https://wiki.debian.org/apcupsd  
+* "Managing APC Brand Uninterruptible Power Supplies With apcupsd." https://wiki.ubuntu.com/apcupsd  
+* Linux Magazine article -- "Monitoring Your UPS With apcupsd." by Riccardo Facchetti, on December 1, 2000. https://www.linuxjournal.com/article/4347  
+* https://monsterb.github.io/notes/notes004.txt  
+* "Manage your APC battery backup system with this Linux command." Protect yourself from power incidents by running a simple utility: apcupsd. 17 Dec 2021, By David Both. https://opensource.com/article/21/12/linux-apcupsd  
+* "Configuring UPS/apcupsd." Jul 18, 2016. https://rmoff.net/2016/07/18/configuring-ups/apcupsd/  
+
+```apcupsd``` is the background daemon, and also includes a command line utility, "apcupsd", that allows you to send some commands to the UPS.  
+```apcaccess``` is an additional utility that comes bundled with apcupsd, and is used to display current status information about the UPS.  
+```apctest``` is an additional utility that comes bundled with apcupsd, and is used to modify the on-board EEPROM settings for the UPS itself.  
+The configuration file is ```/etc/apcupsd/apcupsd.conf```  
+The following commands start and enable apcupsd so that it will restart after reboots.  
+
+```terminal
+# systemctl start apcupsd ; systemctl enable apcupsd
+```
+
+Another console-based client is powerflute that can be used to monitor the UPS status continuously.  
+
+Try using ```lsusb```:  
+
+```terminal
+root@proxmox01:/proc/bus# lsusb
+[...]
+Bus 003 Device 007: ID 051d:0002 American Power Conversion Uninterruptible Power Supply
+[...]
+```
+
+It’s also found using ```udev``` (per the ```apcupsd``` documentation - *maybe I shouldn’t be quite so rude about it*):  
+
+```terminal
+root@proxmox01:/proc/bus# udevadm info --attribute-walk --name=/dev/usb/hiddev0
+[...]
+  looking at parent device '/devices/pci0000:00/0000:00:14.0/usb3/3-2':
+    KERNELS=="3-2"
+    SUBSYSTEMS=="usb"
+    DRIVERS=="usb"
+    ...
+    ATTRS{ltm_capable}=="no"
+    ATTRS{manufacturer}=="American Power Conversion"
+    ATTRS{removable}=="removable"
+    ATTRS{idProduct}=="0002"
+    ATTRS{bDeviceClass}=="00"
+    ATTRS{product}=="Back-UPS CS 650 FW:817.v9.I USB FW:v9"
+```
+
+it’s also there under usb-devices:  
+
+```terminal
+root@proxmox01:/proc/bus# usb-devices
+[...]
+T:  Bus=03 Lev=01 Prnt=01 Port=01 Cnt=02 Dev#=  7 Spd=1.5 MxCh= 0
+D:  Ver= 1.10 Cls=00(>ifc ) Sub=00 Prot=00 MxPS= 8 #Cfgs=  1
+P:  Vendor=051d ProdID=0002 Rev=00.06
+S:  Manufacturer=American Power Conversion
+S:  Product=Back-UPS CS 650 FW:817.v9.I USB FW:v9
+S:  SerialNumber=4B1517P07342
+C:  #Ifs= 1 Cfg#= 1 Atr=e0 MxPwr=0mA
+I:  If#= 0 Alt= 0 #EPs= 1 Cls=03(HID  ) Sub=00 Prot=00 Driver=usbhid
+[...]
+```
+
+Try to start the daemon  
+```terminal
+$ sudo service apcupsd start
+* Starting UPS monitor (for Network UPS) apcupsd    [ OK ]
+* Starting UPS monitor (for Server UPS) apcupsd     [ OK ]
+...sudo systemctl restart apcupsd.service
+```
+
+Check daemon status  
+```terminal
+$ service apcupsd status
+* UPS monitor (for Network UPS) is running
+* UPS monitor (for Server UPS) is running
+```
+The following commands start and enable apcupsd so that it will restart after reboots.  
+```terminal
+systemctl start apcupsd ; systemctl enable apcupsd
+```
+### apctest  
+```apctest``` is a program that allows you to talk directly to your UPS and run certain low-level tests, adjust various settings such as the battery installation date and alarm behavior, and perform a battery runtime calibration.  
+```apcupsd``` must be run at startup time, when the operating system services are loaded: in fact, apcupsd is just another OS service.  
+
+```apcupsd```'s main init script file is installed in:  
+
+```terminal
+/sbin/init.d/apcupsd
+```
+
+This script is responsible for starting up apcupsd during system startup and shutting down apcupsd during system shutdown. It is also symbolically linked to these paths:  
+
+```terminal
+/sbin/init.d/rc2.d/K20apcupsd
+/sbin/init.d/rc2.d/S20apcupsd
+/sbin/init.d/rc3.d/K20apcupsd
+/sbin/init.d/rc3.d/S20apcupsd
+```
+
+They are present only on runlevel 2 and 3 because apcupsd is run only in multiuser runlevels; that means runlevel 2 or 3 on SuSE Linux OS.  
+
+To be able to shutdown the computer properly on power failures, apcupsd relies on its own service script located in:  
+
+```terminal
+/etc/apcupsd/apccontrol
+```
+
+and on a patched halt script. When apcupsd detects a situation that needs an emergency shutdown, it first creates two files called /etc/nologin and /etc/apcupsd/powerfail.  
+
+...
+## apcupsd Configuration  
+
+Before running apcupsd it is necessary to configure the dæmon to work as needed with the local hardware configuration and the desired behavior. In a standard installation, the configuration file is in:  
+
+```terminal
+ /etc/apcupsd/apcupsd.conf
+```
+
+This file is a plain ASCII file that contains all the configuration directives needed by apcupsd.  
+
+The directives must be properly configured before apcupsd can operate correctly. With these directives you specify the kind of cable, the model of UPS connected to the computer, the device where the UPS is connected, how to operate on power failures, logging options and much more.  
+
+### Stand-Alone Configuration  
+
+A typical stand-alone configuration includes a computer and a UPS connected to its serial port.  
+
+Listing 2 shows a configuration file for a stand-alone SmartUPS connected to the first serial port of the computer. On power failure, apcupsd will shut down the computer when the battery level falls below 5% of full charge or the UPS remaining run-time falls below three minutes, whichever happens first. apcupsd will send messages to user consoles every five minutes sending the first message one minute after the power failure occurs. apcupsd will not disallow user logins during a power failure. UPS events are logged in /etc/apcupsd/apcupsd.events. The UPS status can be read from our CGI interface or from /etc/apcupsd/apcupsd.status, which is updated every minute.  
+
+If, for example, you want to write your own routine for the on-battery action, you can write your own shell script, as shown in Listing 5, called onbattery and put it in the /etc/apcupsd/ directory. Doing so will run the customized script before the default action. In case you don't want the default action to be taken, terminate your customized script with an exit code of 99. If you want to write customized scripts to replace the default behavior, you are encouraged to edit the apccontrol script and at least mimic its behavior in your own script. Please be aware that writing faulty scripts may cause your system to crash during power failures.  
+
+### "apcassess status"  
+
+To ease UPS monitoring, apcupsd offers a number of client facilities.  As mentioned above, ```apcaccess``` is the main client tool for monitoring UPS status.  Example ```apcaccess``` output is in Listing 6 below.  
+
+
+
+#### Listing 2. Configuration File for a Stand-alone SmartUPS  
+
+```terminal
+## apcupsd.conf v1.1 ##
+#
+# ========= General configuration parameters ============
+#
+# defines the type of cable that you have.
+UPSCABLE smart
+#
+# defines the type of UPS you have.
+UPSTYPE smartups
+#
+# name of your serial port
+DEVICE /dev/ttyS0
+#
+# path for serial port lock file
+LOCKFILE /var/lock
+#
+# ===== configuration parameters used
+# during power failures =============
+#
+# If during a power failure, the remaining battery
+# percentage (as reported by the UPS) is below or
+# equal to BATTERYLEVEL,
+# apcupsd will initiate a system shutdown.
+BATTERYLEVEL 5
+#
+# If during a power failure, the remaining runtime
+# in minutes (as calculated internally by the UPS)
+# is below or equal to MINUTES,
+# apcupsd, will initiate a system shutdown.
+MINUTES 3
+#
+# If during a power failure, the UPS has run on
+# batteries for TIMEOUT many seconds or longer,
+# apcupsd will initiate a system shutdown.
+# A value of 0 disables this timer.
+TIMEOUT 0
+#
+# Time in seconds between annoying users to signoff
+# prior to system shutdown. 0 disables.
+ANNOY 300
+#
+# Initial delay after power failure before warning
+# users to get off the system.
+ANNOYDELAY 60
+#
+# The condition which determines when users are
+# prevented from logging in during a power failure.
+NOLOGON disable
+#
+#==== Configuration statements the network
+# information server======================
+#
+# information server. If netstatus is on, a network
+# information server process will be started for
+# serving the STATUS and EVENT data over the network
+# (used by CGI programs).
+NETSERVER on
+#
+# port to use for sending STATUS and EVENTS data
+# over the network. It is not used unless NETSERVER
+# is on. If you change this port, you will need to
+# change the corresponding value in the
+# cgi directory and rebuild the cgi programs.
+SERVERPORT 7000
+#
+# If you want the last few EVENTS to be available
+# over the network by the network information server,
+# you must define an EVENTSFILE.
+# Only the last 50 or so events are kept.
+EVENTSFILE /etc/apcupsd/apcupsd.events
+#
+# ===== Configuration statements to control
+# apcupsd system logging ==============
+#
+# Time interval in seconds between writing the
+# STATUS file; 0 disables
+STATTIME 60
+#
+# Location of STATUS file (written to only if
+# STATTIME is nonzero)
+STATFILE /etc/apcupsd/apcupsd.status
+#
+# You probably do not want this on.
+LOGSTATS off
+#
+# Time interval in seconds between writing the DATA
+# records to the log file. 0 disables.
+DATATIME 0
+#
+# ===== Configuration statements used if sharing ====
+# a UPS and controlling it via the network
+#
+# normally stand-alone unless you share a UPS with
+# multiple machines.
+UPSCLASS standalone
+#
+# Unless you want to share the UPS
+# (power multiple machines).
+# this should be disable
+UPSMODE disable
+#
+# NETACCESS <string> [ true | false ]
+# Enable Network Access Support
+NETACCESS true
+```
+
+
+
+#### Table 3. Arguments apccontrol Recognizes  
+
+```terminal
+Keyword—Default Action
+
+powerout -- `wall' a message telling `There are power problems'.
+onbattery -- `wall' a message telling `System is on battery'.
+failing -- `wall' a message telling `Battery power is failing'.
+timeout -- `wall' a message telling `Timeout on Battery reached'.
+loadlimit -- `wall' a message telling `Battery load limit reached'.
+runlimit -- `wall' a message telling `Battery runtime limit reached'.
+doreboot -- Begins the `shutdown--r' sequence.
+doshutdown -- Begins the `shutdown--h' sequence.
+mainsback -- Attempt to cancel a running `shutdown' sequence.
+annoyme -- `wall' a message telling `Power problems, logoff now'.
+emergency -- Begins an emergency `shutdown' sequence.
+changeme -- `wall' a message telling `Battery failed, change them now'.
+remotedown -- Begins the `shutdown' sequence, called from remote.
+restartme -- Attempt to restart the apcupsd.
+```
+
+#### Listing 5. /ect/apcupsd/onbattery  
+
+```bash
+#!/bin/sh
+#
+# This shell script if placed in /etc/apcupsd
+# will be called by /etc/apcupsd/apccontrol when the UPS
+# goes on batteries.  We send an e-mail message to root
+# to notify him.
+#
+SYSADMIN=root
+MAIL="bin/mail"
+HOSTNAME=`hostname`
+#
+echo "HOSTNAME Power Failure" >/tmp/$$
+echo " " >>/tmp/$$
+/sbin/apcaccess status 2>>/tmp/$$
+cat /tmp/$$ | $MAIL -s "HOSTNAME Power Failure !!!" $SYSADMIN
+exit 0
+```
+
+
+#### Listing 6. Output of “apcassess status”  
+
+```terminal
+APC      : 001,048,1088
+DATE     : Fri Dec 03 16:49:24 EST 1999
+HOSTNAME : daughter
+RELEASE  : 3.7.2
+CABLE    : APC Cable 940-0024C
+MODEL    : APC Smart-UPS 600
+UPSMODE  : Stand-alone
+UPSNAME  : SU600
+LINEV    : 122.1 Volts
+MAXLINEV : 123.3 Volts
+MINLINEV : 122.1 Volts
+LINEFREQ : 60.0 Hz
+OUTPUTV  : 122.1 Volts
+LOADPCT  :  32.7 Percent Load Capacity
+BATTV    : 26.6 Volts
+BCHARGE  : 095.0 Percent
+MBATTCHG : 15 Percent
+TIMELEFT :  19.0 Minutes
+MINTIMEL : 3 Minutes
+SENSE    : Medium
+DWAKE    : 000 Seconds
+DSHUTD   : 020 Seconds
+LOTRANS  : 106.0 Volts
+HITRANS  : 129.0 Volts
+RETPCT   : 010.0 Percent
+STATFLAG : 0x08 Status Flag
+STATUS   : ONLINE
+ITEMP    : 34.6 C Internal
+ALARMDEL : Low Battery
+LASTXFER : Unacceptable Utility Voltage Change
+SELFTEST : NO
+STESTI   : 336
+DLOWBATT : 05 Minutes
+DIPSW    : 0x00 Dip Switch
+REG1     : N/A
+REG2     : N/A
+REG3     : 0x00 Register 3
+MANDATE  : 03/30/95
+SERIALNO : 13035861
+BATTDATE : 05/05/98
+NOMOUTV  : 115.0
+NOMBATTV :  24.0
+HUMIDITY : N/A
+AMBTEMP  : N/A
+EXTBATTS : N/A
+BADBATTS : N/A
+FIRMWARE : N/A
+APCMODEL : 6TD
+END APC  : Fri Dec 03 16:49:25 EST 1999
+```
