@@ -29,6 +29,7 @@ https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-techno
 
 ## Resources:  
 * Associated Press coverage of AI [https://apnews.com/hub/artificial-intelligence](https://apnews.com/hub/artificial-intelligence) and [https://apnews.com/hub/generative-ai](https://apnews.com/hub/generative-ai)  
+* Watch or join the [W3C Generative AI Community Group](https://www.w3.org/community/gai/) created September 2023 and/or the [w3C Human Centric AI Community Group](https://www.w3.org/community/humancentricai/) created April 2023  
 * Allen Institute for Artificial Intelligence [https://allenai.org/](https://allenai.org/)  
 * AI2 Leader Boards [https://leaderboard.allenai.org/](https://leaderboard.allenai.org/)  
 * One view of *current topics* in AI/ML:  [https://arxiv.org/search/truncated](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=cs.AI&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first)  
