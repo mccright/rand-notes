@@ -161,3 +161,6 @@ and
  
 
 * See: "The 2023 Crypto Crime Report." from Chainanalysis. [https://go.chainalysis.com/2023-crypto-crime-report.html](https://go.chainalysis.com/2023-crypto-crime-report.html)  
+* Consider participating in or just monitoring the [W3C Anti Fraud Community Group](https://www.w3.org/community/antifraud/) - with supporting resources at [https://github.com/antifraudcg](https://github.com/antifraudcg)  
+
+https://www.coindesk.com/business/
