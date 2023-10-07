@@ -282,9 +282,24 @@ Manual:
 * Useful, simplistic model for building an sqlite database for apcusd data: https://github.com/bzsparks/apcupsd-alert/blob/master/createDB.py  
   * Useful example of fetching apcusbd data using Python: https://github.com/flyte/apcaccess  
   * or: https://github.com/noriah/den/blob/main/bin/apcaccess.py  
+  * or: https://github.com/dev-bash/APC-ups-Home-Assistant/blob/main/apc.py  
+  * or: https://github.com/smarthomeNG/plugins/blob/master/apcups/__init__.py  
+  ```python
+        command = '/sbin/apcaccess status {0}:{1}'.format(self._host, self._port)   # the command goes here
+        output = subprocess.check_output(command.split(), shell=False)
+        # decode byte string to string
+        output = output.decode()
+        for line in output.split('\n'):
+            (key,spl,val) = line.partition(': ')
+            key = key.rstrip().lower()
+            val = val.strip()
+  ```
   * or: https://github.com/jncronin/pymonitor/blob/master/apcaccess_interface.py  
-  * or: https://github.com/HireChrisJohnston/nagios-apcupsd/blob/master/check_apcaccess.py
+  * or: https://github.com/HireChrisJohnston/nagios-apcupsd/blob/master/check_apcaccess.py  
+  * or: https://github.com/tumtumtum/pymonitor/blob/master/apcaccess_interface.py  
+  * or: https://github.com/randomstring/MQTTsensord/blob/master/mqttsensord.py  
   * another example: https://github.com/flyte/simple-http-db/blob/develop/server.py  
+  * NOTE: [Check for better examples](https://github.com/search?q=apcaccess+language%3APython&type=code&l=Python&p=3)  
   * or try the same using fastapi: https://github.com/ChristopherGS/ultimate-fastapi-tutorial  
     * If you can't decide, see a simple comparison: https://github.com/ChristopherGS/python-api-examples  
 * Get wattage from UPS unit (APC UPS) with Linux shell: https://github.com/noriah/den/blob/main/bin/upsinfo  
