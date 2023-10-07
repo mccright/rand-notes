@@ -409,7 +409,7 @@ The directives must be properly configured before apcupsd can operate correctly.
 
 A typical stand-alone configuration includes a computer and a UPS connected to its serial port.  
 
-Listing 2 shows a configuration file for a stand-alone SmartUPS connected to the first serial port of the computer. On power failure, apcupsd will shut down the computer when the battery level falls below 5% of full charge or the UPS remaining run-time falls below three minutes, whichever happens first. apcupsd will send messages to user consoles every five minutes sending the first message one minute after the power failure occurs. apcupsd will not disallow user logins during a power failure. UPS events are logged in /etc/apcupsd/apcupsd.events. The UPS status can be read from our CGI interface or from /etc/apcupsd/apcupsd.status, which is updated every minute. (for example: https://github.com/HireChrisJohnston/nagios-apcupsd/blob/master/etc/apcupsd/apcupsd2.conf)  
+Listing 2 shows a configuration file for a stand-alone SmartUPS connected to the first serial port of the computer. On power failure, apcupsd will shut down the computer when the battery level falls below 5% of full charge or the UPS remaining run-time falls below three minutes, whichever happens first. apcupsd will send messages to user consoles every five minutes sending the first message one minute after the power failure occurs. apcupsd will not disallow user logins during a power failure. UPS events are logged in /etc/apcupsd/apcupsd.events. The UPS status can be read from our CGI interface or from /etc/apcupsd/apcupsd.status, which is updated every minute.  
 
 If, for example, you want to write your own routine for the on-battery action, you can write your own shell script, as shown in Listing 5, called onbattery and put it in the /etc/apcupsd/ directory. Doing so will run the customized script before the default action. In case you don't want the default action to be taken, terminate your customized script with an exit code of 99. If you want to write customized scripts to replace the default behavior, you are encouraged to edit the apccontrol script and at least mimic its behavior in your own script. Please be aware that writing faulty scripts may cause your system to crash during power failures.  
 
@@ -420,10 +420,10 @@ To ease UPS monitoring, apcupsd offers a number of client facilities.  As mentio
 
 
 #### Listing 2. Configuration File for a Stand-alone SmartUPS  
-(*Example config files: 
+(*Example config files*:  
 * https://github.com/rpochet/apcupsd/blob/main/apcupsd.conf  
 * https://github.com/lucboudreau/apcupsd2mqtt/blob/main/etc/apcupsd/apcupsd.conf  
-*)  
+* https://github.com/HireChrisJohnston/nagios-apcupsd/blob/master/etc/apcupsd/apcupsd2.conf )  
 
 ```terminal
 ## apcupsd.conf v1.1 ##
