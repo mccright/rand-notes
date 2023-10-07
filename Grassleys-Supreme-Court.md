@@ -13,7 +13,8 @@ Altogether, Grassley's Supreme Court now has a majority of activist judges legis
 * Severely weakening voting rights in 2013 by eliminating constraints on jurisdictions with a history of voting discrimination: [Shelby County v. Holder](https://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf)  
 
 
-### On-Deck for 2022  
+### OSome of their 2022 decisions  
+* Weakening ...: []()  
 * The constitutionality of environmental protections of 45 million acres of land, and of water quality for millions of people  
 * The constitutionality of race-conscious college admissions programs  
 * The constitionality of controls to ensure that state legislative and congressional district lines are drawn fairly (*primarily Section 2 of the Voting Rights Act*)  
