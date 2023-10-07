@@ -119,6 +119,7 @@ You might also use BleachBit to clean up as well:
 [https://www.bleachbit.org/download/linux](https://www.bleachbit.org/download/linux)  
 Or better, see: [https://securityinabox.org/en/files/destroy-sensitive-information/](https://securityinabox.org/en/files/destroy-sensitive-information/)  
 
+
 ### A collection of one-liners  
 [https://github.com/jlevy/the-art-of-command-line#one-liners](https://github.com/jlevy/the-art-of-command-line#one-liners)  
 And The Art of Command Line from the same author: [https://github.com/jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)  
@@ -141,6 +142,7 @@ If that gives some evidence that an application is using a given TCP port, but l
 * Network Traffic Analysis [http://sleepyhead.de/howto/?href=network#traffic](http://sleepyhead.de/howto/?href=network#traffic)  
 * And a close relative, tstat, "TCP STatistic and Analysis Tool." [http://tstat.tlc.polito.it/](http://tstat.tlc.polito.it/)  
 
+
 ### Some Simple Linux Troubleshooting Reminders  
 I have been adding some simple Linux troubleshooting reminders to a different file in this repo.  See:  [https://github.com/mccright/rand-notes/blob/master/Simple-Linux-Troubleshooting.md](https://github.com/mccright/rand-notes/blob/master/Simple-Linux-Troubleshooting.md)  
 
@@ -162,6 +164,7 @@ If it is not, set it so:
 ```chmod +x <appName>.AppImage```  
 See also, "Updating your menu manually" section below if your issue is that a given AppImage-delivered application is not available in your menu...  
 
+
 ### Install a Given Flatpack-Packaged Application  
 Assume -- *for this example* -- what we need Flatpak because that is how Github Desktop is distributed.  
 1. Install Flatpak (once)  
@@ -169,7 +172,7 @@ Assume -- *for this example* -- what we need Flatpak because that is how Github 
 Then, before you proceed, reboot your system, or else you will have issues such as applications icons not appearing.  
 ```reboot```  
 2. Enable Flatpack using the following command in your terminal (once).  
-``sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo```  
+``sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo ```  
 3.  Now install Github Desktop with the following flatpak command:  
 ```flatpak install flathub io.github.shiftey.Desktop -y```  
 You can launch GitHub Desktop with:  
@@ -179,7 +182,7 @@ Or use your menu:
 4. Periodically, update/upgrade Github Desktop  
 For Flatpak, run the following command to check in your terminal for upgrades.  
 ```flatpak update```  
-See also, "Updating your menu manually" section below if your issue is that a given Flatpack-delivered application is not available in your menu...   
+See also, "Updating your menu manually" section below if your issue is that a given Flatpack-delivered application is not available in your menu...  
 
 ### Updating your menu manually  
 System-wide desktop configuration files are in ```/usr/share/applications/```.  User desktop configuration files are in ```$HOME/.local/share/applications```.  Check there for a ```.desktop``` file associated with the one you want to appear in the menu.  ToDo: Explain how to fix it, or to create a new one...  
@@ -275,6 +278,17 @@ Manual:
 * https://monsterb.github.io/notes/notes004.txt  
 * "Manage your APC battery backup system with this Linux command." Protect yourself from power incidents by running a simple utility: apcupsd. 17 Dec 2021, By David Both. https://opensource.com/article/21/12/linux-apcupsd  
 * "Configuring UPS/apcupsd." Jul 18, 2016. https://rmoff.net/2016/07/18/configuring-ups/apcupsd/  
+* An example of using Python to drive your use of ```apcaccess```: https://github.com/yufushiro/munin-apcupsd-load-watts/blob/main/apcupsd_load_watts  
+* Useful, simplistic model for building an sqlite database for apcusd data: https://github.com/bzsparks/apcupsd-alert/blob/master/createDB.py  
+  * Useful example of fetching apcusbd data using Python: https://github.com/flyte/apcaccess  
+  * or: https://github.com/noriah/den/blob/main/bin/apcaccess.py  
+  * or: https://github.com/jncronin/pymonitor/blob/master/apcaccess_interface.py  
+  * or: https://github.com/HireChrisJohnston/nagios-apcupsd/blob/master/check_apcaccess.py
+  * another example: https://github.com/flyte/simple-http-db/blob/develop/server.py  
+  * or try the same using fastapi: https://github.com/ChristopherGS/ultimate-fastapi-tutorial  
+    * If you can't decide, see a simple comparison: https://github.com/ChristopherGS/python-api-examples  
+* Get wattage from UPS unit (APC UPS) with Linux shell: https://github.com/noriah/den/blob/main/bin/upsinfo  
+
 
 ```apcupsd``` is the background daemon, and also includes a command line utility, "apcupsd", that allows you to send some commands to the UPS.  
 ```apcaccess``` is an additional utility that comes bundled with apcupsd, and is used to display current status information about the UPS.  
@@ -395,7 +409,7 @@ The directives must be properly configured before apcupsd can operate correctly.
 
 A typical stand-alone configuration includes a computer and a UPS connected to its serial port.  
 
-Listing 2 shows a configuration file for a stand-alone SmartUPS connected to the first serial port of the computer. On power failure, apcupsd will shut down the computer when the battery level falls below 5% of full charge or the UPS remaining run-time falls below three minutes, whichever happens first. apcupsd will send messages to user consoles every five minutes sending the first message one minute after the power failure occurs. apcupsd will not disallow user logins during a power failure. UPS events are logged in /etc/apcupsd/apcupsd.events. The UPS status can be read from our CGI interface or from /etc/apcupsd/apcupsd.status, which is updated every minute.  
+Listing 2 shows a configuration file for a stand-alone SmartUPS connected to the first serial port of the computer. On power failure, apcupsd will shut down the computer when the battery level falls below 5% of full charge or the UPS remaining run-time falls below three minutes, whichever happens first. apcupsd will send messages to user consoles every five minutes sending the first message one minute after the power failure occurs. apcupsd will not disallow user logins during a power failure. UPS events are logged in /etc/apcupsd/apcupsd.events. The UPS status can be read from our CGI interface or from /etc/apcupsd/apcupsd.status, which is updated every minute. (for example: https://github.com/HireChrisJohnston/nagios-apcupsd/blob/master/etc/apcupsd/apcupsd2.conf)  
 
 If, for example, you want to write your own routine for the on-battery action, you can write your own shell script, as shown in Listing 5, called onbattery and put it in the /etc/apcupsd/ directory. Doing so will run the customized script before the default action. In case you don't want the default action to be taken, terminate your customized script with an exit code of 99. If you want to write customized scripts to replace the default behavior, you are encouraged to edit the apccontrol script and at least mimic its behavior in your own script. Please be aware that writing faulty scripts may cause your system to crash during power failures.  
 
@@ -406,6 +420,10 @@ To ease UPS monitoring, apcupsd offers a number of client facilities.  As mentio
 
 
 #### Listing 2. Configuration File for a Stand-alone SmartUPS  
+(*Example config files: 
+* https://github.com/rpochet/apcupsd/blob/main/apcupsd.conf  
+* https://github.com/lucboudreau/apcupsd2mqtt/blob/main/etc/apcupsd/apcupsd.conf  
+*)  
 
 ```terminal
 ## apcupsd.conf v1.1 ##
