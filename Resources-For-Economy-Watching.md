@@ -61,12 +61,13 @@ In the context of my interests and needs, "*economy watching*" is largely *watch
   
 
 **Stock market indexes:**  
-* Russell 2000: [https://finance.yahoo.com/quote/%5ERUT?p=^RUT](https://finance.yahoo.com/quote/%5ERUT?p=^RUT)  
-* NASDAQ Composite: [https://finance.yahoo.com/quote/%5EIXIC/?p=%5EIXIC](https://finance.yahoo.com/quote/%5EIXIC/?p=%5EIXIC)  
-* S&P 500: [https://finance.yahoo.com/quote/%5EGSPC/](https://finance.yahoo.com/quote/%5EGSPC/)  
-* Dow Jones Industrials: [https://finance.yahoo.com/quote/%5EDJI/?p=%5EDJI](https://finance.yahoo.com/quote/%5EDJI/?p=%5EDJI)  
+* [Russell 2000](https://en.wikipedia.org/wiki/Russell_2000_Index): [https://finance.yahoo.com/quote/%5ERUT?p=^RUT](https://finance.yahoo.com/quote/%5ERUT?p=^RUT)  
+* [NASDAQ Composite](https://en.wikipedia.org/wiki/Nasdaq_Composite): [https://finance.yahoo.com/quote/%5EIXIC/?p=%5EIXIC](https://finance.yahoo.com/quote/%5EIXIC/?p=%5EIXIC)  
+* [S&P 500](https://en.wikipedia.org/wiki/S%26P_500): [https://finance.yahoo.com/quote/%5EGSPC/](https://finance.yahoo.com/quote/%5EGSPC/)  
+* [Dow Jones Industrials](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average): [https://finance.yahoo.com/quote/%5EDJI/?p=%5EDJI](https://finance.yahoo.com/quote/%5EDJI/?p=%5EDJI)  
 * Vanguard Total Stock Market Index Fund (VTI): [https://finance.yahoo.com/quote/VTI/?p=VTI](https://finance.yahoo.com/quote/VTI/?p=VTI)  
-* Cboe Volatility Index® (VIX® Index) [https://www.cboe.com/tradable_products/vix/](https://www.cboe.com/tradable_products/vix/) and [https://www.cboe.com/delayed_quotes/vix](https://www.cboe.com/delayed_quotes/vix) [In this context, "Volatility, or how fast prices change, is often seen as a way to gauge market sentiment, and in particular the degree of fear among market participants." [from: Investopedia)](https://www.investopedia.com/terms/v/vix.asp)]  
+* Cboe Volatility Index® ([VIX® Index](https://en.wikipedia.org/wiki/VIX)) [https://www.cboe.com/tradable_products/vix/](https://www.cboe.com/tradable_products/vix/) and [https://www.cboe.com/delayed_quotes/vix](https://www.cboe.com/delayed_quotes/vix) [In this context, "Volatility, or how fast prices change, is often seen as a way to gauge market sentiment, and in particular the degree of fear among market participants." [from: Investopedia)](https://www.investopedia.com/terms/v/vix.asp)]
+* There are also many other market indices: [https://en.wikipedia.org/wiki/List_of_stock_market_indices](https://en.wikipedia.org/wiki/List_of_stock_market_indices)  
 * Tracking them on your terminal [https://github.com/Gbox4/tstock](https://github.com/Gbox4/tstock)  
 
 **General Government Research Sources:**  
