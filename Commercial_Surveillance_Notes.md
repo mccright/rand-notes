@@ -30,7 +30,7 @@ I agree with Geoffrey A. Fowler that there are many reasons that we need to keep
 
 
 #### What is the purpose of this file?  
-These notes are in support of a still-vaguely-imagined recreational software project that would make some of information about Internet surveillance vendors available via API, browser, or both.  It may also have an *informing* role for any reader.  
+These notes are in support of a still-vaguely-imagined recreational software project that would make some of information about Internet surveillance vendors (or some of those *real* organizations who decided to monitize data about you as a new revenue stream) available via API, browser, or both.  It may also have an *informing* role for any reader.  
 
 #### Who might care?  
 * Forensic technicians and blue teams.  
@@ -46,7 +46,15 @@ Bruce Schneier (5 years ago):  "Surveillance is the business model of the intern
 
 Data gatherers and data aggregators are also material contributors to law enforcement and broader *investigative* activities via their responses to subpoenas, search warrants (plus other types of court orders), emergency disclosure requests, pen register orders, wiretap orders, preservation requests and more.  For example, between Jan 2021 – Jun 2021 Google responded to more than 50,000 requests for disclosure of user information on more than 115,000 accounts. [https://transparencyreport.google.com/user-data/overview](https://transparencyreport.google.com/user-data/overview?user_requests_report_period=series:requests,accounts;authority:US;time:2021H1&lu=legal_process_breakdown&legal_process_breakdown=expanded:0)  
 
-“Data is a decisive factor in establishing market power. The use of the very personal data of consumers by the large internet companies can also be abusive under antitrust law,” [said Andreas Mundt, who heads the German cartel office](https://www.reuters.com/technology/german-antitrust-watchdog-can-add-privacy-breaches-meta-probe-eu-court-says-2023-07-04).
+“Data is a decisive factor in establishing market power. The use of the very personal data (*associated with*) consumers by the large internet companies can also be abusive under antitrust law,” [said Andreas Mundt, who heads the German cartel office](https://www.reuters.com/technology/german-antitrust-watchdog-can-add-privacy-breaches-meta-probe-eu-court-says-2023-07-04).
+
+#### Is there anything that you can do?  
+Resist surveillance where you can.  
+"Delete your digital history from dozens of companies with this app." By Geoffrey A. Fowler, October 3, 2023. https://www.washingtonpost.com/technology/2023/10/03/delete-personal-data-privacy-free-app/  
+>"A new iPhone and Android app called [Permission Slip](https://permissionslipcr.com/) makes it super simple to order companies to delete your personal information and secrets."  
+and  
+"Privacy Reset: A guide to the important settings you should change now." By Heather Kelly and Geoffrey A. Fowler. 2021/09/23, updated 2023/09/23. https://www.washingtonpost.com/technology/interactive/2021/privacy-settings-guide  
+
 
 #### Some Terms:  
 * "**surveillance advertising**" -- [Characterized by Leigh Freund](https://thenai.org/wp-content/uploads/2022/01/NAI-Comments-re-Petition-for-Rulemaking-to-Prohibit-Surveillance-Advertising_26Jan22.pdf), President and CEO, Network Advertising Initiative (NAI): "tailored advertising is a key driver of the robust and competitive digital media marketplace that provides substantial benefits to consumers, publishers and advertisers."  Simple observation leads me to believe that *surveillance advertising* technologies and operations are designed and implemented to shape markets and business models, and in some instances, to generate additional cash flows via sales of raw data.  
