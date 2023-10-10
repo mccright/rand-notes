@@ -198,3 +198,14 @@ Executive Order 13526 is one of a series of executive orders from US Presidents 
 "Photos from Trump indictment show boxes of classified documents stored in Mar-a-Lago shower, ballroom." Jun 9, 2023 4:41 PM EDT  
 https://www.pbs.org/newshour/politics/photos-from-trump-indictment-show-boxes-of-classified-documents-stored-in-mar-a-lago-shower-ballroom  
 
+
+##### Businesses have found a broad spectrum of ways to monitize some of Trump's Big Lie.  
+**Fact**: The 306 electoral college votes for President Biden defeated former president Donald Trump in the 2020 election and serious investigations into the 2020 election and more than 60 court cases brought by Trumpophiles have revealed no evidence of fraud, and as outlined on this page Trump faces federal criminal charges for some of his efforts to overturn the election.  
+Cat Zakrzewski [reported](https://www.washingtonpost.com/technology/2023/10/07/amazon-alexa-news-2020-election-misinformation/) (in the Washington Post) on October 7, 2023, that "Amazon’s Alexa has been claiming the 2020 election was stolen."  She went on to detail a number of ways that Alexa delivered this Trump lie.
+>(*Alexa told testers that*) The 2020 races were “notorious for many incidents of irregularities and indications pointing to electoral fraud taking place in major metro centers”  
+>Alexa contended that Trump won Pennsylvania  
+Both common Trump/Trump devotee lies.  
+>Alexa disseminates misinformation about the race, even as parent company Amazon promotes the tool as a reliable election news source to more than 70 million estimated users.  
+>Amazon’s Alexa has proliferated across a number of devices. It’s been embedded in inexpensive home speakers, headphones, TVs and cars — a familiar helper that sets alarms, plays songs and checks the weather for millions of Americans.
+>But Amazon has sought to position the voice assistant as a reliable source for information about elections for the last half decade.
+>It’s unclear how long Amazon’s Alexa voice assistant has been serving up false claims in response to questions about the 2020 election. 
