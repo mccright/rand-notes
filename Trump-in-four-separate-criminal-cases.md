@@ -104,6 +104,9 @@ Trump has sometimes [insisted that he had issued a “standing order” to decla
 >“There is a process that the White House goes through to declassify materials,” [Mr. Pence added](https://www.nytimes.com/2023/08/20/us/politics/pence-trump-classified-documents.html). “I’m aware of that occurring on several cases over the course of our four years. But I don’t have any knowledge of any broad-based directive from the president. But that doesn’t mean it didn’t occur; it’s just not something that I ever heard about.”  
 During [an interview with Sean Hannity on Fox](https://www.politico.com/news/2022/09/21/trump-i-could-declassify-documents-by-thinking-about-it-00058212), Trump said the president “can declassify just by saying it’s declassified, even by thinking about it.”  
 Trump knew his public assertions about *declassification* were lies -- admitting his knowledge of declassification constraints during a recorded July 2021 interview with individuals working on Mark Meadows’ memoir, Mr. Trump shared plan documents for candidate attacks against Iran and said: “See, as president, I could have declassified it... Now I can’t, you know, but this is still a secret.”  
+"Photos from Trump indictment show boxes of classified documents stored in Mar-a-Lago shower, ballroom." Jun 9, 2023 4:41 PM EDT  
+https://www.pbs.org/newshour/politics/photos-from-trump-indictment-show-boxes-of-classified-documents-stored-in-mar-a-lago-shower-ballroom  
+
 
 ### Ref5  
 "Recent Criminal Filings - As of 06/09/2023 - Last 7 Days": "9:23-cr-80101-AMC, USA v. Trump, et al., Cannon, 06/08/2023" (*accessed 2023-06-10*) https://www.flsd.uscourts.gov/recent-criminal-filings  
@@ -203,8 +206,6 @@ Executive Order 13526 is one of a series of executive orders from US Presidents 
 
 
 
-"Photos from Trump indictment show boxes of classified documents stored in Mar-a-Lago shower, ballroom." Jun 9, 2023 4:41 PM EDT  
-https://www.pbs.org/newshour/politics/photos-from-trump-indictment-show-boxes-of-classified-documents-stored-in-mar-a-lago-shower-ballroom  
 
 
 ##### Businesses have found a broad spectrum of ways to monitize some of Trump's Big Lie.  
