@@ -22,7 +22,7 @@ By October 2022 the Covid pandemic had killed nearly as many Americans as [U.S. 
 
 >According to a study published by the National Bureau of Economic Research in September 2022, rates of excess deaths were 76 percent higher among Republicans than Democrats throughout the pandemic. The gap was much smaller in 2020; it then grew almost sevenfold with the arrival of vaccines. [David Wallace-Wells, NYT. April 24, 2023](https://www.nytimes.com/interactive/2023/04/24/magazine/dr-fauci-pandemic.html)  
 
-An [authoratative study published in The Lancet, April 2023](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00461-0/fulltext), reported that "our results show that states where a greater fraction of the population voted for the Republican Party's 2020 presidential candidate, on average, had more infections and more total COVID-19 deaths (*per 100,000*) for the entire study period. Those findings are consistent with other studies."
+An [authoratative study published in The Lancet, April 2023](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00461-0/fulltext), reported that "our results show that states where a greater fraction of the population voted for the Republican Party's 2020 presidential candidate, on average, had more infections and more total COVID-19 deaths (*per 100,000*) for the entire study period. Those findings are consistent with other studies."  The authors found that higher education appears to be a material antidote to materially negative partisan healthcare behaviors: "An important exception emerged in our results: we found an association between strong health systems and vaccine coverage in Republican-leaning states with higher mean years of education](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00461-0/fulltext#back-bib74).  
 
 Although these facts have been covered widely in the news and on social media.  They appear to have little to no impact on well documented partisan healthcare behaviors, along with related impacts.  
 
@@ -30,4 +30,18 @@ The KFF reports that there remains [dramatic differences in the acceptance of CO
 
 COVID-19 strains continue to circulate widely. The [KFF COVID-19 Vaccine Monitor (January 17-24, 2023) reported](https://www.kff.org/coronavirus-covid-19/poll-finding/kff-covid-19-vaccine-monitor-january-2023/) that nearly four in ten say that they or someone in their household were sick with either COVID-19, RSV, or flu over the past month.  
 
+# COVID-19 Remains a Leading Cause of Death in the U.S.  
+### Age-adjusted deaths per 100,000 people, by leading cause of death as of October 2023  
+|Cause          |Age-adjusted deaths per 100,000|
+|:--------------|:------------------------------|
+|Heart disease | 175.4 |
+|Cancer | 147.5 |
+|Accidents | 59.5 |
+|**COVID-19** | 46.5 |
+|Cerebrovascular diseases | 41.8 |
+
+NOTE: COVID-19 "Age-adjusted deaths per 100,000" were higher in the 2020-2022 period: 85.0 in 2020, 104.1 in 2021, and 46.6 in 2022.  
+FROM: https://wonder.cdc.gov/controller/saved/D176/D345F898  "Provisional Mortality Statistics, 2018 through Last Week Results
+Deaths occurring through October 07, 2023 as of October 15, 2023." Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021, and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 23, 2023 9:26:11 AM  
+**Cerebrovascular disease** is [a term for conditions that affect blood flow to your brain. Conditions include stroke, brain aneurysm, brain bleed and carotid artery disease](https://my.clevelandclinic.org/health/diseases/24205-cerebrovascular-disease).    
 
