@@ -1,7 +1,7 @@
 # Cryptocurrency Notes  
 
 *This is just a scratchpad for now*.  
-...since its emergence in 2008/9, digital currency has existed outside of government and traditional banking/financial services controls and constraints, and depends on tight integration with public [distributed ledgers](https://en.wikipedia.org/wiki/Distributed_ledger) called [blockchains](https://en.wikipedia.org/wiki/Blockchain) or [*Distributed Ledger Technology* (DLT)](https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp) (decentralized, immutable, encrypted, tokenized, distributed, consensus-building and record-keeping).  It has also depended on lots of venture capital (*and civilian investor*) funding.  There are at least [four types of blockchain networks](https://en.wikipedia.org/wiki/Blockchain#Types) today: public blockchains, private blockchains, consortium blockchains and hybrid blockchains.  
+...since its emergence in 2008/9, digital currency has existed outside of government and traditional banking/financial services controls and constraints, and depends on tight integration with public [distributed ledgers](https://en.wikipedia.org/wiki/Distributed_ledger) called [blockchains](https://en.wikipedia.org/wiki/Blockchain) or [*Distributed Ledger Technology* (DLT)](https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp) (decentralized, immutable, encrypted, tokenized, distributed, consensus-building and record-keeping).  It has also depended on lots of venture capital (*and civilian investor*) funding.  There are at least [four types of blockchain networks](https://en.wikipedia.org/wiki/Blockchain#Types) today: public blockchains, private blockchains, consortium blockchains and hybrid blockchains. Public (*sometimes called "permissionless"*) blockchains support some of the most popular cryptocurrency networks like Bitcoin and Ethereum, and have several components that enable them to transfer value without relying on trusted third parties -- [a research paper by the NY Fed examines these components](https://libertystreeteconomics.newyorkfed.org/2023/08/what-makes-cryptocurrencies-different/).  
 
 My reading and experience in the financial services industry leads me to believe that for much of their short lifetime, cryptocurrencies, blockchain/DLT and an ecosystem of '*So, you wanted to use it?*' technology have been pumped using hyper-positive myths that attempt to define them as a magical, safe, inherently egalitarian, democratic, decentralized and anonymity-protecting utopia.  
 
@@ -120,6 +120,7 @@ Copied From [https://www.coinbase.com/price/bitcoin](https://www.coinbase.com/pr
 
 
 Review:  
+* Chainanalysis Reports https://blog.chainalysis.com/reports/  
 * [https://www.washingtonpost.com/business/2022/06/03/crypto-skeptics-growing/](https://www.washingtonpost.com/business/2022/06/03/crypto-skeptics-growing/)  
 * [https://libertystreeteconomics.newyorkfed.org/2022/02/the-future-of-payments-is-not-stablecoins/](https://libertystreeteconomics.newyorkfed.org/2022/02/the-future-of-payments-is-not-stablecoins/)  
 * A little dated, but still a useful way to view cryptocurrency *security* - "Ethereum: hunting for buggy smart contracts" [https://www.palkeo.com/en/projets/ethereum/index.html](https://www.palkeo.com/en/projets/ethereum/index.html)  
