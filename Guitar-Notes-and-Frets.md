@@ -1,5 +1,18 @@
-## Guitar Notes & Fret Markers or Fret Inlays  
+## Tip For Remembering Guitar String Names  
 
+An easy way to remember the names of the guitar strings when you’re holding the guitar and looking down at them is to use this mnemonic:  
+"**Eddie Ate Dynamite Good Bye Eddie**"  
+
+● Eddie -- Low E String (6th string)  
+● Ate -- A String (5th string)  
+● Dynamite -- D String (4th string)  
+● Good -- G String (3rd string)  
+● Bye -- B String (2nd string)  
+● Eddie -- High E String (1st string)  
+
+
+
+## Guitar Notes & Fret Markers or Fret Inlays  
   
 | Marker No. | 1 | 2 | 3 | 4 | 5 | 6   |
 |:----------:|:-:|:-:|:-:|:-:|:-:|:---:|
