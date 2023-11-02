@@ -6,7 +6,7 @@ The 2023 poverty guidelines are in effect as of January 19, 2023. [Federal Regis
 
 #### 2023 POVERTY GUIDELINES FOR THE 48 CONTIGUOUS STATES AND THE DISTRICT OF COLUMBIA  
 
-|# in family/household | Poverty guideline |.25 x|.50 x|.75 x| 2 x | 3 x | 4 x |
+|# in family/household | Poverty guideline income |.25 x|.50 x|.75 x| 2 x | 3 x | 4 x |
 |:--------------------:|:-----------------:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 |$14,580|$3,645|$7,290|$10,935|$29,160|$43,740|$58,320|
 |2 |$19,720|$4,930|$9,860|$14,790|$39,440|$59,160|$78,880|
@@ -18,3 +18,17 @@ The 2023 poverty guidelines are in effect as of January 19, 2023. [Federal Regis
 |8 |$50,560|$12,640|$25,280|$37,920|$101,120|$151,680|$202,240|
 
 Data from: https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines  
+
+## How federal poverty levels are used to determine eligibility for reduced-cost health coverage  
+
+* **Income above 400% FPL**: If your income is above 400% FPL, you may now qualify for premium tax credits that lower your monthly premium for a 2023 Marketplace health insurance plan.  
+* **Income between 100% and 400% FPL**: If your income is in this range, in all states you qualify for premium tax credits that lower your monthly premium for a Marketplace health insurance plan.  
+* **Income at or below 150% FPL**: If your income falls at or below 150% FPL in your state and you’re not eligible for Medicaid or CHIP, you may qualify to enroll in or change Marketplace coverage through a Special Enrollment Period.  
+* **Income below 138% FPL**: If your income is below 138% FPL and your state has expanded Medicaid coverage, you qualify for Medicaid based only on your income.  
+* **Income below 100% FPL**: If your income falls below 100% FPL, you probably won’t qualify for savings on a Marketplace health insurance plan or for income-based Medicaid.  
+
+"Income" above refers to "modified adjusted gross income" (MAGI). For most people, it's the same or very similar to "adjusted gross income" (AGI).  MAGI isn't a number on your tax return.  
+
+**MAGI**: The figure used to determine eligibility for premium tax credits and other savings for Marketplace health insurance plans and for Medicaid and the Children's Health Insurance Program (CHIP). MAGI is adjusted gross income (AGI) plus these, if any: untaxed foreign income, non-taxable Social Security benefits, and tax-exempt interest.  
+
+Data from: https://www.healthcare.gov/glossary/federal-poverty-level-fpl/  
