@@ -2,9 +2,7 @@
 
 #### HHS Poverty Guidelines for 2023  
 
-The 2023 poverty guidelines are in effect as of January 19, 2023. [Federal Register Notice, January 19, 2023 - Full text](https://www.federalregister.gov/documents/2023/01/19/2023-00885/annual-update-of-the-hhs-poverty-guidelines).
-https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines  
-
+The 2023 poverty guidelines are in effect as of January 19, 2023. [Federal Register Notice, January 19, 2023 - Full text](https://www.federalregister.gov/documents/2023/01/19/2023-00885/annual-update-of-the-hhs-poverty-guidelines).  
 
 #### 2023 POVERTY GUIDELINES FOR THE 48 CONTIGUOUS STATES AND THE DISTRICT OF COLUMBIA  
 
@@ -19,3 +17,4 @@ https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines
 |7 |$45,420|$11,355|$22,710|$34,065|$90,840|$136,260|$181,680|
 |8 |$50,560|$12,640|$25,280|$37,920|$101,120|$151,680|$202,240|
 
+Data from: https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines  
