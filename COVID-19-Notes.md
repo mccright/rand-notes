@@ -43,5 +43,9 @@ COVID-19 strains continue to circulate widely. The [KFF COVID-19 Vaccine Monitor
 NOTE: COVID-19 "Age-adjusted deaths per 100,000" were higher in the 2020-2022 period: 85.0 in 2020, 104.1 in 2021, and 46.6 in 2022.  
 FROM: https://wonder.cdc.gov/controller/saved/D176/D345F898  "Provisional Mortality Statistics, 2018 through Last Week Results
 Deaths occurring through October 07, 2023 as of October 15, 2023." Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021, and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 23, 2023 9:26:11 AM  
-**Cerebrovascular disease** is [a term for conditions that affect blood flow to your brain. Conditions include stroke, brain aneurysm, brain bleed and carotid artery disease](https://my.clevelandclinic.org/health/diseases/24205-cerebrovascular-disease).    
+**Cerebrovascular disease** is [a term for conditions that affect blood flow to your brain. Conditions include stroke, brain aneurysm, brain bleed and carotid artery disease](https://my.clevelandclinic.org/health/diseases/24205-cerebrovascular-disease).  
 
+### Current COVID-19 Data:  
+* Centers for Disease Control and Prevention [COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#datatracker-home)  
+* with special interest on [COVID-19 variant proportions](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)  
+* And remember, more than 1.15 million people [died of COVID-19 in the United States since 1 Jan 2020](https://covid.cdc.gov/covid-data-tracker/#deaths-landing).  
