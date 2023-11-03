@@ -45,3 +45,21 @@ Data from: https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guideli
 **MAGI**: The figure used to determine eligibility for premium tax credits and other savings for Marketplace health insurance plans and for Medicaid and the Children's Health Insurance Program (CHIP). MAGI is adjusted gross income (AGI) plus these, if any: untaxed foreign income, non-taxable Social Security benefits, and tax-exempt interest.  
 
 Data from: https://www.healthcare.gov/glossary/federal-poverty-level-fpl/  
+
+
+## Maximum Income to Qualify for Section 8 Housing in Iowa  
+
+To qualify for Section 8 Housing Choice Voucher program in Des Moines, applicants must meet a number of eligibility requirements. These requirements include:  
+
+Income limits: In Iowa, households must have a gross income that is at or below 50% of the area median income to be eligible for Section 8 housing. The exact income limits may vary depending on the size of the household and the region of the state in which they reside.  
+
+Current income limits published by The [Des Moines Municipal Housing Agency 2309 Euclid Ave, Des Moines, IA 50310 - 515-323-8950, housing@dmgov.org](https://www.dsm.city/departments/DMMHA/section_8_housing_choice_voucher_program.php) include:  
+|Household Size|Maximum Income|
+|:------------:|:------------:|
+|1|$36,550|
+|2|$41,750|
+|3|$46,950|
+|4|$52,150|
+|5|$56,350|
+
+
