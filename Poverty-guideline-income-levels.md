@@ -47,11 +47,11 @@ Data from: https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guideli
 Data from: https://www.healthcare.gov/glossary/federal-poverty-level-fpl/  
 
 
-## Maximum Income to Qualify for Section 8 Housing in Iowa  
+## Maximum Income to Qualify for Section 8 Housing in Des Moines Iowa  
 
 To qualify for Section 8 Housing Choice Voucher program in Des Moines, applicants must meet a number of eligibility requirements. These requirements include:  
 
-Income limits: In Iowa, households must have a gross income that is at or below 50% of the area median income to be eligible for Section 8 housing. The exact income limits may vary depending on the size of the household and the region of the state in which they reside.  
+>Income limits: In Iowa, households must have a gross income that is at or below 50% of the area median income to be eligible for Section 8 housing. The exact income limits may vary depending on the size of the household and the region of the state in which they reside.  
 
 Current income limits published by The [Des Moines Municipal Housing Agency 2309 Euclid Ave, Des Moines, IA 50310 - 515-323-8950, housing@dmgov.org](https://www.dsm.city/departments/DMMHA/section_8_housing_choice_voucher_program.php) include:  
 |Household Size|Maximum Income|
@@ -62,4 +62,4 @@ Current income limits published by The [Des Moines Municipal Housing Agency 2309
 |4|$52,150|
 |5|$56,350|
 
-
+These values were accessed 2 Nov. 2023, and will be changed over time. See: https://www.dsm.city/departments/DMMHA/section_8_housing_choice_voucher_program.php  
