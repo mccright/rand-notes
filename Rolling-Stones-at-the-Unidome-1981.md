@@ -1,5 +1,5 @@
 # The Rolling Stones at the Unidome  
-at Cedar Falls, IA, USA. Nov 20 1981  
+Cedar Falls, IA, USA. Nov 20 1981  
 Tour: Tattoo You  
 ### [Setlist](https://www.setlist.fm/setlist/the-rolling-stones/1981/unidome-cedar-falls-ia-4bd6efc6.html):  
 
@@ -30,5 +30,5 @@ Take the "A" Train (*Duke Ellington and His Orchestra song - from tape*)
 1. Jumpin' Jack Flash  
 
 Encore:
-27. (I Can't Get No) Satisfaction  
+25. (I Can't Get No) Satisfaction  
 
