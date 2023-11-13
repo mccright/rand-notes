@@ -1,6 +1,6 @@
 # Grateful Dead at the UNIDome  
 Cedar Falls, IA. February 5, 1978  
-(*This was a seriously cold evening. And little-to-no heat in my VW bug during the ride home.*)  
+(*This was a seriously cold evening, somewhere around 0°F plus roughly 20mph winds. We left the concert with sweaty clothes and had little-to-no heat in my VW bug during the 2-hour ride home.*)  
 
 ### [SetList](https://www.setlist.fm/setlist/grateful-dead/1978/unidome-cedar-falls-ia-3d605d3.html):  
 
@@ -20,7 +20,7 @@ Set 2:
 1. Scarlet Begonias  
 1. Fire on the Mountain  
 1. Ship of Fools  
-1. Truckin'  
+1. Truckin'  (*included explosions, and synchronized revving semi-tractors on both sides of the stage*)  
 1. Drums  
 1. The Other One  
 1. Wharf Rat  
