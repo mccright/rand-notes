@@ -1,6 +1,6 @@
 # Grateful Dead at the UNIDome  
 Cedar Falls, IA. February 5, 1978  
-(*This was a seriously cold evening, somewhere around 0°F plus roughly 20mph winds. We left the concert with sweaty clothes and had little-to-no heat in my VW bug during the 2-hour ride home.*)  
+(*This was a [seriously cold evening](https://www.wunderground.com/history/daily/us/ia/cedar-falls/KALO/date/1978-2-5), it was already below zero°F before the concert started and around -15°F as we walked out of "the dome." Unfortunately, we left the concert with sweaty clothes and had little-to-no heat in my VW bug during the 2-hour ride home.*)  
 
 ### [SetList](https://www.setlist.fm/setlist/grateful-dead/1978/unidome-cedar-falls-ia-3d605d3.html):  
 
