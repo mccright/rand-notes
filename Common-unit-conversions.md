@@ -1,6 +1,4 @@
-
-
-Conversion Table
+# Conversion Table  
 
 
 ### Length  
@@ -146,10 +144,10 @@ Conversion Table
 
 
 ### Multiples and Submultiples of SI units  
-|Prefix |Symbol  |Multiplying Factor |Mult. Factor number |
+|Prefix |Symbol  |Multiply by |Multiply by number |
 |:------|:------:|:------------------|--------------------|
-|exa    |E |10<sup>18</sup>    |1 000 000 000 000 000 000 |
-|peta   |P |10<sup>15</sup>   |    1 000 000 000 000 000 |
+|exa    |E |10<sup>18</sup>   |1 000 000 000 000 000 000 |
+|peta   |P |10<sup>15</sup>   |U+0020 U+0020 U+0020 U+0020 1 000 000 000 000 000 |
 |tera   |T |10<sup>12</sup>   |        1 000 000 000 000 |
 |giga   |G |10<sup>9</sup>    |            1 000 000 000 |
 |mega   |M |10<sup>6</sup>    |                1 000 000 |
@@ -166,8 +164,8 @@ Conversion Table
 |atto |a |10<sup>-18</sup>  |                        0.000 000 000 000 000 001|
 
 
-NOTES:
-<sup>A</sup> These prefixes are not normally used
+NOTES:  
+<sup>A</sup> These prefixes are not normally used  
 
 
 REFERENCES:  
