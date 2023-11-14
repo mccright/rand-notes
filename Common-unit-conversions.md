@@ -145,23 +145,23 @@
 
 ### Multiples and Submultiples of SI units  
 |Prefix |Symbol  |Multiply by |Multiply by number |
-|:------|:------:|:------------------|--------------------|
+|:------|:------:|:------------------|:-----------------:|
 |exa    |E |10<sup>18</sup>   |1 000 000 000 000 000 000 |
-|peta   |P |10<sup>15</sup>   |U+0020 U+0020 U+0020 U+0020 1 000 000 000 000 000 |
+|peta   |P |10<sup>15</sup>   |    1 000 000 000 000 000 |
 |tera   |T |10<sup>12</sup>   |        1 000 000 000 000 |
 |giga   |G |10<sup>9</sup>    |            1 000 000 000 |
 |mega   |M |10<sup>6</sup>    |                1 000 000 |
 |kilo   |k |10<sup>3</sup>    |                    1 000 |
-|hecto<sup>A</sup> |h |10<sup>2</sup>  |                      100 |
-|deca<sup>A</sup> |da |10   |                       10 |
-|deci<sup>A</sup> |d |10<sup>-1</sup>  |                        0.1 |
-|centi |c |10<sup>-2</sup>  |                        0.01 |
-|milli |m |10<sup>-3</sup>  |                        0.001 |
-|micro |u |10<sup>-6</sup>  |                        0.000 001 |
-|nano |n |10<sup>-9</sup>   |                        0.000 000 001 |
-|pico |p |10<sup>-12</sup>  |                        0.000 000 000 001 |
-|femto |f |10<sup>-15</sup> |                        0.000 000 000 000 001 |
-|atto |a |10<sup>-18</sup>  |                        0.000 000 000 000 000 001|
+|hecto<sup>A</sup> |h |10<sup>2</sup>  |             100 |
+|deca<sup>A</sup> |da |10   |                         10 |
+|deci<sup>A</sup> |d |10<sup>-1</sup>  |               0.1 |
+|centi |c |10<sup>-2</sup>  |                          0.01 |
+|milli |m |10<sup>-3</sup>  |                          0.001 |
+|micro |u |10<sup>-6</sup>  |                          0.000 001 |
+|nano |n |10<sup>-9</sup>   |                          0.000 000 001 |
+|pico |p |10<sup>-12</sup>  |                          0.000 000 000 001 |
+|femto |f |10<sup>-15</sup> |                          0.000 000 000 000 001 |
+|atto |a |10<sup>-18</sup>  |                          0.000 000 000 000 000 001|
 
 
 NOTES:  
