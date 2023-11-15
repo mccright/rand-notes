@@ -140,7 +140,7 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 |Centimeter cube|Meter cube|Liter |Inch cube|Foot cube|US gallons|Imperial gallons |US barrel (oil)|
 |:---|:---|:---|:---|:---|:------|:--------|:------|
 |cm<sup>3</sup> |m<sup>3</sup> |ltr |in<sup>3</sup> |ft<sup>3</sup> |US gal |Imp. gal |US brl |
-|1 0.000001 |0.001 |0.061024 |0.000035 |0.000264 |0.00022 |0.000006 |
+|1 |0.000001 |0.001 |0.061024 |0.000035 |0.000264 |0.00022 |0.000006 |
 |1000000 |1 |1000 |61024 |35 |264 |220 |6.29 |
 |1000 |0.001 |1 |61 |0.035 |0.264201 |0.22 |0.00629 |
 |16.4 |0.000016 |0.016387 |1 |0.000579 |0.004329 |0.003605 |0.000103 |
