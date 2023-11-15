@@ -1,5 +1,5 @@
 # Conversion Table  
-
+I use this resource locally, hoping to reduce my network I/O and my search traffic.  
 
 ### Length  
 | From      |     To This           |
@@ -37,6 +37,7 @@
 |914.4 |91.44 |0.9144 |0.000914 |36 |3 |1 |0.000568 |
 |1609344 |160934.4 |1609.344 |1.609344 |63360 |5280 |1760 |1 |
 
+Thank you [International Society of Automation](https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf) for this table.  
 
 
 ### Area  
@@ -75,6 +76,8 @@
 |1 kilogram |2.2046223 pounds |
 |1 kilogram |35.27396 ounces |
 |1 kilogram |1000 grams |
+|1 stone |14 international pounds (averdupois) |
+|1 stone |6.35029 kilograms |
 |1 hundredweight (cwt) |100 pounds |
 |1 hundredweight (cwt) |50.8023 kilograms |
 |1 tonne (1 megagram, 1 Mg) |1000 kilograms |
@@ -133,6 +136,21 @@
 |1 cubic yard |27 cubic feet  |
 |1 cubic yard |0.764559 cubic meters |
 
+### Volume Units Table II  
+|Centimeter cube|Meter cube|Liter |Inch cube|Foot cube|US gallons|Imperial gallons |US barrel (oil)|
+|:---|:---|:---|:---|:---|:------|:--------|:------|
+|cm<sup>3</sup> |m<sup>3</sup> |ltr |in<sup>3</sup> |ft<sup>3</sup> |US gal |Imp. gal |US brl |
+|1 0.000001 |0.001 |0.061024 |0.000035 |0.000264 |0.00022 |0.000006 |
+|1000000 |1 |1000 |61024 |35 |264 |220 |6.29 |
+|1000 |0.001 |1 |61 |0.035 |0.264201 |0.22 |0.00629 |
+|16.4 |0.000016 |0.016387 |1 |0.000579 |0.004329 |0.003605 |0.000103 |
+|28317 |0.028317 |28.31685 |1728 |1 |7.481333 |6.229712 |0.178127 |
+|3785 |0.003785 |3.79 |231 |0.13 |1 |0.832701 |0.02381 |
+|4545 |0.004545 |4.55 |277 |0.16 |1.20 |1 |0.028593 |
+|158970 |0.15897 |159 |9701 |6 |42 |35 |1 |
+
+Thank you [International Society of Automation](https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf) for this table.  
+
 
 ### Temperature  
 | From      |     To This           |
@@ -141,6 +159,17 @@
 |Celsius    |Multiply by 9/5ths, then add 32 Fahrenheit |
 
 
+### Temperature Conversion Formulas Table II  
+|Degrees                |Conversion Formula |
+|:----------------------|:------------------|
+|Degree Celsius (°C)    |(°F - 32) x 5/9 |
+|Degree Celsius (°C)    |(K - 273.15) |
+|Degree Fahrenheit (°F) |(°C x 9/5) + 32 |
+|Degree Fahrenheit (°F) |(1.8 x K) - 459.67 |
+|Kelvin (K)             |(°C + 273.15) |
+|Kelvin (K)             |(°F + 459.67) ÷ 1.8 |
+
+Thank you [International Society of Automation](https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf) for this table.  
 
 
 ### Multiples and Submultiples of SI units  
@@ -170,3 +199,6 @@ NOTES:
 
 REFERENCES:  
 https://www.lpl.arizona.edu/~rhill/conversion/units.htm  
+https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf  
+https://www.metric-conversions.org/  
+
