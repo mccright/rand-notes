@@ -116,22 +116,23 @@ A House committee, accusing oil companies of deception, releases a trove of inte
 
 An example of this category (*alternative* "science") might be the "[Climate Change Reconsidered series](https://climatechangereconsidered.org/climate-change-reconsidered-ii-fossil-fuels/)" outputs from the [Nongovernmental International Panel on Climate Change (NIPCC)](https://climatechangereconsidered.org/about-the-nipcc/) and [The Heartland Institute](https://climateconferences.heartland.org/) which build their narratives & conclusions on "*research overlooked or ignored by*" more objective scientists involved in climate change research.  
 
-#### What can we measure and report that might be immediately relatable to non-scientists?
-* Change in Precipitation on the Wettest Day of the Year per unit of time, over time  
-* Change in Annual Precipitation per unit of time, over time  
-* Change in Average Annual Temperature per unit of time, over time  
-* Change in Days with Extreme Precipitation per unit of time, over time  
-* Change in Extreme Precipitation per unit of time, over time  
-* Change in Mean Summer Temperature per unit of time, over time  
-* Change in Number of Days Over 100 deg F per unit of time, over time  
-* Change in Number of Days Over 105 deg F per unit of time, over time  
-* Change in Precipitation on the Wettest Day in 5 Years per unit of time, over time  
-* Change in Temperature on the Hottest Day of the Year per unit of time, over time  
-* Change in the Lowest Average Temperature of Summer per unit of time, over time  
-* Change in the Number of Days Below 0 deg F per unit of time, over time  
-* Change in the Number of Days Over 95 deg F per unit of time, over time  
-* Change in the Number of Nights Over 70 deg F per unit of time, over time  
-* Change in the Number of Days Under 32 deg F per unit of time, over time  
+#### What can we measure and report that might be immediately relatable to non-scientists?  
+Climate deniers/skeptics/provocateurs often use some version of a "word soup" or "acoustic salad" designed and delivered to sow doubt, confusion or concern about messaging from *real* climate scientists and honest climate advocates.  What types of data might be most immediately understandable and relatable to non-scientists?  Here are a few from the U.S. National Climate Assessment.  
+* Change in Precipitation on the Wettest Day of the Year for a specified geographic area, for a specified geographic area, per unit of time, over time  
+* Change in Annual Precipitation for a specified geographic area, per unit of time, over time  
+* Change in Average Annual Temperature for a specified geographic area, per unit of time, over time  
+* Change in Days with Extreme Precipitation for a specified geographic area, per unit of time, over time  
+* Change in Extreme Precipitation for a specified geographic area, per unit of time, over time  
+* Change in Mean Summer Temperature for a specified geographic area, per unit of time, over time  
+* Change in Number of Days Over 100 deg F for a specified geographic area, per unit of time, over time  
+* Change in Number of Days Over 105 deg F for a specified geographic area, per unit of time, over time  
+* Change in Precipitation on the Wettest Day in 5 Years for a specified geographic area, per unit of time, over time  
+* Change in Temperature on the Hottest Day of the Year for a specified geographic area, per unit of time, over time  
+* Change in the Lowest Average Temperature of Summer for a specified geographic area, per unit of time, over time  
+* Change in the Number of Days Below 0 deg F for a specified geographic area, per unit of time, over time  
+* Change in the Number of Days Over 95 deg F for a specified geographic area, per unit of time, over time  
+* Change in the Number of Nights Over 70 deg F for a specified geographic area, per unit of time, over time  
+* Change in the Number of Days Under 32 deg F for a specified geographic area, per unit of time, over time  
 
 
 #### Some Trustworthy Sources of Information  
