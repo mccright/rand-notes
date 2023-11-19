@@ -53,8 +53,8 @@ And start as early as you can so that [*the magic of compounding*](https://www.e
   
  #### Material Downturns Occur Regularly  
  Below are S&P Bear Markets since 1973 (*as a proxy for the entire market*):  
-|Description       |Period                           |Percent decline|Months of decline|Months of recovery|
-|:-----------------|---------------------------------|:-------:|:---------------:|:----------------:|
+|Description       |Period                             |Percent decline|Months of decline|Months of recovery|
+|:-----------------|-----------------------------------|:-------:|:-----------:|:------------:|
 |1973 Conflict in the Middle East|11 Jan. 1973 -- 17 Jul. 1980|-48% |21 |70 |
 |1980 Stagflation  |28 Nov. 1980 -- 03 Nov. 1982|-27%|20 |3 |
 |1987 Black Monday |25 Aug. 1987 -- 26 Jul. 1989|-34%|3 |20 |
@@ -62,8 +62,8 @@ And start as early as you can so that [*the magic of compounding*](https://www.e
 |2000 Tech Market Madness |24 Mar. 2000 -- 30 May 2007|-49%|31 |56 |
 |2007 Real Estate-Backed Securities Crash|09 Oct. 2007 -- 28 Mar. 2013|-56%|17 |49 |
 |2018 Fear/Profit taking (almost a bear)|20 Sep. 2018 -- 23 Apr. 2019|-19.8%|3 |4 |
-|2020 COVID-19 Pandemic Shock|19 Feb. 2020 to Aug. 2020|-34%|1 |5 |
-|2022 Pandemic Supply Chain Crisis|3 Jan. 2022 to Jun. 2023|-25%|10 |8 |
+|2020 COVID-19 Pandemic Shock|19 Feb. 2020 -- Aug. 2020|-34%|1 |5 |
+|2022 Pandemic Supply Chain Crisis|3 Jan. 2022 -- Jun. 2023|-25%|10 |8 |
 
   
 Investing in stocks and equity index or mutual funds will require you tolerate some volatility.  While even the best financial advisor will take [reasonable care](https://www.ecfr.gov/current/title-17/chapter-II/part-240/subject-group-ECFR64f52d737aea1ed/section-240.15l-1) in developing and making recommendations, investing in securities involves risk, and you may lose money.  In extreme cases losses may include your entire investment capital -- *but a foundational component of your planning involves building a savings/investment portfolio that **resists** extreme loss*.  At any given point in time, historical patterns are not always useful as illustrations of future trends.  This issue is especially true for shorter timelines.  Approach risk-taking seriously.  
