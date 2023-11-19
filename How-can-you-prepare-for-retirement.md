@@ -51,18 +51,18 @@ And start as early as you can so that [*the magic of compounding*](https://www.e
   * Three key aspects of any retirement plan are future rates of return on retirement assets, future wage growth rates, and inflation.  Macro-trends and behaviors as well as the nature of your immediate situation make forecasting these variables problematic.  Regardless, you, or more likely, some trusted financial resource will need to make predictions about them as foundational inputs to an analysis of your retirement plan and retirement readiness.  
   * Future gains are not guaranteed -- this is true for all types of investing.  Securities and markets go up **AND** they go down (*i.e., increase and decrease in value --  here are a couple illustrations of how average [401(k)](https://www.investors.com/wp-content/uploads/2022/08/wPerFin401k082222-1024x579.jpg) and [IRA](https://www.investors.com/wp-content/uploads/2022/08/wPerFinIRA082222-1024x578.jpg) account values have trended up, with some significant downturns over time.*).  How long?  I was introduced to investing as a student in the 1970s -- a bear market began in January 1973 and markets did not return to those Jan '73 prices again until July 1980, more than 7 years later. That said, if you purchased the market in October 1974, held that and sold it in July 1980, you may have experienced a more than 45% capital gain.  A *similar* period occurred between March 2000 and May 2007.  
   
-  Material Downturns Occur Regularly:  
+ Material Downturns Occur Regularly:  
 |Description       |Period                      |% decline|Months of decline|Months of recovery|
-|:-----------------|:------ --------------------|:-------:|:---------------:|:----------------:|
-|1973 Conflict in the Middle East|11 Jan. 1973 -- 17 Jul. 1980|-48%|21 |70 |
+|:-----------------|:---------------------------|:-------:|:---------------:|:----------------:|
+|1973 Conflict in the Middle East|11 Jan. 1973 -- 17 Jul. 1980|-48% |21 |70 |
 |1980 Stagflation  |28 Nov. 1980 -- 03 Nov. 1982|-27%|20 |3 |
 |1987 Black Monday |25 Aug. 1987 -- 26 Jul. 1989|-34%|3 |20 |
 |1990 Gulf War     |16 Jul. 1990 -- 13 Feb. 1991|-20%|3 |4  |
 |2000 The Tech Market Madness Crash|24 Mar. 2000 -- 30 May 2007|-49%|31 |56 |
 |2007 Leverage/Exotic Real Estate-Backed Securities Madness Crash|09 Oct. 2007 -- 28 Mar. 2013|-56%|17 |49 |
 |2018 Fed Rate Hikes/Profit taking (almost a bear market)|20 Sep. 2018 -- 23 Apr. 2019|-19.8%|3 |4 |
-|COVID-19 Pandemic Shock|19 Feb. 2020 to Aug. 2020|-34%|1 |5 |
-|Pandemic Supply Chain Crisis|3 Jan. 2022 to Jun. 2023|-25%|10 |8 |
+|2020 COVID-19 Pandemic Shock|19 Feb. 2020 to Aug. 2020|-34%|1 |5 |
+|2022 Pandemic Supply Chain Crisis|3 Jan. 2022 to Jun. 2023|-25%|10 |8 |
 
   
 Investing in stocks and equity index or mutual funds will require you tolerate some volatility.  While even the best financial advisor will take [reasonable care](https://www.ecfr.gov/current/title-17/chapter-II/part-240/subject-group-ECFR64f52d737aea1ed/section-240.15l-1) in developing and making recommendations, investing in securities involves risk, and you may lose money.  In extreme cases losses may include your entire investment capital -- *but a foundational component of your planning involves building a savings/investment portfolio that **resists** extreme loss*.  At any given point in time, historical patterns are not always useful as illustrations of future trends.  This issue is especially true for shorter timelines.  Approach risk-taking seriously.  
