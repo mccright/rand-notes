@@ -208,6 +208,17 @@ user@host:~/QR$qrencode -s 9 -l H -o "<QRcodeFileName>.png" "WIFI:S:<theTargetSS
 ```
 Replace `<theTargetSSID>` with your visitor SSID and `<thePassword>` with your visitor WiFi password, and name the file something that does not give away the secrets.  When the mobile endpoint WiFi configuration details are needed, bring up the `<QRcodeFileName>.png` file in your browser and have the visitor scan the QR code on your screen with their mobile device.  *Use this idea only in the "access to visitor/guest WiFi networks.  This approach is NOT risk-appropriate for providing access to high security networks.*  
 
+### Questions about what "*Office Suite*" of applications to use  
+Over time, users will ask about options for full-featured word processor & spreadsheet applications.  I believe that [LibreOffice](https://www.libreoffice.org/) is an excellent response for broad swaths of user groups.  LibreOffice is compatible with other major office suites.  LibreOffice includes:  
+* "[Writer](https://www.libreoffice.org/discover/writer/)" a word processor,  
+* "[Calc](https://www.libreoffice.org/discover/calc/)" a powerful spreadsheet,  
+* "[Impress](https://www.libreoffice.org/discover/impress/)" for creating presentations,  
+* "[Draw](https://www.libreoffice.org/discover/draw/)" for diagrams and 2D/3D illustrations,  
+* "[Base](https://www.libreoffice.org/discover/base/)" to deal with databases,  
+* "[Math](https://www.libreoffice.org/discover/math/)" to create mathematical equations,  
+* "[Charts](https://www.libreoffice.org/discover/charts/)" to create and embed charts within your documents.  
+Why LibreOffice?  LibreOffice is free and open source software.  It is a successor to [OpenOffice](https://www.openoffice.org/product/index.html) which had its last major update in early 2014. LibreOffice has more than ten years of OpenOffice source code cleanup with the addition of mature, formal, manual and automated functionality and security testing. It [adds many extra features and improved](https://www.libreoffice.org/discover/libreoffice-vs-openoffice/) "[Microsoft Office](https://www.office.com/)" compatibility, has regular releases with security updates, and is released for desktop, mobile and cloud environments.  
+
 
 ## If you support Windows endpoints as well:  
 
