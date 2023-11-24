@@ -48,7 +48,7 @@ The relatively dramatic differences in income can make a huge difference over th
 #### Building a Plan Helps  
 The literature seems to suggest that establishing and periodically grooming a plan with the assistance of a formal [finanical advisor](https://www.letsmakeaplan.org/find-a-cfp-professional) works best.  Also, pick a target age for retirement to use in calculations that will test the viability of that plan over time.  
 And start as early as you can so that [*the magic of compounding*](https://www.explainxkcd.com/wiki/index.php/947:_Investing) has enough time to come to your aid -- while remembering that:  
-  * Three key aspects of any retirement plan are future rates of return on retirement assets, future wage growth rates, and inflation.  Macro-trends and behaviors as well as the nature of your immediate situation make forecasting these variables problematic.  Regardless, you, or more likely, some trusted financial resource will need to make predictions about them as foundational inputs to an analysis of your retirement plan and retirement readiness.  
+  * Some key aspects of any retirement plan are future rates of return on retirement assets, future wage/income growth rates,  inflation as well as your current and expected spending behavior (*including healthcare spending, which has been growing faster than inflation*).  Macro-trends and behaviors as well as the nature of your immediate situation make forecasting these variables problematic.  Regardless, you, and likely, some trusted financial resource will need to make predictions about them as foundational inputs to an analysis of your retirement plan and retirement readiness.  
   * Future gains are not guaranteed -- this is true for all types of investing.  Securities and markets go up **AND** they go down (*i.e., increase and decrease in value --  here are a couple illustrations of how average [401(k)](https://www.investors.com/wp-content/uploads/2022/08/wPerFin401k082222-1024x579.jpg) and [IRA](https://www.investors.com/wp-content/uploads/2022/08/wPerFinIRA082222-1024x578.jpg) account values have trended up, with some significant downturns over time.*).  How long?  I was introduced to investing as a student in the 1970s -- a [bear market](https://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets) began in January 1973 and markets did not return to those Jan '73 prices again until July 1980, more than 7 years later. That said, if you purchased the market in October 1974, held that and sold it in July 1980, you may have experienced a more than 45% capital gain.  A *similar* period occurred between March 2000 and May 2007.  
   
  #### Material Downturns Occur Regularly  
@@ -82,9 +82,11 @@ Investing in stocks and equity index or mutual funds will require you tolerate s
 
 * See: "Ten Things to Consider Before You Make Investing Decisions." from the U.S. SEC's Office of Investor Education and Advocacy [https://www.sec.gov/investor/pubs/tenthingstoconsider.htm](https://www.sec.gov/page/investor-section-landing)  
 
-* Check every candidate to ensure they are trained and licensed:
+* Check every *financial advisor* candidate to ensure they are trained and licensed:
   * Investment Adviser Public Disclosure website [https://adviserinfo.sec.gov/](https://adviserinfo.sec.gov/)  
   * Investor Alerts and Bulletins [https://www.sec.gov/investor/alerts](https://www.sec.gov/investor/alerts)  
+  * FINRA’s BrokerCheck [https://brokercheck.finra.org](https://brokercheck.finra.org)  
+  * Or to find the relevant regulator(s) in your state try the North American Securities Administrators Association (NASAA) at [https://www.nasaa.org/contact-your-regulator/](https://www.nasaa.org/contact-your-regulator/) for resources and contact information for state and provincial securities regulators and related resources those agencies provide.
 
 * Familiarize yourself with signs of a grifter/con-artist [https://www.businessinsider.com/7-tell-tale-signs-of-a-con-artist-2016-3](https://www.businessinsider.com/7-tell-tale-signs-of-a-con-artist-2016-3).  Even hints or whiffs of these behaviors should be taken very seriously.  Keep your sensors tuned and trust your gut if you think you may have hooked up with an advisor who does not have your best interest in the foreground.  
 
