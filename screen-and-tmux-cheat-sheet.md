@@ -53,6 +53,12 @@ Some content also from: https://phoenixnap.com/kb/how-to-use-linux-screen-with-c
 | Ctrl+b d | Detaches from the session, leaving the session running in the background |
 | Ctrl+b ( | Move to the previous session |
 | Ctrl+b ) | Move to the next session |
+| Ctrl+b c | Create a new window |
+| Ctrl+b n | (*next*) Navigate through windows to "next" |
+| Ctrl+b p | (*previous*) Navigate through windows to "previous" |
+| Ctrl+b % | (*split vertically*) Split a window  into 2 panes vertically |
+| Ctrl+b " | (*split horizontally*) Split a window into 2 panes horizontally |
+| Ctrl+b ↑↓→← | (*navigate*) Navigate between panes with Ctrl+b <arrow_key> |
 | Ctrl+b ? | Help |
 | Ctrl+b [ | copy/paste # 1. Enter scroll mode first |
 |   Space | copy/paste # 2. Start selecting and move around |
