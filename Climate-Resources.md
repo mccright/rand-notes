@@ -45,6 +45,12 @@ As an overview, see their ["Global Mean Temperature" diagram](https://berkeleyea
 * Science Daily on Climate Change [https://www.sciencedaily.com/news/earth_climate/climate/](https://www.sciencedaily.com/news/earth_climate/climate/)  
 * Union of Concerned Scientists on Climate Change
 [https://www.ucsusa.org/climate/science](https://www.ucsusa.org/climate/science) and [https://www.ucsusa.org/climate](https://www.ucsusa.org/climate)  
+* Notable Historical Articles:  
+  * ["Worldwatch Paper 21: Soft Technologies, Hard Choices.](https://files.eric.ed.gov/fulltext/ED156566.pdf)" by Colin Norman, Worldwatch Paper 21. June 1978.  
+  * "[A Historic Look at Climate Change Research -- Plant ecologist Charles F. Cooper wrote prescient and succinct words on the topic of climate change back in 1978.](https://daily.jstor.org/climate-change-research/)"  
+    * "[What Might Man-Induced Climate Change Mean?](https://www.foreignaffairs.com/articles/world/1978-04-01/what-might-man-induced-climate-change-mean)" By Charles F. Cooper, Published on April 1, 1978  
+  * "[Climatic Change Apocalypse and Law](https://digitalcommons.law.byu.edu/cgi/viewcontent.cgi?article=1103&context=jpl)" By Ray Jay Davis 1995-05-01, Brigham Young University Journal of Public Law. Volume 6, Issue 2.  
+  * [Is Beef Really Worse for the Environment Than Driving?](https://daily.jstor.org/are-cows-bad-for-the-envrionment/)  
 
 -------------
 ### Economic Impacts of Climate Change  
