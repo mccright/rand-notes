@@ -46,6 +46,7 @@ A7sus4                   [x 0 2 0 3 3] (D  E  G  A) : sus4 triad, minor 7th
 A7sus4                   [x 0 2 2 3 3] (D  E  G  A) : sus4 triad, minor 7th
 A7sus4                   [5 x 0 0 3 0] (D  E  G  A) : sus4 triad, minor 7th
 A7sus4                   [x 0 0 0 x 0] (D  E  G  A) : sus4 triad, minor 7th
+A9                       [0 2 2 2 2 3] (A  C# E  G  B) : 
 Aadd9     or   A2        [0 0 2 4 2 0] (Db E  A  B) : major triad plus 9th
 Aadd9     or   A2        [x 0 7 6 0 0] (Db E  A  B) : major triad plus 9th
 Aaug/D                   [x x 0 2 2 1] (Db D  F  A) : augmented triad (altered bass)
@@ -184,6 +185,8 @@ B7/add11  or   B7/11     [0 0 4 4 4 0] (Eb E  Gb A  B) : major triad, minor 7th,
 B7/add11  or   B7/11     [0 2 1 2 0 2] (Eb E  Gb A  B) : major triad, minor 7th, plus 11th
 B7sus4                   [x 0 4 4 0 0] (E  Gb A  B) : sus4 triad, minor 7th
 B7sus4                   [x 2 4 2 5 2] (E  Gb A  B) : sus4 triad, minor 7th
+B9                       [x 2 1 2 2 2] (B  D# F# A C#) : 
+B9                       [x 4 4 4 4 5] (B  D# F# A C#) : 
 Baug/E                   [3 x 1 0 0 0] (Eb E  G  B) : augmented triad (altered bass)
 Baug/E                   [x x 1 0 0 0] (Eb E  G  B) : augmented triad (altered bass)
 Bb        or   Bbmaj     [1 1 3 3 3 1] (D  F  Bb) : major triad
@@ -313,6 +316,8 @@ C6                       [x 0 5 5 5 8] (C  E  G  A) : major triad plus 6th
 C6/add9   or   C6/9      [x 5 7 5 8 0] (C  D  E  G  A) : major triad plus 6th and 9th
 C7        or   Cdom 7    [x 3 5 3 5 3] (C  E  G  Bb) : major triad, minor 7th
 C7sus4                   [x 3 5 3 6 3] (C  F  G  Bb) : sus4 triad, minor 7th
+C9                       [x 3 2 3 3 3] (C  E  G  Bb  D) : 
+C9                       [x 5 5 5 5 6] (C  E  G  Bb  D) : 
 C9(b5)                   [0 3 x 3 3 2] (C  D  E  Gb Bb) : diminished 5th, minor 7th, plus 9th
 Cadd9     or   C2        [3 x 0 0 1 0] (C  D  E  G) : major triad plus 9th
 Cadd9     or   C2        [x 3 0 0 1 0] (C  D  E  G) : major triad plus 9th
@@ -407,9 +412,10 @@ D7        or   Ddom 7    [x 3 x 2 3 2] (C  D  Gb A) : major triad, minor 7th
 D7        or   Ddom 7    [x 5 7 5 7 5] (C  D  Gb A) : major triad, minor 7th
 D7sus4                   [x 5 7 5 8 3] (C  D  G  A): sus4 triad, minor 7th
 D7sus4                   [x x 0 2 1 3] (C  D  G  A) : sus4 triad, minor 7th
-D9        or   Ddom 9    [0 0 0 2 1 2] (C  D  E  Gb A) : major triad, minor 7th plus 9th
-D9        or   Ddom 9    [2 x 0 2 1 0] (C  D  E  Gb A) : major triad, minor 7th plus 9th
-D9        or   Ddom 9    [x 5 7 5 7 0] (C  D  E  Gb A) : major triad, minor 7th plus 9th
+D9        or   Ddom 9    [0 0 0 2 1 2] (D  F# A C E) : major triad, minor 7th plus 9th
+D9        or   Ddom 9    [x x 2 5 3 2] (D  F# A C E) : 
+D9        or   Ddom 9    [x 5 4 5 5 5] (D  F# A C E) : 
+D9        or   Ddom 9    [x 7 7 7 7 8] (D  F# A C E) : 
 D9(#5)                   [0 3 x 3 3 2] (C  D  E  Gb Bb) : augmented 5th, minor 7th plus 9th
 Dadd9     or   D2        [0 0 0 2 3 2] (D  E  Gb A) : major triad plus 9th
 Dadd9     or   D2        [0 0 4 2 3 0] (D  E  Gb A) : major triad plus 9th
