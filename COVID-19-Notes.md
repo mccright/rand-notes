@@ -44,6 +44,9 @@ NOTE: COVID-19 "Age-adjusted deaths per 100,000" were higher in the 2020-2022 pe
 FROM: https://wonder.cdc.gov/controller/saved/D176/D345F898  "Provisional Mortality Statistics, 2018 through Last Week Results
 Deaths occurring through October 07, 2023 as of October 15, 2023." Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021, and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 23, 2023 9:26:11 AM  
 **Cerebrovascular disease** is [a term for conditions that affect blood flow to your brain. Conditions include stroke, brain aneurysm, brain bleed and carotid artery disease](https://my.clevelandclinic.org/health/diseases/24205-cerebrovascular-disease).  
+In December 2023, Victoria Reyna-Rodriguez and Stephanie Innes [reporting in the Des Moines Register](https://desmoinesregister-ia.newsmemory.com?selDate=20231211&goTo=C001&artid=2&editionStart=Des%20Moines%20Register) on "What are the leading causes of death in Iowa?" wrote that:  
+>"According to 2021 data from the CDC, here are Iowa’s top 5 leading causes of death: 1 Heart disease 2 Cancer 3 COVID-19 4 Accidents 5 Chronic lower respiratory diseases"  
+...Moving COVID-19 below "accidents" as a cause of death sometime after 2021.  
 
 ### Current COVID-19 Data:  
 * Centers for Disease Control and Prevention [COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#datatracker-home)  
