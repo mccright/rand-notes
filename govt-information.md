@@ -24,6 +24,8 @@
 * https://github.com/giswqs/aws-open-data-geo  
 and from there:  
 - A list of open datasets on AWS: [aws-open-data](https://github.com/giswqs/aws-open-data)  
+   * Registry of Open Data on AWS [https://registry.opendata.aws/](https://registry.opendata.aws/)  
+   * 487+ Free Open Datasets from AWS: [https://aws.amazon.com/marketplace...](https://aws.amazon.com/marketplace/search/results?trk=8384929b-0eb1-4af3-8996-07aa409646bc&sc_channel=el&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&CONTRACT_TYPE=OPEN_DATA_LICENSES&PRICING_MODEL=FREE&filters=FULFILLMENT_OPTION_TYPE%2CCONTRACT_TYPE%2CPRICING_MODEL)  
 - A list of open geospatial datasets on AWS: [aws-open-data-geo](https://github.com/giswqs/aws-open-data-geo)  
 - A list of open geospatial datasets on AWS with a STAC endpoint: [aws-open-data-stac](https://github.com/giswqs/aws-open-data-stac)  
 - A list of STAC endpoints from stacindex.org: [stac-index-catalogs](https://github.com/giswqs/stac-index-catalogs)  
