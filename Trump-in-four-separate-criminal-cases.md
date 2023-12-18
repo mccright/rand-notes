@@ -186,29 +186,29 @@ A grand jury in Fulton County, Ga. unveiled a criminal indictment of former Pres
 
 
 **What are the defendants being charged with in the Georgia indictment?**  
-|Name          |Title            |charges |List of Specific Criminal Counts  |
-|:-------------|:----------------|:-------|:---------------------------------|
-|Donald Trump  |Former president |13 |1, 5, 9, 11, 13, 15, 17, 19, 27-29, 38-39 |
-|Rudy Giuliani |Lawyer |13  |1-3, 6-7, 9, 11, 13, 15, 17, 19, 23-24 |
-|Ray S. Smith III |Atlanta-based lawyer |12 |1-2, 4, 6, 9, 11, 13, 15, 17, 19, 23, 25 |
-|Cathy Latham  |Coffee Co. GOP chairwoman |11 |1, 8, 10, 12, 14, 32-37 |
-|Robert Cheeley|Lawyer |10 |1, 9, 11, 13, 15, 17, 19, 23, 26, 41 |
-|John Eastman  |Lawyer |9 |1-2, 9, 11, 13, 15, 17, 19, 27 |
-|David Shafer  |Former Ga. GOP chairman |8 |1, 8, 10, 12, 14, 16, 18, 40 |
-|Kenneth Chesebro|Lawyer |7 |1, 9, 11, 13, 15, 17,19 |
-|Sidney Powell |Lawyer | 7 |1, 32-37 |
-|Shawn Still   |Former Ga. GOP finance chairman| 7 |1, 8, 10, 12, 14, 16, 18 |
-|Mike Roman    |Trump campaign aide| 7 |1, 9, 11, 13, 15, 17, 19 |
-|Misty Hampton |Coffee Co. elections supervisor| 7 |1, 32-37 |
-|Scott Hall    |Bail bonds company owner| 7 |1, 32-37 |
-|Stephen Cliffgard Lee |Suburban Chicago pastor| 5 |1, 20-21, 30-31 |
-|Harrison Floyd|Executive director of Black Voices for Trump |3 |1, 30-31 |
-|Trevian Kutti |Lobbyist and former publicist | 3 |1, 30-31 |
-|Mark Meadows  |W.H. chief of staff| 2 |1, 28 |
-|Jenna Ellis   |Lawyer |2 |1-2 |
-|Jeffrey Clark |Justice Department official |2 |1, 22 |
+|Name          |Title            |charges |List of Specific Criminal Counts  | Status |
+|:-------------|:----------------|:-------|:---------------------------------|:------:|
+|Donald Trump  |Former president |13 |1, 5, 9, 11, 13, 15, 17, 19, 27-29, 38-39 |  |
+|Rudy Giuliani |Lawyer |13  |1-3, 6-7, 9, 11, 13, 15, 17, 19, 23-24 |  |
+|Ray S. Smith III |Atlanta-based lawyer |12 |1-2, 4, 6, 9, 11, 13, 15, 17, 19, 23, 25 |  |
+|Cathy Latham  |Coffee Co. GOP chairwoman |11 |1, 8, 10, 12, 14, 32-37 |  |
+|Robert Cheeley|Lawyer |10 |1, 9, 11, 13, 15, 17, 19, 23, 26, 41 |  |
+|John Eastman  |Lawyer |9 |1-2, 9, 11, 13, 15, 17, 19, 27 |  |
+|David Shafer  |Former Ga. GOP chairman |8 |1, 8, 10, 12, 14, 16, 18, 40 |  |
+|Kenneth Chesebro|Lawyer |7 |1, 9, 11, 13, 15, 17,19 | Plead guilty |
+|Sidney Powell |Lawyer | 7 |1, 32-37 | Plead guilty |
+|Shawn Still   |Former Ga. GOP finance chairman| 7 |1, 8, 10, 12, 14, 16, 18 |  |
+|Mike Roman    |Trump campaign aide| 7 |1, 9, 11, 13, 15, 17, 19 |  |
+|Misty Hampton |Coffee Co. elections supervisor| 7 |1, 32-37 |  |
+|Scott Hall    |Bail bonds company owner| 7 |1, 32-37 | Plead guilty |
+|Stephen Cliffgard Lee |Suburban Chicago pastor| 5 |1, 20-21, 30-31 |  |
+|Harrison Floyd|Executive director of Black Voices for Trump |3 |1, 30-31 |  |
+|Trevian Kutti |Lobbyist and former publicist | 3 |1, 30-31 |  |
+|Mark Meadows  |W.H. chief of staff| 2 |1, 28 |  |
+|Jenna Ellis   |Lawyer |2 |1-2 | Plead guilty |
+|Jeffrey Clark |Justice Department official |2 |1, 22 |  |
 
-Table data above from the [charging document](https://int.nyt.com/data/documenttools/georgia-indictment-trump/daed97d37562a76f/full.pdf) and: [https://www.washingtonpost.com/national-security/2023/08/15/georgia-indictment-charges/](https://www.washingtonpost.com/national-security/2023/08/15/georgia-indictment-charges/)  
+Table data above from the [charging document](https://int.nyt.com/data/documenttools/georgia-indictment-trump/daed97d37562a76f/full.pdf) and: [https://www.washingtonpost.com/national-security/2023/08/15/georgia-indictment-charges/](https://www.washingtonpost.com/national-security/2023/08/15/georgia-indictment-charges/) with the addition of a "status" column which will likely change over time.  
 
 "Sidney Powell vowed to ‘release the Kraken’ to help Donald Trump. She may now testify against him." By Michelle L. Price, Associated Press, October 19, 2023.  https://apnews.com/article/sidney-powell-plea-testify-trump-fraud-trial-4165fcbc1d97f65fd1cba54a88b3efb8  and  "Sidney Powell pleads guilty over efforts to overturn Trump’s loss in Georgia and agrees to cooperate." By Kate Brumback, October 19, 2023. https://apnews.com/article/sidney-powell-plea-deal-georgia-election-indictment-ec7dc601ad78d756643aa2544028e9f5  
 
@@ -222,19 +222,24 @@ Table data above from the [charging document](https://int.nyt.com/data/documentt
 "On her radio show, Trump co-defendant Jenna Ellis says that Trump has a “malignant narcissistic tendency to simply say that he's never done anything wrong.”" By Media Matters Staff, 09/14/23. https://www.mediamatters.org/american-family-association/jenna-ellis-trump-has-malignant-narcissistic-tendency-simply-say-hes  
 >"I know him well as a friend, as a former boss, I have great love and respect for him personally. But..." [Jenna Ellis](https://en.wikipedia.org/wiki/Jenna_Ellis). From the September 14, 2023, edition of American Family Radio's "Jenna Ellis in the Morning."  
 
-On October 25th, [David French argued](https://www.nytimes.com/2023/10/25/opinion/trump-georgia-guilty-pleas.html) that:  
+On October 25th, [David French (*a veteran of Operation Iraqi Freedom and a former constitutional litigator*) argued](https://www.nytimes.com/2023/10/25/opinion/trump-georgia-guilty-pleas.html) that:  
 >(This is a) series of confessions from the (Trump) inner circle and not a heated external critique.  Amid (a) cloud of uncertainty, there is one thing we do know: With each guilty plea, we receive further legal confirmation of a reality that should have been plainly obvious to each of us, even in the days and weeks immediately following the election. Trump’s effort to overturn the election wasn’t empowered by conventional counsel providing sound legal advice. It was a corrupt scheme empowered by an admitted criminal cabal.  
 
 
 
 
 ##### Businesses have found a broad spectrum of ways to monitize some of Trump's Big Lie.  
-**Fact**: The 306 electoral college votes for President Biden defeated former president Donald Trump in the 2020 election and serious investigations into the 2020 election and more than 60 court cases brought by Trumpophiles have revealed no evidence of fraud, and as outlined on this page Trump faces federal criminal charges for some of his efforts to overturn the election.  
-Cat Zakrzewski [reported](https://www.washingtonpost.com/technology/2023/10/07/amazon-alexa-news-2020-election-misinformation/) (in the Washington Post) on October 7, 2023, that "Amazon’s Alexa has been claiming the 2020 election was stolen."  She went on to detail a number of ways that Alexa delivered this Trump lie.
+**Fact**: The 306 electoral college votes for President Biden defeated former president Donald Trump in the 2020 election and serious investigations into the 2020 election and more than 60 court cases brought by Trumpophiles have revealed no evidence of material fraud, and as outlined on this page Trump faces federal criminal charges for some of his efforts to overturn the election.  
+Cat Zakrzewski [reported](https://www.washingtonpost.com/technology/2023/10/07/amazon-alexa-news-2020-election-misinformation/) (in the Washington Post) on October 7, 2023, that "Amazon’s Alexa has been claiming the 2020 election was stolen."  She went on to detail a number of ways that Alexa delivered this Trump lie.  
 >(*Alexa told testers that*) The 2020 races were “notorious for many incidents of irregularities and indications pointing to electoral fraud taking place in major metro centers”  
 >Alexa contended that Trump won Pennsylvania  
-Both common Trump/Trump devotee lies.  
+
+Both are common Trump/Trump devotee lies.  
+
 >Alexa disseminates misinformation about the race, even as parent company Amazon promotes the tool as a reliable election news source to more than 70 million estimated users.  
->Amazon’s Alexa has proliferated across a number of devices. It’s been embedded in inexpensive home speakers, headphones, TVs and cars — a familiar helper that sets alarms, plays songs and checks the weather for millions of Americans.
->But Amazon has sought to position the voice assistant as a reliable source for information about elections for the last half decade.
->It’s unclear how long Amazon’s Alexa voice assistant has been serving up false claims in response to questions about the 2020 election. 
+>Amazon’s Alexa has proliferated across a number of devices. It’s been embedded in inexpensive home speakers, headphones, TVs and cars — a familiar helper that sets alarms, plays songs and checks the weather for millions of Americans.  
+>But Amazon has sought to position the voice assistant as a reliable source for information about elections for the last half decade.  
+>It’s unclear how long Amazon’s Alexa voice assistant has been serving up false claims in response to questions about the 2020 election.  
+
+
+https://thehill.com/homenews/campaign/4307719-trump-vermin-remark-draws-comparisons-dictators-criticism/  
