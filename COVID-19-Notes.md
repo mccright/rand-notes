@@ -52,3 +52,24 @@ In December 2023, Victoria Reyna-Rodriguez and Stephanie Innes [reporting in the
 * Centers for Disease Control and Prevention [COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#datatracker-home)  
 * with special interest on [COVID-19 variant proportions](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)  
 * And remember, more than 1.15 million people [died of COVID-19 in the United States since 1 Jan 2020](https://covid.cdc.gov/covid-data-tracker/#deaths-landing).  
+
+#### COVID-19 Data from Wastewater Testing:  
+Iowa COVID-19 Tracker: https://iowacovid19tracker.org/  
+CDC Wastewater COVID-19 State and Territory Trends: https://www.cdc.gov/nwss/rv/COVID19-statetrend.html  
+COVID-19 Wastewater Monitoring Data from biobot.io: https://biobot.io/data/covid-19  
+  * (https://www.nist.gov/system/files/documents/2021/07/23/MarianaMatus-day2.pdf)  
+Iowa COVID-19 Tracker: https://iowacovid19tracker.org/  
+CDC National Wastewater Surveillance System (NWSS):  
+  * NWSS COVID-19 State and Territory Trends: https://www.cdc.gov/nwss/rv/COVID19-statetrend.html  
+  * NWSS COVID-19 Wastewater Data: https://www.cdc.gov/nwss/rv/COVID19-currentlevels.html  
+  * NWSS COVID-19 Variants in Wastewater: https://www.cdc.gov/nwss/rv/COVID19-variants.html  
+
+Use of Wastewater Metrics to Track COVID-19 in the US." By Meri R. J. Varkila, MD; Maria E. Montez-Rath, PhD; Joshua A. Salomon, PhD; et al (July 26, 2023)  https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807632  
+>"Wastewater surveillance offers a potential solution to the problem of accurate SARS-CoV-2 surveillance because it is agnostic to symptomatic, diagnosed, or reported disease. High-resolution sequencing of wastewater can also identify emerging variants of concern4 and estimate the effective reproductive number,5 a key predictor of future transmission."  
+
+"Wastewater-based epidemiology predicts COVID-19-induced weekly new hospital admissions in over 150 USA counties." By Xuan Li, Huan Liu, Li Gao, et al. (28 July 2023) Nature Communications volume 14, Article number: 4548 (2023) https://www.nature.com/articles/s41467-023-40305-x  
+>"WBE-based (wastewater-based epidemiology) models accurately predicted the county-level weekly new admissions, allowing a preparation window of 1-4 weeks. In real applications, periodically updated WBE-based models showed good accuracy and transferability, with mean absolute error within 4-6 patients/100k population for upcoming weekly new hospitalization numbers. Our study demonstrated the potential of using WBE as an effective method to provide early warnings for healthcare systems."  
+
+### "Get Immunized"  
+* https://www.vaccines.gov/  
+* https://www.immunizepolk.com/  
