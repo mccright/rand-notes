@@ -113,7 +113,7 @@ Copied From [https://www.coinbase.com/price/bitcoin](https://www.coinbase.com/pr
 >    * Unlike traditional bank accounts, anyone, anywhere can connect to the Bitcoin network. Bitcoin is an uncensorable and global network for transacting value.  
 >So long as the above properties are useful to people across the world, Bitcoin will have value.  
 
-[At midnight on 14 Sept 2002 Ethereum completed its switch ("the merge")](https://www.nytimes.com/2022/09/15/technology/ethereum-merge-crypto.html) from "proof-of-work" to a more energy-efficient "proof-of-stake" with the goal of reducing its energy consumption by more than 99 percent -- and, hopefully, reducing transaction fees (gas).  If this is a durable change, then some of the risk management provided by the "*impossible/immense amounts of energy*" mentioned above may be traded away for a reduction in infrastructure and operations expenses.  
+[At midnight on 14 Sept 2022 Ethereum completed its switch ("the merge")](https://www.nytimes.com/2022/09/15/technology/ethereum-merge-crypto.html) from "proof-of-work" to a more energy-efficient "proof-of-stake" with the goal of reducing its energy consumption by more than 99 percent -- and, hopefully, reducing transaction fees (gas).  If this is a durable change, then some of the risk management provided by the "*impossible/immense amounts of energy*" mentioned above may be traded away for a reduction in infrastructure and operations expenses.  
 
 
 ### Selected Definitions  
