@@ -79,3 +79,9 @@ Use of Wastewater Metrics to Track COVID-19 in the US." By Meri R. J. Varkila, M
 
 ### Iowa Status:  
 * Iowa vaccination rates: [https://data.idph.state.ia.us/t/IDPH-DataViz/views/COVID-19Vaccine/VaccinationRates](https://data.idph.state.ia.us/t/IDPH-DataViz/views/COVID-19Vaccine/VaccinationRates?%3Aembed=y&%3AisGuestRedirectFromVizportal=y)
+
+### Notable Historical Facts:  
+* COVAX delivered nearly 2 billion doses of vaccines to 146 economies, averting an estimated 2.7 million excess deaths in lower-income participating economies will close 31 December 2023. See the full story at [https://www.unicef.org...](https://www.unicef.org/press-releases/covid-19-vaccinations-shift-regular-immunisation-covax-draws-close). Quote:  
+>COVAX, the multilateral mechanism for equitable global access to COVID-19 vaccines launched in 2020, will draw to a close on 31 December. Jointly led by the Coalition for Epidemic Preparedness Innovations (CEPI), Gavi, the Vaccine Alliance (Gavi), UNICEF and the World Health Organization (WHO), COVAX has so far supplied nearly 2 billion COVID-19 vaccine doses and safe injection devices to 146 economies. Its efforts are estimated to have helped avert the deaths of at least 2.7 million people in the COVAX Advance Market Commitment (AMC) low- and lower middle-income participating economies (lower-income economies) that received free doses through the mechanism, alongside nearly US$ 2 billion in critical support to turn vaccines into vaccinations.  
+* See the results of a study on what was learned by those who worked through the COVAX experience in preparation for future pandemic preparedness. [https://www.gavi.org/news-resources/knowledge-products/covax-key-learnings-future-pandemic-preparedness-and-response](https://www.gavi.org/news-resources/knowledge-products/covax-key-learnings-future-pandemic-preparedness-and-response)  
+
