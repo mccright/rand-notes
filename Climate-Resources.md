@@ -20,6 +20,13 @@ The "[National Climate Assessment](https://nca2023.globalchange.gov/chapter/fron
 The United Nations Environment Programme "[Emissions Gap Report 2023](https://www.unep.org/resources/emissions-gap-report-2023)"  
 >Temperatures hit new highs, yet world fails to cut emissions (again) finds that the world is heading for a temperature rise far above the Paris Agreement goals unless countries deliver more than they have promised. The report is the 14th edition in a series that brings together many of the world’s top climate scientists to look at future trends in greenhouse gas emissions and provide potential solutions to the challenge of global warming.  
 
+Change will not be easy in part because there are [around eight billion humans on Earth today](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900), each needing/consuming resources and generating more or less greenhouse gasses (*this is about twice the world population when I was born, and consumption/carbon emissions are wildly unevenly distributed across this population -- introducing fairness issues as we ask sub-populations to change*).  
+<a href="https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900"><img src="https://population.un.org/wpp/Graphs/2_Probabilistic%20Projections/1_Population/1_Total%20Population/World.svg"></a>  
+  
+**Image Source**:
+"World > Probabilistic Projections > Population > Total Population."
+United Nations Department of Economic and Social Affairs Population Division. Accessed 2024-01-01:  [https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900)  
+
 
 ### Too Many of Us Have Delayed Necessary Change  
 We have recently been releasing heat-trapping carbon dioxide (*and other greenhouse gases*) into the atmosphere [faster than at any time in at least the past 50 million years](https://www.nytimes.com/interactive/2022/07/20/opinion/ancient-trees-climate-change.html) resulting in profound climate change.  Based on relatively undiciplined reading, it seems like only the sum of immediate, intense individual and collective action can deflect the current trajectory of increasing global suffering (*or worse*).  
