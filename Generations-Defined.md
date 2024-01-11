@@ -5,26 +5,26 @@
 <!-- The ditaa '-E' prevents the separation of common edges of shapes. 
 https://github.com/stathissideris/ditaa -->
 ```ditaa {cmd=true args=["-E"]}
-The Generations Defined                        Generation age
+The Generations Defined                         Generation age
   +--------+--------+--------+--------+--------+ in 2023
   |        |        |        |        |        |
   |        |        |        |   Born 2010-... |Generation Alpha
-  |        |        |        |        |        |ages 0-13
+  |        |        |        |        |        |ages 0-14
   |        |        |        |        |        |
   |        |        |        |Born 1997-2012   |Generation Z
-  |        |        |        |        |        |ages 11-26
+  |        |        |        |        |        |ages 12-27
   |        |        |        |        |        |
   |        |        |   Born 1981-96  |        |Millennials
-  |        |        |        |        |        |ages 27-42
+  |        |        |        |        |        |ages 28-43
   |        |        |        |        |        |
   |        |     Born 1965-80|        |        |Generation X
-  |        |        |        |        |        |ages 43-58
+  |        |        |        |        |        |ages 44-59
   |        |        |        |        |        |
   |        Born 1946-64      |        |        |Boomers
-  |        |        |        |        |        |ages 59-77
+  |        |        |        |        |        |ages 60-78
   |        |        |        |        |        |
   |Born 1928-45     |        |        |        |Silent Generation
-  |        |        |        |        |        |ages 78-95
+  |        |        |        |        |        |ages 79-96
   +--------+--------+--------+--------+--------+
 1920     1940     1960     1980     2000     2020
 ```
