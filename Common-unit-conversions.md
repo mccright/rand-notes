@@ -22,6 +22,7 @@ I use this resource locally, hoping to reduce my network I/O and my search traff
 |1 mile |5280 feet |
 |1 mile |63360 inches |
 |1 kilometer |0.621372 miles |
+|1 kilometer |0.539957 nautical miles |
 |1 kilometer |1093.6133 yards |
 
 ### Length Units Table II  
@@ -162,9 +163,9 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 ### Temperature Conversion Formulas Table II  
 |Degrees                |Conversion Formula |
 |:----------------------|:------------------|
-|Degree Celsius (°C)    |(°F - 32) x 5/9 |
+|Degree Celsius (°C)    |(°F - 32) x (5 / 9) |
 |Degree Celsius (°C)    |(K - 273.15) |
-|Degree Fahrenheit (°F) |(°C x 9/5) + 32 |
+|Degree Fahrenheit (°F) |(°C x (5 / 9)) + 32 |
 |Degree Fahrenheit (°F) |(1.8 x K) - 459.67 |
 |Kelvin (K)             |(°C + 273.15) |
 |Kelvin (K)             |(°F + 459.67) ÷ 1.8 |
@@ -201,4 +202,4 @@ REFERENCES:
 https://www.lpl.arizona.edu/~rhill/conversion/units.htm  
 https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf  
 https://www.metric-conversions.org/  
-
+https://github.com/jamespatrickmanning/model_time_series/blob/main/conversions.py  
