@@ -242,11 +242,23 @@ And a collection of [sample scripts for system administration](https://learn.mic
   List apps for the current user and present only apps from a specified vendor in the list (example 'Lenovo'):  
     ```Get-AppxPackage | Select-Object Name, Publisher | Select-String -Pattern 'lenovo'```  
 
-* Some scripts to (*help*) set up a clean Windows 10/11 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
+#### Some Windows Event Messages for Monitoring -- Some Resources That Help You Search For What You Need:  
+* [Basic security audit policy settings overview](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-security-audit-policy-settings)  
+* [Audit logon events](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-logon-events)  
+* [Audit account logon events](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-account-logon-events)  
+* [Audit account management](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-account-management)  
+* [Audit object access](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-object-access)  
+* [Audit policy change](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-policy-change)  
+* [Audit process tracking](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-process-tracking)  
+* [Audit system events](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-system-events)  
+* [Advanced security auditing FAQ](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/advanced-security-auditing-faq): This resource includes a long, helpful list of recommendations along with supporting details to assess your needs, and implementation (*as desired*)  
+
+#### Some scripts to (*help*) set up a clean Windows 10/11 endpoint:  
+* [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
 And edit these to meet your needs:  
-https://github.com/Digressive/Remove-MS-Store-Apps/blob/master/Remove-MS-Store-Apps.ps1  
-https://github.com/UNC0V3R3D/resources/blob/main/remove_bloatware_regkeys.ps1  
-https://github.com/UNC0V3R3D/resources/blob/main/privacy.ps1  
+* https://github.com/Digressive/Remove-MS-Store-Apps/blob/master/Remove-MS-Store-Apps.ps1  
+* https://github.com/UNC0V3R3D/resources/blob/main/remove_bloatware_regkeys.ps1  
+* https://github.com/UNC0V3R3D/resources/blob/main/privacy.ps1  
 
 
 
