@@ -1,6 +1,6 @@
 # Random Artificial Intelligence & Machine Learning Notes  
 
-There is an AI *theme* applied to virtually anything at work.  My experience says that signals simple *hype* but my reading suggests that this hum of *AI-everything* is ignored at my peril.  Maybe you have analogous sensations?  If not, maybe think some more...  
+There is an AI *theme* applied to virtually anything at work.  My experience says that signals simple *hype* (or *executive echo chamber*) but my reading also suggests that this hum of *AI-everything* is ignored at our peril.  Maybe you have analogous sensations?  If not, maybe think some more...  
 
 This is alpha interest work.  After percolating in this format for a while, I'll figure out how to better prioritize this reading and content.  
 
@@ -18,6 +18,22 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 * *Consumer*/*customer*/consumption suggestions, advice, and *support* (and product/service reviews)  
 * *Customer* support  
 * Application development  
+
+## Required Workflow(s):  
+Starter list outline below:  
+* Data Governance (Trust-Building and Transparency)  
+* Data Collection (Acquire New Data as Needed; resist hostile inputs)  
+* Understanding the Target Business (including model performance metrics and business KPIs)  
+* Understanding the Data  
+* [Feature Engineering](https://en.wikipedia.org/wiki/Feature_engineering) & Data Preparation (Analysis, Cleaning, Repair; resist hostile inputs)  
+* Model Training (resist hostile inputs)  
+* Model Evaluation  
+* Model Deployment (resist hostile inputs)  
+* Monitor Deployed AI Model Quality (Trust-Building)  
+* Monitor Deployed AI Model Fairness (Trust-Building)  
+* Monitor Deployed AI Model Explainability (Trust-Building and Transparency)  
+
+List above began with a model [IBM AI lifecycle](https://www.ibm.com/blog/ai-model-lifecycle-management-build-phase/)  
 
 ## Maybe Leave This Page Now and Read "This" for Context!
 Yes.  Go read this now...  
