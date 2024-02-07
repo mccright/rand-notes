@@ -7,7 +7,7 @@
 3. **Florida: Federal classified-documents case.** [Trump faces 40 federal charges](https://www.washingtonpost.com/national-security/2023/07/27/trump-carlos-deoliveira-classified-indictment) over accusations that he kept top-secret government documents at Mar-a-Lago — his home and private club — and then thwarted government demands that he return them.(*trial scheduled to start 2024-05-20*)  
 4. **New York: State business fraud case involving a hush money payment in the 2016 election.** [Trump faces 34 state charges](https://www.washingtonpost.com/national-security/2023/03/30/trump-ny-indictment) in connection with hush money paid to adult-film actress Stormy Daniels during the 2016 campaign. (*trial scheduled to start 2024-03-26*)  
 
-Trump has responded to these indictments by increasing his use of authoritarian language and threats.  
+Trump has responded to these indictments by increasing his use of authoritarian language and threats, as well as accellerating his campaign of dehumanizing all those he chooses as targets.  
 
 [Amy B Wang wrote a recent article](https://www.washingtonpost.com/elections/2023/09/13/trump-putin-election-interfence/) on the Putin statements that Trump has been highlighting:  
 >“As for the prosecution of Trump, for us what is happening in today’s conditions, in my opinion, is good because it shows the rottenness of the American political system, which cannot pretend to teach others democracy,” Putin said at an economic forum in eastern Russia.  
