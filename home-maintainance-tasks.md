@@ -27,10 +27,10 @@
 - [ ] Drain and flush hot water heater when you set the clocks forward.  
 - [ ] Inspect roofing for damaged shingles and leaks, and schedule repair if necessary.  
 - [ ] Schedule spring air conditioning and/or sprinkling system maintenance.  
-- [ ] Schedule lawnmower tune-up and blade sharpening.  
+- [ ] Perform or schedule lawnmower tune-up and blade sharpening.  
 
 **APRIL**  
-- [ ] Schedule specialist to have the sprinkler back-flow checked & certified.  
+- [ ] Schedule licensed specialist to have the yard sprinkler back-flow checked & certified.  
 - [ ] Sweep garage floor.  
 - [ ] Wash and/or vacuum curtains and blinds.  
 - [ ] Wipe down baseboards and moldings. Touch up paint if needed.  
