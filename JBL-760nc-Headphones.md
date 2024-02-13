@@ -1,4 +1,5 @@
-I have JBL 760nc wireless headphones that I use for listening to audio books.  
+I have JBL 760nc wireless headphones that I use for listening to audio books.  They work well.  
+This page is just a reminder pointing to some relevant resources.  
 
 ## JBL 760nc wireless headphones product page  
 https://www.jbl.com/wireless-headphones/TUNE760NC-.html?dwvar_TUNE760NC-_color=Blue-AM-Current&cgid=wireless-headphones  
@@ -37,7 +38,7 @@ If your JBL Bluetooth headphones gone stuck on white light, unresponsive and you
 
     Press and hold the power button for one minute.  
 
-If non of the solutions above worked and the white light is still on and your headphones are still unresponsive try solution 4 which helped my copletely stuck on white light JBL Live 500BT.  
+If none of the solutions above worked and the white light is still on and your headphones are still unresponsive try solution 4 which helped my copletely stuck on white light JBL Live 500BT.  
 
 •Solution 4  
 
