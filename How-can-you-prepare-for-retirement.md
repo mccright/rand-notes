@@ -225,6 +225,8 @@ When you approach or enter *retirement,* your willingness to assume risks in equ
 | $5,250,000 | $52,500 | $65,625 | $78,750 | $91,875 | $105,000 | $131,250 | $157,500 | $183,750 | $210,000 | $236,250 | $262,500 | $288,750 | $315,000 | $5,250,000 |
 | $5,500,000 | $55,000 | $68,750 | $82,500 | $96,250 | $110,000 | $137,500 | $165,000 | $192,500 | $220,000 | $247,500 | $275,000 | $302,500 | $330,000 | $5,500,000 |
 | $5,750,000 | $57,500 | $71,875 | $86,250 | $100,625 | $115,000 | $143,750 | $172,500 | $201,250 | $230,000 | $258,750 | $287,500 | $316,250 | $345,000 | $5,750,000 |
+|Assets| 1.0% | 1.25%| 1.5% | 1.75%| 2.0% | 2.5% | 3.0% | 3.5% | 4.0% | 4.5% | 5.0% | 5.5% | 6.0% |Assets|
+
 
 Some individuals and families have retirement cash flow expectations of $150,000/yr, $200,000/yr, $300,000/yr, and some even more.  I included some *big* numbers in the Assets column to help demonstrate the scale of preparation required to support income streams like that.  I read that too often, individuals spending at these levels in retirement have not constructed the required financial foundation, and burn through material portions of their retirement funds before aknowledging that situation -- leaving them seriously financially challenged for the duration of their life.  My working assumption is that is not where any of us want to land.  
 
