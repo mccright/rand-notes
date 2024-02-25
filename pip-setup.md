@@ -44,6 +44,10 @@ matt@silt:~/testProj$
 ```
 
 Other references:  
+* If you are on a Windows endpoint, try turning off IPv6: https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/configure-ipv6-in-windows  
+* If you are on a Linux endpoint, try changing the precedence blocks in /etc/gai.conf to favor IPv4 over IPv6:  https://askubuntu.com/questions/32298/prefer-a-ipv4-dns-lookups-before-aaaaipv6-lookups/38468#38468  
+If those don't work, or if they cause more problems than they fix, see:  
+* "IPv6 Issues with Python Package Managers." https://blog.dmac.tech/posts/IPv6-issues-with-python-package-managers/  
 * "Every single command from pip runs super slow #8485" [https://github.com/pypa/pip/issues/8485](https://github.com/pypa/pip/issues/8485)  
 * "Pip install block waiting forever for a keyring to unlock #7883" [https://github.com/pypa/pip/issues/7883](https://github.com/pypa/pip/issues/7883)  
 * "Keyring support should require an --enable-keyring flag #8719" [https://github.com/pypa/pip/issues/8719](https://github.com/pypa/pip/issues/8719)  
