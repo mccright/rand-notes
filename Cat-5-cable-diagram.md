@@ -10,7 +10,7 @@ There are two main standards for attaching connectors onto *[Cat-5](https://en.w
 
 Here is an illustration of a straight-through Ethernet cable:
 <a href="https://www.makeuseof.com/cat-5e-wiring-diagram/"><img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-image-showing-the-pinout-diagram-of-a-straight-through-ethernet-cable.jpg"></a>  
-From: <a href="https://www.makeuseof.com/cat-5e-wiring-diagram/">"Cabling Your Home Network? Here’s a Helpful Cat 5e Wiring Diagram" 
+From: <a href="https://www.makeuseof.com/cat-5e-wiring-diagram/" target="_blank" rel="noopener noreferrer">"Cabling Your Home Network? Here’s a Helpful Cat 5e Wiring Diagram" 
 By Arjun Vishnu, 2023-06-03</a>  
 
 Using the same EIA/TIA 568B color scheme, here is an illustration of how the Ethernet communicating pairs are numbered:  
