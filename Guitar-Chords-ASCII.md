@@ -206,6 +206,8 @@ Bb5       or   Bb(no 3rd)[x 1 3 3 x 6] (F  Bb): root and 5th (power chord)
 Bb6                      [3 5 3 3 3 3] (D  F  G  Bb) : major triad plus 6th
 Bb6                      [x x 3 3 3 3] (D  F  G  Bb) : major triad plus 6th
 Bb6/add9  or   Bb6/9     [x 3 3 3 3 3] (C  D  F  G  Bb) : major triad plus 6th and 9th
+Bb7                      [x 0 3 3 3 4] (D  F  Ab Bb) : major triad, minor 7th
+Bb7                      [4 x 3 3 3 0] (D  F  Ab Bb) : major triad, minor 7th
 Bb7       or   Bbdom 7   [x 1 3 1 3 1] (D  F  Ab Bb) : major triad, minor 7th
 Bb7       or   Bbdom 7   [x x 3 3 3 4] (D  F  Ab Bb) : major triad, minor 7th
 Bb7sus4                  [x 1 3 1 4 1] (Eb F  Ab Bb) : sus4 triad, minor 7th
@@ -399,6 +401,7 @@ D/G                      [5 x 4 0 3 5] (D  Gb G  A): major triad (altered bass)
 D/G                      [3 x 0 2 3 2] (D  Gb G  A) : major triad (altered bass)
 D5        or   D(no 3rd) [5 5 7 7 x 5] (D  A): root and 5th (power chord)
 D5        or   D(no 3rd) [x 0 0 2 3 5] (D  A): root and 5th (power chord)
+D6                       [x x 0 2 0 2] (D  Gb A  B) : major triad plus 6th
 D6                       [x 0 4 4 3 2] (D  Gb A  B) : major triad plus 6th
 D6                       [x 2 0 2 0 2] (D  Gb A  B) : major triad plus 6th
 D6                       [x 2 0 2 3 2] (D  Gb A  B) : major triad plus 6th
@@ -642,8 +645,6 @@ Em7                      [x x 0 0 0 0] (D  E  G  B) : minor triad, minor 7th
 Em7                      [x x 0 12 12 12] (D  E  G  B) : minor triad, minor 7th
 Em7                      [x x 0 9 8 7] (D  E  G  B) : minor triad, minor 7th
 Em7                      [x x 2 4 3 3] (D  E  G  B) : minor triad, minor 7th
-Em7                      [0 x 0 0 0 0] (D  E  G  B) : minor triad, minor 7th
-Em7                      [x 10 12 12 12 0] (D  E  G  B) : minor triad, minor 7th
 Em7(b5)   or   Eo7       [3 x 0 3 3 0] (D  E  G  Bb) : diminished triad, minor 7th : half-diminished 7th
 Em7/add11 or   Em7/11    [0 0 0 0 0 0] (D  E  G  A  B) : minor triad, minor 7th, plus 11th
 Em7/add11 or   Em7/11    [0 0 0 0 0 3] (D  E  G  A  B) : minor triad, minor 7th, plus 11th
