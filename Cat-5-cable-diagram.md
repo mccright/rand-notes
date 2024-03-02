@@ -1,5 +1,7 @@
 # Home 'Cat-5' RJ45 Cable Wiring Notes  
 
+### Retired page:  See its twin at: https://github.com/mccright/ethernet  
+
 ## RJ45 ethernet connection pinouts:  
 
 Connect your computer to your router or your switch using a straight-through cable. I have read that EIA/TIA T568B is the most popular standard used for straight-through LAN cables.  
