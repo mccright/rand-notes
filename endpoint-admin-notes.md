@@ -77,6 +77,7 @@ If you are concerned about duplicate file names, one approach is to add a ```-i`
 find source_directory -type f -exec cp -i {} target_directory \;
 ```
 
+
 ### Use find to help move collections of files  
 This approach deals with duplicates by including a description of the directory tree in each file name by replacing the ```'/'``` character with an alternative that is appropriate for file names (*in this example, the dash ```'-'``` character*)  
 ```terminal
@@ -105,6 +106,20 @@ $ find ~/tmp -type f -size +100M -exec rm {} +
 ```terminal
 $ find /home/<username>/directory/start/deletes/here -delete
 ```
+
+
+### Use find to identify all files in your home directory that are newer than "<filename>"    
+```terminal
+$ find ~ -type f -newer <filename>
+
+```
+### Use find to identify all files having a given filename pattern in your home directory that are newer than "<filename>"  
+In this case, identify only those files with names matching the pattern ```-name "*.md"```.  
+```terminal
+$ find ~ -name "*.md" -type f -newer <filename>
+
+```
+
 
 ### Securely Delete Files  
 Endpoints accumulate non-public data.  At some point you will need to *securely* erase that data.  If you still use traditional hard drives (that have spinning disks), tools like shred, wipe, srm (secure-delete) should work well.  
