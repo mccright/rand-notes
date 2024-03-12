@@ -3,17 +3,20 @@
 In general terms, COVID-19 monitoring/testing has much lower priority across the U.S. than in 2020-2022.  Reductions in monitoring can dramatically mask the scope of disease impacts.  For example, Trevor Bedford of the Fred Hutchinson Cancer Center / Howard Hughes Medical Institute [reported in July 2023](https://bedford.io/talks/sars-cov-2-evolutionary-forecasting-nwpgcoe/#/17) that "roughly 1 in 3 (COVID-19) infections were detected in 2021, while only 1 in 40 in 2023..." and that a material burden imposed by COVID-19 disease remains endemic -- [reporting that](https://bedford.io/talks/sars-cov-2-evolutionary-dynamics-asv/#/42) the "U.S. has seen 40,000 COVID-19 deaths from Jan 1 to Jun 10," 2023.  
 
 ```
-Action on COVID-19 at home and abroad is **still** urgently needed to save lives.  
+Action on COVID-19 at home and abroad is **still** needed to save lives.  
 Get vaccinated.  Help your family and friends do the same.  
 Get boosted.  Help your family and friends do the same.  
 Ventilate shared spaces.  
 Avoid crowds.  
 Don't hesitate to use masks in crowded enclosed places.  
 Test if you have symptoms.  
-Isolate if you are positive or cannot access a test.  
+Isolate if you are positive or cannot access a test until you have not had a fever for 24 hours (the same recommendation for the flu and other respiratory illnesses).  
 Use masks if you are ill.  
-Support global vaccine distribution.  Pockets of unvaccinated, regardless of their location, are reservoirs for the virus, where it replicates and mutates, and where new variants evolve.  Vaccinations reduce human suffering both locally and globally.  
+Support global vaccine distribution.  Pockets of unvaccinated, regardless of their location, are reservoirs for the virus, where it most effectively replicates and mutates, and where new variants evolve.  Vaccinations reduce human suffering both locally and globally.  
 ```
+[Dr. Daniela J. Lamas](https://postgraduateeducation.hms.harvard.edu/faculty-staff/daniela-lamas), a pulmonary and critical-care physician at Brigham and Women’s Hospital in Boston [reports that](https://www.nytimes.com/2024/03/10/opinion/covid-endemic-fear.html):  
+>"Nearly four years after the World Health Organization’s declaration of a pandemic, the coronavirus is still with us. It likely always will be. And it is still resulting in [500 to 1,500 deaths every week](https://covid.cdc.gov/covid-data-tracker/#trends_weeklydeaths_select_00) as of the last month — higher than the mortality from influenza, though lower compared to previous years. There is also the persistent threat of [long Covid](https://www.nytimes.com/2024/02/18/opinion/long-covid-research-funding.html, the debilitating symptoms that can persist after an initial infection."  
+
 *[in July 2022 CDC officials said between 26 million and 37 million adults in the U.S. haven't had a single COVID-19 vaccine dose](https://desmoinesregister-ia.newsmemory.com?selDate=20220721&goTo=A002&artid=0)*  
 
 By October 2022 the Covid pandemic had killed nearly as many Americans as [U.S. troops died in battle during all of our wars combined](https://www.va.gov/opa/publications/factsheets/fs_americas_wars.pdf). (*This is a near-quote from [Dr. Craig Spencer in the NYT](https://www.nytimes.com/2022/10/24/opinion/covid-ebola-pandemic-prevention.html)*)  
