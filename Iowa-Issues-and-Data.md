@@ -70,3 +70,8 @@ https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0
 * The Iowa Legislature [https://www.legis.iowa.gov/](https://www.legis.iowa.gov/)  
 * Legiscan IA [https://legiscan.com/IA](https://legiscan.com/IA)  
 * Iowa Data Center [https://www.iowadatacenter.org/index.php/quick-facts/iowa-quick-facts](https://www.iowadatacenter.org/index.php/quick-facts/iowa-quick-facts)  
+
+### Other:  
+* "the four biggest oil companies — Exxon Mobile, Shell, Chevron, and Total Energies — have made over $330 billion in profits in just the past three years." [By Jonas Magram, DMR, 2024-03-10, page F3](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F003&artid=2&editionStart=Des%20Moines%20Register)  
+* "Tuition alone at Iowa State University has risen 236% since 2001; inflation in that period is 73%. Iowa students have some of the worst loan debt burdens in the nation." [By Lucas Grundmeier, DMR, 2024-03-10, page F1](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F001&artid=2&editionStart=Des%20Moines%20Register)  
+* Since 2001, the Federal Crop Insurance Program’s "total payments to Iowa farmers have grown by over 630%, from about $3 billion a year to over $19 billion in 2022." [By Jonas Magram, DMR, 2024-03-10, page F3](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F003&artid=2&editionStart=Des%20Moines%20Register)  
