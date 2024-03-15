@@ -21,6 +21,8 @@ Trump followed up by [posting the same message](https://truthsocial.com/@realDon
 In December 2023 Trump repeatedly described undocumented immigrants as "poisoning the blood of our country," which appears to act as a *dog whistle* to Replacement Theory believers **and** to White Nationalist and Neo-Nazi groups.  [Isaac Arnsdorf reported](https://www.washingtonpost.com/elections/2023/12/16/trump-authoritarians-putin-orban-poisoning-blood/) that Trump:  
 >"repeated his own inflammatory language against undocumented immigrants, by accusing them of “poisoning the blood of our country” — a phrase that immigrant groups and civil rights advocates have condemned as reminiscent as Hitler in his book “Mein Kampf,” in which he told Germans to “care for the purity of their own blood” by eliminating Jews."  
 
+The U.S. Supreme Court decided in the Trump Colorado Ballot Case -- [Trump v. Anderson, No. 23-719](https://www.nytimes.com/live/2024/03/04/us/trump-supreme-court-colorado-ballot) -- that we cannot use the "plain language" of Section 3 of the 14th Ammendment -- which says, broadly, that insurrectionists and those who aid them cannot hold any oath-required State or Federal office -- to exclude Donald J. Trump from the U.S. Presidency unless the U.S. Congress "first pass legislation to implement how that enforcement works and under what standards" (*another new invention by this court and another instance of this court deciding issues that were not brought before them*).  It appears that the Supreme Court has also removed the right of Congress disqualify Trump under Section 3 when it meets to certify electoral college votes on the Jan. 6 after an election unless Congress first implements the new statute(s) whose requirement(s) the court invented in their decision.  
+
 * In the classified documents case that Smith has also brought against the former president in June, the Trump team has sought to slow-walk the schedule for the proceedings, and Federal Judge Aileen M. Cannon has enabled their strategy to the extent that it is unlikely to see a jury before the 2024 election. There were hints of a similar strategy in the first hearing in the election subversion case.
 * [Federal prosecutors allege](#Ref8) that Trump "was determined to remain in power" after losing the election and that he and others orchestrated a plot to reverse the nation's voters' decision, which led up to the January 6, 2021, attack on the US Capitol.  
 
@@ -158,6 +160,7 @@ Count 4: [18 U.S.C. § 241](https://www.govinfo.gov/app/details/USCODE-2021-titl
 >Purpose of the Conspiracy: The purpose of the conspiracy was to overturn the legitimate results of the 2020 presidential election by using knowingly false claims of election fraud to obstruct the federal government function by which those results are collected, counted, and certified.  
 
 **See an excellent timeline of (*some of*) Trump's corrupt actions in his direct attempts to invalidate the 2020 presidential election votes and/or the vote-counting processes**:  "Trump’s Pattern of Pressure to Overturn the 2020 Election." By Lazaro Gamio and Karen Yourish. NYT. Jan. 8, 2024. [https://www.nytimes.com/interactive/2024/01/08/us/trump-2020-overturn-timeline.html](https://www.nytimes.com/interactive/2024/01/08/us/trump-2020-overturn-timeline.html)  
+**Then see a comic about the Fox News approach to this topic** at:  [https://images.spot.im/image/upload/q_70,fl_lossy,dpr_3/v200/b7a4de0985f65c9d8eb10265a6fd98a4](https://images.spot.im/image/upload/q_70,fl_lossy,dpr_3/v200/b7a4de0985f65c9d8eb10265a6fd98a4)  
 
 The Defendant’s Co-Conspirators  
 https://www.washingtonpost.com/national-security/2023/08/01/doj-trump-indictment-trump-coconspirators/  
@@ -245,3 +248,48 @@ Both are common Trump/Trump devotee lies.
 
 
 https://thehill.com/homenews/campaign/4307719-trump-vermin-remark-draws-comparisons-dictators-criticism/  
+
+
+#### Tens of Thousands of Psychiatrists and Psychologists Warned of Trump's Unfitness for Office  
+Donald Trump in Psychology Today:  
+https://www.psychologytoday.com/us/basics/president-donald-trump  
+>"Psychologists and commentators from all ideological camps early converged on a label of narcissistic personality disorder as the condition that “explains” Trump’s behavior."  
+>"...more than 70,000 mental health professionals who signed a petition warning of Trump's potential dangerousness, despite longstanding professional injunctions against "diagnosing" public figures whom experts have not personally examined."  
+
+The Dangerous Case of Donald Trump  
+https://en.wikipedia.org/wiki/The_Dangerous_Case_of_Donald_Trump  
+https://www.washingtonpost.com/news/book-party/wp/2017/09/22/is-trump-mentally-ill-or-is-america-psychiatrists-weigh-in/  
+https://www.apa.org/pubs/highlights/psyccritiques-spotlight/  
+https://www.nyjournalofbooks.com/book-review/dangerous-case  
+https://www.nytimes.com/2023/12/18/opinion/trump-election-2024.html  
+
+"Is Trump mentally ill? Or is America? Psychiatrists weigh in. -- Review of "The Dangerous Case of Donald Trump" by Bandy X. Lee (ed.), "Twilight of American Sanity" by Allen Frances, and "Fantasyland" by Kurt Andersen. Review by Carlos Lozada. September 22, 2017  
+https://www.washingtonpost.com/news/book-party/wp/2017/09/22/is-trump-mentally-ill-or-is-america-psychiatrists-weigh-in/  
+
+America's Top Case Study -- Trump’s personality provides for a fascinating psychological case study. 
+By Noam Shpancer Ph.D., December 26, 2016  
+https://www.psychologytoday.com/us/blog/insight-therapy/201612/americas-top-case-study  
+
+The Dunning-Kruger President -- How did a psychology term become a partisan trending topic? 
+By William Poundstone, Posted January 21, 2017  
+https://www.psychologytoday.com/us/blog/head-in-the-cloud/201701/the-dunning-kruger-president  
+
+Shrinks Battle Over Diagnosing Donald Trump -- Chaos in the White House fuels discord amongst the experts. 
+Psychology Today Editorial Staff. January 31, 2017  
+https://www.psychologytoday.com/us/blog/brainstorm/201701/shrinks-battle-over-diagnosing-donald-trump  
+
+Psychological Science Says Trump Is a Four-Year-Old -- Looking for the source of Trump’s appeal. 
+By Noam Shpancer Ph.D., Posted May 12, 2017  
+https://www.psychologytoday.com/us/blog/insight-therapy/201705/psychological-science-says-trump-is-four-year-old  
+
+An Analysis of Trump Supporters Has Identified 5 Key Traits -- A new report sheds light on the psychological basis for Trump's support. 
+By Bobby Azarian Ph.D., December 31, 2017  
+https://www.psychologytoday.com/us/blog/mind-in-the-machine/201712/analysis-trump-supporters-has-identified-5-key-traits  
+
+The Dangerous Case of Donald Trump -- Should mental health professionals get involved with diagnosing the president? 
+By Ilene A. Serlin Ph.D., January 5, 2018   
+https://www.psychologytoday.com/us/blog/make-your-life-blessing/201801/the-dangerous-case-donald-trump  
+
+A Complete Psychological Analysis of Trump's Support -- Science can help us make sense of the president's political invincibility. 
+By Bobby Azarian Ph.D., Posted December 27, 2018  
+https://www.psychologytoday.com/us/blog/mind-in-the-machine/201812/complete-psychological-analysis-trumps-support  
