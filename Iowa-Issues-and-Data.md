@@ -34,10 +34,14 @@ sudo speedtest-cli
   * If **SpeedTest* is just wrong for you (*for any reason*), you might try [fast](https://fast.com/) from [NetFlix](https://netflixtechblog.com/building-fast-com-4857fe0f8adb). [https://fast.com/](https://fast.com/)
 
 
-### Elections:  
-* [SJR9](https://legiscan.com/IA/bill/SJR9/2021):	A joint resolution proposing an amendment to the Constitution of the State of Iowa relating to the qualifications of electors. (Formerly SSB 1083.)	2022-06-21. Proof of publication certified. S.J. 943.  
-* [SF413](https://legiscan.com/IA/bill/SF413/2021):	A bill for an act relating to the conduct of elections, including absentee ballots and voter list maintenance activities, making penalties applicable, and including effective date and applicability provisions. (Formerly SSB 1199.)  
-* [SF568](https://legiscan.com/IA/bill/SF568/2021):	A bill for an act relating to the conduct of elections, including nominations, procedures for proposed amendments to the Iowa Constitution, and absentee voting, and including effective date provisions. (Formerly SSB 1237.)  
+### Elections  
+A non-scientific review of Iowa legislator's recently filed legislation tagged as about "elections" shows that the following topics (*in no particular order*) were topics that legislators were attempting to change: ```boards, commissions, and councils, elections and politics, government entities, voting, absentee voting, ballots, canvasses of votes, canvassing for votes, proxy voting, runoff elections, voter registration, voting systems examiners board, voting and write-in voting```.  
+
+* Iowa legislators showed **a lot** of interest in mucking with elections in 2021-2022 sessions.  A [search of their "Legislative Documents" site](https://www.legis.iowa.gov/publications/search?tab=true&rows=10&start=0&sort=score%20desc&q=elections&fq=-status%3A%22Reserved%22%20AND%20-status%3A%22Repealed%22%20AND%20-status%3A%22Rescinded%22&fq=(l1%3A%22leg%3A0978%7C89th%20GA%202nd%20Session%22%20OR%20l1%3A%22leg%3A0979%7C89th%20GA%201st%20Session%22)) shows **855** individual pieces of legislation filed in one status or another (*many of those did not pass in the 2021-2022 sessions*). For example, here are three at *random*:  
+	* [SJR9](https://legiscan.com/IA/bill/SJR9/2021):	A joint resolution proposing an amendment to the Constitution of the State of Iowa relating to the qualifications of electors. (Formerly SSB 1083.)	2022-06-21. Proof of publication certified. S.J. 943.  
+	* [SF413](https://legiscan.com/IA/bill/SF413/2021):	A bill for an act relating to the conduct of elections, including absentee ballots and voter list maintenance activities, making penalties applicable, and including effective date and applicability provisions. (Formerly SSB 1199.)  
+	* [SF568](https://legiscan.com/IA/bill/SF568/2021):	A bill for an act relating to the conduct of elections, including nominations, procedures for proposed amendments to the Iowa Constitution, and absentee voting, and including effective date provisions. (Formerly SSB 1237.)  
+* Iowa legislators again showed **a lot** of interest in mucking with elections in 2023.  A [search of their "Legislative Documents" site](https://www.legis.iowa.gov/publications/search?tab=true&rows=10&start=0&sort=score%20desc&q=elections&fq=-status%3A%22Reserved%22%20AND%20-status%3A%22Repealed%22%20AND%20-status%3A%22Rescinded%22&fq=(l1%3A%22leg%3A0976%7C90th%20GA%202nd%20Session%22%20OR%20l1%3A%22leg%3A0977%7C90th%20GA%201st%20Session%22)) shows **644** individual pieces of legislation filed in one status or another (*many of those did not pass in 2023*).  
 
 
 ### Water in Iowa  
