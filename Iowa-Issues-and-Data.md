@@ -66,6 +66,16 @@ https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0
 https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0  
 
 
+### Banning Books  
+In May 2023, Gov. [Kim Reynolds signed Senate File 496](https://www.legis.iowa.gov/legislation/BillBook?ba=SF%20496&ga=90), that bans books (except "*religious books*") depicting sex acts from public schools -- threatening teachers and administrators with harsh penalties for non-compliance -- and resulting in the removal of more than 1,300 books from Iowa public schools.  After a 5 month delay, the Iowa State Board of Education published a "Notice of Intended Action" -- under the heading of "Eliminating Achievement and Opportunity Gaps" -- of [changes to Iowa School rules for “General Accreditation Standards”](https://educate.iowa.gov/sites/default/files/2023-11/2023-11-15SBE-Rules-Chapter12.pdf) in November 2023.  
+See the fruits of Iowa's book banning elected officials in the database "[Library books removed in Iowa school districts](https://databases.desmoinesregister.com/database-books-removed-from-libraries-in-iowa-school-districts/)." by Tim Webber, Samantha Hernandez and [The Des Moines Register](https://www.desmoinesregister.com)  
+
+
+### Iowa Legislature's/Governor's "Don't say gay" Law  
+In May 2023, Gov. [Kim Reynolds signed Senate File 496](https://www.legis.iowa.gov/legislation/BillBook?ba=SF%20496&ga=90), that prohibits "[instruction related to gender identity and sexual orientation](https://www.legis.iowa.gov/docs/publications/SJNL/1375335.pdf#page=4)"
+in Iowa schools (*also see additional references on pages 1, 2, 3, 7, 11 and 13*). If any student "[requests an accommodation that is intended to affirm the student's gender identity](https://www.legis.iowa.gov/docs/publications/LGE/90/attachments/SF496_GovLetter.pdf#page=11)," their teacher (*or any "licensed practitioner employed by the school district"*) "[shall report the student's request to an administrator employed by the school district, and the administrator shall report the student's request to the student's parent or guardian.](https://www.legis.iowa.gov/docs/publications/LGE/90/attachments/SF496_GovLetter.pdf#page=11)"  The Governor's action also removed all mentions of "HPV," the availability of a "vaccine to prevent HPV," and references to "acquired immune deficiency syndrome" from the content required by "[health education](https://www.legis.iowa.gov/docs/publications/LGE/90/attachments/SF496_GovLetter.pdf#page=6)" and by "instruction in human growth and development](https://www.legis.iowa.gov/docs/publications/LGE/90/attachments/SF496_GovLetter.pdf#page=8)"  After a 5 month delay, the Iowa State Board of Education published a "Notice of Intended Action" -- under the heading of "Eliminating Achievement and Opportunity Gaps" -- of [changes to Iowa School rules for “General Accreditation Standards”](https://educate.iowa.gov/sites/default/files/2023-11/2023-11-15SBE-Rules-Chapter12.pdf) in November 2023.  
+
+
 ### Finding Information:  
 * The Iowa Legislature [https://www.legis.iowa.gov/](https://www.legis.iowa.gov/)  
 * Legiscan IA [https://legiscan.com/IA](https://legiscan.com/IA)  
