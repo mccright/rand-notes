@@ -82,6 +82,7 @@ in Iowa schools (*also see additional references on pages 1, 2, 3, 7, 11 and 13*
 
 ### Finding Information:  
 * The Iowa Legislature [https://www.legis.iowa.gov/](https://www.legis.iowa.gov/)  
+* Searching for what Iowa Legislators filed: [https://www.legis.iowa.gov/publications/search](https://www.legis.iowa.gov/publications/search)  
 * Legiscan IA [https://legiscan.com/IA](https://legiscan.com/IA)  
 * Iowa Data Center [https://www.iowadatacenter.org/index.php/quick-facts/iowa-quick-facts](https://www.iowadatacenter.org/index.php/quick-facts/iowa-quick-facts)  
 
