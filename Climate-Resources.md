@@ -40,7 +40,7 @@ The United Nations Environment Programme "[Emissions Gap Report 2023](https://ww
 
 
 Change will not be easy in part because there are [around eight billion humans on Earth today](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900), each needing/consuming resources and generating more or less greenhouse gasses (*this is about twice the world population when I was born, and consumption/carbon emissions are wildly unevenly distributed across this population -- introducing fairness issues as we ask given sub-populations to change*).  
-<a href="https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900"><img src="https://population.un.org/wpp/Graphs/2_Probabilistic%20Projections/1_Population/1_Total%20Population/World.svg"></a>  
+<a href="https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900"><img src="https://population.un.org/wpp/Graphs/2_Probabilistic%20Projections/1_Population/1_Total%20Population/World.svg" style="width:480px;height:360px;"></a>  
   
 **Image Source**:
 "World > Probabilistic Projections > Population > Total Population."
