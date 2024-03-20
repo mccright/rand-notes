@@ -11,17 +11,21 @@ This was not unique, Copernicus reported that 2023 also had the [warmest Novembe
 
 This "*ancient history*" only represents carbon-driven climate warming activity at a given point in `my` lifetime.  [Thomas Alex recently reminded](https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2023/12/07/climate-change-warnings-greta-thunberg-carl-sagan-al-gore/71829461007/) me that before my grandparents were born, [Svante Arrhenius](https://en.wikipedia.org/wiki/Svante_Arrhenius) (1859-1927), who won the Nobel Prize in 1903, used the principles of physical chemistry to estimate the extent to which increases in the atmospheric carbon dioxide were responsible for the Earth's increasing surface temperature.  Scientific investigation of human-driven climate change has been around for more than a century -- with serious and sustained scientific focus for more than half a century.  Resist the people and organizations who still market climate denial, disinformation, and deception campaigns against climate action (*Jessica Guynn reported in early 2024 that the owners of Twitter/X, Facebook and TikTok have de-emphasized the importance of resisting climate denial, disinformation, and deception across their social media ecosystems, and [their behaviors have resulted in material increases in climate misinformation](https://www.usatoday.com/story/tech/news/2024/01/19/climate-change-denial-spreading-social-media/72257689007/)*).  
 
-**Daily Average Global Temperature Increase From 1940 To 2023 Relative To Pre-Industrial Levels**  
-<a href="https://www.swissre.com/institute/research/topics-and-risk-dialogues/climate-and-natural-catastrophe-risk/changing-climates-heat-is-still-on.html"><img src="images/Daily-avrg-global-temp-increase-1940-to-2023-relative-to-pre-industrial-levels.png"></a>  
+### Daily Average Global Temperature Increase From 1940 To 2023 Relative To Pre-Industrial Levels  
+<a href="https://www.swissre.com/institute/research/topics-and-risk-dialogues/climate-and-natural-catastrophe-risk/changing-climates-heat-is-still-on.html"><img src="images/Daily-avrg-global-temp-increase-1940-to-2023-relative-to-pre-industrial-levels.png" style="width:480px;height:360px;"></a>  
 
 **Image Source**: Swiss RE "[Changing climates: the heat is still on](https://www.swissre.com/institute/research/topics-and-risk-dialogues/climate-and-natural-catastrophe-risk/changing-climates-heat-is-still-on.html)" (*downloaded 2024-03-20*)  
 
-**Daily Mean Sea Surface Temperature" Rising Faster**  
-<a href="https://www.abc.net.au/news/2024-03-20/wmo-climate-records-broken-global-temperature/103604076"><img src="images/Daily-mean-sea-surface-temperature.png"></a>  
+### Monthly Mean Global Temperature Difference Compared To 1850 To 1900 Average  
+<a href="https://www.abc.net.au/news/2024-03-20/wmo-climate-records-broken-global-temperature/103604076?utm_campaign=abc_news_web&utm_content=link&utm_medium=content_shared&utm_source=abc_news_web"><img src="images/Monthly-Mean-Global-Temp-Diff-Compared-To-1850-To-1900-Avg.gif" style="width:480px;height:480px;"></a>  
 
-And An Analogous Graph Smoothed by Ten-Year Averages (*Rather than Annual Averages*)  
-...
+**Image Source**: ABC News Australia "[The World Meteorological Organization's State of the Global Climate report confirms 2023 broke every single climate indicator](https://www.abc.net.au/news/2024-03-20/wmo-climate-records-broken-global-temperature/103604076?utm_campaign=abc_news_web&utm_content=link&utm_medium=content_shared&utm_source=abc_news_web)" By Jess Davis,  2024-03-20  
 
+
+### Daily Mean Sea Surface Temperature" Rising Faster  
+<a href="https://www.abc.net.au/news/2024-03-20/wmo-climate-records-broken-global-temperature/103604076"><img src="images/Daily-mean-sea-surface-temperature.png" style="width:480px;height:360px;"></a>  
+
+**Image Source**: ABC News Australia "[The World Meteorological Organization's State of the Global Climate report confirms 2023 broke every single climate indicator](https://www.abc.net.au/news/2024-03-20/wmo-climate-records-broken-global-temperature/103604076?utm_campaign=abc_news_web&utm_content=link&utm_medium=content_shared&utm_source=abc_news_web)" By Jess Davis,  2024-03-20  
 
 
 ### Human-Driven Warming is Here Now, and Needs Our Attention  
