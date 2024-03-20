@@ -11,6 +11,18 @@ This was not unique, Copernicus reported that 2023 also had the [warmest Novembe
 
 This "*ancient history*" only represents carbon-driven climate warming activity at a given point in `my` lifetime.  [Thomas Alex recently reminded](https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2023/12/07/climate-change-warnings-greta-thunberg-carl-sagan-al-gore/71829461007/) me that before my grandparents were born, [Svante Arrhenius](https://en.wikipedia.org/wiki/Svante_Arrhenius) (1859-1927), who won the Nobel Prize in 1903, used the principles of physical chemistry to estimate the extent to which increases in the atmospheric carbon dioxide were responsible for the Earth's increasing surface temperature.  Scientific investigation of human-driven climate change has been around for more than a century -- with serious and sustained scientific focus for more than half a century.  Resist the people and organizations who still market climate denial, disinformation, and deception campaigns against climate action (*Jessica Guynn reported in early 2024 that the owners of Twitter/X, Facebook and TikTok have de-emphasized the importance of resisting climate denial, disinformation, and deception across their social media ecosystems, and [their behaviors have resulted in material increases in climate misinformation](https://www.usatoday.com/story/tech/news/2024/01/19/climate-change-denial-spreading-social-media/72257689007/)*).  
 
+**Daily Average Global Temperature Increase From 1940 To 2023 Relative To Pre-Industrial Levels**  
+<a href="https://www.swissre.com/institute/research/topics-and-risk-dialogues/climate-and-natural-catastrophe-risk/changing-climates-heat-is-still-on.html"><img src="images/Daily-avrg-global-temp-increase-1940-to-2023-relative-to-pre-industrial-levels.png"></a>  
+
+**Image Source**: Swiss RE "[Changing climates: the heat is still on](https://www.swissre.com/institute/research/topics-and-risk-dialogues/climate-and-natural-catastrophe-risk/changing-climates-heat-is-still-on.html)" (*downloaded 2024-03-20*)  
+
+**Daily Mean Sea Surface Temperature" Rising Faster**  
+<a href="https://www.abc.net.au/news/2024-03-20/wmo-climate-records-broken-global-temperature/103604076"><img src="images/Daily-mean-sea-surface-temperature.png"></a>  
+
+And An Analogous Graph Smoothed by Ten-Year Averages (*Rather than Annual Averages*)  
+...
+
+
 
 ### Human-Driven Warming is Here Now, and Needs Our Attention  
 A key message of the 5th Annual U.S. National Climate Assessment [released on November  14, 2023](https://nca2023.globalchange.gov/) is that future climate change impacts depend on choices made today:  
@@ -20,6 +32,8 @@ The "[National Climate Assessment](https://nca2023.globalchange.gov/chapter/fron
 
 The United Nations Environment Programme "[Emissions Gap Report 2023](https://www.unep.org/resources/emissions-gap-report-2023)"  
 >Temperatures hit new highs, yet world fails to cut emissions (again) finds that the world is heading for a temperature rise far above the Paris Agreement goals unless countries deliver more than they have promised. The report is the 14th edition in a series that brings together many of the world’s top climate scientists to look at future trends in greenhouse gas emissions and provide potential solutions to the challenge of global warming.  
+
+
 
 Change will not be easy in part because there are [around eight billion humans on Earth today](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900), each needing/consuming resources and generating more or less greenhouse gasses (*this is about twice the world population when I was born, and consumption/carbon emissions are wildly unevenly distributed across this population -- introducing fairness issues as we ask given sub-populations to change*).  
 <a href="https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900"><img src="https://population.un.org/wpp/Graphs/2_Probabilistic%20Projections/1_Population/1_Total%20Population/World.svg"></a>  
@@ -89,6 +103,23 @@ and
 >"In the 1980s, the country experienced on average a $1billion disaster every four months, adjusted for inflation. It now experiences one every three weeks. This year, the country has set a new record with 25 billion-dollar disasters." FROM: "What makes 2.7 degrees F so crucial? -- As COP28 begins, Earth approaches critical point." By Elizabeth Weise, USA TODAY (in The Des Moines Register, 2023-12-01, page A6. *accessed 2023-12-01*) [https://desmoinesregister-ia.newsmemory.com?selDate=20231201&goTo=A006&artid=0&editionStart=Des%20Moines%20Register](https://desmoinesregister-ia.newsmemory.com?selDate=20231201&goTo=A006&artid=0&editionStart=Des%20Moines%20Register)  
 
 * Forest fire management deserves more attention.  Trees in forests store large amounts of carbon that can be released when they burn, adding to climate change.  The [Copernicus Atmosphere Monitoring Service (CAMS) reported](https://atmosphere.copernicus.eu/wildfires-wreaked-havoc-2021-cams-tracked-their-impact) that wildfires last year emitted the equivalent of about 8.2 billion tons of carbon dioxide (*that is the same volume of CO2 emissions from [all energy combustion and industrial processes globally in 1959](https://www.iea.org/data-and-statistics/charts/co2-emissions-from-energy-combustion-and-industrial-processes-1900-2021)*). That is as much as 22% of global CO2 emissions from coal, oil and other energy sources [(36.3 billion tons) recorded in 2021 by the International Energy Agency](https://www.iea.org/reports/global-energy-review-co2-emissions-in-2021-2).
+
+### Top ten countries most exposed to four weather perils as of today  
+
+| Rank | Country | Annual economic loss (% of GDP) |
+|------|---------|---------------------------------|
+|1 |Philippines |3.00% |
+|2 |US |0.38% |
+|3 |Thailand |0.36% |
+|4 |Austria |0.25% |
+|5 |China |0.22% |
+|6 |Taiwan |0.21% |
+|7 |India |0.20% |
+|8 |Australia |0.19% |
+|9 |Switzerland |0.19% |
+|10 |Japan |0.18% |
+
+Source: Swiss RE Group "[Economic losses set to increase due to climate change, with US and Philippines the hardest hit, Swiss Re Institute finds](https://www.swissre.com/press-release/Economic-losses-set-to-increase-due-to-climate-change-with-US-and-Philippines-the-hardest-hit-Swiss-Re-Institute-finds/3051a9b0-e379-4bcb-990f-3cc8236d55a1)" 2024-02-28  
 
 * "New Google **geothermal** electricity project could be a milestone for clean energy." By Jennifer McDermott, Associated Press. November 28, 2023 [https://apnews.com/article/geothermal-energy-heat-renewable-power...](https://apnews.com/article/geothermal-energy-heat-renewable-power-climate-5c97f86e62263d3a63d7c92c40f1330d)  
 * "Solar is now ‘cheapest electricity in history’, confirms IEA." [https://www.carbonbrief.org/solar-is-now-cheapest-elec...](https://www.carbonbrief.org/solar-is-now-cheapest-electricity-in-history-confirms-iea/)  
@@ -163,6 +194,7 @@ Climate deniers/skeptics/provocateurs often use some version of a "word soup" or
 
 
 #### Some Trustworthy Sources of Information  
+* World Meteorological Organization "[State of the Global Climate](https://wmo.int/publication-series/state-of-global-climate)" reports  
 * The "[National Climate Assessment](https://nca2023.globalchange.gov/chapter/front-matter/)  
 * Carbon Brief https://www.carbonbrief.org/analysis-greater-than-99-chance-2023-will-be-hottest-year-on-record/  
 * NOAA Physical Sciences Lab https://psl.noaa.gov/research/  
