@@ -11,12 +11,28 @@ This was not unique, Copernicus reported that 2023 also had the [warmest Novembe
 
 This "*ancient history*" only represents carbon-driven climate warming activity at a given point in `my` lifetime.  [Thomas Alex recently reminded](https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2023/12/07/climate-change-warnings-greta-thunberg-carl-sagan-al-gore/71829461007/) me that before my grandparents were born, [Svante Arrhenius](https://en.wikipedia.org/wiki/Svante_Arrhenius) (1859-1927), who won the Nobel Prize in 1903, used the principles of physical chemistry to estimate the extent to which increases in the atmospheric carbon dioxide were responsible for the Earth's increasing surface temperature.  Scientific investigation of human-driven climate change has been around for more than a century -- with serious and sustained scientific focus for more than half a century.  Resist the people and organizations who still market climate denial, disinformation, and deception campaigns against climate action (*Jessica Guynn reported in early 2024 that the owners of Twitter/X, Facebook and TikTok have de-emphasized the importance of resisting climate denial, disinformation, and deception across their social media ecosystems, and [their behaviors have resulted in material increases in climate misinformation](https://www.usatoday.com/story/tech/news/2024/01/19/climate-change-denial-spreading-social-media/72257689007/)*).  
 
+
+The [Paris Agreement](https://en.wikipedia.org/wiki/Paris_Agreement) on climate change set a goal of limiting the long-term temperature increase (averaged over decades rather than any individual year) to a mean of no more than **1.5° Celsius (2.7 °F) above pre-industrial levels** -- reasoning that this would materially reduce the risks and impacts of climate change. Achieving that goal required/requires that humankind materially reduce the emission of greenhouse gases, foster climate resilience and low greenhouse gas emissions development, and support broadly-sustainable development.  
+
+That 1.5° C threshold can be used to build a coarse-grained or macro measure demonstrating alignment (or not) with Paris Agreement goals.  Included below are a number of graphs showing periodic global temperature data -- which can be used to *imagine* near-term trends (*which appear to help illustrate the crisis nature of climate change challenges*).  
+>(There are other useful macro measures.) "Long-term monitoring of global temperatures is just one indicator of climate and how it is changing. Other key indicators include atmospheric greenhouse gas concentrations, ocean heat and acidification, sea level, sea ice extent and glacier mass balance." [WMO](https://wmo.int/news/media-centre/wmo-confirms-2023-smashes-global-temperature-record)  
+
+Since the 1980s (*all my adult life*), each decade has been warmer than the previous one. Recently, the ```rate``` of temperature rise has been increasing (*not good*):  
+
+### Monthly Mean Global Temperature Increase From 1940 To 2023 Compared To The 1850 To 1900 Average  
+Six leading international datasets used for monitoring global temperatures and consolidated by WMO show that the annual average global temperature was 1.45 ± 0.12 °C above pre-industrial levels (1850-1900) in 2023.  
+<a href="https://wmo.int/news/media-centre/wmo-confirms-2023-smashes-global-temperature-record"><img src="images/Monthly-Mean-Global-Temp-Diff-Compared-To-1850-To-1900-Avg-Graph.png" style="width:480px;height:360px;"></a>  
+
+**Image Source**: World Meteorological Organization (WMO) "WMO confirms that 2023 smashes global temperature record Press Release, 12 January 2024](https://wmo.int/news/media-centre/wmo-confirms-2023-smashes-global-temperature-record)" (*downloaded 2024-03-20*).  
+
 ### Daily Average Global Temperature Increase From 1940 To 2023 Relative To Pre-Industrial Levels  
+Here is a another view, focussing on the last ~80 years of that data (*since 1940*):  
 <a href="https://www.swissre.com/institute/research/topics-and-risk-dialogues/climate-and-natural-catastrophe-risk/changing-climates-heat-is-still-on.html"><img src="images/Daily-avrg-global-temp-increase-1940-to-2023-relative-to-pre-industrial-levels.png" style="width:480px;height:360px;"></a>  
 
 **Image Source**: Swiss RE "[Changing climates: the heat is still on](https://www.swissre.com/institute/research/topics-and-risk-dialogues/climate-and-natural-catastrophe-risk/changing-climates-heat-is-still-on.html)" (*downloaded 2024-03-20*)  
 
-### Monthly Mean Global Temperature Difference Compared To 1850 To 1900 Average  
+
+### Monthly Mean Global Temperature Difference Compared To 1850 To 1900 The Average  
 <a href="https://www.abc.net.au/news/2024-03-20/wmo-climate-records-broken-global-temperature/103604076?utm_campaign=abc_news_web&utm_content=link&utm_medium=content_shared&utm_source=abc_news_web"><img src="images/Monthly-Mean-Global-Temp-Diff-Compared-To-1850-To-1900-Avg.gif" style="width:480px;height:480px;"></a>  
 
 **Image Source**: ABC News Australia "[The World Meteorological Organization's State of the Global Climate report confirms 2023 broke every single climate indicator](https://www.abc.net.au/news/2024-03-20/wmo-climate-records-broken-global-temperature/103604076?utm_campaign=abc_news_web&utm_content=link&utm_medium=content_shared&utm_source=abc_news_web)" By Jess Davis,  2024-03-20  
@@ -87,24 +103,54 @@ As an overview, see their ["Global Mean Temperature" diagram](https://berkeleyea
 >An analysis of the EM-DAT records indicates that 62% of all recorded disasters, 80% of all deaths and almost all (99%) economic losses were associated with natural hazards.  
 >Of the 22,326 disasters, 11,072 have been attributed to weather, climate and water hazards. These disasters resulted in 2.06 million deaths and US$3.64 trillion in losses. Thus, over the last 50 years, 50% of all recorded disasters, 45% of related deaths and 74% of related economic losses were due to weather, climate and water hazards."  
 
-#### Top 10 Weather-Related Disasters in the U.S. in the last 50 Years  
-[WMO-No. 1267](https://library.wmo.int/doc_num.php?explnum_id=10989) page 41 (*if we also considered mortality, this table would look very different*)  
-| Name            | Year | Economic losses US$ billion |
-|-----------------|------|-----------------------------|
-| Storm (Katrina) | 2005 | 163.61 | 
-| Storm (Harvey) | 2017 | 96.94 |
-| Storm (Maria) | 2017 | 69.39 |
-| Storm (Irma) | 2017 | 58.16 |
-| Storm (Sandy) | 2012 | 54.47 |
-| Storm (Andrew) | 1992 | 48.27 |
-| Storm (Ike) | 2008 | 35.63 |
-| Wildfire | 2019 | 24.46 |
-| Storm (Ivan) | 2004 | 24.36 |
-| Drought | 2012 | 21.79 |
+#### Top 10 Weather-Related Disasters in the U.S. in the last 50 Years (through 2023)  
+[WMO-No. 1267](https://library.wmo.int/doc_num.php?explnum_id=10989) page 41 and NOAA "[Billion-Dollar Weather and Climate Disasters](https://www.ncei.noaa.gov/access/billions/events/US/1980-2024?disasters[]=all-disasters)" and its [CSV data](https://www.ncei.noaa.gov/access/billions/events-US-1980-2024.csv)  
+| Name            | Year | Economic losses US$ billion | Deaths |
+|-----------------|------|-----------------------------|--------|
+| Storm (Katrina) | 2005 | 196.3 | 1,833 |
+| Storm (Harvey) | 2017 | 156.25 | 89 |
+| Storm (Ian) | 2022 | 116.27 | 152 |
+| Storm (Maria) | 2017 | 112.5 | 2,981 |
+| Storm (Sandy) | 2012 | 86.5 | 159 |
+| Storm (Ida) | 2021 | 83.1 | 96 |
+| Storm (Irma) | 2017 | 62.5 | 97 |
+| Storm (Andrew) | 1992 | 59.1 | 61 |
+| Drought/Heat Wave | Summer 1988 | 53.4 | 454 |
+| Midwest Flooding | Summer 1993 | 45.3 | 48 |
+| Storm (Ike) | 2008 | 42.3 | 112 |
+| Drought/Heat Wave | 2012 | 40.8 | 123 |
+| Central/Eastern Drought/Heat Wave | Summer-Fall 1980 | 39.7 | 1,260 |
+| Storm (Ivan) | 2004 | 33.2 | 57 |
+| Storm (Wilma) | 2005 | 29.5 | 35 |
+| Storm (Rita) | 2005 | 28.7 | 119 |
+| Storm (Charley) | 2004 | 26.1 | 35 |
+| Wildfire | 2019 | 24.46 |  |
+| Western/Central Drought/Heat Wave |2022 | 23.1 | 136 |
+| Western Wildfires, Calif. Firestorm | Summer-Fall 2017 | 22.69 | 54 |
+| Storm (Hugo) | 1989 | 22.2 | 86 |
+| Storm (Frances) | 2004 | 15.9 | 48 |
+| Drought | 2002 | 15.7 | 0 |
+| Tropical Storm (Allison) | 2001 | 14.7 | 43 |
+| Drought | 2012 | 21.79 | ? |
+| Southern/Midwestern Drought/Heatwave |Spring-Fall 2023 | 14.5 | 247 |
+| East Coast Blizzard and Severe Weather | 1993 | 11.9 | 270 |
+| Hurricane Georges | 1998 | 11.3 | 16 |
+| South Plains Severe Weather | 1995 | 11.1 | 32 |
+| Drought | 2008 | 10.2 | 0 |
+| Hurricane Fran | 1996 | 9.8 | 37 |
+| Central and Eastern Winter Storm and Cold Wave | Dec.2022 | 8.8 | 87 |
+	
 
 United Nations, "Climate and Weather related Disasters Surge Five-fold Over 50 Years, but Early Warnings Save Lives – WMO report," UN News, Sept. 1, 2021  
 and  
 >"In the 1980s, the country experienced on average a $1billion disaster every four months, adjusted for inflation. It now experiences one every three weeks. This year, the country has set a new record with 25 billion-dollar disasters." FROM: "What makes 2.7 degrees F so crucial? -- As COP28 begins, Earth approaches critical point." By Elizabeth Weise, USA TODAY (in The Des Moines Register, 2023-12-01, page A6. *accessed 2023-12-01*) [https://desmoinesregister-ia.newsmemory.com?selDate=20231201&goTo=A006&artid=0&editionStart=Des%20Moines%20Register](https://desmoinesregister-ia.newsmemory.com?selDate=20231201&goTo=A006&artid=0&editionStart=Des%20Moines%20Register)  
+
+[Since 1980 NOAA has been tracking disasters](https://www.ncei.noaa.gov/access/monitoring/dyk/billions-calculations?itid=lk_inline_enhanced-template) using an range of public and private data including insurance payouts and infrastructure damage to estimate their economic impact.  Listed below are some [summary numbers](https://www.ncei.noaa.gov/access/billions/summary-stats/US/2020) from their data:  
+In 2023, the U.S. experienced 28 separate weather and climate disasters costing at least 1 billion dollars, totalling $93.1B and at least 492 deaths. That number puts 2023 into first place for the highest number of billion-dollar disasters in a calendar year.  
+In 2022, the U.S. experienced 18 separate weather and climate disasters costing at least 1 billion dollars, totalling $179.1B and at least 474 deaths.  
+In 2021, the U.S. experienced 20 separate weather and climate disasters costing at least 1 billion dollars, totalling $160.8B and at least 724 deaths.  
+In 2020, the U.S. experienced 22 separate weather and climate disasters costing at least 1 billion dollars, totalling $118.2B and at least 262 deaths.  
+
 
 * Forest fire management deserves more attention.  Trees in forests store large amounts of carbon that can be released when they burn, adding to climate change.  The [Copernicus Atmosphere Monitoring Service (CAMS) reported](https://atmosphere.copernicus.eu/wildfires-wreaked-havoc-2021-cams-tracked-their-impact) that wildfires last year emitted the equivalent of about 8.2 billion tons of carbon dioxide (*that is the same volume of CO2 emissions from [all energy combustion and industrial processes globally in 1959](https://www.iea.org/data-and-statistics/charts/co2-emissions-from-energy-combustion-and-industrial-processes-1900-2021)*). That is as much as 22% of global CO2 emissions from coal, oil and other energy sources [(36.3 billion tons) recorded in 2021 by the International Energy Agency](https://www.iea.org/reports/global-energy-review-co2-emissions-in-2021-2).
 
