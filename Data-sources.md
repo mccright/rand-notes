@@ -12,6 +12,8 @@
 
 * The U.S. Treasury's "Guide to America’s Finances:" [https://fiscaldata.treasury.gov/](https://fiscaldata.treasury.gov/)  
 
+* [berkeleyearth](https://berkeleyearth.org/)'s [Global Temperature Data](https://berkeleyearth.org/data/).  For example, their "[Global Monthly Averages (1850 – Recent)](https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Global/Land_and_Ocean_complete.txt)" and their [annual summary](https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Global/Land_and_Ocean_summary.txt) of the same data.  It includes their land data along with a version of the [HadSST ocean temperature data set](https://www.metoffice.gov.uk/hadobs/hadsst4/).  
+
 
 * List of more than 30,000 police officers banned/decertified by 44 states: [https://www.usatoday.com/in-depth/news/investigations/2019/04/24/biggest-collection-police-accountability-records-ever-assembled/2299127002/](https://www.usatoday.com/in-depth/news/investigations/2019/04/24/biggest-collection-police-accountability-records-ever-assembled/2299127002/)  
 
