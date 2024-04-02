@@ -6,6 +6,7 @@
 2. **Georgia: State case on obstruction in the 2020 election** [Trump faces 13 state charges](https://www.washingtonpost.com/national-security/2023/08/14/trump-indictment-georgia-election-2020), with prosecutors alleging that he tried to undo the election results in that state. (*trial of two defendants are scheduled to start 2023-10-23*)  
 3. **Florida: Federal classified-documents case.** [Trump faces 40 federal charges](https://www.washingtonpost.com/national-security/2023/07/27/trump-carlos-deoliveira-classified-indictment) over accusations that he kept top-secret government documents at Mar-a-Lago — his home and private club — and then thwarted government demands that he return them.(*trial scheduled to start 2024-05-20*)  
 4. **New York: State business fraud case involving a hush money payment in the 2016 election.** [Trump faces 34 state charges](https://www.washingtonpost.com/national-security/2023/03/30/trump-ny-indictment) in connection with hush money paid to adult-film actress Stormy Daniels during the 2016 campaign. (*trial scheduled to start 2024-03-26*)  
+5. **New York: State business fraud case involving years of creating/using fraudulent Trump company financial reports to manipulate loan and insurance acquisition.**  
 
 Trump has responded to these indictments by increasing his use of authoritarian language and threats, as well as accellerating his campaign of dehumanizing all those he chooses as targets.  
 
@@ -22,6 +23,8 @@ In December 2023 Trump repeatedly described undocumented immigrants as "poisonin
 >"repeated his own inflammatory language against undocumented immigrants, by accusing them of “poisoning the blood of our country” — a phrase that immigrant groups and civil rights advocates have condemned as reminiscent as Hitler in his book “Mein Kampf,” in which he told Germans to “care for the purity of their own blood” by eliminating Jews."  
 
 The U.S. Supreme Court decided in the Trump Colorado Ballot Case -- [Trump v. Anderson, No. 23-719](https://www.nytimes.com/live/2024/03/04/us/trump-supreme-court-colorado-ballot) -- that we cannot use the "plain language" of Section 3 of the 14th Ammendment -- which says, broadly, that insurrectionists and those who aid them cannot hold any oath-required State or Federal office -- to exclude Donald J. Trump from the U.S. Presidency unless the U.S. Congress "first pass legislation to implement how that enforcement works and under what standards" (*another new invention by this court and another instance of this court deciding issues that were not brought before them*).  It appears that the Supreme Court has also removed the right of Congress disqualify Trump under Section 3 when it meets to certify electoral college votes on the Jan. 6 after an election unless Congress first implements the new statute(s) whose requirement(s) the court invented in their decision.  
+
+Trump's money-losing, member-losing and feature-limited chat-centric, Twitter-like social network [Truth Social](https://en.wikipedia.org/wiki/Truth_Social) has been transformed into a [meme stock](https://en.wikipedia.org/wiki/Meme_stock) by the massive donation to the failed presidential candidate by [special-purpose acquisition company](https://en.wikipedia.org/wiki/Special-purpose_acquisition_company) (SPAC) [Digital World Acquisition Corp](https://en.wikipedia.org/wiki/Digital_World_Acquisition_Corporation) (DWAC) that resulted in a business liability ([Trump Media & Technology Group](https://en.wikipedia.org/wiki/Trump_Media_%26_Technology_Group) (TMTG)) being valued on [NASDAQ as DJT](https://www.google.com/finance/quote/DJT:NASDAQ?window=1M) at more than $8B US. on 26 March 2024 (*[Trump was given ownership of 60 percent of the new Trump Media (DJT)](https://www.washingtonpost.com/technology/2024/03/26/truth-social-trump-djt-social-media-stock/), meaning $4.6B*).  That transformation was facilitated by [China-based ARC Capital](https://www.washingtonpost.com/business/2021/12/23/trump-spac-deal-sec/) with offices in [Shanghai](https://en.wikipedia.org/wiki/Shanghai) and [Wuhan](https://en.wikipedia.org/wiki/Wuhan), China (*odd, given Trump's enthusiastic criticisms of China and Wuhan during the first years of the COVID-19 pandemic*).  
 
 * In the classified documents case that Smith has also brought against the former president in June, the Trump team has sought to slow-walk the schedule for the proceedings, and Federal Judge Aileen M. Cannon has enabled their strategy to the extent that it is unlikely to see a jury before the 2024 election. There were hints of a similar strategy in the first hearing in the election subversion case.
 * [Federal prosecutors allege](#Ref8) that Trump "was determined to remain in power" after losing the election and that he and others orchestrated a plot to reverse the nation's voters' decision, which led up to the January 6, 2021, attack on the US Capitol.  
@@ -101,9 +104,10 @@ The U.S. Supreme Court decided in the Trump Colorado Ballot Case -- [Trump v. An
 |[](#Ref1) |  |  |
 
 ## Sources:  
+
 ### Ref1  
-"Inside the 20-Month Fight to Get Trump to Return Presidential Material." By Luke Broadwater, Katie Benner and Maggie Haberman; 26 Aug 2022
-https://www.nytimes.com/2022/08/26/us/politics/trump-documents-search-timeline.html  
+"Inside the 20-Month Fight to Get Trump to Return Presidential Material." By Luke Broadwater, Katie Benner and Maggie Haberman; 26 Aug 2022  https://www.nytimes.com/2022/08/26/us/politics/trump-documents-search-timeline.html  
+
 ### Ref2  
 "United States of America v. Donald J. Trump and Waltine Nauta." US District Court/Southern District of Florida Case 23-80101-CR-Cannon/Reinhart 
 https://www.justice.gov/storage/US_v_Trump-Nauta_23-80101.pdf, which included charges of violating the following laws: [18 U.S.C. § 793(e)](https://www.govinfo.gov/app/details/USCODE-2009-title18/USCODE-2009-title18-partI-chap37-sec793), [18 U.S.C. § 1512(k)](https://www.govinfo.gov/app/details/USCODE-2021-title18/USCODE-2021-title18-partI-chap73-sec1512), [18 U.S.C. § 1512(b)(2)(A)](https://www.govinfo.gov/app/details/USCODE-2021-title18/USCODE-2021-title18-partI-chap73-sec1512), [18 U.S.C. § 1512(c)(1)](https://www.govinfo.gov/app/details/USCODE-2021-title18/USCODE-2021-title18-partI-chap73-sec1512), [18 u.s.c. § 1519](https://www.govinfo.gov/app/details/USCODE-2021-title18/USCODE-2021-title18-partI-chap73-sec1519), [18 U.S.C. § 1001(a)(1)](https://www.govinfo.gov/app/details/USCODE-2021-title18/USCODE-2021-title18-partI-chap47-sec1001), [18 U.S.C. § 1001(a)(2)](https://www.govinfo.gov/app/details/USCODE-2021-title18/USCODE-2021-title18-partI-chap47-sec1001), and [18 u.s.c. § 2](https://www.govinfo.gov/content/pkg/USCODE-2021-title18/html/USCODE-2021-title18-partI-chap1-sec2.htm).  
@@ -122,7 +126,6 @@ During [an interview with Sean Hannity on Fox](https://www.politico.com/news/202
 Trump knew his public assertions about *declassification* were lies -- admitting his knowledge of declassification constraints during a recorded July 2021 interview with individuals working on Mark Meadows’ memoir, Mr. Trump shared plan documents for candidate attacks against Iran and said: “See, as president, I could have declassified it... Now I can’t, you know, but this is still a secret.”  
 "Photos from Trump indictment show boxes of classified documents stored in Mar-a-Lago shower, ballroom." Jun 9, 2023 4:41 PM EDT  
 https://www.pbs.org/newshour/politics/photos-from-trump-indictment-show-boxes-of-classified-documents-stored-in-mar-a-lago-shower-ballroom  
-
 
 ### Ref5  
 "Recent Criminal Filings - As of 06/09/2023 - Last 7 Days": "9:23-cr-80101-AMC, USA v. Trump, et al., Cannon, 06/08/2023" (*accessed 2023-06-10*) https://www.flsd.uscourts.gov/recent-criminal-filings  
@@ -171,7 +174,6 @@ C Co-Conspirator 3, an attorney whose unfounded claims of election fraud the Def
 d. Co-Conspirator 4, a Justice Department official who worked on civil matters and who, with the Defendant, attempted to use the Justice Department to open sham election crime investigations and influence state legislatures with knowingly false claims of election fraud. (Jeffrey Clark)  
 e Co-Conspirator 5, an attorney who assisted in devising and attempting to implement a plan to submit fraudulent slates of presidential electors to obstruct the certification proceeding. (Kenneth Chesebro)  
 f. Co-Conspirator 6, a political consultant who helped implement a plan to submit fraudulent slates of presidential electors to obstruct the certification proceeding. (A political consultant)  
-
 
 ### Ref10  
 A grand jury in Fulton County, Ga. unveiled a criminal indictment of former President Donald J. Trump concerning Mr. Trump’s efforts to overturn his 2020 election loss.  The indictment also charges 18 other defendants who are alleged to have taken part in the scheme.  [https://www.nytimes.com/interactive/2023/08/14/us/georgia-indictment-trump.html](https://www.nytimes.com/interactive/2023/08/14/us/georgia-indictment-trump.html)  
@@ -293,3 +295,19 @@ https://www.psychologytoday.com/us/blog/make-your-life-blessing/201801/the-dange
 A Complete Psychological Analysis of Trump's Support -- Science can help us make sense of the president's political invincibility. 
 By Bobby Azarian Ph.D., Posted December 27, 2018  
 https://www.psychologytoday.com/us/blog/mind-in-the-machine/201812/complete-psychological-analysis-trumps-support  
+
+
+Trump Media is officially a meme stock. By Felix Salmon 2024-03-27 https://www.axios.com/2024/03/27/trump-truth-social-stock  
+Trump’s DJT stock creates a unique new ethical nightmare. By Zachary B. Wolf, CNN 2024-03-27 https://www.cnn.com/2024/03/26/politics/djt-stock-trump-what-matters/index.html  
+Trump’s Truth Social surges in DJT stock debut, but questions remain -- The trading frenzy delivered Trump a fortune on paper but raised doubts over how the ‘meme stock’ would perform long-term. By Drew Harwell, Washington Post. 2024-03-26. https://www.washingtonpost.com/technology/2024/03/26/truth-social-trump-djt-social-media-stock/  
+Trump’s Truth Social is now a public company. Experts warn its multibillion-dollar valuation defies logic. By Matt Egan, CNN 2024-03-26 https://www.cnn.com/2024/03/26/markets/trump-media-stock-truth-social/index.html  
+'My podcast makes more': Kara Swisher reacts to Trump's Truth Social going public. By Kara Swisher and Laura Coates. 2024-03-26 https://www.cnn.com/videos/business/2024/03/26/trump-truth-social-kara-swisher-djt-ipo-lcl-hnk-vpx.cnn  
+Digital World Acquisition Corp. AMENDMENT NO. 2 TO FORM S-4 REGISTRATION STATEMENT, As filed with the U.S. Securities and Exchange Commission on December 22, 2023. https://www.sec.gov/ixviewer/ix.html?doc=/Archives/edgar/data/1849635/000119312523302199/d408563ds4a.htm  
+Trump’s newest business partner: A Chinese firm with a history of SEC investigations -- Shanghai-based Arc Capital, an investment firm that has been the target of probes by securities regulators, is at the center of the deal to take Trump’s media venture public. By Douglas MacMillan and Jonathan O'Connell, December 23, 2021. https://www.washingtonpost.com/business/2021/12/23/trump-spac-deal-sec/  
+
+
+https://www.google.com/finance/quote/DJT:NASDAQ?window=1M  
+ 
+
+
+
