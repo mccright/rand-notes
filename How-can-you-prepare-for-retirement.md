@@ -131,16 +131,16 @@ At times throughout my adult life I have listened to peers romanticizing the liv
 
 Regardless of the scale of your available resources, the most important short term priority is to start building wealth.  How much wealth?  That will vary, but a commonly-repeated target remains "you need 25-times your pre-tax income portfolio goal when you retire" ([*here quoted from David M. Blanchett, Ph.D., CFA, CFP®, and more*](https://www.advisorperspectives.com/articles/2021/02/25/retirement-planning-in-the-post-4-world))," which I believe for most can safely be simplified to "your retirement investment portfolio should be 25 times the size of your annual income at retirement."  For most of us that can seem like a challenge, but try to remain engaged in your efforts to prepare for your retirement -- don't freeze up.  Research your options -- there are lots of on-line resources.  A very quick, crude, retirement savings calculator is available at: [https://www.cnn.com/business/calculators/retirement-calculator](https://www.cnn.com/business/calculators/retirement-calculator).  Make decision after decision.  Take the next step, and the next.  Here is an example of what 20 and 25-times some sample annual incomes looks like:  
 
-|Annual Income|Times 20|Times 25|
-|:-----------:|:------:|:------:|
-|$20,000 | $400,000 | $500,000|
-|$30,000 | $600,000 | $750,000|
-|$40,000 | $800,000 | $1,000,000|
-|$50,000 | $1,000,000 | $1,250,000|
-|$60,000 | $1,200,000 | $1,500,000|
-|$70,000 | $1,400,000 | $1,750,000|
-|$80,000 | $1,600,000 | $2,000,000|
-|$90,000 | $1,800,000 | $2,250,000|
+|Annual Income| Times 20 | Times 25|
+|:-----------:|:--------:|:-------:|
+|$20,000  | $400,000   | $500,000  |
+|$30,000  | $600,000   | $750,000  |
+|$40,000  | $800,000   | $1,000,000|
+|$50,000  | $1,000,000 | $1,250,000|
+|$60,000  | $1,200,000 | $1,500,000|
+|$70,000  | $1,400,000 | $1,750,000|
+|$80,000  | $1,600,000 | $2,000,000|
+|$90,000  | $1,800,000 | $2,250,000|
 |$100,000 | $2,000,000 | $2,500,000|
 |$110,000 | $2,200,000 | $2,750,000|
 |$120,000 | $2,400,000 | $3,000,000|
@@ -152,6 +152,11 @@ Regardless of the scale of your available resources, the most important short te
 >[*I have seen opinion pieces and research papers that replace the "Annual Income" I used above, with "Annual Spending."  There may be material distance between these two values.  "Annual Spending" **may** be a more appropriate value for some.  Use which ever seems most appropriate for your situation.*]  
 
 >[For context: according to the [Schwab Modern Wealth Survey June 2023](https://www.aboutschwab.com/schwab-modern-wealth-survey-2023), the average American says being rich means having a net worth of $2.2 million -- the same number as in their [2022 research](https://content.schwab.com/web/retail/public/about-schwab/schwab_modern_wealth_survey_2022_findings.pdf)]. *...read on*  
+
+The [2024 Planning & Progress Study](https://news.northwesternmutual.com/planning-and-progress-study-2024), an annual research study from Northwestern Mutual (*a company that sells retirement-related services and investments*) reported that:  
+>Americans’ “magic number” for retirement is surging to an all-time high – rising much faster than the rate of inflation while swelling more than 50% since the onset of the pandemic.  U.S. adults believe they will need $1.46 million to retire comfortably, a 15% increase over the $1.27 million reported last year, far outpacing today’s inflation rate which currently hovers between 2% and 3%. Over a five-year span, people’s ‘magic number’ has jumped a whopping 53% from the $951,000 target Americans reported in 2020.  
+>By generation, both Gen Z and Millennials expect to need more than $1.6 million to retire comfortably. High-net-worth individuals – people with more than $1 million in investable assets – say they’ll need nearly $4 million.  
+>Meanwhile, the average amount that U.S. adults have saved for retirement dropped modestly from $89,300 in 2023 to $88,400 today, but is more than $10,000 off its five-year peak of $98,800 in 2021.  
 
 Again, these numbers can seem like a challenge in isolation.  But for many who reach them, they are the result of regular *savings* for retirement and full participation in employer plans over many years.  One of the keys is to start and stick with a plan.  
 *There is some material disagreement about this 20x to 25x target -- the approach outlined above may not be right for everyone.  See the ["Are You Saving Enough For Retirement? At this household income:"](https://www.investors.com/etfs-and-funds/retirement/you-need-this-much-retirement-savings-at-your-age-and-income/) table in [this article](https://www.investors.com/etfs-and-funds/retirement/you-need-this-much-retirement-savings-at-your-age-and-income/) by Paul Katzeff for an alternative idea -- one that I believe materially increases one's longevity, uncertain (*medical or other*) material expenses in old age, and market timing risks.*  Fidelity mirrors some of Mr. Katzeff's ideas when they argue for a goal of "[saving 10x (times) your preretirement income by age 67](https://www.fidelity.com/viewpoints/retirement/how-much-do-i-need-to-retire)."  Roger Young, CFP, Thought Leadership Director, T. Rowe Price, [recently wrote](https://www.troweprice.com/personal-investing/resources/insights/how-to-determine-amount-of-income-you-will-need-at-retirement.html) that "we recommend that most people consider a target between seven and 13½ times their ending salary," depending "on your income and marital status."  As a result, I've added another table below that includes examples of what 10 and 15-times some sample annual incomes look like (*understanding that less retirement savings means, for most, increased risks*):  
@@ -174,7 +179,17 @@ Again, these numbers can seem like a challenge in isolation.  But for many who r
 |$150,000 | $1,500,000 | $2,250,000 | $3,000,000 | $3,750,000|
 
 
-For many, a material component of your retirement readiness equation is your spending behaviors.  As of Q1 2022 America's household debt is around a staggering [$15.84 trillion](https://www.newyorkfed.org/microeconomics/hhdc.html). By October 2023, Cora Lewis (Associated Press) [reported](https://apnews.com/article/inflation-debt-poll-personal-finance-economy-dd4c88e2076d1fd3f85c51fb8992583b) that "about 2 in 3 Americans say their household expenses have risen over the last year, but only about 1 in 4 say their income has increased in the same period, according to a new poll from The Associated Press-NORC Center for Public Affairs Research." She added that "About 8 in 10 Americans say their overall household debt is higher or about the same as it was a year ago. About half say they currently have credit card debt, 4 in 10 are dealing with auto loans, and about 1 in 4 have medical debt. Just 15% say their household savings have increased over the last year."  Inflation, debt and savings are key facets of individual and family money management. Based on survey results like that above, it is clear that there are widespread circumstances that make *saving* and *investing* a material challenge.  There is no magic "*fix*" and be wary of anyone offering/selling one.  For those who find themselves in the most economically constrained circumstances, income and spending are the primary *levers* available for *generating* future retirement funding.  
+For many, a material component of your retirement readiness equation is your spending behaviors.  As of Q1 2022 America's household debt is around a staggering [$15.84 trillion](https://www.newyorkfed.org/microeconomics/hhdc.html). By October 2023, Cora Lewis (Associated Press) [reported](https://apnews.com/article/inflation-debt-poll-personal-finance-economy-dd4c88e2076d1fd3f85c51fb8992583b) that "about 2 in 3 Americans say their household expenses have risen over the last year, but only about 1 in 4 say their income has increased in the same period, according to a new poll from The Associated Press-NORC Center for Public Affairs Research." She added that "About 8 in 10 Americans say their overall household debt is higher or about the same as it was a year ago. About half say they currently have credit card debt, 4 in 10 are dealing with auto loans, and about 1 in 4 have medical debt. Just 15% say their household savings have increased over the last year."  Inflation, debt and savings are key facets of individual and family money management. 
+
+After analyzing data from 4,588 online interviews, researchers published in the [2024 Planning & Progress Study](https://news.northwesternmutual.com/planning-and-progress-study-2024) that they found "there are large gaps between what people think they’ll need to retire and what they’ve saved to date:"  
+|Research Finding|All |Gen Z |Millennials |Gen X |Boomers+ |HNW ($1M+) |
+|:--------------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|Amount saved for retirement currently|$88,400|$22,800|$62,600|$108,600|$120,300|$172,100|
+|Gap between retirement goal and current savings|$1.37M|$1.61M|$1.59M|$1.45M|$870K|$3.76M|
+
+Source: ["2024 Planning & Progress Study – Work, Retirement & Taxes"](https://filecache.mediaroom.com/mr5mr_nwmutual/179070/2024%20PP%20Wave%20II%20Data%20Deck_%20Work%20%20Retirement.pdf) page 5, downloaded 2024-04-03.
+
+Based on survey results like that above, it is clear that there are widespread circumstances that make *saving* and *investing* a material challenge.  There is no magic "*fix*" and be wary of anyone offering/selling one.  For those who find themselves in the most economically constrained circumstances, income and spending are the primary *levers* available for *generating* future retirement funding.  
 
 There are many external forces (*for some these include material systemic forces*) that may inhibit your ability to increase your income.  While reducing the negative impacts of those external forces and tamping down race/gender/identity descrimination are important missions, they do not replace the need to deal with the everyday individual and family financial preparations for returement and/or "*old age*" -- which remain foundational for most of us.  
 
