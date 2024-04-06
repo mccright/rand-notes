@@ -138,6 +138,10 @@ Always consider "the models’ tendency to generate inaccurate responses to quer
  
 
 ## Some References:  
+* A little guide to building Large Language Models in 2024. 2 part series:  
+  * [Video 1](https://www.youtube.com/watch?v=2-SPH9hIKT8): covering all the concepts to train a good performance LLM in 2024  
+    * [Slides for Video 1](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/mobilepresent#slide=id.g2c1fcf5439e_1_11)  
+  * [Video 2](): hands-on applying all these concepts with code example  
 * "Artificial Intelligence at Google: Our Principles" [https://ai.google/principles/](https://ai.google/principles/)  
 * "Gathering Strength, Gathering Storms: The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report." September 2021 [http://ai100.stanford.edu/2021-report](http://ai100.stanford.edu/2021-report)  
 * Kahneman, Daniel.  "Thinking, Fast and Slow." [Amazon](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
