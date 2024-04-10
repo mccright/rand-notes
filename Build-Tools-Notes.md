@@ -29,9 +29,11 @@ Anyone wanting to specialize in *application security* work should have some awa
 * setuptools (python)  
 * rake  
 * rant  
+* rye [https://rye-up.com/](https://rye-up.com/)  
 * sbt  
 * **scons**: A multi-language software construction tool [https://scons.org/](https://scons.org/)  
 * Thoth ([dependency resolver](https://developers.redhat.com/articles/2022/03/07/manage-python-security-thoths-cloud-based-dependency-resolver#thoth_security_for_python_applications))  
+* uv (*pursuing a "Cargo for Python"*) [https://github.com/astral-sh/uv](https://github.com/astral-sh/uv)  
 * waf  
 * vagrant  
 * yarn (yarn.lock)  
