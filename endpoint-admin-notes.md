@@ -222,6 +222,13 @@ The Linux utility "qrencode" is one way to generate QR code for your mobile endp
 user@host:~/QR$qrencode -s 9 -l H -o "<QRcodeFileName>.png" "WIFI:S:<theTargetSSID>;T:WPA2;P:<thePassword>;;"
 ```
 Replace `<theTargetSSID>` with your visitor SSID and `<thePassword>` with your visitor WiFi password, and name the file something that does not give away the secrets.  When the mobile endpoint WiFi configuration details are needed, bring up the `<QRcodeFileName>.png` file in your browser and have the visitor scan the QR code on your screen with their mobile device.  *Use this idea only in the "access to visitor/guest WiFi networks.  This approach is NOT risk-appropriate for providing access to high security networks.*  
+Related References On This Topic:  
+"[5 Best Ways to Generate QR Codes Using the PyQRCode Module in Python](https://blog.finxter.com/5-best-ways-to-generate-qr-codes-using-the-pyqrcode-module-in-python/)." March 8, 2024 by Emily Rosemary Collins  
+Create QR Codes with PyQRCode: [https://pythonhosted.org/PyQRCode/create.html](https://pythonhosted.org/PyQRCode/create.html)  
+Some history and background information about QRcodes: [https://www.qr-code-generator.com/qr-code-marketing/qr-codes-basics/](https://www.qr-code-generator.com/qr-code-marketing/qr-codes-basics/) and [https://www.qrcode.com/en/history/](https://www.qrcode.com/en/history/)  
+Short overview of QRcode types: [https://www.qrcode.com/en/codes/](https://www.qrcode.com/en/codes/)  
+[https://pythonhosted.org/PyQRCode/moddoc.html](https://pythonhosted.org/PyQRCode/moddoc.html)  
+
 
 ### Questions about what "*Office Suite*" of applications to use  
 Over time, users will ask about options for full-featured word processor & spreadsheet applications.  I believe that [LibreOffice](https://www.libreoffice.org/) is an excellent response for broad swaths of user groups.  LibreOffice is compatible with other major office suites.  LibreOffice includes:  
