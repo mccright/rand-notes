@@ -42,14 +42,11 @@ function intips { /sbin/ifconfig |grep -B1 "inet\|inet6" |awk '{ if ( $1 == "ine
 Or sometimes it is important to get the interface in the default route:
 
 ```bash
-/sbin/ifconfig $(/sbin/route | awk '/default/ {print $8}') | grep "inet addr" | awk -F: '{print $2}' | awk '{print $1}'
+/sbin/route | awk '/default/ {print $8}'
 ```
-Depending on your Linux distro, you may need to fiddle with the grep 'inet addr'.  For example, on Debian you will use "inet adr" instead "inet addr."
+Depending on your platform, you may need to fiddle with the awk command to capture the correct column.
 
 Or if you are just going to iterate through each address and don't care about the interface:
 ```bash
 hostname -I
 ```
-
-
-
