@@ -103,6 +103,24 @@ Trump's money-losing, member-losing and feature-limited chat-centric, Twitter-li
 |[](#Ref1) |  |  |
 |[](#Ref1) |  |  |
 
+
+### Additional Indictments Incorporating Trump as a Co-Conspirator  
+
+#### Arizona  
+In April 2024 an Arizona grand jury indicted 11 state Republicans who signed false election/elector paperwork on Dec. 14, 2020, "as well as seven attorneys, aides and advisers affiliated with Trump’s 2020 presidential campaign on felony charges over their alleged efforts to subvert Biden’s 2020 win in the state."  Trump's attorneys, aides and advisers included: Mark Meadows, attorneys Rudy Giuliani, Jenna Ellis, John Eastman and Christina Bobb, and Boris Epshteyn and Mike Roman from the Trump campaign.[Reference 11](#Ref11)  
+
+"[Trump was not charged, but he is described in the indictment as an unindicted co-conspirator](https://www.washingtonpost.com/politics/2024/04/24/trump-electors-state-investigations-indictments/)."  
+
+#### Georgia  
+[Three of the 16 Republicans who claimed to be electors in Georgia as well as attorneys, aides and advisers affiliated with Trump’s 2020 presidential campaign were charged in August 2023 with a range of felony crimes associated with an alleged attempt to steal the 2020 election. Some of the others who claimed to be Georgia electors were granted immunity deals...  Jenna Ellis and attorney Kenneth Chesebro plead guilty to felony counts in October 2023.[Reference 10](#Ref10)  
+
+#### Michigan  
+In July 2023 the Michigan Attorney General charged each of the 16 Republican "*fake electors*" with eight felonies. [Reference 11](#Ref11)  
+
+#### Nevada  
+In December 2023 a grand jury charged "[six Republicans in Nevada who claimed to be electors with two felonies each, for forging documents and attempting to file false documents](https://www.washingtonpost.com/politics/2024/04/24/trump-electors-state-investigations-indictments/)." [Reference 11](#Ref11)  
+
+
 ## Sources:  
 
 ### Ref1  
@@ -231,6 +249,14 @@ Table data above from the [charging document](https://int.nyt.com/data/documentt
 
 On October 25th, [David French (*a veteran of Operation Iraqi Freedom and a former constitutional litigator*) argued](https://www.nytimes.com/2023/10/25/opinion/trump-georgia-guilty-pleas.html) that:  
 >(This is a) series of confessions from the (Trump) inner circle and not a heated external critique.  Amid (a) cloud of uncertainty, there is one thing we do know: With each guilty plea, we receive further legal confirmation of a reality that should have been plainly obvious to each of us, even in the days and weeks immediately following the election. Trump’s effort to overturn the election wasn’t empowered by conventional counsel providing sound legal advice. It was a corrupt scheme empowered by an admitted criminal cabal.  
+
+### Ref11  
+"Here are the states where 2020 Trump electors have been charged -- Republicans around the country have been charged with forgery and other crimes for filing paperwork claiming to be presidential electors in states that Donald Trump lost.  
+By Patrick Marley. The Washington Post, April 24, 2024  https://www.washingtonpost.com/politics/2024/04/24/trump-electors-state-investigations-indictments/  
+
+"Here’s who was charged in the Arizona 2020 election interference case -- Mark Meadows, Rudy Giuliani, Boris Epshteyn and other Trump allies were indicted in connection with their alleged efforts to overturn the 2020 presidential election results in Arizona.  By Yvonne Wingett Sanchez, Amy Gardner and Holly Bailey. The Washington Post, April 24, 2024  https://www.washingtonpost.com/national-security/2024/04/24/arizona-2020-election-charges/  
+
+"Michigan charges 16 Trump electors who falsely claimed he won the state -- The charges are the first against Trump electors as investigations over attempts to overturn the 2020 presidential election intensify across the country." By Patrick Marley. July 18, 2023 https://www.washingtonpost.com/politics/2023/07/18/trump-electors-michigan/  
 
 
 
