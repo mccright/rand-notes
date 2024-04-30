@@ -259,8 +259,6 @@ By Patrick Marley. The Washington Post, April 24, 2024  https://www.washingtonpo
 "Michigan charges 16 Trump electors who falsely claimed he won the state -- The charges are the first against Trump electors as investigations over attempts to overturn the 2020 presidential election intensify across the country." By Patrick Marley. July 18, 2023 https://www.washingtonpost.com/politics/2023/07/18/trump-electors-michigan/  
 
 
-
-
 ##### Businesses have found a broad spectrum of ways to monitize some of Trump's Big Lie.  
 **Fact**: The 306 electoral college votes for President Biden defeated former president Donald Trump in the 2020 election and serious investigations into the 2020 election and more than 60 court cases brought by Trumpophiles have revealed no evidence of material fraud, and as outlined on this page Trump faces federal criminal charges for some of his efforts to overturn the election.  
 Cat Zakrzewski [reported](https://www.washingtonpost.com/technology/2023/10/07/amazon-alexa-news-2020-election-misinformation/) (in the Washington Post) on October 7, 2023, that "Amazon’s Alexa has been claiming the 2020 election was stolen."  She went on to detail a number of ways that Alexa delivered this Trump lie.  
