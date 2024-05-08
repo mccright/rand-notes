@@ -139,7 +139,7 @@ Always consider "the models’ tendency to generate inaccurate responses to quer
 * *Training data*  "refers to the vast corpus of information used to train large language models. This data can include text, images, audio, or video. Generative models learn patterns from this data, enabling them to generate new content matching the input data’s complexity, style, and structure." (*from [AIMultiple](https://research.aimultiple.com/generative-ai-data/)*)  "Explaining the term, and advising to consider the specific information training data may contain as machine learning models learn to find patterns from these datasets. The types of training data used in different AI tools can vary widely." (*from the [AP Stylebook](https://www.apstylebook.com/)*)  
 
 * NIST Taxonomy of Attacks, Defenses, and Consequences in Adversarial Machine Learning: 
-![NIST Taxonomy of Attacks, Defenses, and Consequences in Adversarial Machine Learning:](images/Taxonomy-of-Attacks-Defenses-and-Consequences-in-Adversarial-ML2024-05-08.png "NIST Taxonomy of Attacks, Defenses, and Consequences in Adversarial Machine Learning")  
+![NIST Taxonomy of Attacks, Defenses, and Consequences in Adversarial Machine Learning:](images/Taxonomy-of-Attacks-Defenses-and-Consequences-in-Adversarial-ML2024-05-08.png "NIST Taxonomy of Attacks, Defenses, and Consequences in Adversarial Machine Learning")  (from: https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8269-draft.pdf accessed 2024-05-08)  
  
 
 ## Some References:  
