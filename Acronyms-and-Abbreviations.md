@@ -1,9 +1,8 @@
 # Acronyms and Abbreviations  
 
+This is a holding pen for abbreviations that I run into -- but only infrequently -- that may need definition and/or context later...   
 
-
-|Acronym or   |              |              |
-|Abbreviation |Expanded Text |Context       |
+|Acronym or Abbreviation |Expanded Text |Context       |
 |:------------|:-------------|:-------------|
 |ACGIH |American Conference of Governmental Industrial Hygienists |Emergency Response |
 |AEGL |Acute Exposure Guideline Level |Emergency Response |
@@ -48,3 +47,4 @@
 |TEEL |temporary emergency exposure limit |Emergency Response |
 |TLV |threshold limit values per ACGIH (see above) |Emergency Response |
 |TWA |time-weighted average |Emergency Response |
+|UEF |uniform energy factor |water heater efficiency analysis |
