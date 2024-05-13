@@ -14,6 +14,8 @@ This is a holding pen for abbreviations that I run into -- but only infrequently
 |CPM |computational pipeline monitoring |Fluid pipeline infrastructure & operation|
 |EOR |enhanced oil recovery |
 |ERPG |emergency response planning guidelines |Emergency Response |
+|ESWH |Electric Storage Water Heater (Electric Resistance or Electric Heat Pump) |water heater efficiency analysis |
+|GSWH |Gas Storage Water Heater |water heater efficiency analysis |
 |HAZCOM |hazardous communication |Emergency Response |
 |HAZWOPER |OSHA’s Hazardous Waste Operations and Emergency Response Standard |Emergency Response |
 |HCA |high consequence areas |Emergency Response |
@@ -28,6 +30,7 @@ This is a holding pen for abbreviations that I run into -- but only infrequently
 |NOAA |National Oceanic and Atmospheric Administration | |
 |NRC |National Response Center |Emergency Response |
 |O2 |oxygen |climate change, chemistry, biology, environmental studies, health |
+|OSWH |Oil Storage Water Heater |water heater efficiency analysis |
 |OSHA |Occupational Safety and Health Administration | |
 |OSRO |oil spill removal organization |Emergency Response |
 |PAC |protective action criteria per SCAPA (see below) |Emergency Response |
@@ -37,6 +40,7 @@ This is a holding pen for abbreviations that I run into -- but only infrequently
 |PPM |part per million | |
 |PREP |Preparedness for Response Exercise Program |Emergency Response |
 |PSI |per square inch | |
+|RE |recovery efficiency |water heater efficiency analysis |
 |REL |recommended exposure limits |Emergency Response |
 |ROW |right of way | |
 |SAR |supplied air respirator |Emergency Response |
@@ -47,4 +51,4 @@ This is a holding pen for abbreviations that I run into -- but only infrequently
 |TEEL |temporary emergency exposure limit |Emergency Response |
 |TLV |threshold limit values per ACGIH (see above) |Emergency Response |
 |TWA |time-weighted average |Emergency Response |
-|UEF |uniform energy factor |water heater efficiency analysis |
+|UEF |uniform energy factor |energy conversion efficiency of residential appliances, water heater efficiency analysis |
