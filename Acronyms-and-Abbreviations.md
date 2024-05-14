@@ -51,4 +51,4 @@ This is a holding pen for abbreviations that I run into -- but only infrequently
 |TEEL |temporary emergency exposure limit |Emergency Response |
 |TLV |threshold limit values per ACGIH (see above) |Emergency Response |
 |TWA |time-weighted average |Emergency Response |
-|UEF |uniform energy factor |energy conversion efficiency of residential appliances, water heater efficiency analysis |
+|UEF |uniform energy factor |[The higher the energy factor, the more efficient the appliance should be](https://en.wikipedia.org/wiki/Energy_factor). Energy conversion efficiency of residential appliances. Water heater efficiency analysis. |
