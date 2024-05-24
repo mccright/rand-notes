@@ -130,6 +130,7 @@ As an overview, see their ["Global Mean Temperature" diagram](https://berkeleyea
 | Storm (Rita) | 2005 | 28.7 | 119 |
 | Storm (Charley) | 2004 | 26.1 | 35 |
 | Wildfire | 2019 | 24.46 |  |
+| Cold Wave / Winter Storm | Feb 2021 | 24.0 | 226 |
 | Western/Central Drought/Heat Wave |2022 | 23.1 | 136 |
 | Western Wildfires, Calif. Firestorm | Summer-Fall 2017 | 22.69 | 54 |
 | Storm (Hugo) | 1989 | 22.2 | 86 |
@@ -142,8 +143,12 @@ As an overview, see their ["Global Mean Temperature" diagram](https://berkeleyea
 | Hurricane Georges | 1998 | 11.3 | 16 |
 | South Plains Severe Weather | 1995 | 11.1 | 32 |
 | Drought | 2008 | 10.2 | 0 |
+| Western Wildfire Season | 2021 | 10.6 | 8 |
 | Hurricane Fran | 1996 | 9.8 | 37 |
+| Heat Wave & Persistent Western Drought | Jun-Jul 2021 | 8.9 | 229 |
 | Central and Eastern Winter Storm and Cold Wave | Dec.2022 | 8.8 | 87 |
+| Central and Eastern Tornado & Severe Weather | Mar 31-Apr 1 2023 | 5.7 | 33 |
+| Hawaii firestorm | Aug 8, 2023 | 5.6 | 100 |
 	
 
 United Nations, "Climate and Weather related Disasters Surge Five-fold Over 50 Years, but Early Warnings Save Lives – WMO report," UN News, Sept. 1, 2021  
@@ -217,7 +222,8 @@ A House committee, accusing oil companies of deception, releases a trove of inte
     * "[Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Climate Change](https://www.amazon.com/Merchants-Doubt-Handful-Scientists-Obscured/dp/1608193942)." By [Naomi Oreskes](https://en.wikipedia.org/wiki/Naomi_Oreskes) and [Erik M. Conway](https://en.wikipedia.org/wiki/Erik_M._Conway), 2010 -- which argues that spreading doubt and confusion is the foundational strategy of Big Oil's efforts opposing actions that might help diminish the negative impacts of human-induced climate change.  
     * "[Against Climate Action: Television Stars -- An industry group is spending millions of dollars to push back against efforts to move heating away from oil and gas.](https://www.nytimes.com/2023/01/11/climate/climate-propane-influence-campaign.html)" By Hiroko Tabuchi. Jan. 11, 2023.  Ms. Hiroki documents how "The Propane Education and Research Council, or PERC, which is funded by propane providers across the country, has spent millions of dollars on "provocative anti-electrification messaging" for TV, print and social media, using influencers." Propane is derived from fossil fuels and emits planet-warming greenhouse gases like its cousins, coal, gasoline or diesel. "In 2023, the organization plans to spend $13 million on its anti-electrification campaign, including $600,000 on "influencers"...in order to "combat the growing narrative that fossil fuel combustion is the main cause of climate change, and that propane is a dirty fossil fuel."  PERC also invests millions of dollars in lobbying against climate legislation -- including with misleading disinformation about the efficiency of heat pumps in Northern climates. "In 2022, for example, PERC committed nearly $900,000 to a New York propane industry group to address the "massive challenge from well-funded efforts to electrify the entire state" — namely, to fight policies stemming from New York's 2019 climate law which, among other goals, aims to ensure that buildings and vehicles stop adding greenhouse gases to the atmosphere by 2040."  
 	* "[The False Promise of Carbon Capture as a Climate Solution -- Fossil-fuel companies use captured carbon dioxide to extract more fossil fuels, leading to a net increase in atmospheric CO2.](https://www.scientificamerican.com/article/the-false-promise-of-carbon-capture-as-a-climate-solution/)" by [Naomi Oreskes](https://en.wikipedia.org/wiki/Naomi_Oreskes), 03-01-2024.  
-
+For some recent CO2 measurement documentation, see: "[Hawaii’s Mauna Loa Observatory just captured ominous signals about the planet’s health -- Carbon dioxide is accumulating in the atmosphere faster than ever](https://www.washingtonpost.com/weather/2024/05/10/carbon-dioxide-record-mauna-loa/)." By Scott Dance
+May 10, 2024.  
 
 #### Force More Accurate Pricing for Fossil Fuels and Other Petrochemicals  
 * We have been subsidizing the petrochemical industry by allowing them to abondon as many as [3.2 million oil and gas wells](https://pubs.acs.org/doi/10.1021/acs.est.1c02234) after they stop 'producing' enough to meet the industry's short term profit goals.  These sites '*leak*' dangerous substances into the atmosphere, the ground, and water sources -- resulting in enormous negative economic and social impacts.  [Some estimate](https://www.energypolicy.columbia.edu/sites/default/files/file-uploads/OrphanWells_CGEP-Report_071620.pdf) that 3.2 million abondoned wells would emit more than 500,000 metric tons of methane per year.  The U.S. has allowed the petrochemical industry to discount and walk away from their obligation of, the costs of 'cleaning up' millions of oil and gas well sites around the country.  Recently, [the U.S. government (*read, "U.S. tax-payers"*) has begun to fund abondoned well cleanup](https://apnews.com/article/biden-travel-new-orleans-climate-and-environment-bbe808df98e65085eda9018b32cac29a).  Forcing all those involved in the oil and gas location, extraction, production, transmission, and distribution to include the full life-cycle costs of their materials (including cleaning up all oil and gas well sites) would help to more accurately represent the economic load these industry participants (and their investors) impose on us.  It would also help drive more accurate pricing for their products and make 'cleaner' alternatives more attractive.  
