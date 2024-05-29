@@ -74,7 +74,8 @@ We have recently been releasing heat-trapping carbon dioxide (*and other greenho
 Unfortunately, AP's [Cathy Bussewitz reported recently](https://apnews.com/article/climate-emissions-global-warming-carbon-dioxide-coal-494ef490f16abe381ea2a4107f779670) that we (*humanity*) are not reflecting that urgency:  
 >"Communities around the world emitted more carbon dioxide in 2022 than in any other year on records dating to 1900, a result of air travel rebounding from the pandemic and more cities turning to coal as a low-cost source of power.  Emissions of the climate-warming gas that were caused by energy production grew 0.9% to reach 36.8 gigatons in 2022, the International Energy Agency [reported Thursday](https://www.iea.org/reports/co2-emissions-in-2022). (The mass of one gigaton is equivalent to about 10,000 fully loaded aircraft carriers, according to NASA.)"  
 
-* We still burn too much coal in electricity generation:  
+* We still burn too much coal in electricity generation.  This is in spite of its outsized cost -- [Cecilia Garzella reported that](https://www.usatoday.com/story/news/investigations/2024/05/21/epa-power-plant-rule-coal-shrinking-pollution-map/73558130007/):  
+>"The cost of generating (*electric power with*) coal is more than twice that of wind and nearly double that of solar, based on an analysis by the financial advisory firm Lazard, factoring in expenses for building, operating, fueling and maintaining a power plant, even without government subsidies."  
   * Coal consumption for electricity generation in the United States from 1950 to 2023 (in million short tons)  https://www.statista.com/statistics/184333/coal-energy-consumption-in-the-us/  
   * Number of operational coal-fired power plants in the United States as of 2023, by state https://www.statista.com/statistics/1252352/us-coal-power-plants-by-state/  
   * Coal power in the United States https://en.wikipedia.org/wiki/Coal_power_in_the_United_States  
