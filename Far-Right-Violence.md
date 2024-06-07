@@ -86,6 +86,9 @@ During a Veterans Day speech on November 11, 2023, Trump told a crowd in Claremo
 
 Trump followed up by [posting the same message](https://truthsocial.com/@realDonaldTrump/posts/111393315342651569) on his (failing) MAGA social media platform.  
 
+"[American Autocracy Threat Tracker A Comprehensive Catalog Based on Donald Trump and His Associates’ Plans, Promises, and Propositions](https://www.justsecurity.org/92714/american-autocracy-threat-tracker/)." by Norman L. Eisen, Ruth Ben-Ghiat, Siven Watt, Andrew Warren, Jacob Kovacs-Goodman and Francois Barrilleaux at [Just Security](https://www.justsecurity.org): [https://www.justsecurity.org/92714/american-autocracy-threat-tracker/](https://www.justsecurity.org/92714/american-autocracy-threat-tracker/)  
+
+June 5, 2024
 ##  Far Right terrorist attacks and plots in the U.S. outnumber those by any other group.  
 These narratives ignore the facts about terrorist activity in the U.S.  
 Since the early 1990s, far right terrorist attacks and plots in the U.S. outnumber those by any other group.  
@@ -163,6 +166,8 @@ When so many profit by feeding fear and outrage by generating a constant flow of
 In that context, the [Associated Press has published guidance](https://blog.ap.org/standards-around-generative-ai) for their *reporters* that reminds all content producers that gGenerative AI makes it even easier for people to intentionally spread mis- and disinformation through altered words, photos, video or audio, including content that may have no signs of alteration, appearing realistic and authentic.  
 
 None of this is to imply that White grievance is associated with fantasy alone.  The *best* [propaganda](https://en.wikipedia.org/wiki/Propaganda) incorporates verifiable *facts* into its narrative.  The threads of grievance and outrage at *protesters, rioters, and looters* associated with what adherents often label as "*[Black Lives Matter](https://en.wikipedia.org/wiki/Black_Lives_Matter)*" are associated with collections ([*for example*](https://github.com/xnhl/riots)) of (curated, opinionated, or otherwise) of *real data* (*sometimes lacking context via ideologically driven selectivity*).  
+
+At a macro-level material portion of Far Right violence in the United States assumes white power over "*non-whites*," especially over those of African American heritage. For a recent example of how this plays out at the micro-level without overt physical violence, read "[Actor Wendell Pierce Tells the Beast Why He Shared ‘Vile’ Racist Incident](https://www.thedailybeast.com/actor-wendell-pierce-tells-the-daily-beast-why-he-shared-vile-racist-incident)." by Brooke Leigh Howard. Jun. 04, 2024.   
 
 It seems like one path to addressing this constellation of issues is to focus on better-functioning and more effective democracy.  One foundational thread of that work requires comprehensive civility to one another throughout governing and governmental bodies in the spirit of [John F. Kennedy's inaugural quote](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/inaugural-address-19610120) on the topic:  
 >So let us begin anew—remembering on both sides that civility is not a sign of weakness, and sincerity is always subject to proof. Let us never negotiate out of fear. But let us never fear to negotiate. Let both sides explore what problems unite us instead of belaboring those problems which divide us.  
