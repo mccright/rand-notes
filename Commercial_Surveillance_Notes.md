@@ -1,6 +1,6 @@
-### Rough, unfinished, work notes on this topic
+## Commercial Surveillance: Rough, unfinished, work notes on this topic
 
-For years I have been reading about how Internet enabled activities have evolved into a complex global *organism* that closely monitors, observes, analyzes, and monitizes our behaviors.  Those practices have enabled parallel *analysis* and *prediction* industries that "*add value*" to surveillance data.  Law enforcement organizations increrasingly consume a range of survelliance data across their operations.  Government organizations also [seem to invest increasing energy (*and money*) in a broad spectrum of digital data collection](https://www2.deloitte.com/content/dam/insights/articles/in176014%5Fcgi%5Fdigital-citizen-survey/DI%5FDigital-citizen-global.pdf).  One facet of that activity is aimed at [establishing digital-identity systems](https://www.institute.global/insights/tech-and-digitalisation/ten-actions-countries-should-take-to-create-digital-identity-ecosystem) (*with an emphasis on smartphone integration*) to help -- among other things -- identify and *index* our activities...  
+For years I have been reading about how Internet enabled activities have evolved into a complex global *organism* that closely monitors, observes, analyzes, and monitizes our behaviors (*surveillance*).  Those practices have enabled parallel *analysis* and *prediction* industries that "*add value*" to surveillance data.  Law enforcement organizations increrasingly consume a range of survelliance data across their operations.  Government organizations also [seem to invest increasing energy (*and money*) in a broad spectrum of digital data collection](https://www2.deloitte.com/content/dam/insights/articles/in176014%5Fcgi%5Fdigital-citizen-survey/DI%5FDigital-citizen-global.pdf).  One facet of that activity is aimed at [establishing digital-identity systems](https://www.institute.global/insights/tech-and-digitalisation/ten-actions-countries-should-take-to-create-digital-identity-ecosystem) (*with an emphasis on smartphone integration*) to help -- among other things -- identify and *index* our activities...  
   
 I agree with Geoffrey A. Fowler that there are many reasons that we need to keep asking ourselves not only ["*what I can get out of any given technology*" but "*what that technology gets from me*."](https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/)  
 
@@ -9,12 +9,17 @@ I agree with Geoffrey A. Fowler that there are many reasons that we need to keep
 * What do you say (*and what do others say around you*)?  Is what you "say" a useful proxy for what you think?...what you value?  
 * Where do you invest your *attention*? / ...and when?  
 * Where are your assets?  
+* What are your assets?  
 * What is the scale of the financial (*and other*) assets that you own/control?  
- * What type(s) of authentication do you use to protect your financial (*and other*) assets?  
+  * What type(s) of authentication do you use to protect your financial (*and other*) assets?  
 * What is the scale of your debt/credit obligations?  Where, when, how and for what do you aquire/exercise debt/credit?  
 * What do you buy? Where do you buy? / How do you spend? / ...and when?  
 * What do you eat? / ...where and when?  
 * Who are you? / Bodily? / Legally? / Politically?  How do you describe yourself?  
+* What is your health status?  
+  * What is your diet?
+  *
+  *
 * What questions do you ask?  
 * What do you care about?  
 * Who/what do you read?  
@@ -36,7 +41,7 @@ These notes are in support of a still-vaguely-imagined recreational software pro
 * Forensic technicians and blue teams.  
 * Developers interested in writing applications in ways that *share*/*expose* less data associated with their users.  
 * Those interested in reducing their exposure to data collectors and scavengers.  
-* Those interested in reducing the effectiveness of AI-driven personalized maniplation.  
+* Those interested in reducing (*or enhancing*) the effectiveness of AI-driven personalized maniplation.  
 * Those interested in open source projects that involve scraping web sites.  
 * Those interested in helping women (*and those who support them*) protect their reproductive rights.[Note1](https://github.com/mccright/rand-notes/blob/master/Commercial_Surveillance_Notes.md#note1)  
 * And more.  
