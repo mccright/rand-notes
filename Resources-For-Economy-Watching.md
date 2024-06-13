@@ -62,6 +62,8 @@ In the context of my interests and needs, "*economy watching*" is largely *watch
 * There is a thread of industry logic that says excessive fear tends to drive down share prices, and too much greed tends to have the opposite effect.  CNN suggests it can be used to gauge the mood of the market. [https://www.cnn.com/markets/fear-and-greed](https://www.cnn.com/markets/fear-and-greed)  
 * Survey of Consumer Expectations from the New York Fed's [Applied Macroeconomics and Econometrics Center (AMEC)](https://newyorkfed.org/research/amec).  [https://www.newyorkfed.org/microeconomics/sce#/](https://www.newyorkfed.org/microeconomics/sce#/)  
 * A "Summary of Economic Projections" from the Federal Reserve Board of Governors and each Federal Reserve Bank president. Economic projections are collected from each member of the Board of Governors and each Federal Reserve Bank president four times a year, in connection with the Federal Open Market Committee's (FOMC's) meetings in March, June, September, and December. The charts and tables associated with those projections are released shortly following the end of an FOMC meeting. [https://www.federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm](https://www.federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm)  
+* [Real Gross Domestic Product (GDPC1) Billions of Chained 2017 Dollars, Seasonally Adjusted Annual Rate](https://fred.stlouisfed.org/series/GDPC1) and [Table 1.1.6. Real Gross Domestic Product, Chained Dollars: Quarterly](https://fred.stlouisfed.org/release/tables?rid=53&eid=13026#snid=13027)  
+* [Unemployment Rate (UNRATE) Percent, Seasonally Adjusted, Monthly](https://fred.stlouisfed.org/series/UNRATE)  
   
 
 **Stock market indexes:**  
