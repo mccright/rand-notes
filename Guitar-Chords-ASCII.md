@@ -49,6 +49,8 @@ A7sus4                   [x 0 0 0 x 0] (D  E  G  A) : sus4 triad, minor 7th
 A9                       [0 2 2 2 2 3] (A  C# E  G  B) : 
 Aadd9     or   A2        [0 0 2 4 2 0] (Db E  A  B) : major triad plus 9th
 Aadd9     or   A2        [x 0 7 6 0 0] (Db E  A  B) : major triad plus 9th
+Aaug                     [x x 2 1 1 0] (E  Ab C  E) : augmented triad  
+Aaug                     [4 3 2 1 x x] (Ab C  E  Ab) : augmented triad  
 Aaug/D                   [x x 0 2 2 1] (Db D  F  A) : augmented triad (altered bass)
 Aaug/G                   [1 0 3 0 2 1] (Db F  G  A) : augmented triad (altered bass)
 Ab        or   Abmaj     [4 6 6 5 4 4] (C  Eb Ab) : major triad
@@ -62,7 +64,9 @@ Ab5       or   Ab(no 3rd)[4 6 6 x x 4] (Eb Ab): root and 5th (power chord)
 Ab6                      [x 8 10 8 9 8] (C  Eb F  Ab) : major triad plus 6th
 Ab6                      [x x 1 1 1 1] (C  Eb F  Ab) : major triad plus 6th
 Ab7       or   Abdom 7   [x x 1 1 1 2] (C  Eb Gb Ab) : major triad, minor 7th
-Ab7       or   Abdom 7   [x x 4 5 4 4] (C  Eb Gb Ab) : major triad, minor 7th
+Ab7       or   Abdom 7   [x x 4 5 4 4] (C  Eb Gb Ab) : major triad, minor 7th  
+Abdim                    [x x 0 1 0 1] (D  Ab B  F) : diminished triad  
+Abdim                    [1 2 0 1 x x] (F  B  D  Ab) : diminished triad  
 Abdim/E                  [0 2 0 1 0 0] (D  E  Ab B) : diminished triad (altered bass)
 Abdim/E                  [0 2 2 1 3 0] (D  E  Ab B) : diminished triad (altered bass)
 Abdim/E                  [x 2 0 1 3 0] (D  E  Ab B) : diminished triad (altered bass)
@@ -81,8 +85,9 @@ Abm/E                    [0 x 6 4 4 0] (Eb E  Ab B) : minor triad (altered bass)
 Abm/E                    [x x 1 1 0 0] (Eb E  Ab B) : minor triad (altered bass)
 Abm/Gb                   [x x 4 4 4 4] (Eb Gb Ab B) : minor triad (altered bass)
 Abm7                     [x x 4 4 4 4] (Eb Gb Ab B) : minor triad, minor 7th
+Abm7                     [x x 1 1 0 2] (Eb Ab B Gb) : minor triad, minor 7th
 Absus     or   Absus4    [x x 6 6 4 4] (Db Eb Ab) : no 3rd but a 4th from a major triad
-Absus2/F                 [x 1 3 1 4 1] (Eb F  Ab Bb) : sus2 triad (altered bass)
+Absus2/F                 [x 1 3 1 4 1] (Eb F Ab Bb) : sus2 triad (altered bass)
 Adim/Ab                  [x x 1 2 1 4] (C  Eb Ab A) : diminished triad (altered bass)
 Adim/E                   [0 3 x 2 4 0] (C  Eb E  A) : diminished triad (altered bass)
 Adim/F                   [x x 1 2 1 1] (C  Eb F  A) : diminished triad (altered bass)
@@ -374,12 +379,13 @@ Csus4/E                  [x 3 3 0 1 0] (C  E  F  G) : sus4 triad (altered bass)
 Csus4/E                  [x x 3 0 1 0] (C  E  F  G) : sus4 triad (altered bass)
 D         or   Dmaj      [x 5 4 2 3 2] (D  Gb A): major triad
 D         or   Dmaj      [x 9 7 7 x 2] (D  Gb A): major triad
-D         or   Dmaj      [2 0 0 2 3 2] (D  Gb A) : major triad
+D         or   Dmaj      [2 0 0 2 3 2] (D  A D F#) : major triad
 D         or   Dmaj      [x 0 0 2 3 2] (D  Gb A) : major triad
 D         or   Dmaj      [x 0 4 2 3 2] (D  Gb A) : major triad
-D         or   Dmaj      [x x 0 2 3 2] (D  Gb A) : major triad
-D         or   Dmaj      [x x 0 7 7 5] (D  Gb A) : major triad
+D         or   Dmaj      [x x 0 2 3 2] (D  A D F#) : major triad
+D         or   Dmaj      [x x 7 7 7 5] (A  D F# A) : major triad
 D #5      or   Daug      [x x 0 3 3 2] (D  Gb Bb) : augmented triad
+Daug                     [x x 4 3 3 2] (F# A# D  F#) : augmented triad
 D/B                      [x 0 4 4 3 2] (D  Gb A  B) : major triad (altered bass)
 D/B                      [x 2 0 2 0 2] (D  Gb A  B) : major triad (altered bass)
 D/B                      [x 2 0 2 3 2] (D  Gb A  B) : major triad (altered bass)
@@ -470,7 +476,7 @@ Dbmaj7    or   Db#7      [x 4 6 5 6 4] (C  Db F  Ab) : major triad, major 7th
 Dbsus2  or   Dbadd9(no3) [x x 6 6 4 4] (Db Eb Ab) : no 3rd but a 2nd from a major triad
 Dbsus4/Bb                [x x 4 3 2 4] (Db Gb Ab Bb) : sus4 triad (altered bass)
 Ddim/B                   [x 2 0 1 0 1] (D  F  Ab B) : diminished triad (altered bass)
-Ddim/B                   [x x 0 1 0 1] (D  F  Ab B) : diminished triad (altered bass)
+Ddim                     [x x 0 1 0 1] (D  Ab B F) : diminished triad (altered bass)
 Ddim/B                   [x x 3 4 3 4] (D  F  Ab B) : diminished triad (altered bass)
 Ddim/Bb                  [x 1 3 1 3 1] (D  F  Ab Bb) : diminished triad (altered bass)
 Ddim/Bb                  [x x 3 3 3 4] (D  F  Ab Bb) : diminished triad (altered bass)
