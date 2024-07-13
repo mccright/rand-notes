@@ -16,7 +16,7 @@ See the [Trump Trials Clearinghouse](https://www.justsecurity.org/88175/trump-tr
 6. **Trump found liable for sexually abusing and defaming E. Jean Carroll.** In May 2023, a NY jury unanimously found Trump liable for sexually abusing and defaming writer [E. Jean Carroll](https://en.wikipedia.org/wiki/E._Jean_Carroll) and awarded Carroll $5 million in damages (*a sum that a federal judge subsequently upheld as reasonable*). In Jan. 2024, a second jury awarded Carroll an additional $83.3 million in damages after finding that after losing the first trial Trump repeatedly defamed the writer in his social media posts and other public statements. (*[see the Wikipedia summary](https://en.wikipedia.org/wiki/E._Jean_Carroll_v._Donald_J._Trump)*)  
 
 
-Trump has responded to these indictments by increasing his use of authoritarian language and threats, as well as accellerating his campaign of dehumanizing all those he chooses as targets.  
+Trump has responded to these indictments by increasing his use of authoritarian language and threats, as well as accellerating his campaign of dehumanizing all those he chooses as targets.  Trump and actors within his control have used increasingly hostile and threatening authoritarianism rhetoric against their perceived enemies and against laws and processes that inhibit their personal and political *freedom* in order to lay the groundwork for rejecting any person, people, organization, law, etc. that might threaten Trump and Trumpists existence as a national group and a distinct culture.  [Just Security](https://www.justsecurity.org/) maintains an up-to-date collection of these statements at "[American Autocracy Threat Tracker -- A Comprehensive Catalog Based on Donald Trump and His Associates’ Plans, Promises, and Propositions](https://www.justsecurity.org/92714/american-autocracy-threat-tracker/)."  
 
 [Amy B Wang wrote a recent article](https://www.washingtonpost.com/elections/2023/09/13/trump-putin-election-interfence/) on the Putin statements that Trump has been highlighting:  
 >“As for the prosecution of Trump, for us what is happening in today’s conditions, in my opinion, is good because it shows the rottenness of the American political system, which cannot pretend to teach others democracy,” Putin said at an economic forum in eastern Russia.  
@@ -36,6 +36,8 @@ Trump's money-losing, member-losing and feature-limited chat-centric, Twitter-li
 
 * In the classified documents case that Smith has also brought against the former president in June, the Trump team has sought to slow-walk the schedule for the proceedings, and Federal Judge Aileen M. Cannon has enabled their strategy to the extent that it is unlikely to see a jury before the 2024 election. There were hints of a similar strategy in the first hearing in the election subversion case.
 * [Federal prosecutors allege](#Ref8) that Trump "was determined to remain in power" after losing the election and that he and others orchestrated a plot to reverse the nation's voters' decision, which led up to the January 6, 2021, attack on the US Capitol.  
+
+A flowchart from JustSecurity shows pathways for prosecuting presidential conduct after the Supreme Court’s *Immunity* decision: https://www.justsecurity.org/95636/supreme-court-presidential-immunity/  
 
 | Date |Event|Relevance|
 |:----:|:---|:-------|
