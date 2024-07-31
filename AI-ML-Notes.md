@@ -4,16 +4,19 @@ There is an AI *theme* applied to virtually anything at work.  My experience say
 
 This is alpha interest work.  After percolating in this format for a while, I'll figure out how to better prioritize this reading and content.  
 
+For an up-to-date list of "*all*" large language models see: https://llmmodels.org/  
+
 
 ## Where do we encounter AI/ML?  
 * Games  
 * Investing  
 * Logistics systems  
 * Medical diagnosis  
-* Search 
+* Search  
+* Traffic management  
 * Autonomous driving  
 * Language translation  
-* Chatbots (general) 
+* Chatbots (general)  
 * Interactive personal assistance  
 * *Consumer*/*customer*/consumption suggestions, advice, and *support* (and product/service reviews)  
 * *Customer* support  
@@ -21,16 +24,25 @@ This is alpha interest work.  After percolating in this format for a while, I'll
 
 ## Required Workflow(s):  
 Starter list outline below:  
-* Data Governance (Trust-Building and Transparency)  
-* Data Collection (Acquire New Data as Needed; resist hostile inputs)  
-* Understanding the Target Business (including model performance metrics and business KPIs)  
+* Data Collection (Acquire New Data as Needed)  
+* Resist hostile inputs (Mission Integrity, Trust-Building and Transparency)  
 * Understanding the Data  
+* Data Governance (Mission Integrity, Trust-Building and Transparency)  
+  * Copyright/trademark/servicemark/etc. management  
+  * "*Documenting*" the data (*at many levels*) (Trust-Building and Transparency)  
+  * *Legal* review and *approval* (Mission Integrity, Trust-Building and Transparency)  
+* Understanding the Target Business (including model performance metrics and business KPIs)  
 * [Feature Engineering](https://en.wikipedia.org/wiki/Feature_engineering) & Data Preparation (Analysis, Cleaning, Repair; resist hostile inputs)  
 * Model Training (resist hostile inputs)  
+  * Quality testing, quality controls and reporting (Mission Integrity and Trust-Building)  
 * Model Evaluation  
+  * Quality testing, quality controls and reporting (Mission Integrity and Trust-Building)  
 * Model Deployment (resist hostile inputs)  
-* Monitor Deployed AI Model Quality (Trust-Building)  
-* Monitor Deployed AI Model Fairness (Trust-Building)  
+  * Quality testing, quality controls and reporting (Mission Integrity and Trust-Building)  
+  * Vulnerability testing and reporting (Mission Integrity and Trust-Building)  
+* Monitor Deployed AI Model Quality (Mission Integrity and Trust-Building)  
+  * Vulnerability testing and reporting (Mission Integrity and Trust-Building)  
+* Monitor Deployed AI Model Fairness (Mission Integrity and Trust-Building)  
 * Monitor Deployed AI Model Explainability (Trust-Building and Transparency)  
 
 List above began with a model [IBM AI lifecycle](https://www.ibm.com/blog/ai-model-lifecycle-management-build-phase/)  
