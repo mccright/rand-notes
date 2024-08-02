@@ -110,3 +110,5 @@ https://github.com/miroslavpejic85/awesome-selfhosted-mirotalk#communication---i
 https://github.com/topics/p2p-chat  
 
 https://www.gutenberg.org/ebooks/70235  
+
+Snapdrop: local file sharing in your browser. Inspired by Apple's Airdrop. https://github.com/RobinLinus/snapdrop  
