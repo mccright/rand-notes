@@ -155,7 +155,9 @@ As an overview, see their ["Global Mean Temperature" diagram](https://berkeleyea
 | Central and Eastern Winter Storm and Cold Wave | Dec.2022 | 8.8 | 87 |
 | Central and Eastern Tornado & Severe Weather | Mar 31-Apr 1 2023 | 5.7 | 33 |
 | Hawaii firestorm | Aug 8, 2023 | 5.6 | 100 |
-	
+
+...and lots more.  For example, In August 2024 [Tyler Jett wrote](https://www.desmoinesregister.com/story/money/business/2024/08/01/imt-insurance-exits-minnesota-raises-deductibles-amid-storm-expenses-sean-kennedy/74617695007/) in the Des Moines Register that [a Midwestern Mutual Insurance company was contracting its business footprint](https://www.youtube.com/watch?v=hwqLZF9DcJE) in an attempt to adapt to increasing property losses:  
+>National Oceanic and Atmospheric Administration data showing that 13 storms causing at least $1 billion in damage have hit Minnesota since 2021. In the prior decade, just seven such storms hit Minnesota.  Iowa likewise has recorded 13 billion-dollar storms from 2021 through this year, after just seven such storms in the previous decade, and other Midwestern states have seen a similar trend in the fequency of severe storms.  
 
 United Nations, "Climate and Weather related Disasters Surge Five-fold Over 50 Years, but Early Warnings Save Lives – WMO report," UN News, Sept. 1, 2021  
 and  
