@@ -163,8 +163,8 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 ### Temperature Conversion Formulas Table II  
 |Degrees                |Conversion Formula |
 |:----------------------|:------------------|
-|Degree Celsius (°C)    |(°F - 32) x (5 / 9) |
-|Degree Celsius (°C)    |(K - 273.15) |
+|Degree Celsius (&#176;C)    |(&#176;F - 32) x (5 / 9) |
+|Degree Celsius (&#176;C)    |(&#176;K - 273.15) |
 |Degree Fahrenheit (°F) |(°C x (5 / 9)) + 32 |
 |Degree Fahrenheit (°F) |(1.8 x K) - 459.67 |
 |Kelvin (K)             |(°C + 273.15) |
