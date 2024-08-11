@@ -165,10 +165,10 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 |:----------------------|:------------------|
 |Degree Celsius (&#176;C)    |(&#176;F - 32) x (5 / 9) |
 |Degree Celsius (&#176;C)    |(&#176;K - 273.15) |
-|Degree Fahrenheit (°F) |(°C x (5 / 9)) + 32 |
-|Degree Fahrenheit (°F) |(1.8 x K) - 459.67 |
-|Kelvin (K)             |(°C + 273.15) |
-|Kelvin (K)             |(°F + 459.67) ÷ 1.8 |
+|Degree Fahrenheit (&#176;F) |(&#176;C x (5 / 9)) + 32 |
+|Degree Fahrenheit (&#176;F) |(1.8 x &#176;K) - 459.67 |
+|Kelvin (K)             |(&#176;C + 273.15) |
+|Kelvin (K)             |(&#176;F + 459.67) ÷ 1.8 |
 
 Thank you [International Society of Automation](https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf) for this table.  
 
