@@ -156,19 +156,19 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 ### Temperature  
 | From      |     To This           |
 |:----------|:----------------------|
-|Fahrenheit |Subtract 32, then multiply by 5/9ths Celsius |
-|Celsius    |Multiply by 9/5ths, then add 32 Fahrenheit |
+|&#176;Fahrenheit |Subtract 32, then multiply by 5/9ths &#176;Celsius |
+|&#176;Celsius    |Multiply by 9/5ths, then add 32 &#176;Fahrenheit |
 
 
 ### Temperature Conversion Formulas Table II  
-|Degrees                |Conversion Formula |
+|Degrees (&#176;)       |Conversion Formula |
 |:----------------------|:------------------|
 |Degree Celsius (&#176;C)    |(&#176;F - 32) x (5 / 9) |
 |Degree Celsius (&#176;C)    |(&#176;K - 273.15) |
 |Degree Fahrenheit (&#176;F) |(&#176;C x (5 / 9)) + 32 |
 |Degree Fahrenheit (&#176;F) |(1.8 x &#176;K) - 459.67 |
-|Kelvin (K)             |(&#176;C + 273.15) |
-|Kelvin (K)             |(&#176;F + 459.67) ÷ 1.8 |
+|Kelvin (&#176;K)             |(&#176;C + 273.15) |
+|Kelvin (&#176;K)             |(&#176;F + 459.67) ÷ 1.8 |
 
 Thank you [International Society of Automation](https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf) for this table.  
 
