@@ -4,6 +4,26 @@ There is a big list at: https://www.logue.net/chords/charts/chords_standard.pdf
 The bottom 3 strings of a standard-tuned ukulele are tuned 5 semitones (frets) higher than the corresponding bottom 3 strings on a standard-tuned guitar. The 4th string from the bottom is tuned 17 semitones higher than the corresponding guitar string. One octave (12 semitones) plus 5 semitones equals 17 semitones, so any given chord finger pattern on a ukulele produces a chord 5 semitones above the chord produced by the same finger pattern on a guitar.  
 As a result, you can put a capo behind the 5th fret of a guitar and then play the bottom 4 strings as if they were a ukulele. The 4th string from the bottom will be an octave lower than the corresponding string on a ukulele, but chords will still be correct (*[Thank you Logue Music Services](https://www.logue.net/xp/uke_guitar.htm)*).  
 
+### Asus4  
+```terminal
+   +---+---+---+---+---+---
+   +---+---+-2-+---+---+---
+   +---+-1-+---+---+---+---
+   +---+---+---+---+---+---
+  o+---+---+---+---+---+---
+  x+---+---+---+---+---+---
+```
+
+### Asus4  
+```terminal
+   +---+---+-4-+---+---+---
+   +---+---+-3-+---+---+---
+   +---+-2-+---+---+---+---
+   +---+-1-+---+---+---+---
+  o+---+---+---+---+---+---
+  x+---+---+---+---+---+---
+```
+
 ### Am7♭5  
 ```terminal
    +---+---+-4-+---+---+---
@@ -105,6 +125,16 @@ As a result, you can put a capo behind the 5th fret of a guitar and then play th
 ```
 
 ### C6  
+```terminal
+   +---+---+-4-+---+---+---
+   +-2-+---+---+---+---+---
+   +---+---+---+---+---+---
+   +-1-+---+---+---+---+---
+  x+---+---+---+---+---+---
+  x+---+---+---+---+---+---
+```
+
+### C6 (alt.)  
 ```terminal
    +---+---+-4-+---+---+---
    +-1-+---+---+---+---+---
