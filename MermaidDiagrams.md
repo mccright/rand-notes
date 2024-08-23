@@ -26,9 +26,13 @@ graph TD;
   Node2-->Node3;
 ```
   
-There are a broad spectrum of use cases where diagramming with Marmaid is a good fit.  
+#### There are a broad spectrum of use cases where diagramming with Marmaid is a good fit.  
   
 * Mermaid JS [https://github.com/mermaid-js/mermaid/releases/latest](https://github.com/mermaid-js/mermaid/releases/latest)  
 * Mermaid integrations [https://github.com/mermaid-js/mermaid/blob/develop/docs/integrations.md](https://github.com/mermaid-js/mermaid/blob/develop/docs/integrations.md)  
 * Mermaid server [https://github.com/TomWright/mermaid-server](https://github.com/TomWright/mermaid-server)  
 * Linux Format Article: "[Dynamic diagrams with Mermaid](https://www.pressreader.com/australia/linux-format/20210309/281715502348881)." by Mihalis Tsoukalos - source code available at [https://www.linuxformat.com/archives?issue=274](https://www.linuxformat.com/archives?issue=274)  
+
+
+#### There is also some alternative tooling:  
+* Also see Mermaid-Server by Tom Wright [https://github.com/TomWright/mermaid-server](https://github.com/TomWright/mermaid-server)  
