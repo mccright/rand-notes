@@ -119,6 +119,7 @@ For at least half a century, [economists](https://en.wikipedia.org/wiki/Economic
 -----
 
 #### Need to research these...  
+* Purchasing Managers Index (PMI®) (economic indicators by [S&P Global](https://www.spglobal.com/en/who-we-are/) [https://www.pmi.spglobal.com/](https://www.pmi.spglobal.com/))  
 * Cost-of-Thriving Index (by the conservative "American Compass" organization: [https://americancompass.org/2023-cost-of-thriving-index/](https://americancompass.org/2023-cost-of-thriving-index/)  
 * A New Barometer of Global Supply Chain Pressures [https://libertystreeteconomics.newyorkfed.org/2022/01/a-new-barometer-of-global-supply-chain-pressures/](https://libertystreeteconomics.newyorkfed.org/2022/01/a-new-barometer-of-global-supply-chain-pressures/)  and  Global Supply Chain Pressure Index: March 2022 Update [https://libertystreeteconomics.newyorkfed.org/2022/03/global-supply-chain-pressure-index-march-2022-update/](https://libertystreeteconomics.newyorkfed.org/2022/03/global-supply-chain-pressure-index-march-2022-update/)  
 * More broadly, just what is *interesting* to researchers at the NY Fed? [https://libertystreeteconomics.newyorkfed.org/](https://libertystreeteconomics.newyorkfed.org/)  
