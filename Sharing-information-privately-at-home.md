@@ -54,8 +54,21 @@ python3 ./app.py
 It requires users write in HTML, which will be a turn-off for some (it is not at my home for this use case).  It appears to have no concept of https/TLS communications yet, so it is not appropriate for unsafe networks.  The authors have produced a good start.  I'll keep looking for now.  
 
 
-### Next An Experiment with _________  
-CS Class Chat app using Flask
+### Next An Experiment with Convos  
+https://github.com/convos-chat/convos  
+Installation is a breeze, but I immediately learned that I had not carefully read the documentation.  
+```terminal
+curl https://convos.chat/install.sh | sh -
+./convos/script/convos daemon
+```
+
+The script output showed that I was installing a Perl application -- something I had not done for years...  
+In addition, the server appeared to work immediately, but the configuration showed me that this was not a local installation at all. I was using irc.libera.chat in the background.  
+The documentation emphasized "[Convos is all about privacy](https://convos.by/)" This project is a web interface to global IRC.  Pretty neat, but not what I am looking for.   
+
+
+
+### Next An Experiment with *CS Class Chat app using Flask*  
 [https://github.com/saarikabhasi/Chat-application](https://github.com/saarikabhasi/Chat-application)  
 My limited experimentation did not show this as a contender at test time.  
 
