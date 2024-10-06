@@ -114,11 +114,14 @@ As an overview, see their ["Global Mean Temperature" diagram](https://berkeleyea
 >An analysis of the EM-DAT records indicates that 62% of all recorded disasters, 80% of all deaths and almost all (99%) economic losses were associated with natural hazards.  
 >Of the 22,326 disasters, 11,072 have been attributed to weather, climate and water hazards. These disasters resulted in 2.06 million deaths and US$3.64 trillion in losses. Thus, over the last 50 years, 50% of all recorded disasters, 45% of related deaths and 74% of related economic losses were due to weather, climate and water hazards."  
 
+[Between 2000 and 2024 the U.S. state of Florida has been struck by at least 79 tropical and subtropical cyclones, their remnants, and their precursors causing more than $236 billion in damage and 615 deaths](https://en.wikipedia.org/wiki/List_of_Florida_hurricanes_(2000%E2%80%93present)).  
+
 #### Top 10 Weather-Related Disasters in the U.S. in the last 50 Years (through 2023)  
 [WMO-No. 1267](https://library.wmo.int/doc_num.php?explnum_id=10989) page 41 and NOAA "[Billion-Dollar Weather and Climate Disasters](https://www.ncei.noaa.gov/access/billions/events/US/1980-2024?disasters[]=all-disasters)" and its [CSV data](https://www.ncei.noaa.gov/access/billions/events-US-1980-2024.csv)  
 | Name            | Year | Economic losses US$ billion | Deaths |
 |-----------------|------|-----------------------------|--------|
 | Storm (Katrina) | 2005 | 196.3 | 1,833 |
+| Storm (Helene) | 2024 | ???.?? | >200 |
 | Storm (Harvey) | 2017 | 156.25 | 89 |
 | Storm (Ian) | 2022 | 116.27 | 152 |
 | Storm (Maria) | 2017 | 112.5 | 2,981 |
