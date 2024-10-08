@@ -24,6 +24,11 @@ I use this resource locally, hoping to reduce my network I/O and my search traff
 |1 kilometer |0.621372 miles |
 |1 kilometer |0.539957 nautical miles |
 |1 kilometer |1093.6133 yards |
+|1 klick/click |1 kilometer |
+|1 klick/click |0.621372 miles |
+|1 klick/click |0.539957 nautical miles |
+|1 klick/click |1093.6133 yards |
+|1 klick/click |3280.84 feet |
 
 ### Length Units Table II  
 |Millimeters |Centimeters |Meters |Kilometers |Inches |Feet |Yards |Miles |
