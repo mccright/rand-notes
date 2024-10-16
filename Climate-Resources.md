@@ -130,6 +130,7 @@ As an overview, see their ["Global Mean Temperature" diagram](https://berkeleyea
 | Storm (Irma) | 2017 | 62.5 | 97 |
 | Storm (Andrew) | 1992 | 59.1 | 61 |
 | Drought/Heat Wave | Summer 1988 | 53.4 | 454 |
+| Storm (Milton) | 2024 | 50?? | 16 |
 | Midwest Flooding | Summer 1993 | 45.3 | 48 |
 | Storm (Ike) | 2008 | 42.3 | 112 |
 | Drought/Heat Wave | 2012 | 40.8 | 123 |
