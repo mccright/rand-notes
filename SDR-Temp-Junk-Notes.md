@@ -17,17 +17,25 @@ Then set up the Pi as an SDR streaming server: https://eliaselectronics.com/rtls
 The **U.S. Global Positioning System** (GPS) technology operates in [the following frequency bands](https://en.wikipedia.org/wiki/GPS_signals):  
 * GPS L1 Band: 1575.42 MHz with a bandwidth of 15.345 MHz  
 * GPS L2 Band: 1227.6 MHz with a bandwidth of 11 MHz  
-* GPS L5 Band: 1176.45 MHz with a bandwidth of 12.5 MHz 
+* GPS L5 Band: 1176.45 MHz with a bandwidth of 12.5 MHz  
+
 **Europe's Global Navigation Satellite System (GNSS) Galileo** technology operates in the following frequency bands:  
 * Galileo E1 Band: 1559 MHz to 1591 MHz with a center frequency of 1575.42 MHz  
 * Galileo E6 Band: 1260 MHz to 1300 MHz with a center frequency of 1278.75 MHz  
 * Galileo E5 Band: 1164 MHz to 1214 MHz with a center frequency of 1189 MHz  
    * Galileo E5a Band: 1164 MHz to 1189 MHz with a center frequency of 1176.5 MHz  
    * Galileo E5b Band: 1189 MHz to 1214 MHz with a center frequency of 1201.5 MHz  
-**China's Global Navigation Satellite System (GNSS) Beidou BDS-3** technology operates three open service signals in the following frequency bands:    
-   * B1C:    1575.42 MHz with a bandwidth of 32.736 MHz    
-   * B2a:    1176.45 MHz with  a bandwidth of 20.46 MHz    
+
+**[China's Global Navigation Satellite System](https://en.wikipedia.org/wiki/BeiDou_Navigation_Satellite_System) (GNSS) Beidou BDS-3** technology operates three open service signals in the following frequency bands:  
+   * B1C:    1575.42 MHz with a bandwidth of 32.736 MHz  
+   * B2a:    1176.45 MHz with  a bandwidth of 20.46 MHz  
    * B3I:     1268.52 MHz with a bandwidth of 20.46 MHz  
+
+**[Japan's Quasi-Zenith Satellite System (QZSS)](https://en.wikipedia.org/wiki/Quasi-Zenith_Satellite_System)**:  
+
+**[Indian Regional Navigation Satellite System](https://en.wikipedia.org/wiki/Indian_Regional_Navigation_Satellite_System)**:  
+
+**[Russian Global Navigation Satellite System (GLONASS)](https://en.wikipedia.org/wiki/GLONASS)**:  
 
 ### Antenna Notes:  
 See this general reference "Antennas, Aerials, & Propagation" [http://www.radio-electronics.com/info/antennas/](http://www.radio-electronics.com/info/antennas/)    
