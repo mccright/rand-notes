@@ -36,17 +36,20 @@ The **U.S. Global Positioning System** (GPS) technology operates in [the followi
 **[Indian Regional Navigation Satellite System](https://en.wikipedia.org/wiki/Indian_Regional_Navigation_Satellite_System)**:  
 
 **[Russian Global Navigation Satellite System (GLONASS)](https://en.wikipedia.org/wiki/GLONASS)**:  
-GLONASS open standard-precision signal [frequency-division multiple access (FDMA)]:  
+*GLONASS open standard-precision signal [frequency-division multiple access (FDMA)]*:  
 * GLONASS L1OF Band: 15-channels spanning either side from 1602.0 MHz, the center frequency being 1602 MHz + n × 0.5625 MHz, where n is a satellite's frequency channel number.  
 * GLONASS L2OF Band: 15-channels spanning either side from 1246.0 MHz, the center frequency being 1246 MHz + n × 0.4375 MHz, where n is a satellite's frequency channel number.  
-GLONASS obfuscated high-precision signal:  
+
+*GLONASS obfuscated high-precision signal*:  
 * GLONASS L1SF/L2SF.  GLONASS restricted-use codes are broadcast in the clear using only security through obscurity. The details of the high-precision signal have not been disclosed.  
-GLONASS open standard-precision signal (*Newer* -- in testing or design phases [code-division multiple access (CDMA)]):  
+
+*GLONASS open standard-precision signal (*Newer* -- in testing or design phases [code-division multiple access (CDMA)])*:  
 * GLONASS L1OC/L1SC Band: 15-channels spanning either side from 1600.995 MHz, the center frequency being 1600.995 MHz + n × 0.5625 MHz, where n is a satellite's frequency channel number.  
 * GLONASS L2OC/L2SC Band: 15-channels spanning either side from 1246.0 MHz, the center frequency being 1246 MHz + n × 0.4375 MHz, where n is a satellite's frequency channel number.  
 * GLONASS L3OC/L3SVI Band: 15-channels spanning either side from 1202.025 MHz, the center frequency being 1202.025 MHz + n × 0.4375 MHz, where n is a satellite's frequency channel number.  
-GLONASS obfuscated high-precision signal:  
-* GLONASS obfuscated high-precision signal L1SC/L2SC/L3SVI.  GLONASS restricted-use codes are broadcast in the clear using only security through obscurity. The details of the high-precision signal have not been disclosed.
+
+*GLONASS obfuscated high-precision signal*:  
+* GLONASS obfuscated high-precision signal L1SC/L2SC/L3SVI.  GLONASS restricted-use codes are broadcast in the clear using only security through obscurity. The details of the high-precision signal have not been disclosed.  
 
 ### Antenna Notes:  
 See this general reference "Antennas, Aerials, & Propagation" [http://www.radio-electronics.com/info/antennas/](http://www.radio-electronics.com/info/antennas/)    
