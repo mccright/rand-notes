@@ -55,7 +55,13 @@ The **U.S. Global Positioning System** (GPS) technology operates in [the followi
 See this general reference "Antennas, Aerials, & Propagation" [http://www.radio-electronics.com/info/antennas/](http://www.radio-electronics.com/info/antennas/)    
 Calculating WaveLengths: Calculate Wavelength: [https://www.easycalculation.com/physics/electromagnetism/antenna-wavelength.php](https://www.easycalculation.com/physics/electromagnetism/antenna-wavelength.php), or [http://wxtofly.net/wavecalc.htm](http://wxtofly.net/wavecalc.htm)  
 Calculating Antenna Lengths:  Monopole antennas: [https://itstillworks.com/calculate-monopole-length-8644948.html](https://itstillworks.com/calculate-monopole-length-8644948.html) and Dipole antennas: [http://www.radio-electronics.com/info/antennas/dipole/dipole.php](http://www.radio-electronics.com/info/antennas/dipole/dipole.php), or [http://www.westmountainradio.com/antenna_calculator.php?frequency=433](http://www.westmountainradio.com/antenna_calculator.php?frequency=433)  
-Here is a relevant blog: [https://eliaselectronics.com/rtlsdr/2015/04/26/crude-skewed-wheel-antenna-gps.html](https://eliaselectronics.com/rtlsdr/2015/04/26/crude-skewed-wheel-antenna-gps.html)  
+The Skew-Planar Wheel Antenna - Revisited.  This is a useful antenna design that has been forgotten for 40 years.  It has a low omnidirectional pattern and is circularly polarized.  By Graham Ide, VE3BYT, with David Conn, VE3KL. [http://www.ve3byt.com/SkewPlanarAntenna/](http://www.ve3byt.com/SkewPlanarAntenna/) and if that page is down, a copy of that article is at: [https://www.flitetest.com/articles/The_Skew_Planar_Wheel_Antenna](https://www.flitetest.com/articles/The_Skew_Planar_Wheel_Antenna)  
+To find alternative VHF & UHF antenna designs, see: https://www.dxzone.com/catalog/Antennas/VHF_UHF/more2.php  
+VHF / UHF Direct Connect Beams: https://www.qsl.net/w4sat/antlegn.htm  
+9 J-pole-antenna-projects some samples of copper J-Pole antennas -- a collection of links about making a dual band VHF UHF copper cactus antenna: https://www.dxzone.com/make-your-own-copper-cactus-antenna/  
+The DK7ZB-Match for Yagis: https://www.qsl.net/dk7zb/dk7zb-match.htm  
+
+
 and for more detail, see Skew-Planar Wheel Antenna [http://www.slvrc.org/902band/skewplanar.htm](http://www.slvrc.org/902band/skewplanar.htm)  
 N.B. Testing and analysis has shown that the elements should be slightly more than one wavelength long ( WL x 1.0443 ).
 The factors to use are:  31329 / F (centimeters) or 12334 / F (inches) long.  
