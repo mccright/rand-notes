@@ -121,10 +121,11 @@ As an overview, see their ["Global Mean Temperature" diagram](https://berkeleyea
 | Name            | Year | Economic losses US$ billion | Deaths |
 |-----------------|------|-----------------------------|--------|
 | Storm (Katrina) | 2005 | 196.3 | 1,833 |
-| Storm (Helene) | 2024 | ???.?? | >250 |
 | Storm (Harvey) | 2017 | 156.25 | 89 |
 | Storm (Ian) | 2022 | 116.27 | 152 |
 | Storm (Maria) | 2017 | 112.5 | 2,981 |
+| Storm (Helene) | 2024 | >100 (*with Milton*) | >250 |
+| Storm (Milton) | 2024 | >100 (*with Helene*) | 29 |
 | Storm (Sandy) | 2012 | 86.5 | 159 |
 | Storm (Ida) | 2021 | 83.1 | 96 |
 | Storm (Irma) | 2017 | 62.5 | 97 |
