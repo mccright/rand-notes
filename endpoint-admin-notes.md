@@ -38,6 +38,7 @@ Use the NTP protocol.
 In the U.S., the global address ```time.nist.gov``` is resolved to all of the server addresses listed in the first table at [https://tf.nist.gov/tf-cgi/servers.cgi](https://tf.nist.gov/tf-cgi/servers.cgi) in a round-robin sequence to equalize the load across all of the servers.  Outside North America, see the list of time source maintainers [here](https://webtai.bipm.org/ftp/pub/tai/annual-reports/bipm-annual-report/TIMESERVICES/timeservices.pdf).  It is a bad practice to "hard-code" a particular server name or IP address into an endpoint as this infrastructure incorporates maintenance and evolves...  Also, never query a server more frequently than once every 4 seconds because systems that exceed this rate will be refused service by NIST and possibly be identified as a DoS source.  
 Do not use the ancient and expensive "TIME" (port 37) or "DAYTIME" (port 13) protocols.  
 
+
 ### Developers who want to expose their applications on their endpoint to the Internet  
 First, this ```idea``` may not be appropriate for any of your developers.  Exposing developer endpoints to inbound Internet traffic necessarily involves risks -- and under many circumstances, business-inappropriate risks.  
 If you ***must*** do this, consider **[ngrok](https://ngrok.com)**: ngrok is a globally distributed reverse proxy fronting your web services running on a given endpoint, or in any cloud or private network.  *Paid [ngrok](https://ngrok.com/pricing)* has additional features that support its promotion as "the programmable network edge that adds connectivity, security, and observability to your apps with no code changes."  Pay attention to the details of every request.  The free version may not be suitable for your business, your local environment, or your regulators/investors/customers.  
@@ -46,6 +47,10 @@ If you ***must*** do this, consider **[ngrok](https://ngrok.com)**: ngrok is a g
 ### Booting a PC from a USB drive  
 Many PCs have a configuration screen to select the boot drive/media.  
 It is often accessed by pressing a key while powering on the PC.  See a nearby file for some [Vendor / Key combinations](https://github.com/mccright/rand-notes/blob/master/Boot-PC-from-a-USB-drive.md) in this repository.  
+
+
+### How to set up an SSD with the Raspberry Pi 4 (*or almost any other Debian-based Linux endpoint*)
+By {The Pi Hut](https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-set-up-an-ssd-with-the-raspberry-pi). You bought a new SSD and a USB3-to-SSD adapter cable and need to get it all set up...  If this was a new drive, in order to use it the SSD needs to have partition tables and partitions created, and these need to be 'mounted.' [This highly illustrated article](https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-set-up-an-ssd-with-the-raspberry-pi) takes you through the detailed steps for getting that external SSD set up for use.  
 
 
 ### Backup with rsync  
