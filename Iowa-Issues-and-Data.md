@@ -42,6 +42,7 @@ A non-scientific review of Iowa legislator's recently filed legislation tagged a
 	* [SF413](https://legiscan.com/IA/bill/SF413/2021):	A bill for an act relating to the conduct of elections, including absentee ballots and voter list maintenance activities, making penalties applicable, and including effective date and applicability provisions. (Formerly SSB 1199.)  
 	* [SF568](https://legiscan.com/IA/bill/SF568/2021):	A bill for an act relating to the conduct of elections, including nominations, procedures for proposed amendments to the Iowa Constitution, and absentee voting, and including effective date provisions. (Formerly SSB 1237.)  
 * Iowa legislators again showed **a lot** of interest in mucking with elections in 2023.  A [search of their "Legislative Documents" site](https://www.legis.iowa.gov/publications/search?tab=true&rows=10&start=0&sort=score%20desc&q=elections&fq=-status%3A%22Reserved%22%20AND%20-status%3A%22Repealed%22%20AND%20-status%3A%22Rescinded%22&fq=(l1%3A%22leg%3A0976%7C90th%20GA%202nd%20Session%22%20OR%20l1%3A%22leg%3A0977%7C90th%20GA%201st%20Session%22)) shows **644** individual pieces of legislation filed in one status or another (*many of those did not pass in 2023*).  
+* Late in the 2024 election season, Iowa Secretary of State Paul Pate released a very low quality (*lots of known weaknesses at time of issue*) list of Iowa Residents that he suspected of voter crimes -- primarily of voting while being a non-citizen.  As county personnel were approaching maximum workload for the pending election, Pate required counties to act on his flawed list. This appeared to be little more than a public show of support to a Trumpist narrative of *massive illegal non-citizen voting*, as well as a tactic to add chaos into election activities, to sow doubt about the *integrity* of elections, to instill fear in legal voter populations who are also immigrants, and possibly to support the Trumpist narrative that voting is *bad* in the U.S. and should be replaced with something else.  County personnel identified lots of errors in Pate's list...  
 
 
 ### Water in Iowa  
@@ -74,6 +75,10 @@ https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0
 (October 2022 - Polk County) 521 households are on the waitlist to find affordable housing in the county. 
 https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0  
 
+
+### Health Care  
+In November 2024 [Michaela Ramm reported for the Des Moines Register](https://desmoinesregister-ia.newsmemory.com?publink=0e0ca3598_134d504) that:  
+>"Forty- one hospitals — or about a third of Iowa’s hospitals — have shut down their labor and delivery units from 2000 to 2021, according to a state report. In many cases, these closures left a county without a birthing facility."  
 
 ### Banning Books  
 In May 2023, Gov. [Kim Reynolds signed Senate File 496](https://www.legis.iowa.gov/legislation/BillBook?ba=SF%20496&ga=90), that bans books (except "*religious books*") depicting sex acts from public schools -- threatening teachers and administrators with harsh penalties for non-compliance -- and resulting in the removal of more than 1,300 books from Iowa public schools.  After a 5 month delay, the Iowa State Board of Education published a "Notice of Intended Action" -- under the heading of "Eliminating Achievement and Opportunity Gaps" -- of [changes to Iowa School rules for “General Accreditation Standards”](https://educate.iowa.gov/sites/default/files/2023-11/2023-11-15SBE-Rules-Chapter12.pdf) in November 2023.  
