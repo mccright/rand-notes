@@ -75,6 +75,7 @@ https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0
 (October 2022 - Polk County) 521 households are on the waitlist to find affordable housing in the county. 
 https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0  
 
+
 ### Food/Hunger  
 Food insecurity in Iowa by the numbers (*By F. Amanda Tugade, 01-12-2024, [The Des Moines Register](https://desmoinesregister-ia.newsmemory.com?publink=0114326e8_134d555)*)  
 ● The average cost of a meal in Iowa is $4.  
@@ -84,9 +85,10 @@ Food insecurity in Iowa by the numbers (*By F. Amanda Tugade, 01-12-2024, [The D
 ● The average amount of extra money Iowans experiencing food insecurity need to cover food costs is roughly $245 million.  
 ● To qualify for any food assistance (*in Iowa*), a single person’s gross monthly limit is $1,632 (*$19,584/yr*), according to the Iowa Department of Health and Human Services.  
 
+
 ### Health Care  
 In November 2024 [Michaela Ramm reported for the Des Moines Register](https://desmoinesregister-ia.newsmemory.com?publink=0e0ca3598_134d504) that:  
->"Forty- one hospitals — or about a third of Iowa’s hospitals — have shut down their labor and delivery units from 2000 to 2021, according to a state report. In many cases, these closures left a county without a birthing facility."  
+>"Forty-one hospitals — or about a third of Iowa’s hospitals — have shut down their labor and delivery units from 2000 to 2021, according to a state report. In many cases, these closures left a county without a birthing facility."  
 In December 2024 [Clark Kauffman reported in the Iowa Capital Dispatch](https://iowacapitaldispatch.com/2024/12/04/ombudsmen-and-advocates-join-fight-over-nursing-home-staffing-levels/) that Iowa’s Brenna Bird and Kim Reynolds were attempting to block implementation of new nursing home staffing requirements even though:  
 >According to data from the Centers for Medicare and Medicaid Services, 14% of Iowa’s 422 nursing facilities were cited for insufficient staffing in fiscal year 2023, before the new (*Biden administration*) requirements were enacted. That’s more than double the national average, which was 5.9%.  Only five other states – Hawaii, Michigan, Montana, New Mexico and Oregon – had a worse record of compliance with the staffing requirements in place at that time.  
 
@@ -100,16 +102,29 @@ See the fruits of Iowa's book banning elected officials in the database "[Librar
 In May 2023, Gov. [Kim Reynolds signed Senate File 496](https://www.legis.iowa.gov/legislation/BillBook?ba=SF%20496&ga=90), that prohibits "[instruction related to gender identity and sexual orientation](https://www.legis.iowa.gov/docs/publications/SJNL/1375335.pdf#page=4)"
 in Iowa schools (*also see additional references on pages 1, 2, 3, 7, 11 and 13*). If any student "[requests an accommodation that is intended to affirm the student's gender identity](https://www.legis.iowa.gov/docs/publications/LGE/90/attachments/SF496_GovLetter.pdf#page=11)," their teacher (*or any "licensed practitioner employed by the school district"*) "[shall report the student's request to an administrator employed by the school district, and the administrator shall report the student's request to the student's parent or guardian.](https://www.legis.iowa.gov/docs/publications/LGE/90/attachments/SF496_GovLetter.pdf#page=11)"  The Governor's action also removed all mentions of "HPV," the availability of a "vaccine to prevent HPV," and references to "acquired immune deficiency syndrome" from the content required by "[health education](https://www.legis.iowa.gov/docs/publications/LGE/90/attachments/SF496_GovLetter.pdf#page=6)" and by "instruction in human growth and development](https://www.legis.iowa.gov/docs/publications/LGE/90/attachments/SF496_GovLetter.pdf#page=8)"  After a 5 month delay, the Iowa State Board of Education published a "Notice of Intended Action" -- under the heading of "Eliminating Achievement and Opportunity Gaps" -- of [changes to Iowa School rules for “General Accreditation Standards”](https://educate.iowa.gov/sites/default/files/2023-11/2023-11-15SBE-Rules-Chapter12.pdf) in November 2023.  
 
+
 ### Iowa Legislature's/Governor's "Don't Come Here" Law  
 With [Senate File 2340](https://www.legis.iowa.gov/publications/search/document?fq=id:1448304&q=%22Senate+File+2340%22) the Iowa Legislature and Governor created a new crime of "illegal reentry into state by certain aliens."  It says that anyone who has previously been deported, removed or denied admission to the United States and then enters Iowa, can be sent to prison in Iowa for up to 10 years and the judge in the case would have to order the convicted person to return to "the country they had come from." It also requires that anyone convicted of "[Illegal reentry into state by certain aliens](https://www.legis.iowa.gov/publications/search/document?fq=id:1448304&q=%22Senate+File+2340%22)" "shall not be eligible for a deferred judgment, deferred sentence, or suspended sentence."  
 
 While the new law says law enforcement officers can't arrest someone if that individual is in a school, a place of worship, a health care facility, or a facility for survivors of sexual assault, it also provides civil immunity from liability and indemnification for local law enforcement and other government officials along with contractors responsible for enforcing the measure. That immunity appears to support behaviors that make Iowa an unwelcoming place for all who do not emit the visual and audio queues that signal "Iowan" to state and local officials (*strongly suspect that means, for too many, "white without an accent"*).  
+
+
+### Too Many Iowa Leaders Attack "Iowa Nice."  
+If you have read down the page to this paragraph, you probably already know that [Iowa nice](https://en.wikipedia.org/wiki/Iowa_nice) is, at least in part, a myth...  
+President-elect Trump recently said that he would deport everyone in the U.S. without up-to-date federal government permission to be in the country, including any of their children who were born in the U.S.  Iowa Gov. Kim Reynolds has been a Trump and Trumpism enthusiast after the arrival of Covid-19 in 2020 [*[except for a short infatuation with Ron DeSantis in the pre-caucus 2024 Presidential campaign](https://www.politico.com/news/magazine/2024/01/19/kim-reynolds-trump-endorsements-00136372)*].  She [sent](https://apnews.com/article/iowa-guard-troops-texas-border-ce4b6127b24ecef7be46feeeb16af2e4) Iowa National Guard troops to Texas twice (*along with smaller groups of Iowa Department of Public Safety officers and Iowa State Patrol troopers*) to help Gov. Greg Abbott drive up the rate of death and maiming among populations attempting to cross the Rio Grand river.  In mid-December 2024, Reynolds has pledged to [deploy "every tool"](https://desmoinesregister-ia.newsmemory.com?publink=1158e9da5_134d562) at her disposal to support Trump's (*and Tom Homan's*) mass deportation promises.  
+["Iowa tees up for deportations -- Gov. promises to deploy 'every tool' for operation"](https://desmoinesregister-ia.newsmemory.com?publink=1158e9da5_134d562) by Sabine Martin.  
+
+
+### School Absenteeism  
+Chronic absenteeism is having missed at least 10% of school days or instructional hours.  In late 2024 the statewide average for chronic absenteeism in Iowa is [21% of the student population](https://desmoinesregister-ia.newsmemory.com?publink=031f19f7d_134d563) -- a number that represents additional challenges in the future for too many of those students, and illustrates weaknesses in student/family support systems.  During the 2024 legislative session, Iowa Republicans introduced [Senate File 2435](https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF2435) emphasizing charging and prosecuting parents of "Truant" students -- in Section 15, county attorneys are made responsible for enforcement of Iowa's truancy laws ("[has been absent from school, for any reason, for at least twenty percent of the days or hours in the grading period" [beginning on page 25](https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF2435).  
+
 
 ### Finding Information:  
 * The Iowa Legislature [https://www.legis.iowa.gov/](https://www.legis.iowa.gov/)  
 * Searching for what Iowa Legislators filed: [https://www.legis.iowa.gov/publications/search](https://www.legis.iowa.gov/publications/search)  
 * Legiscan IA [https://legiscan.com/IA](https://legiscan.com/IA)  
 * Iowa Data Center [https://www.iowadatacenter.org/index.php/quick-facts/iowa-quick-facts](https://www.iowadatacenter.org/index.php/quick-facts/iowa-quick-facts)  
+
 
 ### Other:  
 * "the four biggest oil companies — Exxon Mobile, Shell, Chevron, and Total Energies — have made over $330 billion in profits in just the past three years." [By Jonas Magram, DMR, 2024-03-10, page F3](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F003&artid=2&editionStart=Des%20Moines%20Register)  
