@@ -104,9 +104,6 @@ A flowchart from JustSecurity shows pathways for prosecuting presidential conduc
 |[2023-10-20](#Ref10) |Trump co-defendant [Kenneth Chesebro](https://en.wikipedia.org/wiki/Kenneth_Chesebro) (62) plead guilty to a single felony count of conspiracy to file false documents in the Georgia election case, and faces a prison sentence of one to five years. He also agreed to truthfully testify in the case against others.  Chesebro was the architect of a plan to use fake Trump electors in Georgia and other key states to replace legitimate 2020 electoral college votes for Biden -- disrupting and delaying the joint session of Congress on Jan. 6, 2021 and violating the rules in the Electoral Count Act, with the goal of swinging the election to Trump. |If he follows through and testifies honestly at his co-compirator's trials, this could be a material threat to Trump, Rudy Giuliani and others. It could also provide material help to the [federal criminal trial](#Ref9) where he appears to be "Co-Conspirator 5."  |
 |[2023-10-24](#Ref10) |Trump co-defendant [Jenna Ellis](https://en.wikipedia.org/wiki/Jenna_Ellis) (38) plead guilty in Georgia election case. Ellis, hired in late 2019 as a legal adviser to the Trump campaign was later part of the post-2020 election legal team had direct links to Trump and also worked closely with Giuliani. |If she follows through and testifies honestly at her co-compirator's trials, this could be a material threat to Trump and Rudy Giuliani. |
 |[](#Ref1) |  |  |
-|[](#Ref1) |  |  |
-|[](#Ref1) |  |  |
-|[](#Ref1) |  |  |
 
 
 ### Additional Indictments Incorporating Trump as a Co-Conspirator  
