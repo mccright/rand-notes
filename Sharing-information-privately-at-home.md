@@ -67,10 +67,29 @@ In addition, the server appeared to work immediately, but the configuration show
 The documentation emphasized "[Convos is all about privacy](https://convos.by/)" This project is a web interface to global IRC.  Pretty neat, but not what I am looking for.   
 
 
-
 ### Next An Experiment with *CS Class Chat app using Flask*  
 [https://github.com/saarikabhasi/Chat-application](https://github.com/saarikabhasi/Chat-application)  
 My limited experimentation did not show this as a contender at test time.  
+
+
+### Next An Experiment with *Workbase-server*   
+
+The source code is at: https://github.com/wanglian/workbase-server/  
+I tried the simple path and installed in on Ubuntu using snap -- https://snapcraft.io/workbase-server.  
+```terminal
+$ sudo snap install workbase-server
+$ sudo snap run --shell workbase-server
+# echo ROOT_URL=https://home.local > $SNAP_COMMON/root-url.env
+# exit
+$ sudo snap restart workbase-server
+$ sudo ufw delete from <my_network_segment>/<its_netmask> to any port 3000 proto tcp
+```
+At that point it appeared to work.  Asking me to set up the initial (Admin) user.  Easy.  
+I set up a second user and did some testing.   
+The user interface is pretty crude and seems unfinished.  
+But it does support interactive *chat-like* communication without hiccups.  
+It is just not a pleasing experience and I get the sensation that catastrophe is nearby.  
+I'll try something else.
 
 
 ### Other Candidates for Review  
