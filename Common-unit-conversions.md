@@ -4,8 +4,12 @@ I use this resource locally, hoping to reduce my network I/O and my search traff
 ### Length  
 | From      |     To This           |
 |:----------|:----------------------|
-|1 inch |2.540 centimeters |
+|1 millimeter |0.630 of 1/16th inch |
+|1 millimeter |0.315 of 1/8th inch |
 |1 millimeter |0.03937 inches |
+|1/16th inch | 1.587 millimeters |
+|1/8th inch  | 3.175 millimeters |
+|1 inch |2.540 centimeters |
 |1 foot |30.4878 centimeters |
 |1 foot |12 inches |
 |1 centimeters |0.3937 inches |
@@ -17,10 +21,15 @@ I use this resource locally, hoping to reduce my network I/O and my search traff
 |1 meter |3.28084 feet |
 |1 meter |1.09361 yards |
 |1 mile |1.6093419 kilometer |
+|1 mile |.8689762 nautical mile |
 |1 mile |1609.344 meters |
 |1 mile |1760 yards |
 |1 mile |5280 feet |
 |1 mile |63360 inches |
+|1 nautical mile | 1.852 Kilometers |
+|1 nautical mile | 1.150779 miles |
+|1 nautical mile | 2025.372 yards |
+|1 nautical mile | 6076.115 feet |
 |1 kilometer |0.621372 miles |
 |1 kilometer |0.539957 nautical miles |
 |1 kilometer |1093.6133 yards |
@@ -106,6 +115,7 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 |1 fluid ounce |8 drams |
 |1 fluid ounce |2 tablespoons |
 |1 fluid ounce |29.57353 milliliters |
+|1 liter |62.5 cubic inches |
 |1 liter |2.11342 pints |
 |1 liter |1.05671 quarts |
 |1 liter |0.264178 gallons |
@@ -134,7 +144,8 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 |1 cubic centimeter |1000 cubic millimeters |
 |1 cubic meter |35.3144 cubic feet |
 |1 cubic meter |1.30794 cubic yards |
-|1 cubic inch |6.38706 cubic centimeters |
+|1 cubic inch |.016 liters |
+|1 cubic inch |16.38706 cubic centimeters |
 |1 cubic foot |0.0283170 cubic meters |
 |1 cubic foot |1728 cubic inches |
 |1 cubic foot |0.02832 cubic meters |
@@ -202,9 +213,34 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 NOTES:  
 <sup>A</sup> These prefixes are not normally used  
 
+### Speed/Velocity
+| From      |     To This           |
+|:----------|:----------------------|
+|Kilometers per hour |0.278 Meters per second |
+|Kilometers per hour |0.621 Miles per hour |
+|Kilometers per hour |54.68 Feet per minute |
+|Meters per second |3.6 Kilometers per hour |
+|Meters per second |2.237 Miles per hour |
+|Meters per second |1.943 Knots |
+|Meters per second |3.281 Feet per second |
+|Feet per second |0.305 Meters per second |
+|Feet per second |0.682 Miles per hour |
+|Feet per minute |0.018 Kilometers per hour |
+|Miles per hour |1.467 Feet per second |
+|Miles per hour |0.447 Meters per second |
+|Miles per hour |1.609 Kilometers per hour |
+|Knot |1.150779 Miles per hour |
+|Knot |1.852 Kilometers per hour |
+|Knot |30.86667 Meters per minute |
+|Knot |.514444 Meters per second |
+|Knot |101.2686 feet per minute |
+|Knot |1.68781 feet per second |
+
 
 REFERENCES:  
 https://www.lpl.arizona.edu/~rhill/conversion/units.htm  
 https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf  
 https://www.metric-conversions.org/  
+https://www.thecalculatorsite.com/conversions/  
+https://www.checkyourmath.com/convert/  
 https://github.com/jamespatrickmanning/model_time_series/blob/main/conversions.py  
