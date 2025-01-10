@@ -11,6 +11,7 @@ Here are some useful ```screen``` and ```tmux``` resources:
 * Started with the list at: https://www.golinuxcloud.com/tmux-cheatsheet/  
 * How-To page at: https://github.com/tmux/tmux/wiki  
 
+Choosing the right [Window Manager](https://en.wikipedia.org/wiki/Window_manager) for yourself might also make you job easier.  There is a great list of window managers maintained at  [https://wiki.archlinux.org/title/Window_manager](https://wiki.archlinux.org/title/Window_manager) (*not just for Arch Linux*).  
 
 
 ### Understand the hardware that you are dealing with  
@@ -22,6 +23,16 @@ sudo apt-get install --no-install-recommends inxi
 sudo apt-get install --no-install-recommends hddtemp ipmitool freeipmi-tools lm-sensors smartmontools glxinfo mesa-utils wmctrl libcpanel-json-xs-perl libjson-xs-perl libxml-dumper-perl hddtemp  
 ```
 Then get an overview of the hardware with ```inxi -F``` and a more comprehensive view with ```inxi -v8```  
+
+Another approach is to use ```cfg2html```: https://www.cfg2html.com/ and https://github.com/cfg2html/cfg2html  
+```cfg2html``` output (*both html and text*) has an extensive hardware section.  
+
+supportinfo
+getsysinfo:  
+* https://github.com/seocringe/getsysinfo  
+* https://github.com/atayarani/getsysinfo  
+* https://github.com/LumineonRL/GetSysInfo
+get_config
 
 
 ### Don't forget that Microsoft PowerShell runs on Linux  
@@ -161,6 +172,15 @@ If that gives some evidence that an application is using a given TCP port, but l
 * "Tcpdump usage examples." [http://www.rationallyparanoid.com/articles/tcpdump.html](http://www.rationallyparanoid.com/articles/tcpdump.html)  
 * Network Traffic Analysis [http://sleepyhead.de/howto/?href=network#traffic](http://sleepyhead.de/howto/?href=network#traffic)  
 * And a close relative, tstat, "TCP STatistic and Analysis Tool." [http://tstat.tlc.polito.it/](http://tstat.tlc.polito.it/)  
+
+### Chain Commands Where Practical  
+| Description           |\: |&& |\|\| |\| |&  |
+|:----------------------|:-:|:-:|:---:|:-:|:-:|
+|Will the 2nd command execute if the first command has executed successfully?|Y |Y |N |Y |Y |
+|Will the 2nd command execute if the 1st command failed? |Y |N |Y |Y |Y |
+|Will the 2nd command execute only depending on the status of the 1st command? |N |Y |Y |N |N |
+|Will the commands execute in parallel? |N |N |N |N |Y |
+(*from page 68 Linux Format/LXF228 presenting content from www.linuxnix.com*)  
 
 
 ### Some Simple Linux Troubleshooting Reminders  
