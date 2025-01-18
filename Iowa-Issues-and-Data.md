@@ -71,7 +71,7 @@ FROM: " Few options exist to remove lead paint, despite risk to kids." By Lee Ro
 
 ### Housing  
 (September 2022) Polk County is seeing a rise in the number of people who are homeless. According to a point-in-time count conducted by Homeward, the county’s homelessness planning organization, the population increased by 23% in the last year. And the number of people who are unsheltered in Polk County has nearly doubled since January. 
-https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0  
+https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0 and https://www.homewardiowa.org/informationandstatistics   
 (October 2022 - Polk County) 521 households are on the waitlist to find affordable housing in the county. 
 https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0  
 
@@ -84,6 +84,7 @@ Food insecurity in Iowa by the numbers (*By F. Amanda Tugade, 01-12-2024, [The D
 ● Families with children spend an average of $331 a week on groceries or 41% more than families without kids.  
 ● The average amount of extra money Iowans experiencing food insecurity need to cover food costs is roughly $245 million.  
 ● To qualify for any food assistance (*in Iowa*), a single person’s gross monthly limit is $1,632 (*$19,584/yr*), according to the Iowa Department of Health and Human Services.  
+  ● The U.S. Bureau of Economic Analysis (BEA) [reported December 12, 2024](https://www.bea.gov/news/2024/real-personal-consumption-expenditures-state-and-real-personal-income-state-and) that Iowan's [Real Personal Income](https://www.bea.gov/resources/methodologies/rpp) fell 2.0% in 2023 - the worst showing compared to all the other 49 states.  
 
 
 ### Health Care  
@@ -104,15 +105,20 @@ in Iowa schools (*also see additional references on pages 1, 2, 3, 7, 11 and 13*
 
 
 ### Iowa Legislature's/Governor's "Don't Come Here" Law  
-With [Senate File 2340](https://www.legis.iowa.gov/publications/search/document?fq=id:1448304&q=%22Senate+File+2340%22) the Iowa Legislature and Governor created a new crime of "illegal reentry into state by certain aliens."  It says that anyone who has previously been deported, removed or denied admission to the United States and then enters Iowa, can be sent to prison in Iowa for up to 10 years and the judge in the case would have to order the convicted person to return to "the country they had come from." It also requires that anyone convicted of "[Illegal reentry into state by certain aliens](https://www.legis.iowa.gov/publications/search/document?fq=id:1448304&q=%22Senate+File+2340%22)" "shall not be eligible for a deferred judgment, deferred sentence, or suspended sentence."  
+With [Senate File 2340](https://www.legis.iowa.gov/publications/search/document?fq=id:1448304&q=%22Senate+File+2340%22) the Iowa Legislature and Governor created a new crime of "illegal reentry into state by certain aliens" and "[empowered **Iowa** prosecutors to bring charges in state court and **state** judges to order deportations](https://desmoinesregister-ia.newsmemory.com?publink=069409522_134f828)."  It says that anyone who has previously been deported, removed or denied admission to the United States and then enters Iowa, can be sent to prison in Iowa for up to 10 years and the judge in the case would have to order the convicted person to return to "the country they had come from." It also requires that anyone convicted of "[Illegal reentry into state by certain aliens](https://www.legis.iowa.gov/publications/search/document?fq=id:1448304&q=%22Senate+File+2340%22)" "shall not be eligible for a deferred judgment, deferred sentence, or suspended sentence."  
 
-While the new law says law enforcement officers can't arrest someone if that individual is in a school, a place of worship, a health care facility, or a facility for survivors of sexual assault, it also provides civil immunity from liability and indemnification for local law enforcement and other government officials along with contractors responsible for enforcing the measure. That immunity appears to support behaviors that make Iowa an unwelcoming place for all who do not emit the visual and audio queues that signal "Iowan" to state and local officials (*strongly suspect that means, for too many, "white without an accent"*).  
+While the new law says law enforcement officers can't arrest someone if that individual is in a school, a place of worship, a health care facility, or a facility for survivors of sexual assault, it also provides civil immunity from liability and indemnification for local law enforcement and other government officials along with contractors responsible for enforcing the measure. That immunity appears to support behaviors that make Iowa an unwelcoming place for all who do not emit the visual and audio queues that signal "Iowan" to state and local officials (*...strongly suspect that means, for too many, "white without an accent"*).  
 
 
 ### Too Many Iowa Leaders Attack "Iowa Nice."  
 If you have read down the page to this paragraph, you probably already know that [Iowa nice](https://en.wikipedia.org/wiki/Iowa_nice) is, at least in part, a myth...  
 President-elect Trump recently said that he would deport everyone in the U.S. without up-to-date federal government permission to be in the country, including any of their children who were born in the U.S.  Iowa Gov. Kim Reynolds has been a Trump and Trumpism enthusiast after the arrival of Covid-19 in 2020 [*[except for a short infatuation with Ron DeSantis in the pre-caucus 2024 Presidential campaign](https://www.politico.com/news/magazine/2024/01/19/kim-reynolds-trump-endorsements-00136372)*].  She [sent](https://apnews.com/article/iowa-guard-troops-texas-border-ce4b6127b24ecef7be46feeeb16af2e4) Iowa National Guard troops to Texas twice (*along with smaller groups of Iowa Department of Public Safety officers and Iowa State Patrol troopers*) to help Gov. Greg Abbott drive up the rate of death and maiming among populations attempting to cross the Rio Grand river.  In mid-December 2024, Reynolds has pledged to [deploy "every tool"](https://desmoinesregister-ia.newsmemory.com?publink=1158e9da5_134d562) at her disposal to support Trump's (*and Tom Homan's*) mass deportation promises.  
 ["Iowa tees up for deportations -- Gov. promises to deploy 'every tool' for operation"](https://desmoinesregister-ia.newsmemory.com?publink=1158e9da5_134d562) by Sabine Martin.  
+
+In early January 2025 an estimated 35,000 undocumented work in Iowa.  As proposed in their recent campaigns Trump/Reynolds deportations could materially inhibit Iowa construction, health care, hotel, restaurants and other industries. Donnelle Eller and Kevin Baskins [wrote in the Des Moines Register](https://desmoinesregister-ia.newsmemory.com?publink=069409522_134f828) that  
+>“Ag will be significantly impacted, because we rely on immigrant labor,” said Chad Hart, an Iowa State University agricultural economist. “We learned during COVID-19 that even slowing production down can have dramatic impacts that are felt by consumers across the nation.”  
+>“Undocumented workers are not unemployed,” said Joe Enriquez Henry, president of the Latinos United of Iowa chapter in Des Moines. Many “are working in sectors that are dominated by big business interests.”  
+>(*That is in spite of the fact that*) “the lack of labor force growth has been holding back the Iowa economy since the pandemic recovery began,” Orazem said. “Few states are more dependent on increasing immigration to grow or even maintain their workforces than Iowa.”  
 
 
 ### School Absenteeism  
@@ -127,6 +133,9 @@ Chronic absenteeism is having missed at least 10% of school days or instructiona
 
 
 ### Other:  
+* The U.S. Bureau of Economic Analysis (BEA) reported December 12, 2024 that "[Real personal income](https://www.bea.gov/resources/methodologies/rpp) for the nation increased 2.1 percent in 2023," but relative to all other states "Iowa had the largest decline in real personal income, at –2.0 percent." [RPI by state](https://www.bea.gov/news/2024/real-personal-consumption-expenditures-state-and-real-personal-income-state-and)  
 * "the four biggest oil companies — Exxon Mobile, Shell, Chevron, and Total Energies — have made over $330 billion in profits in just the past three years." [By Jonas Magram, DMR, 2024-03-10, page F3](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F003&artid=2&editionStart=Des%20Moines%20Register)  
 * "Tuition alone at Iowa State University has risen 236% since 2001; inflation in that period is 73%. Iowa students have some of the worst loan debt burdens in the nation." [By Lucas Grundmeier, DMR, 2024-03-10, page F1](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F001&artid=2&editionStart=Des%20Moines%20Register)  
 * Since 2001, the Federal Crop Insurance Program’s "total payments to Iowa farmers have grown by over 630%, from about $3 billion a year to over $19 billion in 2022." [By Jonas Magram, DMR, 2024-03-10, page F3](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F003&artid=2&editionStart=Des%20Moines%20Register)  
+* "As legislative session opens, is Iowa on the road to growth? Economists are doubtful" [By Kevin Baskins, DMR, 2025-01-16](https://www.desmoinesregister.com/story/money/business/2025/01/16/economists-say-iowa-lags-growth-despite-legislature-efforts-workforce/77700065007/)  
+
