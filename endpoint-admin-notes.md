@@ -212,7 +212,7 @@ Assume -- *for this example* -- what we need Flatpak because that is how Github 
 Then, before you proceed, reboot your system, or else you will have issues such as applications icons not appearing.  
 ```reboot```  
 2. Enable Flatpack using the following command in your terminal (once).  
-``sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo ```  
+```sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo ```  
 3.  Now install Github Desktop with the following flatpak command:  
 ```flatpak install flathub io.github.shiftey.Desktop -y```  
 You can launch GitHub Desktop with:  
@@ -239,6 +239,7 @@ System-wide desktop configuration files are in ```/usr/share/applications/```.  
 It is common for Linux hosts to run a lot of processes.  ps and top may help, but their ability to visualize what is going on is limited.  
 One tool that has helped me better understand some of what is going on is **[pscircle](https://gitlab.com/mildlyparallel/pscircle).**  
 Another tool that gets positive reviews is **[bpytop](https://github.com/aristocratos/bpytop)**, resource monitor that shows usage and stats for processor, memory, disks, network and processes.  
+If you want to explore (*and then possibly kill*) processes associated with specific applications, **[psgrep](https://en.wikipedia.org/wiki/Pgrep)** might be useful.  For example ```pgrep -afw snap``` to see how many processes are associated with snap (*app management utility, a long list on some Ubuntu-based Linux endpoints*). Also see a [pgrep man page](https://linux.die.net/man/1/pgrep).  
 
 ### Some Mobile Device Endpoint Notes  
 * When you have a business or social visitor who needs Internet access via your WiFi...  This situation can appear as part of a large number of use cases.  Even when you have a dedicated *visitor* SSID set up, getting your visitor's phone or tablet configured requires sharing one or more secrets -- which is not ideal.  Most of us don't have easy-to-use [one-time-password](https://en.wikipedia.org/wiki/One-time_password) systems available for these situations, so sharing secrets can involve some material risks.  The simple act of having *eyes-friendly* passwords laying around, or voicing WiFi connection secrets to those who need them, increases the likelihood of *leakage.*  One simple way to reduce (*not to eliminate*) some of those risks is to have the mobile endpoint configuration details coded into a QR code.  They are not very *eyes-friendly,* but still require careful handling throughout their lifecycle.  
