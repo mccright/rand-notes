@@ -46,7 +46,7 @@ A non-scientific review of Iowa legislator's recently filed legislation tagged a
 
 
 ### Water in Iowa  
-* A [2019 University of Iowa study](https://desmoinesregister-ia.newsmemory.com?selDate=20221020&goTo=A007&artid=1) found Iowa leads the country in manure waste.  
+* A [2019 University of Iowa study](https://desmoinesregister-ia.newsmemory.com?selDate=20221020&goTo=A007&artid=1) found Iowa leads the country in manure waste. (*In January 2025, Donnelle Eller wrote [in the Des Moines Register](https://desmoinesregister-ia.newsmemory.com?publink=1fb42590c_134f82c) that "Iowa [is] the nation’s top producers of corn, pork, eggs and ethanol, second-largest soybean grower and seventh-largest beef and turkey producer."*)  
 * [751 rivers, streams, lakes, reservoirs and wetlands are considered impaired](https://desmoinesregister-ia.newsmemory.com?selDate=20221020&goTo=A007&artid=1) -- roughly half of Iowa’s waterways that were assessed.  
 * In November 2024 the EPA was trying to get the Iowa DNR to add several rivers used as major sources of drinking water to their list of Impared waterways. Donnelle Eller [wrote in the Des Moines Register that](https://desmoinesregister-ia.newsmemory.com?publink=2876615d5_134d4ff):  
 >States are required to evaluate their rivers, lakes, streams and reservoirs every two years to determine if they meet standards for drinking water, recreation, fishing and other uses. Then states are asked to put together water quality improvement plans. In 2022, Iowa had 597 impaired water segments.  
@@ -119,6 +119,10 @@ In early January 2025 an estimated 35,000 undocumented work in Iowa.  As propose
 >“Ag will be significantly impacted, because we rely on immigrant labor,” said Chad Hart, an Iowa State University agricultural economist. “We learned during COVID-19 that even slowing production down can have dramatic impacts that are felt by consumers across the nation.”  
 >“Undocumented workers are not unemployed,” said Joe Enriquez Henry, president of the Latinos United of Iowa chapter in Des Moines. Many “are working in sectors that are dominated by big business interests.”  
 >(*That is in spite of the fact that*) “the lack of labor force growth has been holding back the Iowa economy since the pandemic recovery began,” Orazem said. “Few states are more dependent on increasing immigration to grow or even maintain their workforces than Iowa.”  
+
+
+### Representation in Washington  
+[Laura Belin](https://www.bleedingheartland.com/author/laura-belin/) [wrote about](https://www.bleedingheartland.com/2025/01/19/who-had-joni-ernsts-ear-and-who-didnt-on-hegseth-nomination/) how in previous confirmation hearings U.S. Senator [Joni Ernst](https://en.wikipedia.org/wiki/Joni_Ernst) (R. IA) held senior military nominees to a standard that "demands the highest levels of trust and responsibility, of course sound judgment, and an impeccable moral compass."  But Sen. Ernst required none of those in the recent hearings for [Pete Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth)’s confirmation in the Senate Armed Services Committee and actively "discounted facts that raised doubts about his fitness while playing up a testimonial from someone with a stake in the outcome."  
 
 
 ### School Absenteeism  
