@@ -1,8 +1,9 @@
 # Random Artificial Intelligence & Machine Learning Notes  
 
 There is an AI *theme* applied to virtually anything at work.  My experience says that signals simple *hype* (or *executive echo chamber*) but my reading also suggests that this hum of *AI-everything* is ignored at our peril.  Maybe you have analogous sensations?  If not, maybe think some more...  
+Bill Gates said that AI is "almost like getting free white-collar workers" (Jan/Feb 2025 AARP Bulletin, p. 33).  
 
-This is alpha interest work.  After percolating in this format for a while, I'll figure out how to better prioritize this reading and content.  
+This is largely-neglected alpha interest work.  After percolating in this format for a while, I'll figure out how to better prioritize this reading and content.  
 
 For an up-to-date list of "*all*" large language models see: https://llmmodels.org/  
 
@@ -17,10 +18,14 @@ For an up-to-date list of "*all*" large language models see: https://llmmodels.o
 * Autonomous driving  
 * Language translation  
 * Chatbots (general)  
+* Social media (chatbots & logic used to drive platform profits)
 * Interactive personal assistance  
+* Interactive tutoring  
 * *Consumer*/*customer*/consumption suggestions, advice, and *support* (and product/service reviews)  
 * *Customer* support  
 * Application development  
+* Science analyses and "*proposals*"  
+* Crime (criminals use available tools, AI assistance in fraud, cybercrime and more)  
 
 ## Required Workflow(s):  
 Starter list outline below:  
