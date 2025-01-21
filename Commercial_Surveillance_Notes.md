@@ -1,37 +1,59 @@
 ## Commercial Surveillance: Rough, unfinished, work notes on this topic
 
-For years I have been reading about how Internet enabled activities have evolved into a complex global *organism* that closely monitors, observes, analyzes, and monitizes our behaviors (*surveillance*).  Those practices have enabled parallel *analysis* and *prediction* industries that "*add value*" to surveillance data.  Law enforcement organizations increrasingly consume a range of survelliance data across their operations.  Government organizations also [seem to invest increasing energy (*and money*) in a broad spectrum of digital data collection](https://www2.deloitte.com/content/dam/insights/articles/in176014%5Fcgi%5Fdigital-citizen-survey/DI%5FDigital-citizen-global.pdf).  One facet of that activity is aimed at [establishing digital-identity systems](https://www.institute.global/insights/tech-and-digitalisation/ten-actions-countries-should-take-to-create-digital-identity-ecosystem) (*with an emphasis on smartphone integration*) to help -- among other things -- identify and *index* our activities...  
+For years I have been reading about how Internet enabled activities have evolved into a complex global *organism* that closely monitors, observes, analyzes, and monitizes our behaviors (*surveillance*).  Those practices have enabled parallel *analysis* and *prediction* industries that "*add value*" to surveillance data (*direct data, inferred data, and data from first- or third-party sources*).  Law enforcement organizations increrasingly consume a range of survelliance data across their operations.  Government organizations also [seem to invest increasing energy (*and money*) in a broad spectrum of digital data collection](https://www2.deloitte.com/content/dam/insights/articles/in176014%5Fcgi%5Fdigital-citizen-survey/DI%5FDigital-citizen-global.pdf).  One facet of that activity is aimed at [establishing digital-identity systems](https://www.institute.global/insights/tech-and-digitalisation/ten-actions-countries-should-take-to-create-digital-identity-ecosystem) (*with an emphasis on smartphone, on-line identity and traffic monitoring integration*) to help -- among other things -- identify and *index* our activities and to predict opportunities to *extract value* from us...  
   
 I agree with Geoffrey A. Fowler that there are many reasons that we need to keep asking ourselves not only ["*what I can get out of any given technology*" but "*what that technology gets from me*."](https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/)  
 
 * Where are you? / Where where you? / Where have you been? / ...and when?  
  * Using the location and proximity data above, are you sharing information about the constellations of relationships that make up your life?  
+* Who are you? / Bodily? / Legally? / Politically?  How do you describe yourself?  
 * What do you say (*and what do others say around you*)?  Is what you "say" a useful proxy for what you think?...what you value?  
 * Where do you invest your *attention*? / ...and when?  
+* Where do you share your ideas/opinions/knowledge/etc? ...and when?  
+* Where, when and to whom do you donate?  
 * Where are your assets?  
 * What are your assets?  
 * What is the scale of the financial (*and other*) assets that you own/control?  
   * What type(s) of authentication do you use to protect your financial (*and other*) assets?  
-* What is the scale of your debt/credit obligations?  Where, when, how and for what do you aquire/exercise debt/credit?  
-* What do you buy? Where do you buy? / How do you spend? / ...and when?  
+* What is the scale of your debt/credit obligations?  
+   * Where, when, how and for what do you aquire/exercise debt/credit?  
+   * From whom aquire/exercise debt/credit?  
+   * Do you exhibit seasonal debt/credit behaviors?  
+* What do you buy? Where do you buy? / How do you spend? / What are your browsing behaviors in given vendor's environments (*and in aggregate across vendors*) / ...and when?  
 * What do you eat? / ...where and when?  
-* Who are you? / Bodily? / Legally? / Politically?  How do you describe yourself?  
+* What do you drink? / ...where and when?  
 * What is your health status?  
-  * What is your diet?
-  *
-  *
+  * What is your diet?  
+  * What drugs do you investigate / purchase?  
+  * What supplements do you investigate / purchase?  
+  * Do you exercise? (*When, where, how, how much...*)  
+  * Do you smoke/drink/etc.?  
+  * What types of medical professionals do you consult?  
+  * What medical treatments have you undergone? ...are you engaged in?  
+  * Do you investigate / engage in non-medical health treatments?  
 * What questions do you ask?  
 * What do you care about?  
 * Who/what do you read?  
-* Who do you *listen* to?  
+* Who do you *listen* to/read/watch?  
 * Who do you *know*?  
 * Who do you *meet*?  
 * Who have you been *close to*?  
 * What do you *share*/*publish*?  
-* What types of events appear to change your behavior(s)?  
-* What types of influencing techniques change your behaviors?  
-* Have you ever been *close to* any primary *target of serveillance*?  
+* What politicians do you frequent/support?  
+* Do you vote? (*where, when, pattern[s] over time, etc.*)  
+* What vehicles do you drive?  
+  * When do you drive?  
+  * Where do you drive?  How long do you stay at any given destination?  
+  * What are your fine-grained behaviors when you drive?  
+* What transportation services do you consume?  
+  * When do you use them?  
+  * Where do you go?  How long do you stay at any given destination?  
+* In each vendor context, how are you rated as a customer/consumer?  
+* What types of events/contexts appear to change your behavior(s)?  
+* What types of influencing techniques change your behaviors? Which categories of cognitive biases appear to be least under your control/are most effectively exploited?  
+* Have you ever been *close to* any primary or high-value *target of serveillance*?  
 * What patterns of your behavior signal *monitizable* contexts?  
+* For any of the above, what are the fine-grained details of your behaviors within your browser/app/store/automobile/etc?  
 
 
 #### What is the purpose of this file?  
@@ -42,8 +64,8 @@ These notes are in support of a still-vaguely-imagined recreational software pro
 * Developers interested in writing applications in ways that *share*/*expose* less data associated with their users.  
 * Those interested in reducing their exposure to data collectors and scavengers.  
 * Those interested in reducing (*or enhancing*) the effectiveness of AI-driven personalized maniplation.  
-* Those interested in open source projects that involve scraping web sites.  
-* Those interested in helping women (*and those who support them*) protect their reproductive rights.[Note1](https://github.com/mccright/rand-notes/blob/master/Commercial_Surveillance_Notes.md#note1)  
+* Those interested in open source projects that involve scraping web sites or other data sources.  
+* Those interested in helping women (*and those who support them*) protect their reproductive rights. [Note1](https://github.com/mccright/rand-notes/blob/master/Commercial_Surveillance_Notes.md#note1)  
 * And more.  
 
 #### This is not a new issue:  
@@ -51,7 +73,13 @@ These notes are in support of a still-vaguely-imagined recreational software pro
 
 Data gatherers and data aggregators are also material contributors to law enforcement and broader *investigative* activities via their responses to subpoenas, search warrants (plus other types of court orders), emergency disclosure requests, pen register orders, wiretap orders, preservation requests and more.  For example, between Jan 2021 – Jun 2021 Google responded to more than 50,000 requests for disclosure of user information on more than 115,000 accounts. [https://transparencyreport.google.com/user-data/overview](https://transparencyreport.google.com/user-data/overview?user_requests_report_period=series:requests,accounts;authority:US;time:2021H1&lu=legal_process_breakdown&legal_process_breakdown=expanded:0)  
 
-“Data is a decisive factor in establishing market power. The use of the very personal data (*associated with*) consumers by the large internet companies can also be abusive under antitrust law,” [said Andreas Mundt, who heads the German cartel office](https://www.reuters.com/technology/german-antitrust-watchdog-can-add-privacy-breaches-meta-probe-eu-court-says-2023-07-04).
+“Data is a decisive factor in establishing market power. The use of the very personal data (*associated with*) consumers by the large internet companies can also be abusive under antitrust law,” [said Andreas Mundt, who heads the German cartel office](https://www.reuters.com/technology/german-antitrust-watchdog-can-add-privacy-breaches-meta-probe-eu-court-says-2023-07-04).  
+
+"[FTC](https://www.ftc.gov) Surveillance Pricing Study Indicates Wide Range of Personal Data Used to Set Individualized Consumer Prices
+The agency details interim insights from staff perspective examining how companies track consumer behaviors to inform surveillance pricing." January 17, 2025:  
+>"The Federal Trade Commission’s initial findings from its surveillance pricing market study revealed that details like a person’s precise location or browser history can be frequently used to target individual consumers with different prices for the same goods and services.  The staff perspective is based on an examination of documents obtained by FTC staff’s 6(b) orders sent to several companies in July aiming to better understand the shadowy market that third-party intermediaries use to set individualized prices for products and services based on consumers’ characteristics and behaviors, like location, demographics, browsing patterns and shopping history.  Staff found that consumer behaviors ranging from mouse movements on a webpage to the type of products that consumers leave unpurchased in an online shopping cart can be tracked and used by retailers to tailor consumer pricing."  
+https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-surveillance-pricing-study-indicates-wide-range-personal-data-used-set-individualized-consumer  
+
 
 #### Is there anything that you can do?  
 Resist surveillance where you can.  
@@ -78,7 +106,7 @@ https://lithub.com/julia-angwin-on-myspace-facebook-twitter-and-the-origins-of-o
 
 
 ### Some Names of Commercial Data Collectors and scavengers  
-Below is an imperfect start on a list of companies who *quietly* invade your browser/browsing and then monietize what they learn about you to enable advertisers (and others willing to pay for information about you).  
+Below is an imperfect start on a list of companies who *quietly* invade your browser/browsing and then monietize what they learn about you to enable advertisers (*and others willing to pay for information about you*).  
 ===============================================  
 #### Who is actually doing this business?  
 33Across
@@ -161,7 +189,7 @@ Yieldmo
 
 
 ### Some Descriptions of Commercial Data Collectors and scavengers  
-Below is an imperfect start on a list of companies who *quietly* invade your browser/browsing and then monietize what they learn about you to enable advertisers (and others willing to pay for information about you).  Included is a link and short description of each as scraped from one or another of their their sites.  
+Below is an imperfect start on a list of companies who *quietly* invade your browser/browsing/app and then monietize what they learn about you to enable advertisers (and others willing to pay for information about you).  Included is a link and short description of each as scraped from one or another of their their sites.  
 
 ===============================================  
 = To Do:
@@ -813,3 +841,4 @@ Geoffrey A. Fowler and Tatum Hunter reported that on 2022 May 3 there was "[new 
 * "Simple Online Security for Borders and Protests." By Thorin Klosowski, 2022-04-22  [https://www.nytimes.com/wirecutter/guides/simple-online-security-for-borders-and-protests/](https://www.nytimes.com/wirecutter/guides/simple-online-security-for-borders-and-protests/)  
   * or better, work through the broader range of risk management activities outlined in "Every Step to Simple Online Security." By Thorin Klosowski, 2022-04-01  [https://www.nytimes.com/wirecutter/guides/simple-online-security/](https://www.nytimes.com/wirecutter/guides/simple-online-security/)  
 * Money Reimagined -- "The Politicizing of Crypto and Gensler’s Response to a Question of Law." 2023-04-21 https://www.coindesk.com/podcasts/coindesks-money-reimagined/the-politicizing-of-crypto-and-genslers-response-to-a-question-of-law/  
+* "[FTC](https://www.ftc.gov) Surveillance Pricing Study Indicates Wide Range of Personal Data Used to Set Individualized Consumer Prices." January 17, 2025 https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-surveillance-pricing-study-indicates-wide-range-personal-data-used-set-individualized-consumer  
