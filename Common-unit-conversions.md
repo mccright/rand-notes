@@ -216,9 +216,11 @@ NOTES:
 ### Speed/Velocity
 | From      |     To This           |
 |:----------|:----------------------|
+|Kilometers per hour |0.539968 knot |
 |Kilometers per hour |0.278 Meters per second |
-|Kilometers per hour |0.621 Miles per hour |
+|Kilometers per hour |0.621371 Miles per hour |
 |Kilometers per hour |54.68 Feet per minute |
+|Kilometers per hour |0.911344 feet per second |
 |Meters per second |3.6 Kilometers per hour |
 |Meters per second |2.237 Miles per hour |
 |Meters per second |1.943 Knots |
@@ -226,9 +228,10 @@ NOTES:
 |Feet per second |0.305 Meters per second |
 |Feet per second |0.682 Miles per hour |
 |Feet per minute |0.018 Kilometers per hour |
-|Miles per hour |1.467 Feet per second |
+|Miles per hour |0.868976 knot |
 |Miles per hour |0.447 Meters per second |
-|Miles per hour |1.609 Kilometers per hour |
+|Miles per hour |1.609344 Kilometers per hour |
+|Miles per hour |1.466667 Feet per second |
 |Knot |1.150779 Miles per hour |
 |Knot |1.852 Kilometers per hour |
 |Knot |30.86667 Meters per minute |
@@ -244,3 +247,4 @@ https://www.metric-conversions.org/
 https://www.thecalculatorsite.com/conversions/  
 https://www.checkyourmath.com/convert/  
 https://github.com/jamespatrickmanning/model_time_series/blob/main/conversions.py  
+https://www.edwilliams.org/avform147.htm#Conv  
