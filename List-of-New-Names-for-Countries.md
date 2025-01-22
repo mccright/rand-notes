@@ -5,8 +5,11 @@ When you find one or more FORMER place names on your map or globe instead of the
 
 | NEW NAME | DATE  | FORMER NAME | LOCATION |
 |----------|-------|-------------|----------|
+|Gulf of America| [2025](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/) | Gulf of Mexico |S. U.S.A, E. of Mexico, W. of Cuba|
+|Mount McKinley | [2025](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/) | Mount Denali | Central Alaska, U.S.A. |
 |North Macedonia| 2019 | Macedonia |S. of Serbia, W. of Bulgaria, N. of Greece|
 |Eswatini | 2018 | Swaziland | Southeast Africa |
+|Mount Denali | 2015 | Mount McKinley | Central Alaska, U.S.A. |
 |South Sudan | 2011 | Independence from Sudan | Cent. Africa |
 |Montenegro | 2006 | Serbia and Montenegro | E. of Italy |
 |Serbia and Montenegro | 2003 | Yugoslavia (part) | E. of Italy |
