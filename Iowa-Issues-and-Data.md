@@ -92,6 +92,10 @@ In November 2024 [Michaela Ramm reported for the Des Moines Register](https://de
 >"Forty-one hospitals — or about a third of Iowa’s hospitals — have shut down their labor and delivery units from 2000 to 2021, according to a state report. In many cases, these closures left a county without a birthing facility."  
 In December 2024 [Clark Kauffman reported in the Iowa Capital Dispatch](https://iowacapitaldispatch.com/2024/12/04/ombudsmen-and-advocates-join-fight-over-nursing-home-staffing-levels/) that Iowa’s Brenna Bird and Kim Reynolds were attempting to block implementation of new nursing home staffing requirements even though:  
 >According to data from the Centers for Medicare and Medicaid Services, 14% of Iowa’s 422 nursing facilities were cited for insufficient staffing in fiscal year 2023, before the new (*Biden administration*) requirements were enacted. That’s more than double the national average, which was 5.9%.  Only five other states – Hawaii, Michigan, Montana, New Mexico and Oregon – had a worse record of compliance with the staffing requirements in place at that time.  
+In January 2025, [Michaela Ramm and Sabine Martin reported in the Des Moines Register](https://desmoinesregister-ia.newsmemory.com?publink=017887b3d_134f833) that: 
+>"The physician shortage in Iowa is among the worst in the country, with the state ranking 44th in the nation for its ratio of physicians to residents. According to AAMA data, Iowa had 233 physicians per 100,000 residents in 2023."
+>"Iowa also has some of the lowest rates of physician retention nationwide, according to a 2024 AAMA report. In 2023, it’s estimated Iowa retained just 22% of its medical school graduates and 36.5% of its residency graduates." (and)..." Iowa has some of the fewest residency slots in the nation."
+"Two-thirds of Iowa’s 99 counties — home to more than 710,000 residents — are designated by the federal government as lacking enough primary care physicians."
 
 
 ### Banning Books  
