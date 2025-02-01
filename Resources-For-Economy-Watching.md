@@ -63,6 +63,9 @@ In the context of my interests and needs, "*economy watching*" is largely *watch
 * Survey of Consumer Expectations from the New York Fed's [Applied Macroeconomics and Econometrics Center (AMEC)](https://newyorkfed.org/research/amec).  [https://www.newyorkfed.org/microeconomics/sce#/](https://www.newyorkfed.org/microeconomics/sce#/)  
 * A "Summary of Economic Projections" from the Federal Reserve Board of Governors and each Federal Reserve Bank president. Economic projections are collected from each member of the Board of Governors and each Federal Reserve Bank president four times a year, in connection with the Federal Open Market Committee's (FOMC's) meetings in March, June, September, and December. The charts and tables associated with those projections are released shortly following the end of an FOMC meeting. [https://www.federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm](https://www.federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm)  
 * [Real Gross Domestic Product (GDPC1) Billions of Chained 2017 Dollars, Seasonally Adjusted Annual Rate](https://fred.stlouisfed.org/series/GDPC1) and [Table 1.1.6. Real Gross Domestic Product, Chained Dollars: Quarterly](https://fred.stlouisfed.org/release/tables?rid=53&eid=13026#snid=13027)  
+  * Related: [U.S. Trade to GDP Ratio 1970-2025](https://www.macrotrends.net/global-metrics/countries/USA/united-states/trade-gdp-ratio)  
+  * Related: [U.S. Trade Balance 1970-2025](https://www.macrotrends.net/global-metrics/countries/USA/united-states/trade-balance-deficit)  
+  * [U.S. Military Spending/Defense Budget as a percentage of GDP 1960-2025](https://www.macrotrends.net/global-metrics/countries/USA/united-states/military-spending-defense-budget)  
 * [Unemployment Rate (UNRATE) Percent, Seasonally Adjusted, Monthly](https://fred.stlouisfed.org/series/UNRATE)  
   
 
