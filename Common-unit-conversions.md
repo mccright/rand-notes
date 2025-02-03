@@ -116,9 +116,9 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 |1 fluid ounce |2 tablespoons |
 |1 fluid ounce |29.57353 milliliters |
 |1 liter |62.5 cubic inches |
-|1 liter |2.11342 pints |
-|1 liter |1.05671 quarts |
-|1 liter |0.264178 gallons |
+|1 liter liquid |2.11342 pints liquid |
+|1 liter liquid |1.05671 quarts liquid |
+|1 liter liquid |0.264178 gallons liquid |
 |1 liter |1000 cubic centimeters |
 |1 liter |1000 milliliters |
 |1 fluid ounce |30 milliliters |
@@ -134,12 +134,14 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 |1 pint |2 cups |
 |1 pint |16 fluid ounces |
 |1 pint |473.17648 milliliters |
-|1 pint |0.473167 liters |
+|1 pint liquid |0.473167 liters liquid |
+|1 pint dry |0.550999 liters dry |
 |1 quart |2 pints |
 |1 quart |4 cups |
 |1 quart |32 fluid ounces |
 |1 quart |946.35296 milliliters |
-|1 quart |.946334 liters |
+|1 quart liquid |.946334 liters liquid |
+|1 quart dry |1.10119 liters dry |
 |1 cubic centimeter |0.06102 cubic inches |
 |1 cubic centimeter |1000 cubic millimeters |
 |1 cubic meter |35.3144 cubic feet |
