@@ -31,8 +31,62 @@ supportinfo
 getsysinfo:  
 * https://github.com/seocringe/getsysinfo  
 * https://github.com/atayarani/getsysinfo  
-* https://github.com/LumineonRL/GetSysInfo
-get_config
+* https://github.com/LumineonRL/GetSysInfo  
+* https://github.com/cfg2html/cfg2html  
+* get_config
+
+
+### Get comfortable with bash (or your preferred shell) for command line work and script writing  
+I'm assuming ```bash``` because that is my shell :)  
+Asking the shell for help will spill a list of topics.  One or more of them should be relevant to your script problem-solving needs:  
+```terminal
+~$ help
+GNU bash, version 5.1.16(1)-release (x86_64-pc-linux-gnu)
+These shell commands are defined internally.  Type `help' to see this list.
+Type `help name' to find out more about the function `name'.
+Use `info bash' to find out more about the shell in general.
+Use `man -k' or `info' to find out more about commands not in this list.
+
+A star (*) next to a name means that the command is disabled.
+
+ job_spec [&]                                                history [-c] [-d offset] [n] or history -anrw [filename]>
+ (( expression ))                                            if COMMANDS; then COMMANDS; [ elif COMMANDS; then COMMAN>
+ . filename [arguments]                                      jobs [-lnprs] [jobspec ...] or jobs -x command [args]
+ :                                                           kill [-s sigspec | -n signum | -sigspec] pid | jobspec .>
+ [ arg... ]                                                  let arg [arg ...]
+ [[ expression ]]                                            local [option] name[=value] ...
+ alias [-p] [name[=value] ... ]                              logout [n]
+... (the list continues. clipped here for the given example)  
+```
+Lets assume that you were trying to remember how to ensure that two or more expressions/conditions were true before continuing into follow-on code:  
+```terminal
+~$ help [[ expression ]]
+[[ ... ]]: [[ expression ]]
+    Execute conditional command.
+
+    Returns a status of 0 or 1 depending on the evaluation of the conditional
+    expression EXPRESSION.  Expressions are composed of the same primaries used
+    by the `test' builtin, and may be combined using the following operators:
+
+      ( EXPRESSION )    Returns the value of EXPRESSION
+      ! EXPRESSION              True if EXPRESSION is false; else false
+      EXPR1 && EXPR2    True if both EXPR1 and EXPR2 are true; else false
+      EXPR1 || EXPR2    True if either EXPR1 or EXPR2 is true; else false
+
+    When the `==' and `!=' operators are used, the string to the right of
+    the operator is used as a pattern and pattern matching is performed.
+    When the `=~' operator is used, the string to the right of the operator
+    is matched as a regular expression.
+
+    The && and || operators do not evaluate EXPR2 if EXPR1 is sufficient to
+    determine the expression's value.
+
+    Exit Status:
+    0 or 1 depending on value of EXPRESSION.
+~$ 
+```
+
+This approach has saved me hours of frustration...  
 
 
 ### Don't forget that Microsoft PowerShell runs on Linux  
@@ -80,7 +134,7 @@ rsync compares the files in the source and destination and then copies only thos
 Add *--delete* option if you also need to remove destination files when they are no longer on the source.  
 
 Use [https://crontab-generator.org/](https://crontab-generator.org/) to help get your crontab entries perfect...  
-To save time and storage space, see [https://github.com/basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py) "a Python port of the rsync-time-backup script, offering Time Machine-style backups using rsync. It creates incremental backups of files and directories to the destination of your choice. The backups are structured in a way that makes it easy to recover any file at any point in time."    
+To save time and storage space, see [https://github.com/basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py) "a Python port of the rsync-time-backup script, offering Time Machine-style backups using rsync. It creates incremental backups of files and directories to the destination of your choice. The backups are structured in a way that makes it easy to recover any file at any point in time."  
 
 
 ### Use find to help copy collections of files  
@@ -181,6 +235,11 @@ If that gives some evidence that an application is using a given TCP port, but l
 |Will the 2nd command execute only depending on the status of the 1st command? |N |Y |Y |N |N |
 |Will the commands execute in parallel? |N |N |N |N |Y |
 (*from page 68 Linux Format/LXF228 presenting content from www.linuxnix.com*)  
+
+For more information about building epressions like these,  
+```terminal
+$ help [[ expression ]]
+```
 
 
 ### Some Simple Linux Troubleshooting Reminders  
