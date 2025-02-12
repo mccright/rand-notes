@@ -135,6 +135,8 @@ https://www.guitarorb.com/forming-chords-from-scales/
 "[Basic Guitar Chord Progressions](https://www.guitar-skill-builder.com/Guitar-chord-progressions.html)"  
 "[Navigating the Emotional Landscape Through Chord Progressions](https://guitargrit.com/exploring-guitar-chord-emotions-major-vs-minor/)"  
 
+[List of chord progressions](https://en.wikipedia.org/wiki/List_of_chord_progressions)
+
 ## Chord Lookup Resources:  
 
 * https://www.scales-chords.com/chord/guitar  
