@@ -1,5 +1,8 @@
 ## Trump's Crimes Related to Government Documents  
 
+### Trump 47 Employing A Program of Intimidation, Coercion, and Punishment  
+Why?  [Revenge and positioning for self-interested corruption (*joined by Musk in this using the power of government for self-interest*)](https://www.nytimes.com/2025/02/25/opinion/trump-agenda-firings-chaos.html?unlocked_article_code=1.zk4.HfjO.sqm77B4RcZH0&smid=url-share).  
+
 
 ### Four Main Indictments Against Trump, Plus Two Civil Cases  
 See the [Trump Trials Clearinghouse](https://www.justsecurity.org/88175/trump-trials-clearinghouse/)  
