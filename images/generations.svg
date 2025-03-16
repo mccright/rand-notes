@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="650px" height="450px" viewBox="0 0 650 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
-    <rect x="0" y="0" width="800" height="600" fill="black" stroke="white"></rect>
-    <foreignObject x="15" y="5" width="770" height="590">
-      <div xmlns="http://www.w3.org/1999/xhtml" style="width:800px; height:600px; overflow-y:auto; color: white; font-size: 17px;">
+    <rect x="0" y="0" width="650" height="450" fill="black" stroke="white"></rect>
+    <foreignObject x="15" y="5" width="630" height="440">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="width:650px; height:450px; overflow-y:auto; color: white; font-size: 17px;">
         <pre>The Generations Defined                         Generation age
   +-------+-------+-------+-------+-------+----+ in 2023
   |       |       |       |       |       |    |
