@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect x="0" y="0" width="800" height="600" fill="black" stroke="white"></rect>
+    <foreignObject x="15" y="5" width="770" height="590">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="width:800px; height:600px; overflow-y:auto; color: white; font-size: 17px;">
+        <pre>The Generations Defined                         Generation age
+  +-------+-------+-------+-------+-------+----+ in 2023
+  |       |       |       |       |       |    |
+  |       |       |       |     Born 2010-...  |Generation Alpha
+  |       |       |       |       |       |    |ages 0-15
+  |       |       |       |       |       |    |
+  |       |       |      Born 1997-2012   |    |Generation Z
+  |       |       |       |       |       |    |ages 13-28
+  |       |       |       |       |       |    |
+  |       |       |  Born 1981-96 |       |    |Millennials
+  |       |       |       |       |       |    |ages 29-44
+  |       |       |       |       |       |    |
+  |       |   Born 1965-80|       |       |    |Generation X
+  |       |       |       |       |       |    |ages 45-60
+  |       |       |       |       |       |    |
+  |       Born 1946-64    |       |       |    |Boomers
+  |       |       |       |       |       |    |ages 61-79
+  |       |       |       |       |       |    |
+  |Born 1928-45   |       |       |       |    |Silent Generation
+  |       |       |       |       |       |    |ages 80-97
+  +-------+-------+-------+-------+-------+----+
+1920    1940    1960    1980    2000    2020  2025
+
+</pre>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
