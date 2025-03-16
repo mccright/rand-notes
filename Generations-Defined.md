@@ -3,7 +3,7 @@
 #### Recent generations, or generational cohorts:  
 
 <!-- The ditaa '-E' prevents the separation of common edges of shapes. 
-https://github.com/stathissideris/ditaa -->
+https://github.com/stathissideris/ditaa -->  
 ```ditaa {cmd=true args=["-E"]}
 The Generations Defined                         Generation age
   +-------+-------+-------+-------+-------+----+ in 2023
@@ -28,6 +28,7 @@ The Generations Defined                         Generation age
   +-------+-------+-------+-------+-------+----+
 1920    1940    1960    1980    2000    2020  2025
 ```
+
 <!-- 
 <a href="https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/ft_19-01-17_generations_2019/"><img src="https://www.pewresearch.org/wp-content/uploads/2019/01/FT_19.01.17_generations_2019.png?w=640"></a>  
 -->  
