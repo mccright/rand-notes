@@ -6,7 +6,7 @@
 https://github.com/stathissideris/ditaa -->  
 ```ditaa {cmd=true args=["-E"]}
 The Generations Defined                         Generation age
-  +-------+-------+-------+-------+-------+----+ in 2023
+  +-------+-------+-------+-------+-------+----+ in 2025
   |       |       |       |       |       |    |
   |       |       |       |     Born 2010-...  |Generation Alpha
   |       |       |       |       |       |    |ages 0-15
