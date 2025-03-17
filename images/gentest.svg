@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="100%" height="100%" viewBox="0 0 650 500" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
-    <rect x="0" y="0" width="100%" height="1000%" fill="none" stroke="none"></rect>
+    <rect x="0" y="0" width="100%" height="100%" fill="none" stroke="none"></rect>
     <foreignObject x="1" y="1" width="100%" height="100%">
       <div xmlns="http://www.w3.org/1999/xhtml" style="width:100%; height:100%; overflow-y:auto; color: auto; font-size: 17px;">
         <pre>The Generations Defined                         Generation age
-  +-------+-------+-------+-------+-------+----+ in 2023
+  +-------+-------+-------+-------+-------+----+ in 2025
   |       |       |       |       |       |    |
   |       |       |       |     Born 2010-...  |Generation Alpha
   |       |       |       |       |       |    |ages 0-15
