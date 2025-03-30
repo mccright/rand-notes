@@ -1,16 +1,16 @@
 # Dietary Reference Intake (DRI) Calculator Results  
 From: [https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator/results](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator/results)  
-**2023** -- *[Update every year](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator)*  
+**2025** -- *[Update every year](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator)*  
 
-| Estimated Daily Caloric Needs | 2,166 kcal/day |  
+| Estimated Daily Caloric Needs | 2,398 kcal/day |  
   
 ## Macronutrients:  
 |Macronutrient        |Recommended Intake Per Day |
 |*--------------------|*--------------------------|
-|Carbohydrate         |244 - 352 grams |
-|Total Fiber          |30 grams |
+|Carbohydrate         |270 - 436 grams grams |
+|Total Fiber          |38 grams |
 |Protein              |48 grams |
-|Fat                  |48 - 84 grams |
+|Fat                  |53 - 104 grams |
 |Saturated fatty acids|As low as possible while consuming a nutritionally adequate diet. |
 |Trans fatty acids    |As low as possible while consuming a nutritionally adequate diet. |
 |α-Linolenic Acid     |1.6 grams More Information About Alpha_linolenic_acid |
@@ -26,16 +26,21 @@ From: [https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator/r
 |[Vitamin D](https://ods.od.nih.gov/factsheets/vitamind.asp)  |15 mcg  |100 mcg|
 |[Vitamin B6](https://ods.od.nih.gov/factsheets/vitaminb6.asp) |1.7 mg  |100 mg|
 |[Vitamin E](https://ods.od.nih.gov/factsheets/vitamine.asp)  |15 mg   |1,000 mg More Information About Vitamin_e|
-|[Vitamin K](https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional)  |120 mcg |0 mcg|
-|[Thiamin](https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional)    |1.2 mg  |0 mg|
-|[Vitamin B12](https://ods.od.nih.gov/factsheets/vitaminb12.asp)|2.4 mcg |0 mcg|
-|[Riboflavin](https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional) |1.3 mg  |0 mg|
+|[Vitamin K](https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional)  |120 mcg |ND|
+|[Thiamin](https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional)    |1.2 mg  |ND|
+|[Vitamin B12](https://ods.od.nih.gov/factsheets/vitaminb12.asp)|2.4 mcg |ND|
+|[Riboflavin](https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional) |1.3 mg  |ND|
 |[Folate](https://ods.od.nih.gov/factsheets/folate.asp)     |400 mcg |1,000 mcg More Information About Folate|
 |[Niacin](https://www.nlm.nih.gov/medlineplus/ency/article/002409.htm)     |16 mg   |35 mg More Information About Niacin|
 |[Choline](https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/)    |0.55 g  |3.5 g|
-|[Pantothenic Acid](https://www.nlm.nih.gov/medlineplus/ency/article/002410.htm) |5 mg |0 mg|
-|[Biotin](https://www.nlm.nih.gov/medlineplus/ency/article/002410.htm)     |30 mcg  |0 mcg|
-|[Carotenoids](http://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals/carotenoids)|NA      |ND  More Information About Carotenoids|
+|[Pantothenic Acid](https://www.nlm.nih.gov/medlineplus/ency/article/002410.htm) |5 mg |ND|
+|[Biotin](https://www.nlm.nih.gov/medlineplus/ency/article/002410.htm)     |30 mcg  |ND|
+|[Carotenoids](http://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals/carotenoids)|NA      |ND|
+**NOTES**:  
+ND = Not Determinable  
+NA = Not Available  
+RE: Carotenoids = B-Carotene supplements are advised only to serve as a provitamin A source for individuals at risk of vitamin A deficiency.  
+The ULs for vitamin E, niacin, and folate apply to synthetic forms obtained from supplements, fortified foods, or a combination of the two.  
 
 
 ## Minerals (Elements):  
@@ -45,7 +50,7 @@ From: [https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator/r
 |**Essential**| | |
 |[Calcium](https://ods.od.nih.gov/factsheets/calcium.asp)   |1,000 mg   |2,000 mg|
 |[Chloride](https://www.nlm.nih.gov/medlineplus/ency/article/002417.htm)  |2 g   |3.6 g|
-|[Chromium](https://ods.od.nih.gov/factsheets/chromium.asp)  |30 mcg   |0 mcg|
+|[Chromium](https://ods.od.nih.gov/factsheets/chromium.asp)  |30 mcg   |ND|
 |[Copper](https://www.nlm.nih.gov/medlineplus/ency/article/002419.htm)    |900 mcg   |10,000 mcg|
 |[Fluoride](https://www.nlm.nih.gov/medlineplus/ency/article/002420.htm)  |4 mg   |10 mg|
 |[Iodine](https://ods.od.nih.gov/factsheets/Iodine/)    |150 mcg   |1,100 mcg|
@@ -54,17 +59,23 @@ From: [https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator/r
 |[Manganese](http://lpi.oregonstate.edu/mic/minerals/manganese) |2.3 mg   |11 mg|
 |[Molybdenum](http://lpi.oregonstate.edu/mic/minerals/molybdenum)|45 mcg   |2,000 mcg|
 |[Phosphorus](https://www.nlm.nih.gov/medlineplus/ency/article/002424.htm)|0.7 g   |4 g|
-|[Potassium](https://www.nlm.nih.gov/medlineplus/ency/article/002413.htm) |3,400 mg   |0 mg|
+|[Potassium](https://www.nlm.nih.gov/medlineplus/ency/article/002413.htm) |3,400 mg   |ND|
 |[Selenium](https://ods.od.nih.gov/factsheets/selenium.asp)  |55 mcg   |400 mcg|
-|[Sodium](https://www.nlm.nih.gov/medlineplus/ency/article/002415.htm)    |1,500 mg   |0 mg|
+|[Sodium](https://www.nlm.nih.gov/medlineplus/ency/article/002415.htm)    |1,500 mg   |2,300 mg|
 |[Zinc](https://ods.od.nih.gov/factsheets/Zinc/)      |11 mg   |40 mg|
 |**Non-Essential**| | |
 |Arsenic   |NA    |ND |
 |Boron     |0 mg  |20 mg|
 |Nickel    |0 mg  |1 mg|
-|Silicon   |NA    |ND M|
+|Silicon   |NA    |ND|
 |Sulfate   |NA    |ND|
 |Vanadium  |0 mg  |1.8 mg |
+
+NOTES:  
+Although the UL was not determined for arsenic, there is no justification for adding arsenic to food or supplements.  
+Although silicon has not been shown to cause adverse effects in humans, there is no justification for adding silicon to supplements.  
+Although vanadium in food has not been shown to cause adverse effects in humans, there is no justification for adding vanadium to food and vanadium supplements should be used with caution. The UL is based on adverse effects in laboratory animals and this data could be used to set a UL for adults but not children and adolescents.  
+
 
 This table contains the minerals that you require daily, the recommended intake of each mineral, and the highest amount of each mineral that you can intake. They are classified by essential and non-essential minerals.  
 
