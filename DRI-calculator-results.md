@@ -36,6 +36,7 @@ From: [https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator/r
 |[Pantothenic Acid](https://www.nlm.nih.gov/medlineplus/ency/article/002410.htm) |5 mg |ND|
 |[Biotin](https://www.nlm.nih.gov/medlineplus/ency/article/002410.htm)     |30 mcg  |ND|
 |[Carotenoids](http://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals/carotenoids)|NA      |ND|
+
 **NOTES**:  
 ND = Not Determinable  
 NA = Not Available  
