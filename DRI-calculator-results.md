@@ -6,7 +6,7 @@ From: [https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator/r
   
 ## Macronutrients:  
 |Macronutrient        |Recommended Intake Per Day |
-|*--------------------|*--------------------------|
+|:--------------------|:--------------------------|
 |Carbohydrate         |270 - 436 grams grams |
 |Total Fiber          |38 grams |
 |Protein              |48 grams |
@@ -20,7 +20,7 @@ From: [https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator/r
 
 ## Vitamins:  
 |Vitamin    |Recommended Intake Per Day|Tolerable UL Intake Per Day|
-|*----------|*-------------------------|*--------------------------|
+|:----------|:-------------------------|:--------------------------|
 |[Vitamin A](https://ods.od.nih.gov/factsheets/vitamina.asp)  |900 mcg |3,000 mcg More Information About Vitamin_a|
 |[Vitamin C](https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/)  |90 mg   |2,000 mg|
 |[Vitamin D](https://ods.od.nih.gov/factsheets/vitamind.asp)  |15 mcg  |100 mcg|
@@ -46,7 +46,7 @@ The ULs for vitamin E, niacin, and folate apply to synthetic forms obtained from
 ## Minerals (Elements):  
 
 |Mineral   |Recommended Intake Per Day|Tolerable UL Intake Per Day|
-|*---------|*-------------------------|*--------------------------|
+|:---------|:-------------------------|:--------------------------|
 |**Essential**| | |
 |[Calcium](https://ods.od.nih.gov/factsheets/calcium.asp)   |1,000 mg   |2,000 mg|
 |[Chloride](https://www.nlm.nih.gov/medlineplus/ency/article/002417.htm)  |2 g   |3.6 g|
