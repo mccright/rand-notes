@@ -104,8 +104,8 @@ Dietary Reference Intake (DRI) values for α-linolenic and linoleic acid are rep
 Total water includes all water contained in food, beverages, and drinking water.  
 
 #### About Vitamin E, Folate, and Niacin  
-As a-tocopherol; applies to any form of supplemental a-tocopherol  
-The ULs for vitamin E, niacin, and folate apply to synthetic forms obtained from supplements, fortified foods, or a combination of the two.  
+Vitamin E, as a-tocopherol; applies to any form of supplemental a-tocopherol.  
+The Upper Levels/ULs for vitamin E, niacin, and folate apply to synthetic forms obtained from supplements, fortified foods, or a combination of the two.  
 
 #### About Carotenoids  
 B-Carotene supplements are advised only to serve as a provitamin A source for individuals at risk of vitamin A deficiency.  
