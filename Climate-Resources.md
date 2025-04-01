@@ -29,11 +29,11 @@ That 1.5° C threshold can be used to build a coarse-grained or macro measure de
 
 Since the 1980s (*all my adult life*), each decade has been warmer than the previous one. Recently, the ```rate``` of temperature rise has been increasing (*not good*):  
 
-### Monthly Mean Global Temperature Increase From 1940 To 2023 Compared To The 1850 To 1900 Average  
-Six leading international datasets used for monitoring global temperatures and consolidated by WMO show that the annual average global temperature was 1.45 ± 0.12 °C above pre-industrial levels (1850-1900) in 2023.  
-<a href="https://wmo.int/news/media-centre/wmo-confirms-2023-smashes-global-temperature-record"><img src="images/Monthly-Mean-Global-Temp-Diff-Compared-To-1850-To-1900-Avg-Graph.png" style="width:480px;height:360px;"></a>  
+### Monthly Mean Global Temperature Increase From 1940 To 2024 Compared To The 1850 To 1900 Average  
+Six leading international datasets used for monitoring global temperatures and consolidated by WMO show that the annual average global temperature was 1.55 ± 0.12 °C above pre-industrial levels (1850-1900) in 2024.  
+<a href="https://wmo.int/news/media-centre/wmo-confirms-2024-warmest-year-record-about-155degc-above-pre-industrial-level"><img src="images/Monthly_Mean_Global_Temp_1850-2024_Diff-from_1850-To-1900_Avg_Graph.png" style="width:480px;height:360px;"></a>  
 
-**Image Source**: World Meteorological Organization (WMO) "WMO confirms that 2023 smashes global temperature record Press Release, 12 January 2024](https://wmo.int/news/media-centre/wmo-confirms-2023-smashes-global-temperature-record)" (*downloaded 2024-03-20*).  
+**Image Source**: "[WMO confirms 2024 as warmest year on record at about 1.55°C above pre-industrial level](https://wmo.int/news/media-centre/wmo-confirms-2024-warmest-year-record-about-155degc-above-pre-industrial-level)." 10 January 2025 (*downloaded 2025-04-01*).  
 
 ### Daily Average Global Temperature Increase From 1940 To 2023 Relative To Pre-Industrial Levels  
 Here is a another view, focussing on the last ~80 years of that data (*since 1940*):  
