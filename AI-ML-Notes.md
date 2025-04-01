@@ -52,7 +52,7 @@ Starter list outline below:
 
 List above began with a model [IBM AI lifecycle](https://www.ibm.com/blog/ai-model-lifecycle-management-build-phase/)  
 
-## Maybe Leave This Page Now and Read "This" for Context!
+## Maybe Leave This Page Now and Read "This" for Context!  
 Yes.  Go read this now...  
 **"AI Is a Lot of Work."**  
 As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere.  
@@ -77,13 +77,15 @@ https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-techno
 
 
 
-# Natural Language Processing and Common Sense
+# Natural Language Processing and Common Sense  
 ### Types of Reasoning:  
 * **Human intuition and instinct**: Its processes are unconscious, *effortless*, fast, associative, *automatic-pilot*, slow-learning.  Its content is conceptual, temporal (for example before and after) and can be evoked by language. [D.Kahneman1](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
 * **Rational thinking**: Its processes are require effort, and are slow, *logical*, governed by rules, often serial, sometimes flexible, and indecisive.  Its content is conceptual, temporal and can be evoked by language. [D.Kahneman1](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)  
 
 
 ## Timeline Ideas:  
+* 2025 :List of LLM Providers -- [https://docs.litellm.ai/docs/providers](https://docs.litellm.ai/docs/providers)  
+  * List of LLM Models -- [https://models.litellm.ai/](https://models.litellm.ai/)  
 * 2024: Feb 8th Google changed the name of its chatbot from Bard to Gemini and introduced a smartphone app [Gemini](https://blog.google/products/gemini/bard-gemini-advanced-app/) -- like a talking digital assistant and a conversational chatbot.  
 * 2023: [Google releases a conversational AI service called "*Bard*"](https://blog.google/technology/ai/bard-google-ai-search-updates/) (*or go directly to [https://bard.google.com/](https://bard.google.com/)*) to compte with ChatGPT. ...There are many *competitors*: [Bing AI](https://www.microsoft.com/en-us/edge/features/the-new-bing?form=MT00D8) (*or go directly to [https://www.bing.com/new](https://www.bing.com/new)*) (research), Claud/Claude 2 (writing), Google Docs AI (Notes), BlueWillow (images), ChatGPT+ (research, writing, search), Notion AI (Notes), Midjourney (images), Canva AI (art/design), Le Chat ([Mistral AI](https://mistral.ai/), free access at [https://chat.mistral.ai](https://chat.mistral.ai))  
 * 2022: OpenAI released ChatGPT - an a LLM conversational AI service that accepts inputs in plain language and spits out human-friendly, content relevant results.  
