@@ -116,35 +116,38 @@ As an overview, see their ["Global Mean Temperature" diagram](https://berkeleyea
 
 [Between 2000 and 2024 the U.S. state of Florida has been struck by at least 79 tropical and subtropical cyclones, their remnants, and their precursors causing more than $236 billion in damage and 615 deaths](https://en.wikipedia.org/wiki/List_of_Florida_hurricanes_(2000%E2%80%93present)).  
 
-#### Top 10 Weather-Related Disasters in the U.S. in the last 50 Years (through 2023)  
+#### Top 10 Weather-Related Disasters in the U.S. in the last 50 Years (through 2024)  
 [WMO-No. 1267](https://library.wmo.int/doc_num.php?explnum_id=10989) page 41 and NOAA "[Billion-Dollar Weather and Climate Disasters](https://www.ncei.noaa.gov/access/billions/events/US/1980-2024?disasters[]=all-disasters)" and its [CSV data](https://www.ncei.noaa.gov/access/billions/events-US-1980-2024.csv)  
 | Name            | Year | Economic losses US$ billion | Deaths |
 |-----------------|------|-----------------------------|--------|
-| Storm (Katrina) | 2005 | 196.3 | 1,833 |
-| Storm (Harvey) | 2017 | 156.25 | 89 |
-| Storm (Ian) | 2022 | 116.27 | 152 |
-| Storm (Maria) | 2017 | 112.5 | 2,981 |
-| Storm (Helene) | 2024 | >100 (*with Milton*) | >250 |
-| Storm (Milton) | 2024 | >100 (*with Helene*) | 29 |
-| Storm (Sandy) | 2012 | 86.5 | 159 |
-| Storm (Ida) | 2021 | 83.1 | 96 |
-| Storm (Irma) | 2017 | 62.5 | 97 |
-| Storm (Andrew) | 1992 | 59.1 | 61 |
-| Drought/Heat Wave | Summer 1988 | 53.4 | 454 |
-| Storm (Milton) | 2024 | 50?? | 16 |
-| Midwest Flooding | Summer 1993 | 45.3 | 48 |
-| Storm (Ike) | 2008 | 42.3 | 112 |
-| Drought/Heat Wave | 2012 | 40.8 | 123 |
-| Central/Eastern Drought/Heat Wave | Summer-Fall 1980 | 39.7 | 1,260 |
-| Storm (Ivan) | 2004 | 33.2 | 57 |
-| Storm (Wilma) | 2005 | 29.5 | 35 |
-| Storm (Rita) | 2005 | 28.7 | 119 |
-| Storm (Charley) | 2004 | 26.1 | 35 |
-| Wildfire | 2019 | 24.46 |  |
+| Storm (Katrina) | 2005 | 201.3 | 1,833 |
+| Storm (Harvey) | 2017 | 160.0 | 89 |
+| Storm (Ian) | 2022 | 119.6 | 152 |
+| Storm (Maria) | 2017 | 115.2 | 2,981 |
+| Storm (Sandy) | 2012 | 88.5 | 159 |
+| Storm (Ida) | 2021 | 84.6 | 96 |
+| Storm (Helene) | 2024 | 78.7 | 248 |
+| Storm (Irma) | 2017 | 64.0 | 97 |
+| Storm (Andrew) | 1992 | 60.5 | 61 |
+| Drought/Heat Wave | Summer 1988 | 54.6 | 454 |
+| Midwest Flooding | Summer 1993 | 46.3 | 48 |
+| Storm (Ike) | 2008 | 43.2 | 112 |
+| Drought/Heat Wave | 2012 | 41.7 | 123 |
+| Central/Eastern Drought/Heat Wave | Summer-Fall 1980 | 40.6 | 1,260 |
+| Storm (Milton) | 2024 | 34.2 | 32 |
+| Storm (Ivan) | 2004 | 34.0 | 57 |
+| Storm (Michael) | 2018 | 31.2 | 49 |
+| Storm (Wilma) | 2005 | 30.0 | 35 |
+| Wildfire California Firestorm | 2018 | 30.0 | 106 |
+| Storm (Florence) | 2018 | 30.0 | 53 |
+| Storm (Rita) | 2005 | 29.4 | 119 |
+| Storm (Laura) | 2020 | 28.0 | 42 |
+| Winter Storm/Cold Wave | 2021 | 27.2 | 262 |
+| Storm (Charley) | 2004 | 26.5 | 35 |
+| Western/Central Drought/Heat Wave | 2022 | 23.5 | 136 |
 | Cold Wave / Winter Storm | Feb 2021 | 24.0 | 226 |
-| Western/Central Drought/Heat Wave |2022 | 23.1 | 136 |
-| Western Wildfires, Calif. Firestorm | Summer-Fall 2017 | 22.69 | 54 |
-| Storm (Hugo) | 1989 | 22.2 | 86 |
+| Western Wildfires, Calif. Firestorm | 2017 | 23.2 | 54 |
+| Storm (Hugo) | 1989 | 22.7 | 86 |
 | Storm (Frances) | 2004 | 15.9 | 48 |
 | Drought | 2002 | 15.7 | 0 |
 | Tropical Storm (Allison) | 2001 | 14.7 | 43 |
@@ -159,7 +162,7 @@ As an overview, see their ["Global Mean Temperature" diagram](https://berkeleyea
 | Heat Wave & Persistent Western Drought | Jun-Jul 2021 | 8.9 | 229 |
 | Central and Eastern Winter Storm and Cold Wave | Dec.2022 | 8.8 | 87 |
 | Central and Eastern Tornado & Severe Weather | Mar 31-Apr 1 2023 | 5.7 | 33 |
-| Hawaii firestorm | Aug 8, 2023 | 5.6 | 100 |
+| Hawaii firestorm | 2023 Aug. | 5.7 | 100 |
 
 ...and lots more.  For example, In August 2024 [Tyler Jett wrote](https://www.desmoinesregister.com/story/money/business/2024/08/01/imt-insurance-exits-minnesota-raises-deductibles-amid-storm-expenses-sean-kennedy/74617695007/) in the Des Moines Register that [a Midwestern Mutual Insurance company was contracting its business footprint](https://www.youtube.com/watch?v=hwqLZF9DcJE) in an attempt to adapt to increasing property losses:  
 >National Oceanic and Atmospheric Administration data showing that 13 storms causing at least $1 billion in damage have hit Minnesota since 2021. In the prior decade, just seven such storms hit Minnesota.  Iowa likewise has recorded 13 billion-dollar storms from 2021 through this year, after just seven such storms in the previous decade, and other Midwestern states have seen a similar trend in the fequency of severe storms.  
