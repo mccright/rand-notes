@@ -206,7 +206,7 @@ Source: Swiss RE Group "[Economic losses set to increase due to climate change, 
 * "Solar is now ‘cheapest electricity in history’, confirms IEA." [https://www.carbonbrief.org/solar-is-now-cheapest-elec...](https://www.carbonbrief.org/solar-is-now-cheapest-electricity-in-history-confirms-iea/)  
 * [Deloitte on accelerated decarbonization](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/economic-cost-climate-change-turning-point.html):  
   > [Deloitte builds an economic argument](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-the-turning-point-a-new-economic-climate-in-the-united-states-january-2022.pdf) that [even without considering the impacts of water availability, crime/war, or ocean acidification](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-the-turning-point-us-tech-appendix-january-2022.pdf) climate change will result in catastrophic economic impacts over the next 50 years (losses of $14.5 trillion in present-value terms for the U.S.) -- requiring immediate action to decarbonize and build economic resiliance.  
-* The U.S. National Mortgage Bankers Association researched climate change risks in their domain: [https://img03.en25.com/Web/MortgageBankersAssociation/Research_RIHA_September_2021_Report.pdf](https://img03.en25.com/Web/MortgageBankersAssociation/%7B66e37863-0f2e-45c7-8526-04d615d395e9%7D_22847_Research_RIHA_September_2021_Report.pdf)  
+* The U.S. National Mortgage Bankers Association researched climate change risks in their domain: ["The Impact of Climate Change on Housing and Housing Finance."](https://img03.en25.com/Web/MortgageBankersAssociation/%7B66e37863-0f2e-45c7-8526-04d615d395e9%7D_22847_Research_RIHA_September_2021_Report.pdf) (*downloaded 04-01-2025*)  
 
 * The World Economic Forum’s “[Great Reset](https://www.weforum.org/great-reset/)” included discussions about additional/urban planning efforts to fight the climate crisis, including "[15-minute cities](https://www.washingtonpost.com/lifestyle/2023/03/03/15-minute-cities-faq/)."  
 
@@ -249,7 +249,7 @@ A House committee, accusing oil companies of deception, releases a trove of inte
 	* "[Farm to Fumes -- Hazardous Air Pollution from Biofuel Production](https://environmentalintegrity.org/wp-content/uploads/2024/06/EIP_Report_FarmtoFumes_6.12.24.pdf)." The Environmental Integrity Project, 2024-06-12  
 	* "[Flaws in EPA’s Monitoring and Verification of Carbon Capture Projects](https://environmentalintegrity.org/wp-content/uploads/2023/12/EIP_Report_CarbonCapture12.14.23.pdf)." The Environmental Integrity Project, 2023-12-04  
 * In March 2025 [Trump 47 *released* $537 million to 29 U.S. states](https://desmoinesregister-ia.newsmemory.com?publink=07f4eda0f_134f945) to build *gas*-pumps and related infrastructure needed to deliver higher blends of ethanol and biodiesel -- helping to bankroll the emission of hazardous pollutants into our air and water at even greater rates.  
-* Part of the ethanol *green-washing* effort has been story-telling about its energy cycle. Big Oil has argued, [for example](http://large.stanford.edu/courses/2014/ph240/dikeou1/docs/net_energy_balance2009.pdf) that "it is unfair to attribute all the energy used to grow a bushel of corn and process it into its value as an energy product (i.e. ethanol).  Ethanol production is a co-product of corn processing and therefore should only be charged with the energy that was used to turn it [*the corn-derived ethanol inputs*] into ethanol."  "*Unfair!!!*"  No other sciences permit ignoring massive percentages of their inputs into assumptions about and calculations of their net output(s).  
+* Part of the ethanol *green-washing* effort has been story-telling about its energy cycle. Big Oil has argued, [for example](http://large.stanford.edu/courses/2014/ph240/dikeou1/docs/net_energy_balance2009.pdf) that "it is unfair to attribute all the energy used to grow a bushel of corn and process it into its value as an energy product (i.e. ethanol).  Ethanol production is a co-product of corn processing and therefore should only be charged with the energy that was used to turn it [*the corn-derived ethanol inputs*] into ethanol."  "*Unfair!!!* they shout..." (Real science doesn't permit ignoring massive percentages of given inputs into assumptions about and calculations of net output(s) under analysis.  
 * For some recent CO2 measurement documentation, see: "[Hawaii’s Mauna Loa Observatory just captured ominous signals about the planet’s health -- Carbon dioxide is accumulating in the atmosphere faster than ever](https://www.washingtonpost.com/weather/2024/05/10/carbon-dioxide-record-mauna-loa/)." By Scott Dance
 May 10, 2024.  
 
@@ -299,3 +299,19 @@ Climate deniers/skeptics/provocateurs often use some version of a "word soup" or
 * NOAA Physical Sciences Lab https://psl.noaa.gov/research/  
 * Copernicus, the European Union's Earth Observation Programme https://climate.copernicus.eu/climate-intelligence  
 * (*Maybe*) The [Pipeline Safety Trust](https://pstrust.org/)  
+
+
+#### The Insurance Industry Cares About Solar Implementation Details  
+The Swiss Re Institute [reports](https://www.swissre.com/dam/jcr:0864e3dd-59f8-40c0-9b12-9f6f801a11d4/sri-expertise-publication-rooftop-solar.pdf) that "the total value at risk associated with rooftop PV systems can be higher than for ground mounted systems" [*see table below].  PV installations installed buildings have additional property and inventory exposure, with damage potentially resulting in liability and interruption-of-occupancy losses.  
+
+| Risk Category |PV installation on ground |versus| PV installation on rooftop|
+|:-------------------------|:----:|:--------------------------|
+| PV damage | 5 | -- | 5 |
+| Property damage | 0 | <-- | 4 |
+| Family/Business interruption | 1 | <-- | 4 |
+| Contents/Inventory damage | 0 | <-- | 4 |
+| Public liability | 3 | -- | 3 |
+Risk scores: a continuum where 5 == higher, 0 == lower
+
+>"Hail is a low-frequency, geographically confined but high severity peril. In recent years, hail has accounted for less than 2% of solar project insurance claims volume — but over 50% of total solar losses.26 Setting up rooftop solar PV in hail exposed regions is increasingly challenging." [pages 10-20]  
+
