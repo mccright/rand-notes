@@ -4,8 +4,8 @@ There are a number of intangibles that are also important for your team's, your 
 
 ## Listen for indicators of being:  
 
-- **Communicative**: Can this candidate communicate easily and in ways that may facilitate the '*frictionless*' exchange of thoughts and ideas across a diverse collection of individuals? ...this includes being an effective listener.  
-- **Collaborative**: Working effectively together in a diverse environment is essential - it is foundational.  Ensure that you understand enough about this characteristic before making an offer to anyone.  
+- **Communicative**: Can this candidate communicate easily and in ways that may facilitate the corporate dream of '*frictionless*' exchange of thoughts and ideas across a diverse collection of individuals? ...this includes being an effective listener.  Use caution when analyzing this category for any given candidate for a given role (*or for another role that you intend for them in the future*) -- as different roles have different communication skill/style needs, which can vary fairly wildly in some technical and research roles.  Some individuals have dramatic differences in their written and oral communications skills, so context matters here.  
+- **Collaborative**: Working effectively together in a diverse environment is essential - it is foundational.  Ensure that you understand enough about this characteristic before making an offer to anyone.  This is especially true in these times.  
 - **Adaptable**: Can this candidate evolve with/for the team?  
 - **Curious**: New options, opportunities, *connections*, ideas, or new ways to frame old issues, can feed service quality and productivity.   
 - **Committed**: This *may* be an expression of their motivations, but regardless, *half-hearted* workers are a drag on any team.  
