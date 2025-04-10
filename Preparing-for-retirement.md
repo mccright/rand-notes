@@ -82,7 +82,7 @@ Investing in stocks and equity index or mutual funds will require you tolerate s
 
 ### Remain Sufficiently Informed  
 
-* See: "Ten Things to Consider Before You Make Investing Decisions." from the U.S. SEC's Office of Investor Education and Advocacy [https://www.sec.gov/investor/pubs/tenthingstoconsider.htm](https://www.sec.gov/page/investor-section-landing)  
+* See: "Ten Things to Consider Before You Make Investing Decisions." from the U.S. SEC's Office of Investor Education and Advocacy [https://www.sec.gov/investor/pubs/tenthingstoconsider.htm](https://www.sec.gov/investor/pubs/tenthingstoconsider.htm)  
 
 * Check every *financial advisor* candidate to ensure they are trained and licensed:
   * Investment Adviser Public Disclosure website [https://adviserinfo.sec.gov/](https://adviserinfo.sec.gov/)  
