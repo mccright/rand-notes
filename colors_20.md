@@ -21,5 +21,5 @@
 | 158-151-100 | #9E9764 | Grey beige |
 | 153-153-080 | #999950 | Olive yellow |
 | 250-210-001 | #FAD201 | Traffic yellow |
-| 
+ 
 Thank you: [Oliver Lavers](https://github.com/Hauteclere). CSV version hosted at: [SheCodesAus/plus_file_io_exercises](https://github.com/SheCodesAus/plus_file_io_exercises/blob/main/colours_20_simple.csv)  
