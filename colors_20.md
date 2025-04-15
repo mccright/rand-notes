@@ -1,5 +1,5 @@
 # 20 Colors  
-$\color{rgb(255,0,0)}{\textsf{lorem ipsum
+
 | RGB | HEX | English |
 |:-----------:|:-------:|:------------|
 | 190-189-127 | #BEBD7F | Green beige |
