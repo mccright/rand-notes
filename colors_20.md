@@ -2,7 +2,7 @@
 
 | RGB | HEX | English |
 |:-----------:|:-------:|:------------|
-| 190-189-127 | #BEBD7F | $\color{rgb(190,189,127)}{\textsf{Green beige}}$ |
+| 190-189-127 | #BEBD7F | Green beige |
 | 194-176-120 | #C2B078 | Beige |
 | 198-166-100 | #C6A664 | Sand yellow |
 | 229-190-001 | #E5BE01 | Signal yellow |
@@ -24,3 +24,5 @@
  
 Thank you: [Oliver Lavers](https://github.com/Hauteclere). CSV version hosted at: [SheCodesAus/plus_file_io_exercises](https://github.com/SheCodesAus/plus_file_io_exercises/blob/main/colours_20_simple.csv)  
 And Luigi Minardi's gist: https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db  
+Try:  
+https://clemensjarnach.github.io/02-articles/2023-05-02-article.html  
