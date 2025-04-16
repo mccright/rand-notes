@@ -1,5 +1,9 @@
 ## Focus on Facts and Restrict the Flow of Misinformation
 ------------------------------------------------------
+
+>With more than 756 million cases and 6.8 million deaths worldwide as of February 2023, the SARS-CoV-2 (COVID-19) pandemic is one of the most significant pandemics in recent history. In the United States, deaths due to this virus have surpassed the 1918 H1N1 pandemic, the most lethal flu pandemic in the last century.  
+[Identifying Drug Candidates for COVID-19 with Large-Scale Drug Screening](https://pmc.ncbi.nlm.nih.gov/articles/PMC10002104/) or Int J Mol Sci. 2023 Feb 23;24(5):4397. doi: [10.3390/ijms24054397](https://doi.org/10.3390/ijms24054397)  
+
 In general terms, COVID-19 monitoring/testing has much lower priority across the U.S. than in 2020-2022.  Reductions in monitoring can dramatically mask the scope of disease impacts.  For example, Trevor Bedford of the Fred Hutchinson Cancer Center / Howard Hughes Medical Institute [reported in July 2023](https://bedford.io/talks/sars-cov-2-evolutionary-forecasting-nwpgcoe/#/17) that "roughly 1 in 3 (COVID-19) infections were detected in 2021, while only 1 in 40 in 2023..." and that a material burden imposed by COVID-19 disease remains endemic -- [reporting that](https://bedford.io/talks/sars-cov-2-evolutionary-dynamics-asv/#/42) the "U.S. has seen 40,000 COVID-19 deaths from Jan 1 to Jun 10," 2023.  
 
 ```
