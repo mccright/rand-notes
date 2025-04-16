@@ -2,8 +2,8 @@
 
 | RGB | HEX | English |
 |:-----------:|:-------:|:------------|
-| 93-138-168 | #5d8aa8 | Air Force Blue (Raf) |
-| 0-48-143 | #00308f | Air Force Blue (Usaf) |
+| 93-138-168 | #5d8aa8 | Air Force Blue (RAF) |
+| 0-48-143 | #00308f | Air Force Blue (USAF) |
 | 114-160-193 | #72a0c1 | Air Superiority Blue |
 | 163-38-56 | #a32638 | Alabama Crimson |
 | 240-248-255 | #f0f8ff | Alice Blue |
@@ -12,7 +12,7 @@
 | 239-222-205 | #efdecd | Almond |
 | 229-43-80 | #e52b50 | Amaranth |
 | 255-191-0 | #ffbf00 | Amber |
-| 255-126-0 | #ff7e00 | Amber (Sae/Ece) |
+| 255-126-0 | #ff7e00 | Amber (SAE/ECE) |
 | 255-3-62 | #ff033e | American Rose |
 | 153-102-204 | #96c | Amethyst |
 | 164-198-57 | #a4c639 | Android Green |
@@ -822,8 +822,8 @@
 | 174-32-41 | #ae2029 | Upsdell Red |
 | 225-173-33 | #e1ad21 | Urobilin |
 | 0-79-152 | #004f98 | Usafa Blue |
-| 153-0-0 | #900 | Usc Cardinal |
-| 255-204-0 | #fc0 | Usc Gold |
+| 153-0-0 | #900 | USC Cardinal |
+| 255-204-0 | #fc0 | USC Gold |
 | 211-0-63 | #d3003f | Utah Crimson |
 | 243-229-171 | #f3e5ab | Vanilla |
 | 197-179-88 | #c5b358 | Vegas Gold |
