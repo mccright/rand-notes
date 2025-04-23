@@ -61,12 +61,18 @@ In the context of my interests and needs, "*economy watching*" is largely *watch
   * [Freightos Baltic Index](https://en.wikipedia.org/wiki/Freightos_Baltic_Index) (*also sometimes known as the "Freightos Baltic Daily Index" or "Freightos Baltic Global Container Index"*) tracks global 40-foot container freight rates.  See: [https://fbx.freightos.com/](https://fbx.freightos.com/) or [https://en.macromicro.me/charts/35158/fbx-global-container-index](https://en.macromicro.me/charts/35158/fbx-global-container-index)  
 * There is a thread of industry logic that says excessive fear tends to drive down share prices, and too much greed tends to have the opposite effect.  CNN suggests it can be used to gauge the mood of the market. [https://www.cnn.com/markets/fear-and-greed](https://www.cnn.com/markets/fear-and-greed)  
 * Survey of Consumer Expectations from the New York Fed's [Applied Macroeconomics and Econometrics Center (AMEC)](https://newyorkfed.org/research/amec).  [https://www.newyorkfed.org/microeconomics/sce#/](https://www.newyorkfed.org/microeconomics/sce#/)  
-* A "Summary of Economic Projections" from the Federal Reserve Board of Governors and each Federal Reserve Bank president. Economic projections are collected from each member of the Board of Governors and each Federal Reserve Bank president four times a year, in connection with the Federal Open Market Committee's (FOMC's) meetings in March, June, September, and December. The charts and tables associated with those projections are released shortly following the end of an FOMC meeting. [https://www.federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm](https://www.federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm)  
+* A **"Summary of Economic Projections"** from the Federal Reserve Board of Governors and each Federal Reserve Bank president. Economic projections are collected from each member of the Board of Governors and each Federal Reserve Bank president four times a year, in connection with the Federal Open Market Committee's (FOMC's) meetings in March, June, September, and December. The charts and tables associated with those projections are released shortly following the end of an FOMC meeting. [https://www.federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm](https://www.federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm)  
 * [Real Gross Domestic Product (GDPC1) Billions of Chained 2017 Dollars, Seasonally Adjusted Annual Rate](https://fred.stlouisfed.org/series/GDPC1) and [Table 1.1.6. Real Gross Domestic Product, Chained Dollars: Quarterly](https://fred.stlouisfed.org/release/tables?rid=53&eid=13026#snid=13027)  
   * Related: [U.S. Trade to GDP Ratio 1970-2025](https://www.macrotrends.net/global-metrics/countries/USA/united-states/trade-gdp-ratio)  
   * Related: [U.S. Trade Balance 1970-2025](https://www.macrotrends.net/global-metrics/countries/USA/united-states/trade-balance-deficit)  
   * [U.S. Military Spending/Defense Budget as a percentage of GDP 1960-2025](https://www.macrotrends.net/global-metrics/countries/USA/united-states/military-spending-defense-budget)  
 * [Unemployment Rate (UNRATE) Percent, Seasonally Adjusted, Monthly](https://fred.stlouisfed.org/series/UNRATE)  
+* Money Stock Measures:  
+  * Velocity of M1 Money Stock (M1V) [https://fred.stlouisfed.org/series/M1V](https://fred.stlouisfed.org/series/M1V) or [view in Alfred](https://alfred.stlouisfed.org/series?seid=M1V&utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=alfred)  
+  * Velocity of M2 Money Stock (M2V)[https://fred.stlouisfed.org/series/M2V](https://fred.stlouisfed.org/series/M2V) or [view in Alfred](https://alfred.stlouisfed.org/series?seid=M2V&utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=alfred)  
+  * M1 (WM1NS) (*currency, demand deposits and other liquid deposits*) [https://fred.stlouisfed.org/series/WM1NS](https://fred.stlouisfed.org/series/WM1NS)  
+  * M2 (WM2NS) [https://fred.stlouisfed.org/series/WM2NS](https://fred.stlouisfed.org/series/WM2NS)  
+
   
 
 **Stock market indexes:**  
@@ -130,5 +136,5 @@ For at least half a century, [economists](https://en.wikipedia.org/wiki/Economic
 * IDEAS is the largest bibliographic database dedicated to Economics and available freely on the Internet [https://ideas.repec.org/](https://ideas.repec.org/)  
 * Rational Heuristics? Expectations and Behaviors in Evolving Economies with Heterogeneous Interacting Agents. By Giovanni Dosi, Mauro Napoletano, Andrea Roventini, Joseph E. Stiglitz, Tania Treibich. First published: 14 April 2020  [https://doi.org/10.1111/ecin.12897](https://doi.org/10.1111/ecin.12897)  
     * Referenced in: "In Praise of the Humble Rule of Thumb" by Peter Coy. [https://www.nytimes.com/2022/10/24/opinion/decision-making-rules-of-thumb.html](https://www.nytimes.com/2022/10/24/opinion/decision-making-rules-of-thumb.html)  
-
+* Federal Reserve Bank of San Francisco [https://www.frbsf.org/](https://www.frbsf.org/)  
 
