@@ -7,18 +7,24 @@ When you find one or more FORMER place names on your map or globe instead of the
 |----------|-------|-------------|----------|
 |Gulf of America| [2025](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/) | Gulf of Mexico |S. U.S.A, E. of Mexico, W. of Cuba|
 |Mount McKinley | [2025](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/) | Mount Denali | Central Alaska, U.S.A. |
+|Republic of Türkiye/Türkiye<sup>Note 1</sup> | [2021/2022](https://en.wikipedia.org/wiki/Turkey#Etymology)| Turkey | S. of Black Sea, E. of Mediterranean, N. of Syria |
 |North Macedonia| 2019 | Macedonia |S. of Serbia, W. of Bulgaria, N. of Greece|
+|Netherlands | [2019](https://en.wikipedia.org/wiki/Netherlands#Holland) | Holland<sup>Note 2</sup> | N. of Belgium, W. of Germany |
 |Eswatini | 2018 | Swaziland | Southeast Africa |
+|Czechia<sup>Note 3</sup> | 2016 | Czech Rep. | S. of Germany and Poland |
 |Mount Denali | 2015 | Mount McKinley | Central Alaska, U.S.A. |
-|South Sudan | 2011 | Independence from Sudan | Cent. Africa |
+|Cabo Verde | [2013](https://en.wikipedia.org/wiki/Cape_Verde#Etymology) | Cape Verde | isles W. of African coast |
+|South Sudan/Republic of South Sudan | 2011 | Independence from Sudan | Cent. Africa |
+|Kosovo | 2008 | Independance from Serbia<sup>Note 4</sup> | E. of Italy |
 |Montenegro | 2006 | Serbia and Montenegro | E. of Italy |
 |Serbia and Montenegro | 2003 | Yugoslavia (part) | E. of Italy |
 |East Timor | 1999 | Indonesia | isle N. of Australia |
 |Congo, Dem. Repub. Of  | 1997 | Zaire | Central Africa |
 |Samoa | 1997 | Western Samoa | S. Pacific Ocean |
-|Czech. Rep. | 1993 | Czechoslovakia | S. of Germany and Poland |
+|Czech Rep. | 1993 | Czechoslovakia | S. of Germany and Poland |
 |Eritrea  | 1993 | Ethiopia (part) | N. of Ethiopia, S. end of Red Sea |
 |Slovakia | 1993 | Czechoslovakia | S. of Poland |
+|Kingdom of Cambodia | 1993 | State of Cambodia | between Vietnam and Thailand |
 |Bosnia-Herzegovina | 1992 | Yugoslavia (part) | E. of Italy |
 |Croatia | 1992 | Yugoslavia (part) | E. of Italy |
 |Macedonia | 1992 | Yugoslavia (part) | N. of Greece |
@@ -41,6 +47,7 @@ When you find one or more FORMER place names on your map or globe instead of the
 |Germany  | 1990 | East Germany, West Germany unify | northern Europe |
 |Namibia | 1990 | Southwest Africa (S. Afr.) | SW. African coast |
 |Yemen | 1990 | Nth and Sth Yemen unify | S. end of Red Sea |
+|Myanmar/Republic of the Union of Myanmar  | [1989](https://en.wikipedia.org/wiki/Myanmar) | Burma | betw India, China and Thailand |
 |Marshall Islands | 1986 | Marshall Islands (U.S.) | Pacific, N. of Equator, near Intern.Dateline |
 |Micronesia, Federated States of | 1986 | Micronesia, Federated States of (U.S.) | Pacific, N. of Equator, E. of Philippines |
 |Nevis (See St. Kitts and Nevis) | 1983 |  | isles in W. Indies, above Venezuela |
@@ -54,9 +61,11 @@ When you find one or more FORMER place names on your map or globe instead of the
 |Kiribati | 1979 | Gilbert Is. and Phoenix Is. (Br.) | Pacific Ocean at the Equator |
 |Saint Lucia | 1979 | Saint Lucia (Br.) | isle in W. Indies, above Venezuela |
 |Saint Vincent and The Grenadines | 1979 | Saint Vincent (Br.) | isles in W. Indies, above Venezuela |
+|State of Cambodia | 1979 | Democratic Kampuchea | between Vietnam and Thailand |
 |Dominica | 1978 | Dominica (Br.) | isle in W. Indies, above Venezuela |
 |Solomon Islands | 1978 | Solomon Islands (Br.) | isles NE. of Australia |
 |Tuvalu | 1978 | Ellice Is. (Br.) | S. Pacific, W. of Intern.Dateline |
+|Democratic Socialist Republic of Sri Lanka/Sri Lanka | [1948](https://en.wikipedia.org/wiki/Sri_Lanka#Toponymy) | Free, Sovereign and Independent Republic of Sri Lanka/Sri Lanka | isle S. of India |
 |Djibouti | 1977 | French Somaliland | S. end of Red Sea, across Yemen |
 |Seychelles | 1976 | Seychelles (Br.)  | N. of Madagascar, near the Equator |
 |Seychelles | 1976 | Seychelle Dependencies (Br.) | N. of Madagascar, near the Equator |
@@ -68,15 +77,18 @@ When you find one or more FORMER place names on your map or globe instead of the
 |Principe (*See Sao Tome below*) | 1975 |  | W. African coast at the Equator |
 |[São Tomé and Príncipe](https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe) | 1975 | Sao Tome, Principe (Port.) | W. African coast at the Equator |
 |Suriname | 1975 | Dutch Guiana | N. coast of So. America |
+|Democratic Kampuchea | [1975](https://en.wikipedia.org/wiki/Democratic_Kampuchea) | Khmer Republic | between Vietnam and Thailand |
 |Grenada | 1974 | Grenada (Br.) | isle in W. Indies, above Venezuela |
 |Guinea-Bissau | 1974 | Portuguese Guinea | W. African coast |
 |Bahamas, The | 1973 | Bahama Is. (Br.) | off SE. coast of Florida |
+|Free, Sovereign and Independent Republic of Sri Lanka/Sri Lanka | [1948](https://en.wikipedia.org/wiki/Sri_Lanka#Toponymy) | Dominion of Ceylon | isle S. of India |
 |Bangladesh | 1972 | India | betw India and Burma |
 |Qatar | 1971 | Hadhramaut, Aden Br. Protectorate (part) | between Saudi Arabia and Persian Gulf |
 |United Arab Emirates | 1971 | Oman (part) | between Saudi Arabia and Persian Gulf |
 |Zaire | 1971 | Congo, Dem. Repub. Of | central Africa, straddles Equator |
 |Fiji | 1970 | Fiji Is. (Br.) | S. Pacific, W. of Intern.Dateline |
 |Tonga | 1970 | Tonga Is. (Br.) | S. Pacific, W. of Intern.Dateline |
+|Khmer Republic | [1970](https://en.wikipedia.org/wiki/Khmer_Republic) | Cambodia | between Vietnam and Thailand |
 |Equatorial Guinea | 1968 | Fernado Po, Rio Muni (Spanish Guinea) | W. coast of Africa at the Equator |
 |Mauritius | 1968 | Mauritius (Br.) | E. of Madagascar, in Indian Ocean |
 |Nauru | 1968 | Nauru (Br.) | Pacific, near Equator, W. of Intern.Dateline |
@@ -144,7 +156,7 @@ When you find one or more FORMER place names on your map or globe instead of the
 |Thailand  | 1949 | Siam | SE. of Burma |
 |Vietnam  | 1949 | French Indo-China | S. of China |
 |Israel | 1948 | Palestine (part) | between Syria and Egypt |
-|Sri Lanka | 1948 | Ceylon | isle S. of India |
+|Dominion of Ceylon | [1948](https://en.wikipedia.org/wiki/Sri_Lanka#Toponymy) | Ceylon | isle S. of India |
 |Pakistan | 1947 | Baluchistan | W. of India |
 |Jordan | 1946 | Trans Jordan | E. of Israel |
 |Philippines | 1946 | Philippine Islands | SE. of China |
@@ -156,5 +168,16 @@ When you find one or more FORMER place names on your map or globe instead of the
 |Latvia  | 1940 | Latvian S.S.R. | NE. Europe |
 |Estonia  | 1940 | Estonian S.S.R. | NE. Europe |
 |Thailand  | 1939 | Siam | SE. of Burma |
-|Tibet | 1912 | Tibet state in China | S.W China, N. of Nepal |
-|Gambia (British colony) | 1889 | Sierra Leone | Atlantic to W., surrounded by Sierra Leone | 
+|Republic of Ireland/Ireland | [1937](https://en.wikipedia.org/wiki/History_of_the_Republic_of_Ireland) | Irish Free State | W. of England |
+|Iran | [1935](https://en.wikipedia.org/wiki/Iran#Etymology) | Persia | E. of Iraq, W. of Afghanistan |
+|Irish Free State | [1922](https://en.wikipedia.org/wiki/Irish_Free_State) | Irish Republic | W. of England |
+|Irish Republic | [1919](https://en.wikipedia.org/wiki/History_of_the_Republic_of_Ireland) | Ireland | W. of England |
+|Gambia (British colony) | 1889 | Sierra Leone | Atlantic to W., surrounded by Sierra Leone |
+|Ceylon/Ceilão | [1505](https://en.wikipedia.org/wiki/Sri_Lanka#Toponymy) | Sarandīb | isle S. of India |
+ 
+
+### Notes:  
+1. The date of change remains ambiguous. In December 2021, President Recep Tayyip Erdoğan called for expanded official usage of Türkiye. In May 2022, the Turkish government requested the United Nations and other international organizations to use Türkiye officially in English; the UN agreed.  
+2. The name Holland has frequently been used informally to refer to the whole of the country of the Netherlands. [As of 2019](https://en.wikipedia.org/wiki/Netherlands#Holland), the Dutch government officially has preferred the Netherlands instead of Holland when talking about the country.  
+3. After Czechoslovakia dissolved on the last day of 1992, Česko was adopted as the Czech short name for the new state and [the Ministry of Foreign Affairs of the Czech Republic recommended Czechia for the English-language equivalent](https://en.wikipedia.org/wiki/Czech_Republic#Etymology).  [Recognized by the U.N. in 2016](https://unterm.un.org/unterm2/en/view/4275087d-4018-4082-899d-95f37efeda65) as the *short name* for the Czech Republic  
+4. Kosovo declared independence from Serbia on 17 February 2008. As of 16 April 2025, 116 UN states recognised its independence, including all of its immediate neighbours, with the exception of Serbia; 10 states have subsequently withdrawn that recognition. Of the UN Security Council members, while the US, UK and France do recognise Kosovo's independence, Russia and China do not. Since declaring independence, it has become a member of international institutions such as the International Monetary Fund and World Bank, though not of the United Nations. [Quoted from Wikipedia](https://en.wikipedia.org/wiki/Kosovo#Declaration_of_independence)  
