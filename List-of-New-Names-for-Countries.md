@@ -7,15 +7,15 @@ When you find one or more FORMER place names on your map or globe instead of the
 |----------|-------|-------------|----------|
 |Gulf of America| [2025](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/) | Gulf of Mexico |S. U.S.A, E. of Mexico, W. of Cuba|
 |Mount McKinley | [2025](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/) | Mount Denali | Central Alaska, U.S.A. |
-|Republic of Türkiye/Türkiye<sup>Note 1</sup> | [2021/2022](https://en.wikipedia.org/wiki/Turkey#Etymology)| Turkey | S. of Black Sea, E. of Mediterranean, N. of Syria |
+|Republic of Türkiye/Türkiye<sup>[Note 1](#Note_1)</sup> | [2021/2022](https://en.wikipedia.org/wiki/Turkey#Etymology)| Turkey | S. of Black Sea, E. of Mediterranean, N. of Syria |
 |North Macedonia| 2019 | Macedonia |S. of Serbia, W. of Bulgaria, N. of Greece|
-|Netherlands | [2019](https://en.wikipedia.org/wiki/Netherlands#Holland) | Holland<sup>Note 2</sup> | N. of Belgium, W. of Germany |
+|Netherlands | [2019](https://en.wikipedia.org/wiki/Netherlands#Holland) | Holland<sup>[Note 2](#Note_2)</sup> | N. of Belgium, W. of Germany |
 |Eswatini | 2018 | Swaziland | Southeast Africa |
-|Czechia<sup>Note 3</sup> | 2016 | Czech Rep. | S. of Germany and Poland |
+|Czechia<sup>[Note 3](#Note_3)</sup> | 2016 | Czech Rep. | S. of Germany and Poland |
 |Mount Denali | 2015 | Mount McKinley | Central Alaska, U.S.A. |
 |Cabo Verde | [2013](https://en.wikipedia.org/wiki/Cape_Verde#Etymology) | Cape Verde | isles W. of African coast |
 |South Sudan/Republic of South Sudan | 2011 | Independence from Sudan | Cent. Africa |
-|Kosovo | 2008 | Independance from Serbia<sup>Note 4</sup> | E. of Italy |
+|Kosovo | 2008 | Independance from Serbia<sup>[Note 4](#Note_4)</sup> | E. of Italy |
 |Montenegro | 2006 | Serbia and Montenegro | E. of Italy |
 |Serbia and Montenegro | 2003 | Yugoslavia (part) | E. of Italy |
 |East Timor | 1999 | Indonesia | isle N. of Australia |
@@ -177,7 +177,12 @@ When you find one or more FORMER place names on your map or globe instead of the
  
 
 ### Notes:  
-1. The date of change remains ambiguous. In December 2021, President Recep Tayyip Erdoğan called for expanded official usage of Türkiye. In May 2022, the Turkish government requested the United Nations and other international organizations to use Türkiye officially in English; the UN agreed.  
-2. The name Holland has frequently been used informally to refer to the whole of the country of the Netherlands. [As of 2019](https://en.wikipedia.org/wiki/Netherlands#Holland), the Dutch government officially has preferred the Netherlands instead of Holland when talking about the country.  
-3. After Czechoslovakia dissolved on the last day of 1992, Česko was adopted as the Czech short name for the new state and [the Ministry of Foreign Affairs of the Czech Republic recommended Czechia for the English-language equivalent](https://en.wikipedia.org/wiki/Czech_Republic#Etymology).  [Recognized by the U.N. in 2016](https://unterm.un.org/unterm2/en/view/4275087d-4018-4082-899d-95f37efeda65) as the *short name* for the Czech Republic  
-4. Kosovo declared independence from Serbia on 17 February 2008. As of 16 April 2025, 116 UN states recognised its independence, including all of its immediate neighbours, with the exception of Serbia; 10 states have subsequently withdrawn that recognition. Of the UN Security Council members, while the US, UK and France do recognise Kosovo's independence, Russia and China do not. Since declaring independence, it has become a member of international institutions such as the International Monetary Fund and World Bank, though not of the United Nations. [Quoted from Wikipedia](https://en.wikipedia.org/wiki/Kosovo#Declaration_of_independence)  
+1. <a name="Note_1"></a>The date of change remains ambiguous. In December 2021, President Recep Tayyip Erdoğan called for expanded official usage of Türkiye. In May 2022, the Turkish government requested the United Nations and other international organizations to use Türkiye officially in English; the UN agreed.  
+2. <a name="Note_2"></a>The name Holland has frequently been used informally to refer to the whole of the country of the Netherlands. [As of 2019](https://en.wikipedia.org/wiki/Netherlands#Holland), the Dutch government officially has preferred the Netherlands instead of Holland when talking about the country.  
+3. <a name="Note_3"></a>After Czechoslovakia dissolved on the last day of 1992, Česko was adopted as the Czech short name for the new state and [the Ministry of Foreign Affairs of the Czech Republic recommended Czechia for the English-language equivalent](https://en.wikipedia.org/wiki/Czech_Republic#Etymology).  [Recognized by the U.N. in 2016](https://unterm.un.org/unterm2/en/view/4275087d-4018-4082-899d-95f37efeda65) as the *short name* for the Czech Republic  
+4. <a name="Note_4"></a>Kosovo declared independence from Serbia on 17 February 2008. As of 16 April 2025, 116 UN states recognised its independence, including all of its immediate neighbours, with the exception of Serbia; 10 states have subsequently withdrawn that recognition. Of the UN Security Council members, while the US, UK and France do recognise Kosovo's independence, Russia and China do not. Since declaring independence, it has become a member of international institutions such as the International Monetary Fund and World Bank, though not of the United Nations. [Quoted from Wikipedia](https://en.wikipedia.org/wiki/Kosovo#Declaration_of_independence)  
+
+
+### Additional References:  
+* https://www.globestore.com/how-old-is-your-globe_a/254.htm  
+* https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present  
