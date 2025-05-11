@@ -62,7 +62,7 @@ In the context of my interests and needs, "*economy watching*" is largely *watch
 * There is a thread of industry logic that says excessive fear tends to drive down share prices, and too much greed tends to have the opposite effect.  CNN suggests it can be used to gauge the mood of the market. [https://www.cnn.com/markets/fear-and-greed](https://www.cnn.com/markets/fear-and-greed)  
 * Survey of Consumer Expectations from the New York Fed's [Applied Macroeconomics and Econometrics Center (AMEC)](https://newyorkfed.org/research/amec).  [https://www.newyorkfed.org/microeconomics/sce#/](https://www.newyorkfed.org/microeconomics/sce#/)  
 * A **"Summary of Economic Projections"** from the Federal Reserve Board of Governors and each Federal Reserve Bank president. Economic projections are collected from each member of the Board of Governors and each Federal Reserve Bank president four times a year, in connection with the Federal Open Market Committee's (FOMC's) meetings in March, June, September, and December. The charts and tables associated with those projections are released shortly following the end of an FOMC meeting. [https://www.federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm](https://www.federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm)  
-* [Real Gross Domestic Product (GDPC1) Billions of Chained 2017 Dollars, Seasonally Adjusted Annual Rate](https://fred.stlouisfed.org/series/GDPC1) and [Table 1.1.6. Real Gross Domestic Product, Chained Dollars: Quarterly](https://fred.stlouisfed.org/release/tables?rid=53&eid=13026#snid=13027)  
+* [Real Gross Domestic Product (GDPC1) Billions of Chained 2017 Dollars, Seasonally Adjusted Annual Rate](https://fred.stlouisfed.org/series/GDPC1) and [Table 1.1.6. Real Gross Domestic Product, Chained Dollars: Quarterly](https://fred.stlouisfed.org/release/tables?rid=53&eid=13026#snid=13027) or [Gross Domestic Product (GDP)](https://fred.stlouisfed.org/series/GDP/) and []()  
   * Related: [U.S. Trade to GDP Ratio 1970-2025](https://www.macrotrends.net/global-metrics/countries/USA/united-states/trade-gdp-ratio)  
   * Related: [U.S. Trade Balance 1970-2025](https://www.macrotrends.net/global-metrics/countries/USA/united-states/trade-balance-deficit)  
   * [U.S. Military Spending/Defense Budget as a percentage of GDP 1960-2025](https://www.macrotrends.net/global-metrics/countries/USA/united-states/military-spending-defense-budget)  
@@ -72,6 +72,11 @@ In the context of my interests and needs, "*economy watching*" is largely *watch
   * Velocity of M2 Money Stock (M2V)[https://fred.stlouisfed.org/series/M2V](https://fred.stlouisfed.org/series/M2V) or [view in Alfred](https://alfred.stlouisfed.org/series?seid=M2V&utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=alfred)  
   * M1 (WM1NS) (*currency, demand deposits and other liquid deposits*) [https://fred.stlouisfed.org/series/WM1NS](https://fred.stlouisfed.org/series/WM1NS)  
   * M2 (WM2NS) [https://fred.stlouisfed.org/series/WM2NS](https://fred.stlouisfed.org/series/WM2NS)  
+* Savings and Credit:  
+  * [Personal Saving (PSAVE)](https://fred.stlouisfed.org/series/PSAVE)  
+  * [Personal Saving Rate (PSAVERT)](https://fred.stlouisfed.org/series/PSAVERT)  
+  * [Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks (CCLACBW027SBOG)](https://fred.stlouisfed.org/series/CCLACBW027SBOG)  
+  * [Delinquency Rate on Credit Card Loans, All Commercial Banks (DRCCLACBS)](https://fred.stlouisfed.org/series/DRCCLACBS)  
 
   
 
