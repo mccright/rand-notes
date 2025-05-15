@@ -266,6 +266,20 @@ May 10, 2024.
   * "Consistent with the pipeline safety regulations’ historical lack of emphasis on the environmental consequences of gas releases, PHMSA’s minimum incident reporting threshold was established principally to better reflect the economic consequence of lost gas 2 and was set at 3 million standard cubic feet (MMCF), which leaves many large-volume gas releases unreported."  
   * "PHMSA has no reporting requirements for intentional releases of gas at all."  
 
+
+#### Decisions about Modes of Transportation Matter:  
+The [MIT Climate Portal](https://climate.mit.edu/) in an *[explainer](https://climate.mit.edu/explainers)* on "[Freight Transportation](https://climate.mit.edu/explainers/freight-transportation)" provides a relatively simple, useful macro model for thinking about this issue.  
+Using that data Nicolás Rivero reported in "[Would you swap your plane ticket for a seat on a zeppelin?](https://www.washingtonpost.com/climate-solutions/2025/05/13/airship-blimp-zeppelin-air-travel/)" that "Air cargo is by far the dirtiest way to move freight:"  
+
+**Grams of CO2 emitted for every kilometer that a ton of freight moves by different transportation modes:**  
+|Trans. Mode | grams CO2 / km |
+|:----------:|:----------|
+| Air  | 511.6g/km |
+| Road | 83.2g/km |
+| Rail | 15.7g/km |
+| Sea and inland waterways | 6.5g/km |
+
+
 #### Call Out Climate Deniers/Skeptics/Provocateurs  
 * Invest enough effort in reviewing the outputs of these threads of **doubt-provoking** activity to understand their data selections, logic and conclusions.  (*Examples of this work incorporates `real` facts/observations to give their theories, assertions, and conclusions the ring of objective science*.)  Then if the author's mission appears to be focused on creating "*alternatives*" to broadly-established science, make your observations known in your social and professional circles, and consider writing reviews of the work for publication.  
 
