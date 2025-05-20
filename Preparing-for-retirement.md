@@ -112,7 +112,7 @@ Investing in stocks and equity index or mutual funds will require you tolerate s
 
 I understand that not everyone on this journey starts in equal circumstances.  The [Social Security Administration](https://www.ssa.gov/oact/cola/central.html) (*SSA*) put the average U.S. annual net wage in 2020 at $53,383, and the median net wage at $34,612.  That compares with the Labor Department's Bureau of Labor Statistics (*BLS*) release in May 2020 saying that [median annual gross wage earnings across all occupations](https://www.bls.gov/oes/current/oes_nat.htm#00-0000) was $56,310.  *See the table below for updates since 2020.*  That suggests that many are not earning enough to make saving *easy*.  
 
-| Reporter | Average Annual | Mean Annual |
+| Reporter | Average Annual | Median Annual |
 |:---------|:--------------:|:-----------:|
 | 2025 SSA | Not Avail. | Not Avail. |
 | 2025 BLS | Not Avail. | Not Avail. |
@@ -124,6 +124,8 @@ I understand that not everyone on this journey starts in equal circumstances.  T
 | 2022 BLS | $61,900 | $46,300 |
 | 2021 SSA | $58,129 | $37,586 |
 | 2021 BLS | $58,260 | $45,760 |
+
+Sources: [Average and Median Amounts of Net Compensation](https://www.ssa.gov/oact/cola/central.html) and [Occupational Employment and Wage Statistics (OEWS) Tables](https://www.bls.gov/oes/tables.htm#00-0000) sanity checked against U.S. Census data: [Income in the United States: 2023](https://www.census.gov/library/publications/2024/demo/p60-282.html) and [Wealth of Households: 2022](https://www.census.gov/library/publications/2024/demo/p70br-202.html)  
 
 
 Assembling a diverse portfolio requires resources.  
