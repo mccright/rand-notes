@@ -1,5 +1,16 @@
-## Preparing for Retirement
+# Preparing for Retirement  
 
+## TLDR:  
+* Most of us want to "*retire*" someday.  
+* Funding that retirement -- providing a future income stream -- requires long term planning **as well as daily, weekly & yearly execution** throughout your adult life.  
+  * There are systemic impediments for many -- but that does not reduce the criticality of preparing for retirement.  
+  * Inflation is a reality, as are market downturns and emergency expenses, so include them in your planning assumptions.  
+* Start retirement preparations early!  Each of us will make constellations of decisions -- education, career choices, savings, investing, spending, etc. -- that materially impact our *retirement readiness*.  
+* Manage your risks -- there are many.  
+* Too many avoid/ignore/delay preparing for this facet of their lives.  Don't become (*or stay*) one of them.  
+
+
+## Supporting Discussion  
 Regardless of your current age, all of us are getting older.  
 
 At some age many of us want to escape [hustle culture](https://www.nytimes.com/2019/01/26/business/against-hustle-culture-rise-and-grind-tgim.html) and [stop the *grind* of daily work](https://web.archive.org/web/20230302011250/https://dilbert.com/strip/1994-03-20) to generate an income -- to [*retire*](https://en.wikipedia.org/wiki/Retirement).  For any given individual, *retirement* may mean something different.  For most of us it will be unrecognizable from commercials showing athletic *retirees* on sailing yachts, at beach mansions, in our newly-restored jazz club, or in our *retirement estate* for former racing dogs.  In the United States, though, entertaining our retirement ideas will require an income stream. [Note 1](https://github.com/mccright/rand-notes/blob/master/Preparing-for-retirement.md#NOTES)  It seems prudent to think about your quality of life in retirement...before you retire [*don't do this*](https://web.archive.org/web/20160123215308im_/http://assets.amuniversal.com/740fbb90953901332f6c005056a9545d) (*or [here](https://web.archive.org/web/20230302071256/https://dilbert.com/strip/2016-01-23)*).  
@@ -94,7 +105,7 @@ Investing in stocks and equity index or mutual funds will require you tolerate s
   * Investment Adviser Public Disclosure website [https://adviserinfo.sec.gov/](https://adviserinfo.sec.gov/)  
   * Investor Alerts and Bulletins [https://www.sec.gov/investor/alerts](https://www.sec.gov/investor/alerts)  
   * FINRA’s BrokerCheck [https://brokercheck.finra.org](https://brokercheck.finra.org)  
-  * Or to find the relevant regulator(s) in your state try the North American Securities Administrators Association (NASAA) at [https://www.nasaa.org/contact-your-regulator/](https://www.nasaa.org/contact-your-regulator/) for resources and contact information for state and provincial securities regulators and related resources those agencies provide.
+  * Or to find the relevant regulator(s) in your state try the North American Securities Administrators Association (NASAA) at [https://www.nasaa.org/contact-your-regulator/](https://www.nasaa.org/contact-your-regulator/) for resources and contact information for state and provincial securities regulators and related resources those agencies provide.  
 
 * Familiarize yourself with signs of a grifter/con-artist [https://www.businessinsider.com/7-tell-tale-signs-of-a-con-artist-2016-3](https://www.businessinsider.com/7-tell-tale-signs-of-a-con-artist-2016-3).  Even the smallest, subtle hints or whiffs of these behaviors should be taken very seriously.  Keep your sensors tuned and trust your gut if you think you may have hooked up with an advisor who does not have your best interest in the foreground and follow up by monitoring and reviewing all account transactions to confirm **you** are being treated ethically.  
 
@@ -134,8 +145,8 @@ Gender plays a material role in earnings in the U.S.  In late 2021 U.S. Departme
 
 In addition, non-whites in the U.S. face systemic economic pressures that are material to any discussion about retirement planning.  4th quarter 2021 U.S. Department of Labor [reported](https://www.bls.gov/news.release/wkyeng.nr0.htm) that "median weekly earnings of Blacks ($805) and Hispanics ($799) working full-time jobs were lower than those of Whites ($1,030) and Asians ($1,384)."  Those differences impact wealth accumulation.  In 2019 The Federal Reserve published a paper outlining [disparities in wealth by race and ethnicity](https://www.federalreserve.gov/econres/notes/feds-notes/disparities-in-wealth-by-race-and-ethnicity-in-the-2019-survey-of-consumer-finances-20200928.htm) -- showing that there are sizeable differences in wealth by race and ethnicity, most starkly between young Black and young White families:  
 ```
-The median young Black family has almost no wealth ($600). 
-In contrast, the median young White family has a wealth of $25,400. 
+The median young Black family has almost no wealth ($600).  
+In contrast, the median young White family has a wealth of $25,400.  
 Young Hispanic and other families fall in between, 
 with $11,200 and $13,500 in median wealth, respectively.  
 ```
@@ -185,7 +196,7 @@ The [2024 Planning & Progress Study](https://news.northwesternmutual.com/plannin
 >Meanwhile, the average amount that U.S. adults have saved for retirement dropped modestly from $89,300 in 2023 to $88,400 today, but is more than $10,000 off its five-year peak of $98,800 in 2021.  
 
 Again, these numbers can seem like a challenge in isolation.  But for many who reach them, they are the result of regular *savings* for retirement and full participation in employer plans over many years.  One of the keys is to start and stick with a plan.  
-*There is some material disagreement about this 20x to 25x target -- the approach outlined above may not be right for everyone.  See the ["Are You Saving Enough For Retirement? At this household income:"](https://www.investors.com/etfs-and-funds/retirement/you-need-this-much-retirement-savings-at-your-age-and-income/) table in [this article](https://www.investors.com/etfs-and-funds/retirement/you-need-this-much-retirement-savings-at-your-age-and-income/) by Paul Katzeff for an alternative idea -- one that I believe materially increases one's longevity, uncertain (*medical or other*) material expenses in old age, and market timing risks.*  Fidelity mirrors some of Mr. Katzeff's ideas when they argue for a goal of "[saving 10x (times) your preretirement income by age 67](https://www.fidelity.com/viewpoints/retirement/how-much-do-i-need-to-retire)."  Roger Young, CFP, Thought Leadership Director, T. Rowe Price, [recently wrote](https://www.troweprice.com/personal-investing/resources/insights/how-to-determine-amount-of-income-you-will-need-at-retirement.html) that "we recommend that most people consider a target between seven and 13½ times their ending salary," depending "on your income and marital status."  As a result, I've added another table below that includes examples of what 10 and 15-times some sample annual incomes look like (*understanding that less retirement savings means, for most, increased risks*):  
+*There is some material disagreement about this 20x to 25x target -- the approach outlined above may not be right for everyone.  See the ["Are You Saving Enough For Retirement? At this household income:"](https://www.investors.com/etfs-and-funds/retirement/you-need-this-much-retirement-savings-at-your-age-and-income/) table in [this article](https://www.investors.com/etfs-and-funds/retirement/you-need-this-much-retirement-savings-at-your-age-and-income/) by Paul Katzeff for an alternative idea -- one that I believe materially increases one's longevity, uncertain (*medical or other*) material expenses in old age, and market timing risks.*  Fidelity mirrors some of Mr. Katzeff's ideas when they argue for a goal of "[saving 10x (times) your preretirement income by age 67](https://www.fidelity.com/viewpoints/retirement/how-much-do-i-need-to-retire#:~:text=Fidelity's%20guideline%3A%20Aim%20to%20save,lifestyle%20you%20hope%20to%20have%20in%20retirement.)."  Roger Young, CFP, Thought Leadership Director, T. Rowe Price, [recently wrote](https://www.troweprice.com/personal-investing/resources/insights/how-to-determine-amount-of-income-you-will-need-at-retirement.html) that "we recommend that most people consider a target between seven and 13½ times their ending salary," depending "on your income and marital status."  As a result, I've added another table below that includes examples of what 10 and 15-times some sample annual incomes look like (*understanding that less retirement savings means, for most, increased risks*):  
 
 |Annual Income|Times 10|Times 15|Times 20|Times 25|
 |:-----------:|:------:|:------:|:------:|:------:|
@@ -205,7 +216,11 @@ Again, these numbers can seem like a challenge in isolation.  But for many who r
 |$150,000 | $1,500,000 | $2,250,000 | $3,000,000 | $3,750,000|
 
 
-For many, a material component of your retirement readiness equation is your spending behaviors.  As of Q1 2022 America's household debt is around a staggering [$15.84 trillion](https://www.newyorkfed.org/microeconomics/hhdc.html). By October 2023, Cora Lewis (Associated Press) [reported](https://apnews.com/article/inflation-debt-poll-personal-finance-economy-dd4c88e2076d1fd3f85c51fb8992583b) that "about 2 in 3 Americans say their household expenses have risen over the last year, but only about 1 in 4 say their income has increased in the same period, according to a new poll from The Associated Press-NORC Center for Public Affairs Research." She added that "About 8 in 10 Americans say their overall household debt is higher or about the same as it was a year ago. About half say they currently have credit card debt, 4 in 10 are dealing with auto loans, and about 1 in 4 have medical debt. Just 15% say their household savings have increased over the last year."  Inflation, debt and savings are key facets of individual and family money management. 
+For many, a material component of your retirement readiness equation is your spending behaviors.  As of Q1 2022 America's household debt is around a staggering [$15.84 trillion](https://www.newyorkfed.org/microeconomics/hhdc.html). By October 2023, Cora Lewis (Associated Press) [reported](https://apnews.com/article/inflation-debt-poll-personal-finance-economy-dd4c88e2076d1fd3f85c51fb8992583b) that "about 2 in 3 Americans say their household expenses have risen over the last year, but only about 1 in 4 say their income has increased in the same period, according to a new poll from The Associated Press-NORC Center for Public Affairs Research." She added that "About 8 in 10 Americans say their overall household debt is higher or about the same as it was a year ago. About half say they currently have credit card debt, 4 in 10 are dealing with auto loans, and about 1 in 4 have medical debt. Just 15% say their household savings have increased over the last year."  Inflation, debt and savings are key facets of individual and family money management.  
+
+Some are unable to get started on that savings journey.  A [2024 AARP survey](https://press.aarp.org/2024-4-24-New-AARP-Survey-1-in-5-Americans-Ages-50-Have-No-Retirement-Savings) found that "20% of adults ages 50+ have no retirement savings, and more than half (61%) are worried they will not have enough money to support them in retirement."  
+
+The "*data*" on retirement savings varies materially.  In May 2024 [Deposit Accounts](https://www.depositaccounts.com/blog/retirement-years-study.html) said that "The average retirement account savings for those ages 65 to 74 is $609,230."  
 
 After analyzing data from 4,588 online interviews, researchers published in the [2024 Planning & Progress Study](https://news.northwesternmutual.com/planning-and-progress-study-2024) that they found "there are large gaps between what people think they’ll need to retire and what they’ve saved to date:"  
 |Research Finding|All |Gen Z |Millennials |Gen X |Boomers+ |HNW ($1M+) |
@@ -213,7 +228,7 @@ After analyzing data from 4,588 online interviews, researchers published in the 
 |Amount saved for retirement currently|$88,400|$22,800|$62,600|$108,600|$120,300|$172,100|
 |Gap between retirement goal and current savings|$1.37M|$1.61M|$1.59M|$1.45M|$870K|$3.76M|
 
-Source: ["2024 Planning & Progress Study – Work, Retirement & Taxes"](https://filecache.mediaroom.com/mr5mr_nwmutual/179070/2024%20PP%20Wave%20II%20Data%20Deck_%20Work%20%20Retirement.pdf) page 5, downloaded 2024-04-03.
+Source: ["2024 Planning & Progress Study – Work, Retirement & Taxes"](https://filecache.mediaroom.com/mr5mr_nwmutual/179070/2024%20PP%20Wave%20II%20Data%20Deck_%20Work%20%20Retirement.pdf) page 5, downloaded 2024-04-03.  
 
 Based on survey results like that above, it is clear that there are widespread circumstances that make *saving* and *investing* a material challenge.  There is no magic "*fix*" and be wary of anyone offering/selling one.  For those who find themselves in the most economically constrained circumstances, income and spending are the primary *levers* available for *generating* future retirement funding.  
 
@@ -272,10 +287,10 @@ When you approach or enter *retirement,* your willingness to assume risks in equ
 Some individuals and families have retirement cash flow expectations of $150,000/yr, $200,000/yr, $300,000/yr, and some even more.  I included some *big* numbers in the Assets column to help demonstrate the scale of preparation required to support income streams like that.  I read that too often, individuals spending at these levels in retirement have not constructed the required financial foundation, and burn through material portions of their retirement funds before aknowledging that situation -- leaving them seriously financially challenged for the duration of their life.  My working assumption is that is not where any of us want to land.  
 
 Those upper rows refer to **material** wealth.  Who has that kind of money?[[Note 6](https://github.com/mccright/rand-notes/blob/master/Preparing-for-retirement.md#NOTES)]  Most don't.  While there have been recent wage increases, [over the past 40 years wages have stagnated against the cost of living for most Americans](https://www.pewresearch.org/fact-tank/2018/08/07/for-most-us-workers-real-wages-have-barely-budged-for-decades/).  And the proportion of the U.S. population who have accumulated $1.2 million or more has shrunk and the distance between the median wealth and entry into the top 9.9% has more than doubled in the last 6 decades.   
-In "The 9.9 Percent," Matthew Stewart noted that in 1963, the median household would have needed 10 times as much wealth to reach the middle of the (*top*) 9.9 percent. Today, it would need 24 times as much wealth. 
+In "The 9.9 Percent," Matthew Stewart noted that in 1963, the median household would have needed 10 times as much wealth to reach the middle of the (*top*) 9.9 percent. Today, it would need 24 times as much wealth.  
 He also reported that it took $2.4 million in assets to reach the the 9.9 percent group's median... (Quoted from [a review by Eyal Press](https://www.nytimes.com/2021/11/18/books/review/the-99-percent-matthew-stewart.html))  The [U.S. Federal Reserve reports](https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/chart/#quarter:0;series:Net%20worth;demographic:networth;population:1,5,7;units:shares;range:1989.3,2021.3) that the top 1% of of Americans by accumulated wealth own over a third of all wealth in the country (roughly the same amount as the bottom 90%), while the bottom 50% own about 2.5% of all wealth.  Those are just (*point-in-time*) facts.  They document the distribution of wealth in the U.S. -- that by almost any measure seems *unfair*.  They do not, though, alter the ruthless impacts of time and aging that require planning for *old age* and whatever will be your retirement.  
 
-Once you *retire* and begin drawing from your accumulated assets, it is also important to consider the impacts of taxes on your various options.  Withdrawals from defined-contribution plans like some types of IRAs and 401(k)s are taxable at your federal level, based on your income. Withdrawals from taxable brokerage accounts are subject to capital gains tax on investment profits.  **Withdrawals from an Roth IRA are not taxable** if you are at least 59 1/2 (*which can be a material advantage*), as long as you have kept the money in the Roth IRA account for at least five years.
+Once you *retire* and begin drawing from your accumulated assets, it is also important to consider the impacts of taxes on your various options.  Withdrawals from defined-contribution plans like some types of IRAs and 401(k)s are taxable at your federal level, based on your income. Withdrawals from taxable brokerage accounts are subject to capital gains tax on investment profits.  **Withdrawals from an Roth IRA are not taxable** if you are at least 59 1/2 (*which can be a material advantage*), as long as you have kept the money in the Roth IRA account for at least five years.  
 
 
 ## Guaranteed Income and the Nature of Your Needs May Impact Investment Withdrawl Rates During Retirement  
@@ -319,7 +334,7 @@ Achieving financial independence *early* is an attractive dream.  For many, the 
 
 
 ### What About Those Artificial Intelligence (AI) Promoters?  
-Various flavors of AI are being integrated into the financial services *supply chain.*  Here is an example of how one individual coached an AI service into building a financial plan for targeted individuals: [https://github.com/gabrielchua/hacksg24/blob/main/prompt.txt](https://github.com/gabrielchua/hacksg24/blob/main/prompt.txt).
+Various flavors of AI are being integrated into the financial services *supply chain.*  Here is an example of how one individual coached an AI service into building a financial plan for targeted individuals: [https://github.com/gabrielchua/hacksg24/blob/main/prompt.txt](https://github.com/gabrielchua/hacksg24/blob/main/prompt.txt).  
   
 
 #### Additional References:  
@@ -394,7 +409,9 @@ The 2024 [BankRate/SSRS yearly emergency savings report](https://www.bankrate.co
 >"27% of U.S. adults have no emergency savings, as of May 2024 polling — the highest percentage since 2020."  
 >"Generationally, Americans vary widely in their emergency savings levels. Over 1 in 3 (34 percent) millennials have no emergency savings, the highest percentage of any generation: Gen Zers (ages 18-27): 29 percent; Millennials (ages 28-43): 34 percent; Gen Xers (ages 44-59): 31 percent; Baby boomers (ages 60-78): 16 percent"  
 >"More than one in three (36 percent) U.S. adults had more credit card debt than money saved in an emergency savings account in both 2023 and 2024. But, the majority (55 percent) of U.S. adults have more emergency savings than credit card debt. That’s up from 51 percent in 2023 and is the highest percentage since 2018. Additionally, 10 percent of Americans have no credit card debt or emergency savings at all, the lowest percentage in the poll’s 14-year history."  
->“All too many Americans continue to walk on thin ice, financially speaking, with fewer than half indicating they would pay an emergency expense of $1,000 or more from savings,” Bankrate Senior Economic Analyst Mark Hamrick says.
+>“All too many Americans continue to walk on thin ice, financially speaking, with fewer than half indicating they would pay an emergency expense of $1,000 or more from savings,” Bankrate Senior Economic Analyst Mark Hamrick says.  
+
+A [2024 AARP Survey](https://press.aarp.org/2024-4-24-New-AARP-Survey-1-in-5-Americans-Ages-50-Have-No-Retirement-Savings) of [8,368 individuals](https://www.aarp.org/content/dam/aarp/research/topics/work-finances-retirement/financial-security-retirement/financial-security-trends-january-2024-methodology.doi.10.26419-2fres.00525.046.pdf) independently confirmed these BankRate/SSRS results...  
 
 The [median average credit card interest rate for March (2025) is 24.2 percent](https://www.washingtonpost.com/business/2025/03/14/tips-prepare-recession-economy-trump/), according to Investopedia.  
 
