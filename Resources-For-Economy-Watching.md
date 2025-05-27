@@ -10,6 +10,7 @@ In the context of my interests and needs, "*economy watching*" is largely *watch
 
 * U.S. [Federal Reserve Data](https://www.federalreserve.gov/data.htm) and, importantly, its [release schedule](https://www.federalreserve.gov/data/releaseschedule.htm)  
 * Data: 817,000 US and international time series from 108 sources hosted by the Federal Reserve Bank of St. Louis [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)  
+* Survey of Consumer Finances (SCF) - links to the report, interactive chartbook, historical report tables, full public dataset, extract dataset, replicate weight files, and technical documents. [https://www.federalreserve.gov/econres/scfindex.htm](https://www.federalreserve.gov/econres/scfindex.htm)  
 * Economic Indicators Calendar [https://www.newyorkfed.org/research/calendars/nationalecon_cal](https://www.newyorkfed.org/research/calendars/nationalecon_cal)  
 * A collection of indicators from Trading Economics [https://tradingeconomics.com/indicators](https://tradingeconomics.com/indicators)  
 * Job Openings and Labor Turnover Survey (JOLTS) program produces data on job openings, hires, and separations: [https://www.bls.gov/jlt/home.htm](https://www.bls.gov/jlt/home.htm)  
