@@ -5,7 +5,7 @@
 * Funding that retirement -- providing a future income stream -- requires long term planning **as well as daily, weekly & yearly execution** throughout your adult life.  
   * There are systemic impediments for many -- but that does not reduce the criticality of preparing for retirement.  
   * Inflation is a reality, as are market downturns and emergency expenses, so include them in your planning assumptions.  
-* Start retirement preparations early!  Each of us will make constellations of decisions -- education, career choices, savings, investing, spending, etc. -- that materially impact our *retirement readiness*.  
+* Start retirement preparations early (*or if you are already beyond early, start now*)!  Each of us will make constellations of decisions -- education, career choices, savings, investing, spending, etc. -- that materially impact our *retirement readiness*.  
 * Manage your risks -- there are many.  
 * Too many avoid/ignore/delay preparing for this facet of their lives.  Don't become (*or stay*) one of them.  
 
