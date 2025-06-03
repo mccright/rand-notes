@@ -55,6 +55,22 @@ A flowchart from JustSecurity shows pathways for prosecuting presidential conduc
 
 -----------------------
 
+
+| Civic Virtues | Trump/Musk Team Vices |
+|:--------------|:----------------------|
+| Courage | Cowardice| 
+| Honor   | Dishonor |
+| Humility | Hubris |
+| Integrity | Self-deception |
+| Justice | Injustice |
+| Moderation | Extremism (*Immoderation*) |
+| Prudence | Imprudence |
+| Respect | Contempt |
+| Responsibility | Irresponsibility |
+
+See: https://billofrightsinstitute.org/principles-and-virtues and https://bri-docs.s3.amazonaws.com/Founding+Principles+and+Civic+Virtues.pdf
+
+
 ##### Businesses have found a broad spectrum of ways to monitize some of Trump's Big Lie.  
 **Fact**: The 306 electoral college votes for President Biden defeated former president Donald Trump in the 2020 election and serious investigations into the 2020 election and more than 60 court cases brought by Trumpophiles have revealed no evidence of material fraud, and as outlined on this page Trump faces federal criminal charges for some of his efforts to overturn the election.  
 Cat Zakrzewski [reported](https://www.washingtonpost.com/technology/2023/10/07/amazon-alexa-news-2020-election-misinformation/) (in the Washington Post) on October 7, 2023, that "Amazon’s Alexa has been claiming the 2020 election was stolen."  She went on to detail a number of ways that Alexa delivered this Trump lie.  
