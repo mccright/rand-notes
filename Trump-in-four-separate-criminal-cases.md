@@ -69,7 +69,7 @@ A flowchart from JustSecurity shows pathways for prosecuting presidential conduc
 | Responsibility | Irresponsibility |
 
 
-| Virtue Under Trump 47 | | | | | | | | | |
+| Trump Rot | | | | | | | | | |
 |:----------------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
 | Civic Virtues         | Courage | Honor | Humility | Integrity | Justice | Moderation | Prudence | Respect | Responsibility |
 | Trump/Musk Team Vices | Cowardice| Dishonor | Hubris | Self-deception | Injustice | Extremism (*Immoderation*) | Imprudence | Contempt | Irresponsibility |
