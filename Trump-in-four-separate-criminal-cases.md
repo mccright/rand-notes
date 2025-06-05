@@ -68,11 +68,13 @@ A flowchart from JustSecurity shows pathways for prosecuting presidential conduc
 | Respect | Contempt |
 | Responsibility | Irresponsibility |
 
+See: https://billofrightsinstitute.org/principles-and-virtues and https://bri-docs.s3.amazonaws.com/Founding+Principles+and+Civic+Virtues.pdf
 
-| Trump Rot | | | | | | | | | |
+
+| | | | | | | | | | |
 |:----------------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-| Civic Virtues         | Courage | Honor | Humility | Integrity | Justice | Moderation | Prudence | Respect | Responsibility |
-| Trump/Musk Team Vices | Cowardice| Dishonor | Hubris | Self-deception | Injustice | Extremism (*Immoderation*) | Imprudence | Contempt | Irresponsibility |
+| **Civic Virtues**     | Courage | Honor | Humility | Integrity | Justice | Moderation | Prudence | Respect | Responsibility |
+| **Trump/Musk Team Vices** | Cowardice| Dishonor | Hubris | Self-deception | Injustice | Extremism (*Immoderation*) | Imprudence | Contempt | Irresponsibility |
 
 
 See: https://billofrightsinstitute.org/principles-and-virtues and https://bri-docs.s3.amazonaws.com/Founding+Principles+and+Civic+Virtues.pdf
