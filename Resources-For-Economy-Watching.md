@@ -40,7 +40,7 @@ In the context of my interests and needs, "*economy watching*" is largely *watch
 * Conference Board leading economic index: [https://www.conference-board.org/data/bcicountry.cfm?cid=1](https://www.conference-board.org/data/bcicountry.cfm?cid=1)  
 * Durable-goods orders: [https://tradingeconomics.com/united-states/durable-goods-orders](https://tradingeconomics.com/united-states/durable-goods-orders)  
 * Industrial production: [https://www.federalreserve.gov/releases/g17/current/](https://www.federalreserve.gov/releases/g17/current/)  
-* Senior loan officer survey: [https://www.federalreserve.gov/data/sloos.htm](https://www.federalreserve.gov/data/sloos.htm)  
+* Senior loan officer survey (*January, April, July and October*): [https://www.federalreserve.gov/data/sloos.htm](https://www.federalreserve.gov/data/sloos.htm)  
 * Total Consumer Credit Owned and Securitized [TOTALSL] from the Board of Governors of the Federal Reserve System (US) [https://fred.stlouisfed.org/series/TOTALSL](https://fred.stlouisfed.org/series/TOTALSL)  
 * Consumer Credit - G.19 (Current Release): [https://www.federalreserve.gov/releases/g19/current/default.htm](https://www.federalreserve.gov/releases/g19/current/default.htm)  
 * Building permits: [https://tradingeconomics.com/united-states/building-permits](https://tradingeconomics.com/united-states/building-permits)  
