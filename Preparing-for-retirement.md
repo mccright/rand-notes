@@ -302,7 +302,7 @@ The model below is from an AARP Bulletin retelling of "The impact of Guaranteed 
 To use the table below, gather the following information:  
 1. My annual guaranteed retirement income is: ________ [Social Security + any other source like an annuity or pension]  
 
-2. My net worth is: ________ [real assets (*bank + investment balances + home equity + any-others*) minus debt (*of all types*)]  
+2. My net worth is: ________ [real assets (*bank + investment balances + home equity + any-others*) minus debt (*of all types*)] (*if you have questions about what to include in a net worth statement, see the Federal Reserve "[Asset and Debt Categories in Calculation of Net Worth Flow Chart](https://www.federalreserve.gov/econres/files/Networth%20Flowchart.pdf)"*)  
 
 3. My total financial resources are: ________ [Add the values in #s 1 and 2 above -- guaranteed income current value plus net worth]  
 
@@ -357,6 +357,7 @@ By Gal Wettstein and Robert L. Siliciano, Center for Retirement Research at Bost
 * Try to build an understanding of how education is important to retirement security -- part of which is expanding your knowledge about what influences educational inequality in the U.S.  See: "Educational Inequality" By Jo Blanden, Matthias Doepke, and Jan Stuhler, NBER Working Paper No. 29979, April 2022. [https://www.nber.org/system/files/working_papers/w29979/w29979.pdf](https://www.nber.org/system/files/working_papers/w29979/w29979.pdf)  
 * Use caution when reading formal economic texts -- more than a generation of economists reasoned in terms that may be misaligned with your best interest...  See: "[The World in the Model: How Economists Work and Think](https://www.cambridge.org/core/journals/economics-and-philosophy/article/abs/world-in-the-model-how-economists-work-and-think-mary-s-morgan-cambridge-university-press-2012-xvii-421-pages/8064BAA5C6DB588F3F8BCC98B54638B4)" By Mary S. Morgan (2012).  Quote:  "Economists came to see the economy differently after they had learnt to represent it in models, to express claims about it and reason about it in terms of those models."  
 * TECHNICAL RESEARCH - [finagg](https://github.com/theOGognf/finagg): Financial Aggregation for Python.  finagg is a Python package that provides implementations of popular and free financial APIs, tools for aggregating historical data from those APIs into SQL databases, and tools for transforming aggregated data into features useful for analysis and AI/ML.  Documentation: https://theogognf.github.io/finagg/.  PyPI: https://pypi.org/project/finagg/.  Repository: https://github.com/theOGognf/finagg  
+* "Planning for 100-year lives: How fintech can reshape wealth for the longevity economy." By Roger Rouhana and Davide Lodolini, Jun 16, 2025, Centre for Financial and Monetary Systems -- World Economic Forum: [https://www.weforum.org/...planning-for-100-year-lives...](https://www.weforum.org/stories/2025/06/planning-for-100-year-lives-how-fintech-can-reshape-wealth-for-the-longevity-economy/?utm_source=tldrfintech)  
 
 
 #### NOTES  
