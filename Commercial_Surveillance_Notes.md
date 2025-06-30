@@ -2,10 +2,11 @@
 
 For years I have been reading about how Internet enabled activities have evolved into a complex global *organism* that closely monitors, observes, analyzes, and monitizes our behaviors (*surveillance*).  Those practices have enabled parallel *analysis* and *prediction* industries that "*add value*" to surveillance data (*direct data, inferred data, and data from first- or third-party sources*).  Law enforcement organizations increrasingly consume a range of survelliance data across their operations.  Government organizations also [seem to invest increasing energy (*and money*) in a broad spectrum of digital data collection](https://www2.deloitte.com/content/dam/insights/articles/in176014%5Fcgi%5Fdigital-citizen-survey/DI%5FDigital-citizen-global.pdf).  One facet of that activity is aimed at [establishing digital-identity systems](https://www.institute.global/insights/tech-and-digitalisation/ten-actions-countries-should-take-to-create-digital-identity-ecosystem) (*with an emphasis on smartphone, on-line identity and traffic monitoring integration*) to help -- among other things -- identify and *index* our activities and to predict opportunities to *extract value* from us...  
   
-I agree with Geoffrey A. Fowler that there are many reasons that we need to keep asking ourselves not only ["*what I can get out of any given technology*" but "*what that technology gets from me*."](https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/)  
+I agree with Geoffrey A. Fowler that there are many reasons that we need to keep asking ourselves not only "[*what I can get out of any given technology*" but "*what that technology gets from me*.](https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/)"  
 
 * Where are you? / Where where you? / Where have you been? / ...and when?  
  * Using the location and proximity data above, are you sharing information about the constellations of relationships that make up your life?  
+ * Who and what have you been "*near*" and when?  
 * Who are you? / Bodily? / Legally? / Politically?  How do you describe yourself?  
 * What do you say (*and what do others say around you*)?  Is what you "say" a useful proxy for what you think?...what you value?  
 * Where do you invest your *attention*? / ...and when?  
@@ -15,10 +16,10 @@ I agree with Geoffrey A. Fowler that there are many reasons that we need to keep
 * What are your assets?  
 * What is the scale of the financial (*and other*) assets that you own/control?  
   * What type(s) of authentication do you use to protect your financial (*and other*) assets?  
-* What is the scale of your debt/credit obligations?  
+* What is the nature and scale of your debt/credit obligations?  
    * Where, when, how and for what do you aquire/exercise debt/credit?  
    * From whom aquire/exercise debt/credit?  
-   * Do you exhibit seasonal debt/credit behaviors?  
+   * Do you exhibit seasonal (*or other periodic*) debt/credit behaviors?  
 * What do you buy? Where do you buy? / How do you spend? / What are your browsing behaviors in given vendor's environments (*and in aggregate across vendors*) / ...and when?  
 * What do you eat? / ...where and when?  
 * What do you drink? / ...where and when?  
@@ -40,17 +41,22 @@ I agree with Geoffrey A. Fowler that there are many reasons that we need to keep
 * Who have you been *close to*?  
 * What do you *share*/*publish*?  
 * What politicians do you frequent/support?  
+  * Do you donate to given politicians? ...how much?  ...when?  
+  * Do you donate to given political parties? ...how much?  ...when?  
+  * Do you donate to given PACs? ...how much?  ...when?  
 * Do you vote? (*where, when, pattern[s] over time, etc.*)  
-* What vehicles do you drive?  
-  * When do you drive?  
-  * Where do you drive?  How long do you stay at any given destination?  
+* What vehicles do you drive (*or ride*)?  
+  * When do you drive (*or ride*)?  
+  * Where do you drive (*or ride*)?  How long do you stay at any given destination?  
   * What are your fine-grained behaviors when you drive?  
+  * Who else is in the vehicle when you drive (*or ride*)  
 * What transportation services do you consume?  
   * When do you use them?  
   * Where do you go?  How long do you stay at any given destination?  
 * In each vendor context, how are you rated as a customer/consumer?  
 * What types of events/contexts appear to change your behavior(s)?  
-* What types of influencing techniques change your behaviors? Which categories of cognitive biases appear to be least under your control/are most effectively exploited?  
+* What types of influencing techniques change your behaviors?  
+  * Which categories of cognitive biases appear to be least under your control/are most effectively exploited?  
 * Have you ever been *close to* any primary or high-value *target of serveillance*?  
 * What patterns of your behavior signal *monitizable* contexts?  
 * For any of the above, what are the fine-grained details of your behaviors within your browser/app/store/automobile/etc?  
@@ -70,6 +76,7 @@ These notes are in support of a still-vaguely-imagined recreational software pro
 
 #### This is not a new issue:  
 [Bruce Schneier](https://en.wikipedia.org/wiki/Bruce_Schneier) (7 years ago):  "Surveillance is the business model of the internet. Everyone is under constant surveillance by many companies, ranging from social networks like Facebook to cellphone providers. This data is collected, compiled, analyzed, and used to try to sell us stuff. Personalized advertising is how these companies make money, and is why so much of the internet is free to users. We're the product, not the customer."  [https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/](https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/)  
+For a common and specific example see: "Yes, Your TV Is Probably Spying on You. Your Fridge, Too. Here’s What They Know." By Rachel Cericola, Jon Chase and Lee Neikirk. [25 June 2025](https://www.nytimes.com/wirecutter/reviews/advice-smart-devices-data-tracking/).  
 
 Data gatherers and data aggregators are also material contributors to law enforcement and broader *investigative* activities via their responses to subpoenas, search warrants (plus other types of court orders), emergency disclosure requests, pen register orders, wiretap orders, preservation requests and more.  For example, between Jan 2021 – Jun 2021 Google responded to more than 50,000 requests for disclosure of user information on more than 115,000 accounts. [https://transparencyreport.google.com/user-data/overview](https://transparencyreport.google.com/user-data/overview?user_requests_report_period=series:requests,accounts;authority:US;time:2021H1&lu=legal_process_breakdown&legal_process_breakdown=expanded:0)  
 
