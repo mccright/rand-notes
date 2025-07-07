@@ -134,6 +134,7 @@ For at least half a century, [economists](https://en.wikipedia.org/wiki/Economic
 -----
 
 #### Need to research these...  
+* The U.S. government [says](https://www.trade.gov/i-94-arrivals-program?anchor=content-node-t14-field-lp-region-2-1) that every 40 international visitors creates another U.S. job.  If we assume that international travel to the U.S. generates some material level of economic activity, we should consider the magnitude and trajectory of that category a potentially-relevant factoid.  See: U.S. government reports available under the heading [International Visitor Arrivals Program - ADIS I-94](https://www.trade.gov/i-94-arrivals-program).  
 * Purchasing Managers Index (PMI®) (economic indicators by [S&P Global](https://www.spglobal.com/en/who-we-are/) [https://www.pmi.spglobal.com/](https://www.pmi.spglobal.com/))  
 * Cost-of-Thriving Index (by the conservative "American Compass" organization: [https://americancompass.org/2023-cost-of-thriving-index/](https://americancompass.org/2023-cost-of-thriving-index/)  
 * Crane Data money market and mutual fund information [https://cranedata.com/](https://cranedata.com/)  
