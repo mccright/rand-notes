@@ -6,6 +6,8 @@
 
 In general terms, COVID-19 monitoring/testing has much lower priority across the U.S. than in 2020-2022.  Reductions in monitoring can dramatically mask the scope of disease impacts.  For example, Trevor Bedford of the Fred Hutchinson Cancer Center / Howard Hughes Medical Institute [reported in July 2023](https://bedford.io/talks/sars-cov-2-evolutionary-forecasting-nwpgcoe/#/17) that "roughly 1 in 3 (COVID-19) infections were detected in 2021, while only 1 in 40 in 2023..." and that a material burden imposed by COVID-19 disease remains endemic -- [reporting that](https://bedford.io/talks/sars-cov-2-evolutionary-dynamics-asv/#/42) the "U.S. has seen 40,000 COVID-19 deaths from Jan 1 to Jun 10," 2023.  
 
+See the [CDC's Excess Deaths Associated with COVID-19]](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm) visualization of monthly deaths attributable to COVID-19.  The numbers are material.  
+
 ```
 Action on COVID-19 at home and abroad is **still** needed to save lives.  
 Get vaccinated.  Help your family and friends do the same.  
