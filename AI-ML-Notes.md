@@ -52,6 +52,14 @@ Starter list outline below:
 
 List above began with a model [IBM AI lifecycle](https://www.ibm.com/blog/ai-model-lifecycle-management-build-phase/)  
 
+Summer 2025: Five leading AI models  
+* OpenAI’s ChatGPT  
+* Anthropic’s Claude  
+* X/xAI’s Grok (owned by Elon Musk)  
+* Google’s Gemini  
+* Perplexity.  
+
+
 ## Maybe Leave This Page Now and Read "This" for Context!  
 Yes.  Go read this now...  
 **"AI Is a Lot of Work."**  
@@ -61,6 +69,10 @@ https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-techno
 
 
 ## Resources:  
+
+How AI is impacting 700 professions — and might impact yours. By Youyou Zhou. 28 July 2025. [read it in the Washington Post](https://wapo.st/4lPND7f)  
+* "We asked 5 AI helpers to write tough emails. One was a clear winner. -- A panel of communications experts helped us test how well artificial intelligence tools ChatGPT, Claude, Copilot, DeepSeek and Gemini write emails." By Geoffrey A. Fowler. 26 March 2025
+https://www.washingtonpost.com/technology/2025/03/26/best-ai-email-assistant/
 * "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence." October 30, 2023 [https://www.whitehouse.gov/...and-use-of-artificial-intelligence/](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)  
   Then Ezra Klein [recommends](https://www.nytimes.com/2023/11/22/opinion/openai-sam-altman.html) reading A.I. writer Zvi Mowshowitz’s [analysis](https://thezvi.substack.com/p/on-the-executive-order), and [roundup of reactions](https://thezvi.substack.com/p/reactions-to-the-executive-order)  
 * OpenAIPot -- A deceptive OpenAI API gateway that acts as a honeypot for detecting unauthorized API usage. Similar to an SSH honeypot, OpenAIPot allows you to identify when attackers are using compromised or lure API keys, and can take various actions in response. [https://github.com/referefref/OpenAIPot](https://github.com/referefref/OpenAIPot)  
