@@ -38,6 +38,24 @@ I use this resource locally, hoping to reduce my network I/O and my search traff
 |1 klick/click |0.539957 nautical miles |
 |1 klick/click |1093.6133 yards |
 |1 klick/click |3280.84 feet |
+|1 Astronomical Unit|92955807.27 miles|
+|1 Astronomical Unit|149597870.7 kilometers|
+|1 Astronomical Unit|8.31675 light minutes|
+|1 Astronomical Unit|499.00478 light seconds|
+|1 Astronomical Unit|0.0000158125 light years|
+|1 light year|5878625373184 miles|
+|1 light year|9460730472580.8 kilometers|
+|1 light minute|11176944 miles|
+|1 light minute|17987547 kilometers|
+|1 light second|186282.40 miles|
+|1 light second|299792.46 kilometers|
+|1 parsec|3.2615638 light years|
+|1 parsec|19.2 trillion miles|
+|1 parsec|30.9 trillion kilometers|
+* "A [parsec](https://en.wikipedia.org/wiki/Parsec) [is a unit of distance used in astronomy. It is exactly 648,000 / Pi astronomical units](https://www.calculateme.com/astronomy/parsecs/to-miles/1)."
+* "A light year is the distance that light travels in one year](https://www.calculateme.com/astronomy/)" (365.25 days). *5.87863 x 10^12 miles or 9.46073 x 10^12 kilometers*  
+* "[An astronomical unit is the average distance between the Earth and the Sun. *Estimates of this distance have varied over time*](https://www.calculateme.com/astronomy/)."  
+
 
 ### Length Units Table II  
 |Millimeters |Centimeters |Meters |Kilometers |Inches |Feet |Yards |Miles |
@@ -250,3 +268,4 @@ https://www.thecalculatorsite.com/conversions/
 https://www.checkyourmath.com/convert/  
 https://github.com/jamespatrickmanning/model_time_series/blob/main/conversions.py  
 https://www.edwilliams.org/avform147.htm#Conv  
+https://www.calculateme.com/astronomy/astronomical-units/to-kilometers/1
