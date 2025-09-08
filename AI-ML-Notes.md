@@ -3,7 +3,56 @@
 There is an AI *theme* applied to virtually anything at work.  My experience says that signals simple *hype* (or *executive echo chamber*) but my reading also suggests that this hum of *AI-everything* is ignored at our peril.  Maybe you have analogous sensations?  If not, maybe think some more...  
 Bill Gates said that AI is "almost like getting free white-collar workers" (Jan/Feb 2025 AARP Bulletin, p. 33).  
 
-This is largely-neglected alpha interest work.  After percolating in this format for a while, I'll figure out how to better prioritize this reading and content.  
+This is largely-neglected alpha interest work.  After percolating in this format for a while, I'll figure out how to better prioritize this reading and content.  **You can do better than to invest your time here**!  
+
+## AI Resource Demands  
+An analysis from: [Prunelia Stuart](https://www.linkedin.com/in/pruneliastuart/)  Senior Program Project Manager | Hyperscale Data Centers | Tech, Construction & Change Management Expert | CAPEX Optimisation | Delivering Cross-Functional Projects at ScaleSenior Program Project Manager | Hyperscale Data Centers | Tech, Construction & Change Management Expert | CAPEX Optimisation | Delivering Cross-Functional Projects at Scale  
+>**[What Does It Really Cost To Build An Ai Data Center?](https://www.linkedin.com/posts/activity-7368643904054661120-AePj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAED25cBhtMqleBA1HNiiUqNO45zEZDvCh8)**  
+>Twenty years ago, a “big” data center drew 20 megawatts. Today, hyperscalers are sketching out multi-gigawatt campuses. OpenAI’s Stargate and Meta’s Hyperion? Each could reach 5 GW, enough to power 4–5 million US homes, or all the homes in Greater London combined.  
+
+>Here’s the rough math:  
+```
+ • Facility shell: ~$1B per 100 MW → $10B per 1 GW
+ • Compute (GPUs, servers, interconnect): ~$20B per 1 GW
+ • Add dedicated generation (gas/renewables): +$3-4B
+```
+
+>So, 1 GW ≈ $30B.  
+>Scale that to 5 GW: $100-150B, depending on density, hardware mix, and power strategy.  
+
+>And this is where the story sharpens: the real cost is compute.  
+```
+ • A single AI rack can clear $500K-$3M
+ • Nvidia’s GB200/H100-class systems: $2.6M-$3M per NVL72 rack, trending higher for next-gen (𝘏𝘚𝘉𝘊 𝘢𝘭𝘴𝘰 𝘧𝘰𝘳𝘦𝘤𝘢𝘴𝘵𝘴 𝘕𝘷𝘪𝘥𝘪𝘢’𝘴 𝘧𝘶𝘵𝘶𝘳𝘦 𝘝𝘦𝘳𝘢 𝘙𝘶𝘣𝘪𝘯 𝘕𝘝𝘓144 𝘸𝘪𝘭𝘭 𝘣𝘦 𝘱𝘳𝘪𝘤𝘦𝘥 𝘢𝘵 $3.2 𝘮𝘪𝘭𝘭𝘪𝘰𝘯 𝘢𝘯𝘥 𝘵𝘩𝘦 𝘙𝘶𝘣𝘪𝘯 𝘜𝘭𝘵𝘳𝘢 𝘕𝘝𝘓576 𝘸𝘪𝘭𝘭 𝘤𝘰𝘴𝘵 $8.8 𝘮𝘪𝘭𝘭𝘪𝘰𝘯)
+ • AI servers draw 10x more power than traditional cloud gear
+```
+>Zoom out and the picture is staggering:  
+```
+ • McKinsey projects $6.7T in global data center CAPEX by 2030, with $5.2T for AI-capable sites
+ • Microsoft, Alphabet, Amazon, Meta alone will spend >$300B on capex in 2025
+ • One TechCrunch analysis: a single leading AI DC in 6 years could cost $200B and draw 9 GW
+```
+>The next 5 years?  
+```
+ • OpenAI’s Stargate: $100B deployment now, $500B over four years
+ • Meta’s Hyperion: 2 GW online by 2030, scaling to 5 GW
+ • Abilene, TX: an 875-acre “AI factory” campus planned at 1.2 GW
+ • Start Campus, Portugal: a 1.2GW data center campus across six buildings by 2030 
+```
+WWhat it means for leaders:  
+```
+ • Power is key, requiring 24/7 clean firm power to secure compute
+ • Chips and interconnects drive timelines as much as construction
+ • Design for modularity and density
+ • Finance meets physics: every gigawatt is a $30B+ bet intertwined with grid, water, workforce, and regulation.
+```
+>Mapping out AI buildouts requires measuring assumptions against these kinds of magnitudes, as AI data centers are becoming nationwide infrastructure.  
+
+>References:  
+> 𝘈𝘴𝘵𝘦𝘳𝘪𝘴𝘬 (𝘧𝘪𝘷𝘦-𝘎𝘞 𝘋𝘊 𝘮𝘢𝘵𝘩) | 𝘔𝘤𝘒𝘪𝘯𝘴𝘦𝘺 ($6.7𝘛 𝘣𝘺 2030) | 𝘍𝘛/𝘎𝘢𝘳𝘵𝘯𝘦𝘳 (2025 𝘋𝘊 𝘴𝘱𝘦𝘯𝘥) | 𝘖𝘱𝘦𝘯𝘈𝘐/𝘚𝘵𝘢𝘳𝘨𝘢𝘵𝘦 | 𝘛𝘦𝘤𝘩𝘊𝘳𝘶𝘯𝘤𝘩 (𝘔𝘦𝘵𝘢 𝘏𝘺𝘱𝘦𝘳𝘪𝘰𝘯; $200𝘉/9-𝘎𝘞 𝘰𝘶𝘵𝘭𝘰𝘰𝘬) | 𝘋𝘢𝘵𝘢𝘊𝘦𝘯𝘵𝘦𝘳𝘋𝘺𝘯𝘢𝘮𝘪𝘤𝘴 (5-𝘎𝘞 𝘥𝘦𝘤𝘬) | 𝘋𝘢𝘵𝘢𝘊𝘦𝘯𝘵𝘦𝘳𝘔𝘢𝘨𝘢𝘻𝘪𝘯𝘦 (𝘈𝘣𝘪𝘭𝘦𝘯𝘦 1.2-𝘎𝘞) | 𝘓𝘶𝘮𝘦𝘯𝘢𝘭𝘵𝘢 & 𝘊𝘺𝘧𝘶𝘵𝘶𝘳𝘦 (𝘳𝘢𝘤𝘬/𝘈𝘐 𝘴𝘦𝘳𝘷𝘦𝘳 𝘤𝘰𝘴𝘵𝘴) | 𝘋𝘪𝘨𝘪𝘵𝘪𝘮𝘦𝘴, 𝘏𝘚𝘉𝘊 & 𝘉𝘢𝘳𝘳𝘰𝘯’𝘴 (𝘕𝘝𝘓576 / 𝘕𝘝𝘓72+ 𝘱𝘳𝘪𝘤𝘪𝘯𝘨)  
+
+-----
+
 
 For an up-to-date list of "*all*" large language models see: https://llmmodels.org/  
 
