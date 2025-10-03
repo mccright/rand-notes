@@ -6,14 +6,21 @@ This is a holding pen for abbreviations that I run into -- but only infrequently
 |:------------|:-------------|:-------------|
 |ACGIH |American Conference of Governmental Industrial Hygienists |Emergency Response |
 |AEGL |Acute Exposure Guideline Level |Emergency Response |
+|AOR |Area of responsibility |U.S. Dept. of Defense |
+|BC  |Body Composition |*many*, U.S. Dept. of Defense |
+|BF  |Body Fat |*many*, U.S. Dept. of Defense |
+|BMI |Body Mass Index |*many*, U.S. Dept. of Defense |
 |CASRN |CAS Registry Number |Emergency Response |
 |CCS |carbon, capture, and storage |Big Oil, Big Ag, petrochemical extraction, energy production |
 |CFD |computational fluid dynamics |Fluid flow modeling |
-|CFR |Code of Federal Regulations | |
+|CFR |Code of Federal Regulations |*many*, U.S. government |
 |CO2 |carbon dioxide |climate change, chemistry, biology, environmental studies, health |
+|Conventional warfare |"A violent struggle for domination between nation-states or coalitions and alliances of nation-states"[cite](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/300007p.PDF#page=28) |U.S. Dept. of Defense |
 |CPM |computational pipeline monitoring |Fluid pipeline infrastructure & operation|
-|EOR |enhanced oil recovery |
+|Cyberspace |"A global domain within the information environment consisting of the interdependent networks of information technology infrastructures and resident data, including the Internet, telecommunications networks, computer systems, and embedded processors and controllers." [cite](https://jsouapplicationstorage.blob.core.windows.net/press/560/DoD%20Dictionary%20of%20Military%20and%20Associated%20Terms%20JUNE%2025.pdf#page=51) | 
+|EOR |enhanced oil recovery |Big Oil, petrochemical extraction, energy production |
 |ERPG |emergency response planning guidelines |Emergency Response |
+|ESC |Executive steering committee |U.S. Dept. of Defense |
 |ESWH |Electric Storage Water Heater (Electric Resistance or Electric Heat Pump) |water heater efficiency analysis |
 |GSWH |Gas Storage Water Heater |water heater efficiency analysis |
 |HAZCOM |hazardous communication |Emergency Response |
@@ -22,19 +29,26 @@ This is a holding pen for abbreviations that I run into -- but only infrequently
 |HSE |health, safety, and environment |Emergency Response |
 |HVL |highly volatile liquid |Emergency Response |
 |ICS |Incident Command System |Emergency Response |
-|IDLH |immediately dangerous to life or health |Emergency Response |
-|LEPC |local emergency planning committee |Emergency Response |
+|IDLH |Immediately dangerous to life or health |Emergency Response |
+|Indirect activities |"Activities that target an adversary or support an ally or partner through one or more intermediaries (e.g., allies, partners, proxies, surrogates)." [cite](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/300007p.PDF#page=28) |U.S. Dept. of Defense |
+|IW   |Irregular warfare. "A form of warfare where states and non-state actors campaign to assure or coerce states or other groups through indirect, non-attributable, or asymmetric activities." [cite](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/300007p.PDF#page=28) |U.S. Dept. of Defense |
+|LEPC |Local emergency planning committee |Emergency Response |
+|LREC |Language, regional expertise, and culture |U.S. Dept. of Defense |
+|MSK  |Musculoskeletal |*many*, U.S. Dept. of Defense |
 |NCEI |National Centers for Environmental Information |Emergency Response |
 |NIMS |National Incident Management System |Emergency Response |
 |NIOSH |National Institute for Occupational Safety and Health | |
 |NOAA |National Oceanic and Atmospheric Administration | |
 |NRC |National Response Center |Emergency Response |
 |O2 |oxygen |climate change, chemistry, biology, environmental studies, health |
+|OIE  |operations in the information environment |U.S. Dept. of Defense |
 |OSWH |Oil Storage Water Heater |water heater efficiency analysis |
 |OSHA |Occupational Safety and Health Administration | |
 |OSRO |oil spill removal organization |Emergency Response |
 |PAC |protective action criteria per SCAPA (see below) |Emergency Response |
 |PEL |permissible exposure limit|Emergency Response |
+|PF  |Physical fitness |U.S. Dept. of Defense 
+|PF/BC |Physical fitness/body composition |U.S. Dept. of Defense 
 |PHMSA |United States Pipeline and Hazardous Materials Safety Administration |Emergency Response |
 |PPE |personal protective equipment |Emergency Response |
 |PPM |part per million | |
@@ -52,6 +66,8 @@ This is a holding pen for abbreviations that I run into -- but only infrequently
 |TLV |threshold limit values per ACGIH (see above) |Emergency Response |
 |TWA |time-weighted average |Emergency Response |
 |UEF |uniform energy factor |[The higher the energy factor, the more efficient the appliance should be](https://en.wikipedia.org/wiki/Energy_factor). Energy conversion efficiency of residential appliances. Water heater efficiency analysis. | |
+|U.S.C.|United States Code |*many* |
+|USC |United States Code (*also 'U.S.C.'*) |*many* |
 
 ---
 Temporary Glossary of Key Mutual Fund and ETF Terms (will be merged into the table above)...  
