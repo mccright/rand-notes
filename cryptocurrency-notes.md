@@ -222,18 +222,18 @@ See the Wikipedia page on [Bankruptcy of FTX](https://en.wikipedia.org/wiki/Bank
 
 For anyone involved in any cryptocurrency ecosystem, that testimony is recommended reading: [https://financialservices.house.gov/uploadedfiles/hhrg-117-ba00-wstate-rayj-20221213.pdf](https://financialservices.house.gov/uploadedfiles/hhrg-117-ba00-wstate-rayj-20221213.pdf)  
 See also:  
-Robin Kaiser-Schtzlein summed up the situation with:  
->Bankman-Fried now seems less like the main character in his own story and more like an empty vessel into which people poured torrents of cash, hoping to create the crypto dreamworld they desired. 
-[https://www.nytimes.com/2022/12/28/magazine/sam-bankman-fried-ftx.html](https://www.nytimes.com/2022/12/28/magazine/sam-bankman-fried-ftx.html)  
-
+Robin Kaiser-Schtzlein [summed up the situation with](https://www.nytimes.com/2022/12/28/magazine/sam-bankman-fried-ftx.html):  
+>Bankman-Fried now seems less like the main character in his own story and more like an empty vessel into which people poured torrents of cash, hoping to create the crypto dreamworld they desired.  
 and  
 [https://youtu.be/TQ7g7kZUmX0](https://youtu.be/TQ7g7kZUmX0)  
 By [late January 2023, the U.S. Justice department had identified roughly U.S $700 million in accounts linked to Sam Bankman-Fried](https://www.washingtonpost.com/business/2023/01/20/us-seizes-170-million-ftx/) and had already seized some of it.  These were '*real U.S. currency*' accounts, not crypto (circle back to *SBF the grifter* and his aparent distain for FTX crypto *customers*).  
 and  
-"Taking a Beat: Recognizing the Victims of FTX Downfall and Celebrating the Journalism That Made It Happen."  [https://www.coindesk.com/podcasts/coindesks-money-reimagined/taking-a-beat-recognizing-the-victims...](https://www.coindesk.com/podcasts/coindesks-money-reimagined/taking-a-beat-recognizing-the-victims-of-ftx-downfall-and-celebrating-the-journalism-that-made-it-happen/)  Feb 24, 2023  
- 
+"[Taking a Beat: Recognizing the Victims of FTX Downfall and Celebrating the Journalism That Made It Happen](https://www.coindesk.com/podcasts/coindesks-money-reimagined/taking-a-beat-recognizing-the-victims-of-ftx-downfall-and-celebrating-the-journalism-that-made-it-happen/)." Feb 24, 2023  
 
-* See: "The 2023 Crypto Crime Report." from Chainanalysis. [https://go.chainalysis.com/2023-crypto-crime-report.html](https://go.chainalysis.com/2023-crypto-crime-report.html)  
+See:  
+* "[The 2023 Crypto Crime Report](https://go.chainalysis.com/2023-crypto-crime-report.html)." from Chainanalysis  
+* "[The Chainalysis 2024 Crypto Crime Report](https://go.chainalysis.com/crypto-crime-2024.html)."  
+* "[The Chainalysis 2025 Crypto Crime Report](https://go.chainalysis.com/2025-Crypto-Crime-Report.html)."  
 * Consider participating in or just monitoring the [W3C Anti Fraud Community Group](https://www.w3.org/community/antifraud/) - with supporting resources at [https://github.com/antifraudcg](https://github.com/antifraudcg)  
 
 If after all that, you still think it is important to invest (*cough... "gamble"*) in cryptocurrencies, there are ways to do so via more effectively regulated markets (*you might start with a [Morningstar search](https://www.morningstar.com/search?query=crypto)*), or consider doing so via [one or another cryptocurrency ETF](https://etfdb.com/etfs/currency/cryptocurrency/?search[inverse]=false&search[leveraged]=false#etfs__overview&sort_name=assets_under_management&sort_order=desc&page=1), sometimes also called a crypto-based exchange-traded products or "ETP."  Again, as with any investment, think it through before spending any money -- according to [Crypto Fund Research](https://cryptofundresearch.com/about/) fees can be as high as 22% - [2023 Q4 Crypto Fund Report](https://cryptofundresearch.com/q4-2023-crypto-fund-report/):  
