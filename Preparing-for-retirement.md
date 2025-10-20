@@ -442,5 +442,14 @@ I understand (*see NOTE 1 above*) that serious emergency savings may not be prac
 >Life expectancy at birth for males in 2021 was 73.2 years, representing a decline of 1.0 year from 74.2 years in 2020. For females, life expectancy declined to 79.1 years, decreasing 0.8 year from 79.9 years in 2020  
 
 
+### Random Unfinished Thoughts  
+**What might signal a weakening market?**  
+The first answer is I don't know (*and you probably don't know*) when a market downturn will happen.  They do happen, though...  
+  * Material changes in the price of gold.  I read that most people move wealth into gold in an attempt to avoid losses and that central banks do so when they lose faith in given currencies. (*That "avoid losses" rationale seems to depend on knowing when a market downturn will happen.*)  
+  * Money moving into international markets.  
+  * Rising defaults reaching material levels.  
+  * *Crisis* changes in trade relationships.  
+
+
 ### Wordcloud for this document:  
 <img src="images/Preparing-for-retirement-stopwords-maxfont_96-800x800.png" style="width:800px;height:800px;">
