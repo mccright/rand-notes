@@ -66,7 +66,12 @@
 | employ deny list[s]                         | uti negare album                           |
 | monitor every platform                      | monitor omnis diam                         |
 | resist persistence                          | resistere perseverantia                    |
+| to be silent or to conceal are two different things | unum est tacere, aliud celare      |
+| withholding the truth suggests falsehood    | suppressio veri suggestio est falsi        |
+| he who is silent appears to consent         | qui tacet sentire videtur                  |
 
-*I started this list when my peer Jason Battani was creating certificates for a set 
+Vox emissa volat, litera scripta manet.  -->  Word of mouth flies away, things written remain.  
+
+*I started this list when my peer Jason Battani was creating certificates for a set of 
 application security assessments.  Thank you Jason.*  
 Some verification via https://www.perseus.tufts.edu/hopper/search  
