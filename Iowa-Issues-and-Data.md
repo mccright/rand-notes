@@ -1,6 +1,8 @@
 # Iowa Issues and Data  
 *This is an early draft of topics of concern.*  
 
+By many measures over the last decade Iowa's Governors and legislature succeeded in weakening Iowa's education, manufacturing base, environment, civil rights, elections, health and municipal infrastructure and operations.  Sure, some can cite isolated statistics that imply *goodness*, but overall, Iowans seem poorer, sicker and have fewer opportunities for social & economic success.  
+
 ## Internet Connectivity  
 I read wildly varying characterizations of Internet connectivity across the state of Iowa.  Because Internet connectivity is an important input to the success of education, business, and governing (democracy) of the state, it is critical that we have an unambiguous, trustworthy, shared understanding of its current state.  
 'Ookla for Good' maintains an open data set that includes data on *Intetnet speeds* and *coverage* across the United States, including Iowa for both mobile and fixed Internet connections.  They gather their data via their *speedtest* application. Using this link: [https://www.ookla.com/ookla-for-good/open-data](https://www.ookla.com/ookla-for-good/open-data) narrow the scope to "Iowa, United States" and choose a data set.  When comparing Q3 2023 (similar to Q4 2021) fixed and mobile Internet coverage data for Iowa against Missouri, Wisconsin or Illinois (*or a number of other states*), too much of Iowa that is outside urban areas still looks like a digital wasteland. 	
@@ -136,6 +138,8 @@ And this anti-vaccine radicalism seems to be working as [Stephen Gruber-Miller r
 >"K-12 schools, including public, nonpublic and charter schools, as well as child care centers, child care facilities, child development homes, community colleges, public universities and any private colleges that receive dollars through the Iowa Tuition Grant to share information about vaccine exemptions in any communications with families about vaccinations."  
 *Because too many parents in Iowa are having their children vaccinated?*  
 
+Looking back at what appears to be health care mismanagement (*i.e., governing toward goals that seem to diverge from enhancing Iowan's health*), Governor Reynolds and the Iowa "[Legislature replaced a federally funded family planning program in 2017 with a state-run one that excluded Planned Parenthood, an abortion provider, but served fewer Iowans](https://enewspaper.desmoinesregister.com?publink=03dfcebb5_134fc0a)".  Iowa Department of Public Health [reporting](https://enewspaper.desmoinesregister.com?publink=03dfcebb5_134fc0a) showed an "increase in Iowa abortions in 2018 and 2019" rather than the reduction predicted by the Reynolds' office.
+
 ### Child Care  
 In February 2025, [Kevin Baskins (for the Des Moines Register) reported](https://desmoinesregister-ia.newsmemory.com?publink=16f59f917_134f880) that: 
 >"Working Iowans with children spend an average of about 15% of their income before taxes on child care at licensed centers, more than double the 7% national average, according to Iowa Childcare Resource and Referral. And availability is limited amid a statewide labor shortage, particularly in rural areas."  
@@ -188,7 +192,9 @@ In early January 2025 an estimated 35,000 undocumented worked in Iowa.  As propo
 In late March 2025 the Iowa Senate passed [Senate File 507](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF507), barring Iowa cities and counties from operating diversity, equity and inclusion (DEI) offices and prohibiting city and county governments from establishing, operating or maintaining diversity, equity and inclusion (DEI) offices or contracting with a third-party to perform DEI services.  [SF 507](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF507) requires that C & C "shall not" do anything that implements or imploys or compels:  
 >"policies, programs, trainings, practices, activities, or procedures referencing unconscious or implicit bias, cultural appropriation, allyship, transgender ideology, microaggressions, group marginalization, antiracism, systemic oppression, social justice, intersectionality, neopronouns, heteronormativity, disparate impact, gender theory, racial privilege, sexual privilege, or any related formulation of these concepts." [page 2](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF507)  
 Republicans driving this legislation argued that it would "[combat unlawful racial discrimination in local governments](https://desmoinesregister-ia.newsmemory.com?publink=0379484f3_134f8fe)" even though they could produce no evidence or examples of DEI-induced or DEI-adjacent discrimination.  During debate on the bill, Republicans argued that it was needed so that Iowa cities and counties hired only "[the very best person](https://desmoinesregister-ia.newsmemory.com?publink=0379484f3_134f8fe)" for local government positions.  
-From Trump 47's inauguration through 05-15-2025, [nine other states have enacted anti-DEI laws](https://www.usatoday.com/story/news/politics/2025/05/15/red-states-join-trump-dei-fight/83518866007/).  
+From Trump 47's inauguration through 05-15-2025, [nine other states have enacted similar anti-DEI laws](https://www.usatoday.com/story/news/politics/2025/05/15/red-states-join-trump-dei-fight/83518866007/).  
+Kevin Baskins [reported on 02 Nov 2025 that](https://enewspaper.desmoinesregister.com?publink=0bf7e5408_134fc02):
+>"From July 2024 through July 2025, Iowa lost 5,400 manufacturing jobs and is down nearly 11,000 jobs since June 2023."  
 
 
 ### Representation in Washington  
@@ -207,6 +213,7 @@ Chronic absenteeism is having missed at least 10% of school days or instructiona
 
 
 ### Other:  
+* "[Income Trends in Iowa: 1949 - 2023](https://indicators.extension.iastate.edu/Indicators/Census/Median%20Income%20Trends%20%20Iowa%201949-2023.pdf)." by Sandra Charvat Burke, Iowa State University Extension and Outreach 
 * The U.S. Bureau of Economic Analysis (BEA) reported December 12, 2024 that "[Real personal income](https://www.bea.gov/resources/methodologies/rpp) for the nation increased 2.1 percent in 2023," but relative to all other states "Iowa had the largest decline in real personal income, at –2.0 percent." [RPI by state](https://www.bea.gov/news/2024/real-personal-consumption-expenditures-state-and-real-personal-income-state-and)  
 * "the four biggest oil companies — Exxon Mobile, Shell, Chevron, and Total Energies — have made over $330 billion in profits in just the past three years." [By Jonas Magram, DMR, 2024-03-10, page F3](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F003&artid=2&editionStart=Des%20Moines%20Register)  
 * "Tuition alone at Iowa State University has risen 236% since 2001; inflation in that period is 73%. Iowa students have some of the worst loan debt burdens in the nation." [By Lucas Grundmeier, DMR, 2024-03-10, page F1](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F001&artid=2&editionStart=Des%20Moines%20Register)  
