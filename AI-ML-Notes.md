@@ -5,6 +5,9 @@ Bill Gates said that AI is "almost like getting free white-collar workers" (Jan/
 
 This is largely-neglected alpha interest work.  After percolating in this format for a while, I'll figure out how to better prioritize this reading and content.  **You can do better than to invest your time here**!  
 
+In fact, you might want to start at Hari Sekhon's excellent "[AI - Artificial Intelligence](https://github.com/HariSekhon/Knowledge-Base/blob/main/ai.md)"  
+and if you need something more specific "[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)" or just https://prompts.chat/  
+
 ## AI Data Center Resource Demands  
 An analysis from: [Prunelia Stuart](https://www.linkedin.com/in/pruneliastuart/)  Senior Program Project Manager | Hyperscale Data Centers | Tech, Construction & Change Management Expert | CAPEX Optimisation | Delivering Cross-Functional Projects at Scale  
 >**[What Does It Really Cost To Build An Ai Data Center?](https://www.linkedin.com/posts/activity-7368643904054661120-AePj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAED25cBhtMqleBA1HNiiUqNO45zEZDvCh8)**  
