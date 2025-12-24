@@ -22,9 +22,10 @@ This is a holding pen for abbreviations that I run into -- but only infrequently
 |ERPG |emergency response planning guidelines |Emergency Response |
 |ESC |Executive steering committee |U.S. Dept. of Defense |
 |ESWH |Electric Storage Water Heater (Electric Resistance or Electric Heat Pump) |water heater efficiency analysis |
+|Exfiltration |The removal of personnel or units from areas under enemy control by stealth, deception, surprise, or clandestine means. See also special operations; unconventional warfare. (JP 3-50)[cite, 2017](https://apps.dtic.mil/sti/pdfs/AD1029823.pdf#page=91), [cite, 2025](https://jsouapplicationstorage.blob.core.windows.net/press/560/DoD%20Dictionary%20of%20Military%20and%20Associated%20Terms%20JUNE%2025.pdf#page=69)|U.S. Dept. of Defense |
 |GSWH |Gas Storage Water Heater |water heater efficiency analysis |
 |HAZCOM |hazardous communication |Emergency Response |
-|HAZWOPER |OSHA’s Hazardous Waste Operations and Emergency Response Standard |Emergency Response |
+|HAZWOPER |OSHA's Hazardous Waste Operations and Emergency Response Standard |Emergency Response |
 |HCA |high consequence areas |Emergency Response |
 |HSE |health, safety, and environment |Emergency Response |
 |HVL |highly volatile liquid |Emergency Response |
@@ -66,6 +67,7 @@ This is a holding pen for abbreviations that I run into -- but only infrequently
 |TLV |threshold limit values per ACGIH (see above) |Emergency Response |
 |TWA |time-weighted average |Emergency Response |
 |UEF |uniform energy factor |[The higher the energy factor, the more efficient the appliance should be](https://en.wikipedia.org/wiki/Energy_factor). Energy conversion efficiency of residential appliances. Water heater efficiency analysis. | |
+|Unconventional warfare |Activities conducted to enable a resistance movement or insurgency to coerce, disrupt, or overthrow a government or occupying power by operating through or with an underground, auxiliary, and guerrilla force in a denied area. Also called UW. (JP 3-05) [cite, 2017](https://apps.dtic.mil/sti/pdfs/AD1029823.pdf#page=249) and [cite, 2025](https://jsouapplicationstorage.blob.core.windows.net/press/560/DoD%20Dictionary%20of%20Military%20and%20Associated%20Terms%20JUNE%2025.pdf#page=181) | U.S. Dept. of Defense |
 |U.S.C.|United States Code |*many* |
 |USC |United States Code (*also 'U.S.C.'*) |*many* |
 
