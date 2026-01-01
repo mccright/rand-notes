@@ -3,8 +3,10 @@
 | English                                     |  Latin via [Yandex](https://translate.yandex.com/?lang=en-la) |
 ----------------------------------------------|--------------------------------------------|
 | resist attack                               | resistendum impetum                        |
+| resist attack                               | resistere impetum                          |
 | [resist attack] resist assault              | resistere impetu                           |
 | [resist attacks] resist enemies             | resistere inimicis                         |
+| [resist your attacker] resist your enemy    | resistere inimicus tuus                    |
 | [resist your attacker] resist your enemy    | resistere tua Inimicus                     |
 | [resist your attacker] resist the enemy     | resistere hostis                           |
 | trust is earned                             | fiducia est, meruit                        |
@@ -12,9 +14,10 @@
 | agents need to earn trust                   | agentia necesse est ut earn fiducia        |
 | individuals need to earn admittance         | singuli necessaria ad earn aditus          |
 | protect all entry points                    | tueri omnes introitu puncta                |
-| all entring information is evil             | omnes entring notitia est malum            |
-| [validate all input]validate all entering information           | convalidandum et ad omnes ingressus notitia|
-| [validate all input]validate all incoming information           | convalidandum omnia advenientis notitia |
+| all entering information is evil            | omnes entring notitia est malum            |
+| [validate all input]validate all entering information  | convalidandum omnes intrantes notitia |
+| [validate all input]validate all entering information  | convalidandum et ad omnes ingressus notitia|
+| [validate all input]validate all incoming information  | convalidandum omnia advenientis notitia |
 | validate all the entry points               | convalidandum omnes introitu puncta        |
 | all entering information requires validation| omnes ingressus notitia requiritur radice  |
 | all incoming information requires validation| omnes advenientis notitia requiritur radice |
@@ -36,12 +39,14 @@
 | Limit the need for trust                    | Terminum opus fiducia                      |
 | Layer and partition defenses                | Accumsan et partition defensionibus        |
 | Maintain redundancy                         | Esse nugatio                               |
-| Maintain situational awareness              | Esse situational notitia                   |
-| Maximize transience; minimize persistence   | Maximize celeritas; minimize perseverantia |
+| Maintain situational awareness              | Esse situalis notitia                      |
+| Maximize transience; minimize persistence   | dilata celeritas; reformidant perseverantia|
 | more transience; less persistence           | magis celeritas; minus perseverantia       |
-| employ deception                            | uti dēcipiō                               |
+| employ deception                            | uti dēcipiō                                |
 | use deception                               | uti deceptio                               |
+| employ isolation                            | adhibent solitudinem                       |
 | employ isolation                            | uti segregationem                          |
+| use isolation                               | usus solitudinem                           |
 | use isolation                               | uti segregationem                          |
 | concentrate on common critical assets       | incumbo in communi discrimine bona         |
 | concentrate on common critical systems      | incumbo in communi discrimine ratio        |
@@ -51,27 +56,33 @@
 | handle exceptions                           | tractare exceptiones                       |
 | enforce access control                      | exigendum accessum imperium                |
 | enforce strong passwords                    | exigendum tesserae                         |
-| use two-factor authentication               | uti duo factor authenticas                 |
-| employ two-factor authentication            | uti duo factor authenticas                 |
-| require two-factor authentication           | requirit duo factor authenticas            |
-| require multi-factor authentication         | requiram multiplex factor authenticas      |
+| use two-factor authentication               | duos elementum uti authenticas             |
+| employ two-factor authentication            | uti duos elementum authenticas             |
+| require two-factor authentication           | duos eget elementum authenticas            |
+| require multi-factor authentication         | requirere multa elementum authenticas      |
 | establish thresholds for authentication events        | statuam limina pro authenticas rerum|
 | establish thresholds for authorization events         | statuam limina pro auctoritate rerum|
 | authenticate messages                       | authenticitatis nuntius                    |
 | authenticate requests                       | authenticitatis petitionem                 |
-| use reputation analysis                     | uti fama analysis                          |
-| employ traffic analysis                     | utuntur negotiationis analysis             |
+| use reputation analysis                     | uti fama acuta studii                      |
+| employ traffic analysis                     | utuntur negotiationis acuta studii         |
 | [study the certificate]certificate analysis | studium testimonium                        |
 | employ allow list[s]                        | uti patitur album                          |
 | employ deny list[s]                         | uti negare album                           |
 | monitor every platform                      | monitor omnis diam                         |
+| monitor every platform                      | monitor omni suggestu                      |
 | resist persistence                          | resistere perseverantia                    |
 | to be silent or to conceal are two different things | unum est tacere, aliud celare      |
 | withholding the truth suggests falsehood    | suppressio veri suggestio est falsi        |
 | he who is silent appears to consent         | qui tacet sentire videtur                  |
+| If you're not paying for it, you're the product | si non solvas, productum es            |
 
 Vox emissa volat, litera scripta manet.  -->  Word of mouth flies away, things written remain.  
 
 *I started this list when my peer Jason Battani was creating certificates for a set of 
 application security assessments.  Thank you Jason.*  
 Some verification via https://www.perseus.tufts.edu/hopper/search  
+Also checked with:  
+https://www.online-latin-dictionary.com/latin-dictionary-flexion.php  
+https://langlation.com/translation/latin-to-english  
+  
