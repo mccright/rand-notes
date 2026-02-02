@@ -291,8 +291,9 @@ System-wide desktop configuration files are in ```/usr/share/applications/```.  
 * Etcher  
 * Gnome Disks  
 * SUSE Imagewriter  
+* Fedora Media Writer  
 * dd  
-* *to be continued*
+* *to be continued*  
 
 ### My Host has Hundreds of Processes Running. What the hell?
 It is common for Linux hosts to run a lot of processes.  ps and top may help, but their ability to visualize what is going on is limited.  
