@@ -78,7 +78,7 @@ In the context of my interests and needs, "*economy watching*" is largely *watch
   * [Personal Saving Rate (PSAVERT)](https://fred.stlouisfed.org/series/PSAVERT)  
   * [Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks (CCLACBW027SBOG)](https://fred.stlouisfed.org/series/CCLACBW027SBOG)  
   * [Delinquency Rate on Credit Card Loans, All Commercial Banks (DRCCLACBS)](https://fred.stlouisfed.org/series/DRCCLACBS)  
-
+* [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/) especially [Federal Reserve Bank of Philadelphia Surveys & Data](https://www.philadelphiafed.org/surveys-and-data)  
   
 
 **Stock market indexes:**  
