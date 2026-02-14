@@ -1,12 +1,15 @@
 ## Commercial Surveillance: Rough, unfinished, work notes on this topic
 
-For years I have been reading about how Internet enabled activities have evolved into a complex global *organism* that closely monitors, observes, analyzes, and monitizes our behaviors (*surveillance*).  Those practices have enabled parallel *analysis* and *prediction* industries that "*add value*" to surveillance data (*direct data, inferred data, and data from first- or third-party sources*).  Law enforcement organizations increrasingly consume a range of survelliance data across their operations.  Government organizations also [seem to invest increasing energy (*and money*) in a broad spectrum of digital data collection](https://www2.deloitte.com/content/dam/insights/articles/in176014%5Fcgi%5Fdigital-citizen-survey/DI%5FDigital-citizen-global.pdf).  One facet of that activity is aimed at [establishing digital-identity systems](https://www.institute.global/insights/tech-and-digitalisation/ten-actions-countries-should-take-to-create-digital-identity-ecosystem) (*with an emphasis on smartphone, on-line identity and traffic monitoring integration*) to help -- among other things -- identify and *index* our activities and to predict opportunities to *extract value* from us...  
+For years I have been reading about how Internet enabled activities have evolved into a complex global *organism* that closely monitors, observes, analyzes, and monitizes our behaviors (*surveillance*).  Those practices have enabled parallel *analysis* and *prediction* industries that "*add value*" to surveillance data (*direct data, inferred data, and data from first- or third-party sources*).  Law enforcement organizations increrasingly consume a range of survelliance data across their operations.  Government organizations also [seem to invest increasing energy (*and money*) in a broad spectrum of digital data collection](https://www2.deloitte.com/content/dam/insights/articles/in176014%5Fcgi%5Fdigital-citizen-survey/DI%5FDigital-citizen-global.pdf).  One facet of that activity is aimed at [establishing digital-identity systems](https://www.institute.global/insights/tech-and-digitalisation/ten-actions-countries-should-take-to-create-digital-identity-ecosystem) (*with an emphasis on smartphone, on-line identity and traffic monitoring integration*) and another is to develop and maintain a [social graph](https://en.wikipedia.org/wiki/Social_graph) to help -- among other things -- identify and *index* our activities and relationships and to predict opportunities to *extract value* from us...  
   
 I agree with Geoffrey A. Fowler that there are many reasons that we need to keep asking ourselves not only "[*what I can get out of any given technology*" but "*what that technology gets from me*.](https://www.washingtonpost.com/technology/2019/12/31/how-we-survive-surveillance-apocalypse/)"  
 
 * Where are you? / Where where you? / Where have you been? / ...and when?  
  * Using the location and proximity data above, are you sharing information about the constellations of relationships that make up your life?  
+ * What vehicles do you drive or have you driven?  Where have those vehicles been?...where are they now?  
+ * What mobile devices do you use or have you used?  Where have those mobile devices been?...where are they now?  
  * Who and what have you been "*near*" and when?  
+ * Were you at or near a protest or other gathering that a government calls a "disturbance," "subversive," "unlawful," "illegal," or even just "disobedience?"  
 * Who are you? / Bodily? / Legally? / Politically?  How do you describe yourself?  
 * What do you say (*and what do others say around you*)?  Is what you "say" a useful proxy for what you think?...what you value?  
 * Where do you invest your *attention*? / ...and when?  
@@ -44,11 +47,12 @@ I agree with Geoffrey A. Fowler that there are many reasons that we need to keep
   * Do you donate to given politicians? ...how much?  ...when?  
   * Do you donate to given political parties? ...how much?  ...when?  
   * Do you donate to given PACs? ...how much?  ...when?  
+* Which politicians have you criticized?  Where were you at the time?  Who was "*with*" you at the time?  
 * Do you vote? (*where, when, pattern[s] over time, etc.*)  
 * What vehicles do you drive (*or ride*)?  
   * When do you drive (*or ride*)?  
   * Where do you drive (*or ride*)?  How long do you stay at any given destination?  
-  * What are your fine-grained behaviors when you drive?  
+  * What are your fine-grained behaviors when you drive?  What types of risk characteristics do you exhibit when you drive?  
   * Who else is in the vehicle when you drive (*or ride*)  
 * What transportation services do you consume?  
   * When do you use them?  
@@ -72,6 +76,13 @@ These notes are in support of a still-vaguely-imagined recreational software pro
 * Those interested in reducing (*or enhancing*) the effectiveness of AI-driven personalized maniplation.  
 * Those interested in open source projects that involve scraping web sites or other data sources.  
 * Those interested in helping women (*and those who support them*) protect their reproductive rights. [Note1](https://github.com/mccright/rand-notes/blob/master/Commercial_Surveillance_Notes.md#note1)  
+* Any organization that *sells* anything.  
+* Any organization whose mission is to influence defined populations.  
+* Political actors attempting to gain advantage (*broadly defined*).  
+* Law enforcement personnel.  
+* Military (*or para-military*) personnel.  
+* Government investigators & lawyers.  
+* Private investigators & lawyers.  
 * And more.  
 
 #### This is not a new issue:  
