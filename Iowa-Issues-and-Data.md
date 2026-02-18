@@ -116,6 +116,7 @@ There are MANY indicators of health.  Just one is the level of cancers experienc
 >"An estimated 6,300 Iowans will die from cancer in 2025."  
 >"The number of cancer survivors is growing, with an estimated 171,535 survivors currently living in Iowa."  
 See the "[Incidence rates for Iowa by County](https://statecancerprofiles.cancer.gov/map/map.withimage.php?19&county&001&001&00&0&01&0&1&5&0#results)" (*cases per 100,000 population per year*) to get a very rough idea of cancer risk is distributed across the state.  And [the supporting data](https://statecancerprofiles.cancer.gov/quick-profiles/index.php?tabSelected=2&statename=iowa) that breaks it down by cancer type/site.  
+Also see the new University of Iowa mapping tool called [Cancer Analytics & Maps for Small Areas](https://shri.public-health.uiowa.edu/camsa/), or CAMSA, that uses statistical models rather than exact case counts to estimate rates at the ZIP-code level across Iowa instead of relying only on typical county averages.  Nick El Hajj, a reporter at the Register, outlined some of the features & limitations of this system in "[New Iowa tool maps cancer rates by ZIP code, revealing hidden patterns](https://www.desmoinesregister.com/story/news/health/2026/02/16/iowa-cancer-rates-by-zip-code/88530793007/)" Feb. 16, 2026, Des Moines Register.  
 
 In 2025 state legislators passed Senate File 615, would require *able-bodied adults* on the state’s Medicaid expansion program -- the Iowa Health and Wellness Plan -- the state’s Medicaid expansion program -- to work 80 hours per month to receive benefits (*in language demonize poverty*). [Stephen Gruber-Miller wrote](https://desmoinesregister-ia.newsmemory.com?publink=113ba826f_134f8fb) in the Des Moines Register that SF615 contained the seeds of a plan to shrink Medicaid in Iowa:  
 >"If the federal government grants a waiver for Iowa to implement work requirements for Medicaid recipients and later rescinds the waiver, the bill requires the state to end the Iowa Health and Wellness Plan, subject to federal approval.  If that happens, the 181,000 Iowans enrolled in the Iowa Health and Wellness Plan would lose their health care coverage." ...roughly 700,000 Iowans are participating in the state’s Medicaid program.  
@@ -141,17 +142,43 @@ And this anti-vaccine radicalism seems to be working as [Stephen Gruber-Miller r
 
 Looking back at what appears to be health care mismanagement (*i.e., governing toward goals that seem to diverge from enhancing Iowan's health*), Governor Reynolds and the Iowa "[Legislature replaced a federally funded family planning program in 2017 with a state-run one that excluded Planned Parenthood, an abortion provider, but served fewer Iowans](https://enewspaper.desmoinesregister.com?publink=03dfcebb5_134fc0a)".  Iowa Department of Public Health [reporting](https://enewspaper.desmoinesregister.com?publink=03dfcebb5_134fc0a) showed an "increase in Iowa abortions in 2018 and 2019" rather than the reduction predicted by the Reynolds' office.
 
+
 ### Child Care  
 In February 2025, [Kevin Baskins (for the Des Moines Register) reported](https://desmoinesregister-ia.newsmemory.com?publink=16f59f917_134f880) that: 
 >"Working Iowans with children spend an average of about 15% of their income before taxes on child care at licensed centers, more than double the 7% national average, according to Iowa Childcare Resource and Referral. And availability is limited amid a statewide labor shortage, particularly in rural areas."  
 
 
-### Banning Books  
+### Incarceration in Iowa  
+The U.S. Census permits people to identify their race and ethnicity. The table below provides the latest census estimates as of December 31, 2024. The population estimate for Iowa was 3.2 million. In addition, approximately 12.9% of Iowa’s population had at least one disability in 2023. From: [Iowa Legislative Services Agency January 12, 2026 Minority Impact Statements](https://www.legis.iowa.gov/docs/publications/CIMI/1595034.pdf):  
+|          | Total Population | Male | Female | White | Black or African American | Asian/Pacific Islander | American Indian/Alaska Native | Hispanic | Two or More Races |
+|:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:---------:|:--------------:|:---------:|:----------:|
+|National Census | 340.1 million | 49.5% | 50.5% | 59.8% | 12.1% | 6.3% | 0.1% | 1.0% | 20.0% | 13.2% |
+|Iowa Census | 3.2 million | 50.1% | 49.9% | 83.2% | 4.2% | 2.6% | 0.1% | 0.3% | 7.8% | 7.0% |
+
+The most recent data published from the U.S. Department of Justice (DOJ) estimates that there was a total of 1.2 million sentenced prisoners in federal or state prisons on December 31, 2023. The table below provides national statistics for offenders in prison on December 31, 2023, who have been sentenced to more than one year of incarceration.  
+According to the Iowa Department of Corrections (DOC), on June 30, 2025, there were 8,431 inmates in Iowa prisons. The table below provides data from the DOC showing the gender and racial composition of the Iowa prison population. From: [Iowa Legislative Services Agency January 12, 2026 Minority Impact Statements](https://www.legis.iowa.gov/docs/publications/CIMI/1595034.pdf):  
+|          | Total Prison Population | Male | Female | White | Black or African American | Asian/Pacific Islander | American Indian/Alaska Native | Hispanic | Other or Unknown |
+|:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:---------:|:--------------:|:---------:|:----------:|
+|Nat'l Prison Pop | 1,210,308 | 92.9% | 7.1% | 30.6% | 32.6% | 1.3% | 1.6% | 23.4% | 0.0% |
+|Iowa Prison Pop | 8,431 | 92.0% | 8.0% | 60.7% | 27.5% | 1.4% | 2.2% | 8.2% | 0.1% |
+
+The "Black or African American" population in Iowa (4.2% of the total) is 27.5% of the people incarcerated in Iowa prisons -- or 6.5 times greater than their representation in the Iowa population.  
+
+According to the Iowa Department of Corrections (DOC), on June 30, 2025, there were 27,726 Iowa offenders under supervision in **Community-Based Corrections (CBC)**. Data from the DOC showing the gender and racial composition of the CBC offender population is included in the table below. From: [Iowa Legislative Services Agency January 12, 2026 Minority Impact Statements](https://www.legis.iowa.gov/docs/publications/CIMI/1595034.pdf):  
+|          | Total CBC Population | Male | Female | White | Black or African American | Asian/Pacific Islander | American Indian/Alaska Native | Hispanic | Other or Unknown |
+|:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:---------:|:--------------:|:---------:|:----------:|
+| Iowa CBC | 27,726 | 74.7% | 25.3% | 69.4% | 18.4% | 1.7% | 1.3% | 8.7% | 0.5% |
+
+
+### Banning Books and Restricting Access to Libraries  
 In May 2023, Gov. [Kim Reynolds signed the ambiguous and fuzzy Senate File 496](https://www.legis.iowa.gov/legislation/BillBook?ba=SF%20496&ga=90), that bans books (except "*religious books*") depicting sex acts from public schools -- threatening teachers and administrators with harsh penalties for non-compliance with their vague demands -- and resulting in the removal of more than 1,300 books from Iowa public schools.  After a 5 month delay, the Iowa State Board of Education published an equally-vague "Notice of Intended Action" -- under the heading of "Eliminating Achievement and Opportunity Gaps" -- of [changes to Iowa School rules for “General Accreditation Standards”](https://educate.iowa.gov/sites/default/files/2023-11/2023-11-15SBE-Rules-Chapter12.pdf) in November 2023.  
 See the fruits of Iowa's book banning elected officials in the database "[Library books removed in Iowa school districts](https://databases.desmoinesregister.com/database-books-removed-from-libraries-in-iowa-school-districts/)." by Tim Webber, Samantha Hernandez and [The Des Moines Register](https://www.desmoinesregister.com).  As of 2024-03-17, The Des Moines Register database includes roughly 1,820 instances of banned "[books — 615 of which are unique titles — removed from schools since the law went into effect July 1 (2023)](https://www.desmoinesregister.com/story/news/politics/iowa-poll/2024/03/17/iowa-poll-half-say-new-book-ban-law-for-public-schools-goes-too-far-senate-file-496-lgbtq/72775250007/)."  
 Gov. Reynolds added insult to Iowans on [June 11, 2025 when she vetoed](https://governor.iowa.gov/media/455/download?inline=&utm_medium=concernedIowan&utm_source=govdelivery) [House File 639](https://www.legis.iowa.gov/legislation/BillBook?ba=HF639&ga=91) *because it was too imprecise*:  
 >“...good policy should draw clear, careful lines. This bill doesn’t. It combines valid concerns with vague legal standards and sweeping mandates that reach far beyond their intended targets.”  
 Yea, Gov. Reynolds holds that principle of legislative precision so dear...  :(  
+
+In February 2026 Iowa legislators introduced a collection of proposed laws to criminalize libraries containing the **vague** “[material harmful to minors](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF2309)” (*for example books, magazines, videos or other media that include sexual content and, (on page 2) “[taken as a whole, the material lacks literary, artistic, political or scientific value for minors](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF2309)*” if any minor can access that content without parental consent.   [Stephen Gruber-Miller wrote](https://enewspaper.desmoinesregister.com?publink=0e1883e49_1351f9c) in the 2026-02-16 Des Moines Register that:  
+>"Any parent would be allowed to sue a library, a library’s board of trustees or a library employee who violates the bill’s requirements. If the lawsuit is successful, librarians could be assessed damages of $1,000 to $10,000, plus additional damages for causing emotional distress or if the violation was willful or reckless.  The bill also contains criminal penalties for someone who willfully disseminates harmful material to minors who do not have parental consent, assists a minor in circumventing parental consent requirements, provides false information to parents or conceals or destroys records.  The crime would be a serious misdemeanor, punishable by up to a year in jail, for a first offense. A second offense would be an aggravated misdemeanor, punishable by imprisonment of up to two years and a fine of up to $10,000."  
 
 
 ### Iowa Legislature's/Governor's "Don't say gay" Law & Follow-on Gender-Related Hostility  
