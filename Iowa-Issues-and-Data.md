@@ -140,12 +140,14 @@ And this anti-vaccine radicalism seems to be working as [Stephen Gruber-Miller r
 >"K-12 schools, including public, nonpublic and charter schools, as well as child care centers, child care facilities, child development homes, community colleges, public universities and any private colleges that receive dollars through the Iowa Tuition Grant to share information about vaccine exemptions in any communications with families about vaccinations."  
 *Because too many parents in Iowa are having their children vaccinated?*  
 
-Looking back at what appears to be health care mismanagement (*i.e., governing toward goals that seem to diverge from enhancing Iowan's health*), Governor Reynolds and the Iowa "[Legislature replaced a federally funded family planning program in 2017 with a state-run one that excluded Planned Parenthood, an abortion provider, but served fewer Iowans](https://enewspaper.desmoinesregister.com?publink=03dfcebb5_134fc0a)".  Iowa Department of Public Health [reporting](https://enewspaper.desmoinesregister.com?publink=03dfcebb5_134fc0a) showed an "increase in Iowa abortions in 2018 and 2019" rather than the reduction predicted by the Reynolds' office.
+Looking back at what appears to be health care mismanagement (*i.e., governing toward goals that seem to diverge from enhancing Iowan's health*), Governor Reynolds and the Iowa "[Legislature replaced a federally funded family planning program in 2017 with a state-run one that excluded Planned Parenthood, an abortion provider, but served fewer Iowans](https://enewspaper.desmoinesregister.com?publink=03dfcebb5_134fc0a)".  Iowa Department of Public Health [reporting](https://enewspaper.desmoinesregister.com?publink=03dfcebb5_134fc0a) showed an "increase in Iowa abortions in 2018 and 2019" rather than the reduction predicted by the Reynolds' office.  
+  
 
 
 ### Child Care  
 In February 2025, [Kevin Baskins (for the Des Moines Register) reported](https://desmoinesregister-ia.newsmemory.com?publink=16f59f917_134f880) that: 
 >"Working Iowans with children spend an average of about 15% of their income before taxes on child care at licensed centers, more than double the 7% national average, according to Iowa Childcare Resource and Referral. And availability is limited amid a statewide labor shortage, particularly in rural areas."  
+  
 
 
 ### Incarceration in Iowa  
@@ -154,7 +156,7 @@ The U.S. Census permits people to identify their race and ethnicity. The table b
 |:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:---------:|:--------------:|:---------:|:----------:|
 |National Census | 340.1 million | 49.5% | 50.5% | 59.8% | 12.1% | 6.3% | 0.1% | 1.0% | 20.0% | 13.2% |
 |Iowa Census | 3.2 million | 50.1% | 49.9% | 83.2% | 4.2% | 2.6% | 0.1% | 0.3% | 7.8% | 7.0% |
-
+  
 The most recent data published from the U.S. Department of Justice (DOJ) estimates that there was a total of 1.2 million sentenced prisoners in federal or state prisons on December 31, 2023. The table below provides national statistics for offenders in prison on December 31, 2023, who have been sentenced to more than one year of incarceration.  
 According to the Iowa Department of Corrections (DOC), on June 30, 2025, there were 8,431 inmates in Iowa prisons. The table below provides data from the DOC showing the gender and racial composition of the Iowa prison population. From: [Iowa Legislative Services Agency January 12, 2026 Minority Impact Statements](https://www.legis.iowa.gov/docs/publications/CIMI/1595034.pdf):  
 |          | Total Prison Population | Male | Female | White | Black or African American | Asian/Pacific Islander | American Indian/Alaska Native | Hispanic | Other or Unknown |
@@ -168,7 +170,7 @@ According to the Iowa Department of Corrections (DOC), on June 30, 2025, there w
 |          | Total CBC Population | Male | Female | White | Black or African American | Asian/Pacific Islander | American Indian/Alaska Native | Hispanic | Other or Unknown |
 |:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:---------:|:--------------:|:---------:|:----------:|
 | Iowa CBC | 27,726 | 74.7% | 25.3% | 69.4% | 18.4% | 1.7% | 1.3% | 8.7% | 0.5% |
-
+  
 
 ### Banning Books and Restricting Access to Libraries  
 In May 2023, Gov. [Kim Reynolds signed the ambiguous and fuzzy Senate File 496](https://www.legis.iowa.gov/legislation/BillBook?ba=SF%20496&ga=90), that bans books (except "*religious books*") depicting sex acts from public schools -- threatening teachers and administrators with harsh penalties for non-compliance with their vague demands -- and resulting in the removal of more than 1,300 books from Iowa public schools.  After a 5 month delay, the Iowa State Board of Education published an equally-vague "Notice of Intended Action" -- under the heading of "Eliminating Achievement and Opportunity Gaps" -- of [changes to Iowa School rules for “General Accreditation Standards”](https://educate.iowa.gov/sites/default/files/2023-11/2023-11-15SBE-Rules-Chapter12.pdf) in November 2023.  
@@ -209,6 +211,26 @@ Iowa Republicans specifically highlight "the important government objectives of 
 With [Senate File 2340](https://www.legis.iowa.gov/publications/search/document?fq=id:1448304&q=%22Senate+File+2340%22) the Iowa Legislature and Governor created a new crime of "illegal reentry into state by certain aliens" and "[empowered **Iowa** prosecutors to bring charges in state court and **state** judges to order deportations](https://desmoinesregister-ia.newsmemory.com?publink=069409522_134f828)." Governor Reynolds [signed this bill into law 10 April 2024](https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF2340).  It says that anyone who has previously been deported, removed or denied admission to the United States and then enters Iowa, can be sent to prison in Iowa for up to 10 years and the judge in the case would have to order the convicted person to return to "the country they had come from." It also requires that anyone convicted of "[Illegal reentry into state by certain aliens](https://www.legis.iowa.gov/publications/search/document?fq=id:1448304&q=%22Senate+File+2340%22)" "shall not be eligible for a deferred judgment, deferred sentence, or suspended sentence."  
 
 While the new law says law enforcement officers can't arrest someone if that individual is in a school, a place of worship, a health care facility, or a facility for survivors of sexual assault, it also provides civil immunity from liability and indemnification for local law enforcement and other government officials along with contractors responsible for enforcing the measure. That immunity appears to support behaviors that make Iowa an unwelcoming place for all who do not emit the visual and audio queues that signal "Iowan" to state and local officials (*...strongly suspect that means, for too many, "white without an accent"*).  
+
+In 2021, Gov. Kim Reynolds signed a law allowing adults 21 years and older to buy and carry handguns in Iowa without a permit.  
+
+In 2024, Gov. Kim Reynolds signed a law allowing school employees to obtain a professional permit to carry guns on school grounds. The law also gave school districts and armed employees qualified immunity for the use of force.  
+
+In 2025 Gov. Kim Reynolds signed a law allowing Iowans to own and carry handguns once they turn 18, down from a minimum age of 21 under previous law.  Who wants to live in a state that insists on exposing that state's population to a higher concentration of 18, 19, and 20 year olds carrying loaded firearms?  
+
+In 2026 Iowa lawmakers want to make it easier to bring guns onto school grounds and in state or a county, city, or township parking lots.  
+[House File 621](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=hf621), "being deemed of immediate importance" permits "adults" to bring their gun(s) onto school grounds in the vehicle they are driving when they are performing a drop-off or pick-up and it also allows a school district or nonpublic school to "authorize or direct a person to carry, transport, or possess a firearm, other weapon, or ammunition in a school vehicle."  Unless otherwise stated, permits or any other type of licensing for possessing those guns are not required.  Who will want to bring their family to Iowa *where the government is trying to increase the number of guns and gun-carriers on school and other government facility grounds?  
+
+[Senate File 2263](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=sf2263) -- also "deemed of immediate importance" -- requires the *freedom to carry* and to store any legal dangerous weapon in *government* parking lots.  The second to last page of the bill appears to broaden guns on school grounds by removing the "vehicle" constraint for any "person who has in the person’s possession a valid nonprofessional permit to carry weapons."  Then, more narrowly, the bill offers **some** level of immunity to school officers (*if the perp. was in "possession a valid permit to carry weapons" and if that person remains on the school's "driveways and parking lots"*).  
+>"A person may carry, transport, or possess a dangerous weapon in a privately owned motor vehicle on the real property comprising a publicly accessible, nonsecure parking lot that is operated by the state or a county, city, or township in the state if the carrying, transportation, or possession of the dangerous weapon is otherwise lawful under the laws of this state and if the dangerous weapon remains out of sight and inside a locked vehicle on the real property when the vehicle is unoccupied."  
+This new demand also includes community colleges and universities along with immunity for the school's leaders:   
+>"A governing board of a university or community college shall be immune from any claim, cause of action, or lawsuit by a person seeking damages that are alleged, directly or indirectly, as a result of any concealed dangerous weapon brought onto the grounds of a university or college campus by a person pursuant to this section."  
+Who will want to bring their family to Iowa *where the government is trying to increase the number of guns and gun-carriers on college and university facility grounds?  
+
+Finally, the bill also requires that anyone authorized to carry a firearm must be permitted (*even when that firearm is loaded*) to do so when transporting a child in foster care:  
+>"prohibits the department of health and human services from adopting a rule prohibiting a person from carrying, possessing, or transporting a firearm, regardless of whether the firearm is loaded, in a motor vehicle used to transport a child in foster care if the carrying, transportation, or possession of the firearm is otherwise lawful."  
+Who will want to bring their family to Iowa *where the government is trying to increase the exposure of children in foster care to guns and gun-carriers?  
+  
 
 
 ### Too Many Iowa Leaders Attack "Iowa Nice."  
