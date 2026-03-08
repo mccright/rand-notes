@@ -1,7 +1,7 @@
 # Iowa Issues and Data  
 *This is an early draft of topics of concern.*  
 
-By many measures over the last decade Iowa's Governors and legislature succeeded in weakening Iowa's education, manufacturing base, environment, civil rights, elections, health and municipal infrastructure and operations.  Sure, some can cite isolated statistics that imply *goodness*, but overall, Iowans seem poorer, sicker and have fewer opportunities for social & economic success.  
+By many measures over the last decade Iowa's Governors and legislature succeeded in weakening Iowa's education, manufacturing base, environment, civil rights, elections, health and municipal infrastructure and operations.  Sure, some can cite isolated statistics that imply *goodness*, but overall, Iowans seem poorer, sicker and have fewer opportunities for social & economic success.  That trend continues.  
 
 ## Internet Connectivity  
 I read wildly varying characterizations of Internet connectivity across the state of Iowa.  Because Internet connectivity is an important input to the success of education, business, and governing (democracy) of the state, it is critical that we have an unambiguous, trustworthy, shared understanding of its current state.  
@@ -197,6 +197,8 @@ Iowa Republican legislators kept at it and Gov. Reynolds followed up on 11 June 
 
 In April 2025, [Phillip Sitter wrote in the Des Moines Register](https://desmoinesregister-ia.newsmemory.com?publink=2abac64e8_134f95b) (*or [here](https://www.desmoinesregister.com/story/news/local/johnston/2025/04/22/iowa-civil-rights-law-johnston-protections-for-trans-students/83200939007/)*):  
 >Republican Iowa lawmakers said the move will help other recent legislation they passed survive court challenges, including a ban on transgender youth from receiving gender-affirming medical care, restricting transgender students from using school bathrooms that align with their gender identity and banning transgender women and girls from competing in female sports.  
+In March 2026, Rep. Aime Wichtendahl, who is Iowa’s first openly trans state lawmaker, [said](https://enewspaper.desmoinesregister.com?publink=40a0deb5b_1351ff7) the 
+>"Civil Rights Removal Act of 2025 is a stain on our historical legacy of being a welcoming state." "This chamber needs to live the values that we proclaim on our flag – 'Our liberties we prize, and our rights we will maintain' – instead of our current practice of, 'If you don't conform, this government will hurt you,'"
 
 In February 2026, [Samantha Hernandez wrote in the Des Moines Register](https://enewspaper.desmoinesregister.com?publink=243e5d3a5_1351f8e) that Kim Reynolds' Iowa Department of Education administrators removed nonbinary students from all reporting and now only reference "female" and "male" in the state’s annual student demographic data (*in the last report - 2025 - they documented 344 "nonbinary" students*):  
 >“Iowa’s steps toward erasing trans and nonbinary Iowans have not stopped at legal recognition,” said Zach Rus, Iowa Safe Schools executive director. “Data collection — a critical tool for policymakers to make informed decisions — has been effectively nullified for this population. Without information on the disparate impacts affecting trans Iowans, schools and policymakers are forced to act without the full picture.”  As a result, Rus says, “future legislation will continue to be shaped by ideology, rather than real-world outcomes.”  
