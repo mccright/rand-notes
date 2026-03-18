@@ -4,6 +4,26 @@
 * TheAirTraffic feed client - (https://theairtraffic.com/feed/ and https://grndcntrl.net/links/) - https://github.com/Jxck-S/tat-feeder and https://github.com/Jxck-S?tab=repositories  
 * Useful references [https://github.com/kaltic/SDR-Notes](https://github.com/kaltic/SDR-Notes)  
 
+
+### Common Radio Frequency Bands  
+
+|Band name |Abbreviation |ITU band # |Frequency |wavelength |
+|:---------|:------------|:----------|:---------|:----------|
+|Extremely low frequency |ELF |1 |3–30 Hz |100,000–10,000 km |
+|Super low frequency |SLF |2 |30–300 Hz |10,000–1,000 km |
+|Ultra low frequency |ULF |3 |300–3,000 Hz |1,000–100 km |
+|Very low frequency |VLF |4 |3–30 kHz |100–10 km |
+|Low frequency |LF |5 |30–300 kHz |10–1 km |  
+|Medium frequency |MF |6 |300–3,000 kHz |1,000–100 m |
+|High frequency |HF |7 |3–30 MHz |100–10 m |
+|Very high frequency |VHF |8 |30–300 MHz |10–1 m |
+|Ultra high frequency |UHF |9 |300–3,000 MHz |100–10 cm |
+|Super high frequency |SHF |10 |3–30 GHz |10–1 cm |
+|Extremely high frequency |EHF |11 |30–300 GHz |10–1 mm |
+
+Source: https://en.wikipedia.org/wiki/Radio_spectrum  
+
+
 ### Hardware: NESDR SMArt  
 Part of a new NooElec NESDR SMArt Bundle (Premium RTL-SDR w/ Aluminum Enclosure, 0.5PPM TCXO, SMA Input & 3 Antennas. RTL2832U & R820T2-Based, plus, re-designed antenna base, and 3 antenna masts).  
 http://www.nooelec.com/store/sdr/sdr-receivers/nesdr/nesdr-smart.html  
