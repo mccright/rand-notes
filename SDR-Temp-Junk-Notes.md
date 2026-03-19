@@ -24,6 +24,25 @@
 Source: https://en.wikipedia.org/wiki/Radio_spectrum  
 
 
+IEEE Band |Frequency range |Explanation of meaning of letters |
+|:--------|:---------------|:---------------------------------|
+|HF |0.003 to 0.03 GHz |High frequency |
+|VHF |0.03 to 0.3 GHz |Very high frequency |
+|UHF |0.3 to 1 GHz |Ultra-high frequency |
+|L |1 to 2 GHz |Long wave |
+|S |2 to 4 GHz |Short wave |
+|C |4 to 8 GHz |Compromise between S and X |
+|X |8 to 12 GHz |Used in World War II for fire control, X for cross (as in crosshair). Exotic. |
+|Ku |12 to 18 GHz |Kurz-under |
+|K |18 to 27 GHz |German: Kurz (short) |
+|Ka |27 to 40 GHz |Kurz-above |
+|V |40 to 75 GHz | |
+|W |75 to 110 GHz |W follows V in the alphabet |
+|mm or G |110 to 300 GHz |Millimeter |
+
+Source: https://en.wikipedia.org/wiki/Radio_spectrum  
+
+
 ### Hardware: NESDR SMArt  
 Part of a new NooElec NESDR SMArt Bundle (Premium RTL-SDR w/ Aluminum Enclosure, 0.5PPM TCXO, SMA Input & 3 Antennas. RTL2832U & R820T2-Based, plus, re-designed antenna base, and 3 antenna masts).  
 http://www.nooelec.com/store/sdr/sdr-receivers/nesdr/nesdr-smart.html  
