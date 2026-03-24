@@ -704,6 +704,7 @@ F         or   Fmaj      [1 3 3 2 1 1] (C  F  A) : major triad
 F         or   Fmaj      [x 0 3 2 1 1] (C  F  A) : major triad
 F         or   Fmaj      [x 3 3 2 1 1] (C  F  A) : major triad
 F         or   Fmaj      [x x 3 2 1 1] (C  F  A) : major triad
+F         or   Fmaj      [1 3 3 2 0 0] (C  F  A) : major triad
 F #5      or   Faug      [x 0 3 2 2 1] (Db F  A) : augmented triad
 F #5      or   Faug      [x 0 x 2 2 1] (Db F  A) : augmented triad
 F/D                      [x 5 7 5 6 5] (C  D  F  A) : major triad (altered bass)
@@ -752,6 +753,7 @@ Fmaj7     or   F#7       [1 3 3 2 1 0] (C  E  F  A) : major triad, major 7th
 Fmaj7     or   F#7       [1 x 2 2 1 0] (C  E  F  A) : major triad, major 7th
 Fmaj7     or   F#7       [x x 2 2 1 1] (C  E  F  A) : major triad, major 7th
 Fmaj7     or   F#7       [x x 3 2 1 0] (C  E  F  A) : major triad, major 7th
+Fmaj7-5                  [0 0 3 2 0 0] (C  E  B  E) : major triad, major 7th, augmented 5th
 Fmaj7/#11                [0 2 3 2 1 0] (C  E  F  A  B) : major triad, major 7th, augmented 11th
 Fmaj7/#11                [1 3 3 2 0 0] (C  E  F  A  B) : major triad, major 7th, augmented 11th
 Fmaj9     or   F9(#7)    [0 0 3 0 1 3] (C  E  F  G  A) : major triad, major 7th plus 9th
