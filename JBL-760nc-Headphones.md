@@ -1,8 +1,13 @@
-I have JBL 760nc wireless headphones that I use for listening to audio books.  They work well.  
+I have [JBL 760nc](https://www.jbl.com/TUNE760NC-.html) wireless over-ear headphones that I use for listening to audio books.  They work well for my needs, but I don't often use nor do I depend on their noise-cancelling features (*which have performed just "OK" in my experiments, but they sucked down the headphones' otherwise excellent battery life*). Also, I use the detachable cable more often than I had imagined and that options works perfectly.  
 This page is just a reminder pointing to some relevant resources.  
 
 ## JBL 760nc wireless headphones product page  
 https://www.jbl.com/wireless-headphones/TUNE760NC-.html?dwvar_TUNE760NC-_color=Blue-AM-Current&cgid=wireless-headphones  
+Reminder for self: 
+Ear Cup Internal Height: 2.1" (5.4 cm) 
+Ear Cup Internal Width: 1.5" (3.7 cm)  
+Ear Cup Depth: 0.8" (2 cm)  
+Weight: 7.8 oz (220 g)
 
 ## JBL 760nc wireless headphones support  
 https://support.jbl.com/us/en/headphones/headphones-over-ear/TUNE760NC-.html  
