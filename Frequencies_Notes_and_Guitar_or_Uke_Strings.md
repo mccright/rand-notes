@@ -24,25 +24,6 @@ Modeled from: https://muted.io/note-frequencies/
 
 | Note |Octive | Frequency |Guitar|Ukulele|
 |:----:|:-----:|:---------:|:----:|:-----:|
-| E | 6 | 1318.51 Hz | | |
-|D#/E♭| 6 | 1244.51 Hz | | |
-| D | 6 | 1174.66 Hz | | |
-|C#/D♭| 6 | 1108.73 Hz | | |
-| C | 6 | 1046.5 Hz | | |
-| B | 5 | 987.77 Hz | | | |
-|A#/B♭| 5 | 932.33 Hz | | |
-| A | 5 | 880 Hz | | |
-|G#/A♭| 5 | 830.61 Hz | | |
-| G | 5 | 783.99 Hz | | |
-|F#/G♭| 5 | 739.99 Hz | | |
-| F | 5 | 698.46 Hz | | |
-| E | 5 | 659.26 Hz | | |
-|D#/E♭| 5 | 622.25 Hz | | |
-| D | 5 | 587.33 Hz | | |
-|C#/D♭| 5 | 554.37 Hz | | |
-| C | 5 | 523.25 Hz | | |
-| B | 4 | 493.88 Hz | | |
-|A#/B♭| 4 | 466.16 Hz | | |
 | A | 4 | 440 Hz | | A |
 |G#/A♭| 4 | 416.3 Hz | | |
 | G | 4 | 391.99 Hz | |High G|
@@ -57,7 +38,7 @@ Modeled from: https://muted.io/note-frequencies/
 |A#/B♭| 3 | 233.08 Hz | | |
 | A | 3 | 220 Hz | | |
 |G#/A♭| 3 | 207.65 Hz | | |
-| G | 3 | 195.99 Hz | G |Low G|
+| G | 3 | 195.99 Hz | G | |
 |F#/G♭| 3 | 184.99 Hz | | |
 | F | 3 | 174.61 Hz | | |
 | E | 3 | 164.81 Hz | | |
@@ -74,5 +55,33 @@ Modeled from: https://muted.io/note-frequencies/
 | F | 2 | 87.30 Hz | | |
 | E | 2 | 82.40 Hz |Low E| |
 
+A standard concert ukulele is typically tuned G4–C4–E4–A4 (from top/4th to bottom/1st). Using equal temperament with A4 = 440 Hz, approximate fundamental frequencies:  
+
+    G4 — 392.00 Hz  
+    C4 — 261.63 Hz  
+    E4 — 329.63 Hz  
+    A4 — 440.00 Hz  
+
+Many ukuleles use a re-entrant (high G) tuning where the G4 is higher than the C4; some players use low-G (G3 ≈ 196.00 Hz) instead.  
+
+
+A standard baritone ukulele is typically tuned D3–G3–B3–E4 (low to high), i.e., the same as the highest four strings of a standard-tuned guitar. Their approximate frequencies:  
+
+    D3 — 146.83 Hz  
+    G3 — 196.00 Hz  
+    B3 — 246.94 Hz  
+    E4 — 329.63 Hz  
+
+
+Standard guitar (6-string, standard tuning E2–A2–D3–G3–B3–E4) string fundamental frequencies (equal temperament, A4 = 440 Hz):  
+
+    low E (E2) — 82.41 Hz  
+    A (A2) — 110.00 Hz  
+    D (D3) — 146.83 Hz  
+    G (G3) — 196.00 Hz  
+    B (B3) — 246.94 Hz  
+    high E (E4) — 329.63 Hz  
+
 SOURCE: https://en.wikipedia.org/wiki/Piano_key_frequencies  
 For reference, Middle C on a piano is 261.6256 Hz  
+
