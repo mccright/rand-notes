@@ -15,9 +15,9 @@ An analysis from: [Prunelia Stuart](https://www.linkedin.com/in/pruneliastuart/)
 
 >Here’s the rough math:  
 ```
- • Facility shell: ~$1B per 100 MW → $10B per 1 GW
- • Compute (GPUs, servers, interconnect): ~$20B per 1 GW
- • Add dedicated generation (gas/renewables): +$3-4B
+ • Facility shell: ~$1B per 100 MW → $10B per 1 GW  
+ • Compute (GPUs, servers, interconnect): ~$20B per 1 GW  
+ • Add dedicated generation (gas/renewables): +$3-4B  
 ```
 
 >So, 1 GW ≈ $30B.  
@@ -31,23 +31,23 @@ An analysis from: [Prunelia Stuart](https://www.linkedin.com/in/pruneliastuart/)
 ```
 >Zoom out and the picture is staggering:  
 ```
- • McKinsey projects $6.7T in global data center CAPEX by 2030, with $5.2T for AI-capable sites
- • Microsoft, Alphabet, Amazon, Meta alone will spend >$300B on capex in 2025
- • One TechCrunch analysis: a single leading AI DC in 6 years could cost $200B and draw 9 GW
+ • McKinsey projects $6.7T in global data center CAPEX by 2030, with $5.2T for AI-capable sites  
+ • Microsoft, Alphabet, Amazon, Meta alone will spend >$300B on capex in 2025  
+ • One TechCrunch analysis: a single leading AI DC in 6 years could cost $200B and draw 9 GW  
 ```
 >The next 5 years?  
 ```
- • OpenAI’s Stargate: $100B deployment now, $500B over four years
- • Meta’s Hyperion: 2 GW online by 2030, scaling to 5 GW
- • Abilene, TX: an 875-acre “AI factory” campus planned at 1.2 GW
- • Start Campus, Portugal: a 1.2GW data center campus across six buildings by 2030 
+ • OpenAI’s Stargate: $100B deployment now, $500B over four years  
+ • Meta’s Hyperion: 2 GW online by 2030, scaling to 5 GW  
+ • Abilene, TX: an 875-acre “AI factory” campus planned at 1.2 GW  
+ • Start Campus, Portugal: a 1.2GW data center campus across six buildings by 2030  
 ```
 WWhat it means for leaders:  
 ```
- • Power is key, requiring 24/7 clean firm power to secure compute
- • Chips and interconnects drive timelines as much as construction
- • Design for modularity and density
- • Finance meets physics: every gigawatt is a $30B+ bet intertwined with grid, water, workforce, and regulation.
+ • Power is key, requiring 24/7 clean firm power to secure compute  
+ • Chips and interconnects drive timelines as much as construction  
+ • Design for modularity and density  
+ • Finance meets physics: every gigawatt is a $30B+ bet intertwined with grid, water, workforce, and regulation.  
 ```
 >Mapping out AI buildouts requires measuring assumptions against these kinds of magnitudes, as AI data centers are becoming nationwide infrastructure.  
 
