@@ -7,7 +7,7 @@ See '[Only good for drug dealers': More Nobel prize winners snub bitcoin](https:
 
 Maybe cryptocurrency activity is just another expression of the [Greater fool theory](https://en.wikipedia.org/wiki/Greater_fool_theory).  
 
-Also see '[The Growing Scandal of $Trump -- The Ezra Klein Show](https://www.nytimes.com/2025/05/28/opinion/ezra-klein-podcast-zeke-faux.html?unlocked_article_code=1.K08.rV1p.6ybREKhXY3W4&smid=url-share)' for a recent review of crypto ventures by Trump 47 and his family by investigative reporter Zeke Faux.  "Even if this is legal, the [conflict of interest](https://en.wikipedia.org/wiki/Donald_Trump#Conflicts_of_interest,_2025%E2%80%93present) here is obvious. It looks incredibly corrupt, at the very least."
+Also see '[The Growing Scandal of $Trump -- The Ezra Klein Show](https://www.nytimes.com/2025/05/28/opinion/ezra-klein-podcast-zeke-faux.html?unlocked_article_code=1.K08.rV1p.6ybREKhXY3W4&smid=url-share)' for a recent review of crypto ventures by Trump 47 and his family by investigative reporter Zeke Faux.  "Even if this is legal, the [conflict of interest](https://en.wikipedia.org/wiki/Donald_Trump#Conflicts_of_interest_(2025%E2%80%93present)) here is obvious. It looks incredibly corrupt, at the very least."
 
 
 ### Supporting thoughts:  
