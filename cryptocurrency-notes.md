@@ -3,7 +3,9 @@
 *This is just a scratchpad of my reading and opinions for now*.  
 
 ### TLDR:  
-See '[Only good for drug dealers': More Nobel prize winners snub bitcoin](https://finance.yahoo.com/news/good-drug-dealers-nobel-prize-winners-snub-bitcoin-184903784.html)' for a short article about how a number of Nobel prize laureates in economics think about cryptocurrency -- the short version is: "it should have a zero price," ..."The only advantage as far as I can see is you can be a crook..."  
+See '[Only good for drug dealers': More Nobel prize winners snub bitcoin](https://finance.yahoo.com/news/good-drug-dealers-nobel-prize-winners-snub-bitcoin-184903784.html)' for a short article about how a number of Nobel prize laureates in economics think about cryptocurrency -- the short version is: "it should have a zero price," ..."The only advantage as far as I can see is you can be a crook..."  While that narrow set of opinions may be effectively disputed, my belief is that dealing with this thread deserves some level of caution and I recommend investing material effort and creativity in any analysis of their underlying ideas...  
+
+The [legal status](https://en.wikipedia.org/wiki/Cryptocurrency#Legality) of cryptocurrencies varies substantially from one jurisdiction to another.  
 
 Maybe cryptocurrency activity is just another expression of the [Greater fool theory](https://en.wikipedia.org/wiki/Greater_fool_theory).  
 
@@ -11,7 +13,7 @@ Also see '[The Growing Scandal of $Trump -- The Ezra Klein Show](https://www.nyt
 
 
 ### Supporting thoughts:  
-...since its emergence in 2008/9, digital currency has existed largely outside of government and traditional banking/financial services controls and constraints, and depends on tight integration with public [distributed ledgers](https://en.wikipedia.org/wiki/Distributed_ledger) called [blockchains](https://en.wikipedia.org/wiki/Blockchain) or [*Distributed Ledger Technology* (DLT)](https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp) (decentralized, immutable, encrypted, tokenized, distributed, consensus-building and record-keeping).  It has also depended on lots of venture capital (*and amateur/civilian investor*) funding.  There are at least [four types of blockchain networks](https://en.wikipedia.org/wiki/Blockchain#Types) today: public blockchains, private blockchains, consortium blockchains and hybrid blockchains. Public (*sometimes called "permissionless"*) blockchains support some of the most popular cryptocurrency networks like Bitcoin and Ethereum, and have several components that enable them to transfer value without relying on trusted third parties -- [a research paper by the NY Fed examines these components](https://libertystreeteconomics.newyorkfed.org/2023/08/what-makes-cryptocurrencies-different/).  
+...since its emergence in 2008/9, digital currency has existed largely outside of government and traditional banking/financial services controls and constraints, and depends on tight integration with public [distributed ledgers](https://en.wikipedia.org/wiki/Distributed_ledger) called [blockchains](https://en.wikipedia.org/wiki/Blockchain) or [*Distributed Ledger Technology* (DLT)](https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp) (decentralized, immutable, encrypted, tokenized, distributed, consensus-building and record-keeping).  It has also depended on lots of venture capital (*and amateur/civilian investor*) funding.  There are at least [four types of blockchain networks](https://en.wikipedia.org/wiki/Blockchain#Types) today: public blockchains, private blockchains, consortium blockchains and hybrid blockchains. Public (*sometimes called "permissionless"*) blockchains support some of the most popular cryptocurrency networks like [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) and [Ethereum](https://en.wikipedia.org/wiki/Ethereum), and have several components that enable them to transfer value without relying on trusted third parties -- [a research paper by the NY Fed examines these components](https://libertystreeteconomics.newyorkfed.org/2023/08/what-makes-cryptocurrencies-different/).  
 
 My reading and experience in the financial services industry leads me to believe that for much of their relatively short lifetime, cryptocurrencies, blockchain/DLT and an ecosystem of '*So... you wanted to use it?*' technology have been pumped using hyper-positive myths that attempt to define them as a magical, safe, inflation-resistant, inherently egalitarian, democratic, decentralized and anonymity-protecting utopia.  
 
@@ -120,6 +122,11 @@ Hostile parties stole at least US$3.2 billion worth of cryptocurrency in 2021, a
 #### DeFi scams, hacks and exploits...  
 Have resulted in $2,813,045,843 by 2022-01-29  
 There have been more than 200 of material scale, see: [https://defiyield.app/rekt-database](https://defiyield.app/rekt-database)  
+
+#### Double-spending  
+Double-spending is the unauthorized spending of the same money (either digital or conventional) more than once.  
+[Examples of double-spending attacks](https://en.wikipedia.org/wiki/Double-spending#Examples_of_double-spending_caused_by_51%_attacks).  
+
 
 #### Examples of crypto company's business models failing under stress...  
 A number of crypto companies – especially lenders – have recently stopped or restricted customers from withdrawing their funds.  
