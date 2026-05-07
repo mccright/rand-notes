@@ -43,6 +43,12 @@ IEEE Band |Frequency range |Explanation of meaning of letters |
 Source: https://en.wikipedia.org/wiki/Radio_spectrum  
 
 
+#### Intercept  
+Signal Intelligence Platform  
+A web-based interface for software-defined radio tools.  
+https://github.com/smittix/intercept  
+
+
 ### Hardware: NESDR SMArt  
 Part of a new NooElec NESDR SMArt Bundle (Premium RTL-SDR w/ Aluminum Enclosure, 0.5PPM TCXO, SMA Input & 3 Antennas. RTL2832U & R820T2-Based, plus, re-designed antenna base, and 3 antenna masts).  
 http://www.nooelec.com/store/sdr/sdr-receivers/nesdr/nesdr-smart.html  
