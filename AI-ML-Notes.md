@@ -6,6 +6,7 @@ Bill Gates said that AI is "almost like getting free white-collar workers" (Jan/
 This is largely-neglected alpha interest work.  After percolating in this format for a while, I'll figure out how to better prioritize this reading and content.  **You can do better than to invest your time here**!  
 
 In fact, you might want to start at Hari Sekhon's excellent "[AI - Artificial Intelligence](https://github.com/HariSekhon/Knowledge-Base/blob/main/ai.md)"  
+Or, review '''statespersons''' (*[Alexander Yue](https://github.com/Alezander9)*) [Behavioral Evidence on LLM Identity](https://github.com/statespersons/AGI#research-behavioral-evidence-on-llm-identity), [What am I?](https://github.com/statespersons/AGI#the-question-im-working-on) and the rest of the pages listed under [Memory Structure](https://github.com/statespersons/AGI#memory-structure)  
 and if you need something more specific "[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)" or just https://prompts.chat/  
 
 ## AI Data Center Resource Demands  
