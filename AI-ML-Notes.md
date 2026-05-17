@@ -134,6 +134,8 @@ https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-techno
 
 
 ## Resources:  
+Learning tools:  
+* GuppyLM -- A ~9M parameter LLM that talks like a small fish. This project exists to show that training your own language model is not magic. No PhD required. No massive GPU cluster. One Colab notebook, 5 minutes, and you have a working LLM that you built from scratch — data generation, tokenizer, model architecture, training loop, and inference. If you can run a notebook, you can train a language model. [github.com/arman-bd/guppylm/tree/main](https://github.com/arman-bd/guppylm/tree/main)  
 
 How AI is impacting 700 professions — and might impact yours. By Youyou Zhou. 28 July 2025. [read it in the Washington Post](https://wapo.st/4lPND7f)  
 * "We asked 5 AI helpers to write tough emails. One was a clear winner. -- A panel of communications experts helped us test how well artificial intelligence tools ChatGPT, Claude, Copilot, DeepSeek and Gemini write emails." By Geoffrey A. Fowler. 26 March 2025
