@@ -121,6 +121,13 @@ There are MANY indicators of health.  Just one is the level of cancers experienc
 >"An estimated 21,200 new, invasive cancers will be diagnosed among Iowans in 2025."  
 >"An estimated 6,300 Iowans will die from cancer in 2025."  
 >"The number of cancer survivors is growing, with an estimated 171,535 survivors currently living in Iowa."  
+The [2026 Cancer in Iowa](https://shri.public-health.uiowa.edu/wp-content/uploads/2026/03/2026-Cancer-in-Iowa.pdf)" report continues those troubling themes:  
+>"An estimated 21,700 new, invasive cancers will be diagnosed among Iowans in 2026."  
+>"An estimated 6,400 Iowans will die from cancer in 2026."  
+>"The rate of new cancers in children and adolescents in Iowa is similar to the U.S., but the rate in young adults in Iowa is significantly higher than the U.S."  
+>"Farmers were diagnosed with 20% more cases of prostate cancer than expected." ..."AHS (*Agricultural Health Study*) analyses have found that high exposure to certain organophosphate insecticides (such as dimethoate, fonofos, malathion, terbufos, and aldrin) may increase the risk of aggressive prostate cancer."  
+>"An AHS (*Agricultural Health Study*) analysis showed that drinking water nitrate-nitrogen exposure at average levels >10 mg/L, the current maximum contaminant level for public water supplies, was associated with increased risk of prostate cancer, particularly aggressive disease. Another AHS analysis suggested that risk of ovarian cancer increased with higher average nitrate levels in drinking water."  
+
 See the "[Incidence rates for Iowa by County](https://statecancerprofiles.cancer.gov/map/map.withimage.php?19&county&001&001&00&0&01&0&1&5&0#results)" (*cases per 100,000 population per year*) to get a very rough idea of cancer risk is distributed across the state.  And [the supporting data](https://statecancerprofiles.cancer.gov/quick-profiles/index.php?tabSelected=2&statename=iowa) that breaks it down by cancer type/site.  
 Also see the new University of Iowa mapping tool called [Cancer Analytics & Maps for Small Areas](https://shri.public-health.uiowa.edu/camsa/), or CAMSA, that uses statistical models rather than exact case counts to estimate rates at the ZIP-code level across Iowa instead of relying only on typical county averages.  Nick El Hajj, a reporter at the Register, outlined some of the features & limitations of this system in "[New Iowa tool maps cancer rates by ZIP code, revealing hidden patterns](https://www.desmoinesregister.com/story/news/health/2026/02/16/iowa-cancer-rates-by-zip-code/88530793007/)" Feb. 16, 2026, Des Moines Register.  
 
