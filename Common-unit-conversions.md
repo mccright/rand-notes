@@ -1,6 +1,24 @@
 # Conversion Table  
-I use this resource locally, hoping to reduce my network I/O and my search traffic.  
+I use this resource locally when reading, hoping to reduce my network I/O and my search traffic.  
 
+[Length](#length)  
+[Length Units Table II](#length_units_table_ii)  
+[Area](#area)  
+[Mass (Weight)](#mass)  
+[Volume](#volume)  
+[Volume Units Table II](#volume_units_table_ii)  
+[Temperature](#temperature)  
+[Temperature Conversion Formulas Table II](#temperature_conversion_formulas_table_ii)  
+[Multiples and Submultiples of SI units](#multiples_and_submultiples_of_si_units)  
+[Metric Prefixes](#metric_prefixes)  
+[Speed/Velocity](#speed_velocity)  
+[Energy](#energy)  
+[Pressure and Gas Flow Unit Conversions](#pressure_and_gas_flow_unit_conversions)  
+[Pressure](#pressure)  
+[Gas Flow](#gas_flow)  
+
+
+<a name="length"></a>
 ### Length  
 | From      |     To This           |
 |:----------|:----------------------|
@@ -97,11 +115,12 @@ I use this resource locally, hoping to reduce my network I/O and my search traff
 * "[An astronomical unit is the average distance between the Earth and the Sun. *Estimates of this distance have varied over time*](https://www.calculateme.com/astronomy/)."  
 
 
+<a name="length_units_table_ii"></a>
 ### Length Units Table II  
 |Millimeters |Centimeters |Meters |Kilometers |Inches |Feet |Yards |Miles |
 |:----------:|:----------:|:-----:|:---------:|:-----:|:---:|:----:|:----:|
 |mm |cm |m |km |in |ft |yd |mi |
-|1 |0.1 |0.001 |0.000001 |0.03937 |0.003281 |0.001094 |6.21e-07 |
+|1 |0.1 |0.001 |0.000001 |0.03937 |0.003281 |0.001094 |6.21<sup>-7</sup> |
 |10 |1 |0.01 |0.00001 |0.393701 |0.032808 |0.010936 |0.000006 |
 |1000 |100 |1 |0.001 |39.37008 |3.28084 |1.093613 |0.000621 |
 |1000000 |100000 |1000 |1 |39370.08 |3280.84 |1093.613 |0.621371 |
@@ -113,6 +132,7 @@ I use this resource locally, hoping to reduce my network I/O and my search traff
 Thank you [International Society of Automation](https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf) for this table.  
 
 
+<a name="area"></a>
 ### Area  
 | From      |     To This           |
 |:----------|:----------------------|
@@ -135,6 +155,7 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 |1 acre |43,560 sq feet |
 
 
+<a name="mass"></a>
 ### Mass (Weight)  
 | From      |     To This           |
 |:----------|:----------------------|
@@ -177,6 +198,7 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 |1 long ton |1.01605 metric tons |
 
 
+<a name="volume"></a>
 ### Volume  
 | From      |     To This           |
 |:----------|:----------------------|
@@ -233,6 +255,7 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 |1 cubic yard |27 cubic feet (ft³) |
 |1 cubic yard |0.764559 cubic meters (m³) |
 
+<a name="volume_units_table_ii"></a>
 ### Volume Units Table II  
 |Centimeter cube|Meter cube|Liter |Inch cube|Foot cube|US gallons|Imperial gallons |US barrel (oil)|
 |:---|:---|:---|:---|:---|:------|:--------|:------|
@@ -249,6 +272,7 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 Thank you [International Society of Automation](https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf) for this table.  
 
 
+<a name="temperature"></a>
 ### Temperature  
 | From      |     To This           |
 |:----------|:----------------------|
@@ -259,7 +283,7 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 |&#176;Celsius    |multiply 1.8, then add 32 &#176;Fahrenheit |
 |&#176;Kelvin     |subtract 273.15 &#176;Celsius |
 
-
+<a name="temperature_conversion_formulas_table_ii"></a>
 ### Temperature Conversion Formulas Table II  
 |Degrees (&#176;)       |Conversion Formula |
 |:----------------------|:------------------|
@@ -273,6 +297,7 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 Thank you [International Society of Automation](https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf) for this table.  
 
 
+<a name="multiples_and_submultiples_of_si_units"></a>
 ### Multiples and Submultiples of SI units  
 |Prefix |Symbol  |Multiply by |Multiply by number |
 |:------|:------:|:------------------|:-----------------:|
@@ -293,29 +318,30 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 |femto |f |10<sup>-15</sup> |                          0.000 000 000 000 001 |
 |atto |a |10<sup>-18</sup>  |                          0.000 000 000 000 000 001|
 
-
+<a name="metric_prefixes"></a>
 ### Metric Prefixes  
 |Unit Multiple|Prefix|Symbol| __ |Unit Subdivision|Prefix|Symbol|
 |:--------:|:-----:|:--:|:---:|:--------:|:-----:|:-:|
-|10<sup>1</sup> |deka |da | __ |10<sup>-1</sup> |deci |d |
-|10<sup>2</sup> |hecto |h | __ |10<sup>-2</sup> |centi |c |
+|10<sup>1</sup> |deka<sup>A</sup> |da | __ |10<sup>-1</sup> |deci<sup>A</sup> |d |
+|10<sup>2</sup> |hecto<sup>A</sup> |h | __ |10<sup>-2</sup> |centi |c |
 |10<sup>3</sup> |kilo |k | __ |10<sup>-3</sup> |milli |m |
 |10<sup>6</sup> |mega |M | __ |10<sup>-6</sup> |micro |μ |
 |10<sup>9</sup> |giga |G | __ |10<sup>-9</sup> |nano |n |
 |10<sup>12</sup> |tera |T | __ |1|0<sup>-12</sup> |pico  |p |
 |10<sup>15</sup> |peta |P | __ |10<sup>-15</sup> |femto | f |
 |10<sup>18</sup> |exa |E | __ |10<sup>-18</sup> |atto |a |
-|10<sup>21</sup> |zetta |Z | __ |10<sup>-2</sup>1 |zepto |z |
+|10<sup>21</sup> |zetta |Z | __ |10<sup>-2</sup> |zepto |z |
 |10<sup>24</sup> |yotta |Y | __ |10<sup>-24</sup> |yocto |y |
 |10<sup>27</sup> |ronna |R | __ |10<sup>-27</sup> |ronto |r |
 |10<sup>30</sup> |quetta |Q | __ |10<sup>-30</sup> |quecto |q |
 
-
 Thank you [U. S. Energy Information Administration / Monthly Energy Review, May 2026](https://www.eia.gov/totalenergy/data/monthly/pdf/sec12_20.pdf) and [NIST](https://www.nist.gov/system/files/documents/2025/12/30/appc-26-HB44-20251222.pdf#page=3) for versions of this table  
 
-NOTES:  
-<sup>A</sup> These prefixes are not normally used  
+**NOTES:**  
+<sup>A</sup> These prefixes are not normally used.  
 
+
+<a name="speed_velocity"></a>
 ### Speed/Velocity
 | From      |     To This           |
 |:----------|:----------------------|
@@ -343,6 +369,7 @@ NOTES:
 |Knot |1.68781 feet per second |
 
 
+<a name="energy"></a>
 ### Energy  
 | From      |     To This           |
 |:----------|:----------------------|
@@ -382,8 +409,10 @@ From [NIST}(https://www.nist.gov/pml/special-publication-811/nist-guide-si-footn
 From [NIST}(https://www.nist.gov/pml/special-publication-811/nist-guide-si-footnotes#f10), The small calorie or gram calorie approximates the energy needed to increase the temperature of 1 gram of water by 1 <sup>o</sup>C. Subscripts <sup>"IT"</sup> and <sup>"th"</sup> refer to International Table and thermochemical calories, respectively -- and see the note above.  
 
 
+<a name="pressure_and_gas_flow_unit_conversions"></a>
 ### Pressure and Gas Flow Unit Conversions  
 
+<a name="pressure"></a>
 #### Pressure  
 |Unit |Pa |mbar |Torr |psi |atm |in H2O |in Hg |
 |:-------:|:--------:|:-----:|:---------:|:-----:|:---:|:----:|:----:|
@@ -398,6 +427,7 @@ From [NIST}(https://www.nist.gov/pml/special-publication-811/nist-guide-si-footn
 Thank you [NIST](https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b9) for this table.  
 
 
+<a name="gas_flow"></a>
 #### Gas Flow  
 |Unit |atm cc/s |sccm |mbar l/s |torr l/s |slm |Pa m3/s |kg Mol/s |
 |:---------:|:--------:|:-----:|:---------:|:-----:|:---:|:----:|:----:|
