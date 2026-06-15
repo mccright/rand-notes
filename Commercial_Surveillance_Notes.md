@@ -15,11 +15,12 @@ I agree with Geoffrey A. Fowler that there are many reasons that we need to keep
 * Where do you invest your *attention*? / ...and when?  
 * Where do you share your ideas/opinions/knowledge/etc? ...and when?  
 * Where, when and to whom do you donate?  
+* What is your income and from where/what does it come?  
 * Where are your assets?  
 * What are your assets?  
 * What is the scale of the financial (*and other*) assets that you own/control?  
   * What type(s) of authentication do you use to protect your financial (*and other*) assets?  
-* What is the nature and scale of your debt/credit obligations?  
+* What are the nature and scale of your debt/credit obligations?  
    * Where, when, how and for what do you aquire/exercise debt/credit?  
    * From whom aquire/exercise debt/credit?  
    * Do you exhibit seasonal (*or other periodic*) debt/credit behaviors?  
@@ -31,6 +32,8 @@ I agree with Geoffrey A. Fowler that there are many reasons that we need to keep
   * What drugs do you investigate / purchase?  
   * What supplements do you investigate / purchase?  
   * Do you exercise? (*When, where, how, how much...*)  
+  * What are your: heart rate characteristics, EKG data, breathing rate, blood Oxygenation, hydration, body mass, etc. 
+  * How much and when do you sleep?
   * Do you smoke/drink/etc.?  
   * What types of medical professionals do you consult?  
   * What medical treatments have you undergone? ...are you engaged in?  
@@ -43,12 +46,17 @@ I agree with Geoffrey A. Fowler that there are many reasons that we need to keep
 * Who do you *meet*?  
 * Who have you been *close to*?  
 * What do you *share*/*publish*?  
+* Are you religious?  
+  * What variety of religion(s)?  
+  * Explicit or inferred religious beliefs?  
 * What politicians do you frequent/support?  
   * Do you donate to given politicians? ...how much?  ...when?  
   * Do you donate to given political parties? ...how much?  ...when?  
   * Do you donate to given PACs? ...how much?  ...when?  
+  * Do you attend given political rallies / meetings?  
 * Which politicians have you criticized?  Where were you at the time?  Who was "*with*" you at the time?  
 * Do you vote? (*where, when, pattern[s] over time, etc.*)  
+  * Are you affiliated with a given political party?  
 * What vehicles do you drive (*or ride*)?  
   * When do you drive (*or ride*)?  
   * Where do you drive (*or ride*)?  How long do you stay at any given destination?  
