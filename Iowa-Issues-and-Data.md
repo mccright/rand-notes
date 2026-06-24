@@ -7,6 +7,9 @@ By many measures over the last decade Iowa's Governors and legislature succeeded
 Kate Kealey, Des Moines Register, [reported](https://www.desmoinesregister.com/story/news/local/des-moines/2026/03/26/des-moines-census-data-fastest-growing-metro-midwest-iowa/89299676007/):  
 >"64 of Iowa’s 99 counties have had declining growth rates."  
 
+Nick El Hajj, Des Moines Register [reported](https://enewspaper.desmoinesregister.com?publink=0a0976c21_1352131) that:  
+>"Iowa’s population grew 4.7% from 2010 to 2020, but 68 of 99 counties lost population, according to 2020 U.S. Census data."  
+
 ## Internet Connectivity  
 I read wildly varying characterizations of Internet connectivity across the state of Iowa.  Because Internet connectivity is an important input to the success of education, business, and governing (democracy) of the state, it is critical that we have an unambiguous, trustworthy, shared understanding of its current state.  
 'Ookla for Good' maintains an open data set that includes data on *Intetnet speeds* and *coverage* across the United States, including Iowa for both mobile and fixed Internet connections.  They gather their data via their *speedtest* application. Using this link: [https://www.ookla.com/ookla-for-good/open-data](https://www.ookla.com/ookla-for-good/open-data) narrow the scope to "Iowa, United States" and choose a data set.  When comparing Q3 2023 (similar to Q4 2021) fixed and mobile Internet coverage data for Iowa against Missouri, Wisconsin or Illinois (*or a number of other states*), too much of Iowa that is outside urban areas still looks like a digital wasteland. 	
@@ -96,6 +99,7 @@ FROM: "Few options exist to remove lead paint, despite risk to kids." By Lee Roo
 https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0 and https://www.homewardiowa.org/informationandstatistics   
 (October 2022 - Polk County) 521 households are on the waitlist to find affordable housing in the county.  
 [Update March 2026](https://www.homewardiowa.org/data): 768 unsheltered individuals in Polk County, Iowa -- 3rd year of record highs. 
+[Update June 2026](https://www.homewardiowa.org/data): 835 unsheltered individuals in Polk County, Iowa, a 7.2% increase from 2025. 
   
 
 
