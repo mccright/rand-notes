@@ -88,10 +88,19 @@ Usage: Collect the hostname for the domain's SOA start of authority -- the autho
 Output: ```edns1.ultradns.com. hostmaster.wellsfargo.com. 2009396341 1800 900 2592000 300```  
 
 
-Google DNS
-dig @8.8.8.8
-Cloudflare DNS
-dig @1.1.1.1
+[Some common DNS Services](https://github.com/mccright/rand-notes/blob/master/DNS-Services.md)  
+
+
+**Google DNS**:  
+dig @8.8.8.8 or 8.8.4.4 
+**Cloudflare DNS**:  
+dig @1.1.1.1 or 1.0.0.1  
+**DNS.Watch**:  
+dig @84.200.69.80 or 84.200.70.40  
+
+
+
+
 
 
 https://www.cyberithub.com/20-dig-command-examples-in-linux-cheat-sheet/
