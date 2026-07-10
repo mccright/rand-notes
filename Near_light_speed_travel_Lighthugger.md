@@ -1,3 +1,4 @@
+* Space travel under constant acceleration -- How *fast* does that mean?  
 
 ** How *fast* does a "lighthugger" spacecraft travel?  
 Because this involves [relativistic speed](https://en.wikipedia.org/wiki/Relativistic_speed), "*fast*" or *velocity* will be different over time for measurements taken from Earth compared to measurements taken from the spacecraft.  
