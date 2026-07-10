@@ -3,9 +3,9 @@
 Why did I write this (*using help from 'GPT 5.4 nano' via the free DuckDuckGo AI chat service*)?  I enjoy reading [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) and was wondering about time and distances while reading [Revelation Space](https://en.wikipedia.org/wiki/Revelation_Space) by Welsh author [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds).  
 
 ## How *fast* does a "*lighthugger*" spacecraft travel?  
-Because this involves [relativistic speed](https://en.wikipedia.org/wiki/Relativistic_speed), "*fast*" or *velocity* will be different over time for measurements taken from Earth compared to measurements taken from the accelerating spacecraft.  
+Because [this](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration#Interstellar_travel) involves [relativistic speed](https://en.wikipedia.org/wiki/Relativistic_speed), "*fast*" or *velocity* will be different over time for measurements taken from Earth compared to measurements taken from the accelerating spacecraft.  
 Assume the "*lighthugger*" accelerates at 1g (*Earth’s gravity*) -- 9.80665 meters/second.  
-And the *speed of light* (*c*) is 2.99792458e8\  
+And the *speed of light* (*c*) is 2.99792458e<sup>8</sup>  
 
 
 ### How long would a "*20-year*" trip take from the perspective of an individual on Earth compared to another individual on the lighthugger spacecraft?   
