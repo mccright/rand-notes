@@ -1,14 +1,14 @@
-* Space travel under constant acceleration -- How *fast* does that mean?  
+# Space travel under constant acceleration -- How *fast* does that mean?  
 
 See also: [wikipedia.org/wiki/Space_travel_under_constant_acceleration](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration)  
 
-** How *fast* does a "lighthugger" spacecraft travel?  
+## How *fast* does a "lighthugger" spacecraft travel?  
 Because this involves [relativistic speed](https://en.wikipedia.org/wiki/Relativistic_speed), "*fast*" or *velocity* will be different over time for measurements taken from Earth compared to measurements taken from the spacecraft.  
 Assume the "lighthugger" accelerates a 1g (*Earth’s gravity*) -- 9.80665 meters/second.  
 And the *speed of light* (*c*) is \(2.99792458\times 10^8\  
 
 
-How long would a "*20-year*" trip take from the perspective of an individual on Earth compared to another individual on the lighthugger spacecraft?   
+### How long would a "*20-year*" trip take from the perspective of an individual on Earth compared to another individual on the lighthugger spacecraft?   
 
 | Earth time (years) | Ship proper time (years) |
 |---:|:---:|
@@ -34,10 +34,10 @@ How long would a "*20-year*" trip take from the perspective of an individual on 
 | 20 | 3.607 |
 
 
-* Spacecraft proper time alongside the Earth coordinate time for a 20 year voyage.
+### Spacecraft proper time alongside the Earth coordinate time for a 20 year voyage.  
 
- Spacecraft proper time (years) | Earth coordinate time (years) |
-|---:|---:|
+| Spacecraft proper time (years) | Earth coordinate time (years) |
+|---:|:---:|
 | 1 | 1.19 |
 | 2 | 3.75 |
 | 3 | 10.7 |
@@ -60,10 +60,10 @@ How long would a "*20-year*" trip take from the perspective of an individual on 
 | 20 | 472,000,000 |
 
 
-*** Velocity with constant acceleration of 1g at annually for 20 years using Earth coordinate time  
+### Velocity with constant acceleration of 1g at annually for 20 years using Earth coordinate time  
 
 | Earth time (years) | \(v/c\) | Speed (m/s) |
-|---:|---:|---:|
+|---:|---:|:---:|
 | 1 | 0.718 | \(2.15\times 10^8\) |
 | 2 | 0.899 | \(2.70\times 10^8\) |
 | 3 | 0.951 | \(2.85\times 10^8\) |
@@ -86,10 +86,10 @@ How long would a "*20-year*" trip take from the perspective of an individual on 
 | 20 | 0.999 | \(2.99\times 10^8\) |
 
 
-*** Velocity with constant acceleration of 1g at annually for 20 years using spacecraft proper time  
+### Velocity with constant acceleration of 1g at annually for 20 years using spacecraft proper time  
 
 | Proper time (years) | \(v/c\) | Speed (m/s) |
-|---:|---:|---:|
+|---:|---:|:---:|
 | 1 | 0.1026 | 3.07e7 |
 | 2 | 0.2031 | 6.09e7 |
 | 3 | 0.2996 | 8.98e7 |
