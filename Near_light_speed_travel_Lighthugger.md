@@ -1,5 +1,7 @@
 * Space travel under constant acceleration -- How *fast* does that mean?  
 
+See also: [wikipedia.org/wiki/Space_travel_under_constant_acceleration](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration)  
+
 ** How *fast* does a "lighthugger" spacecraft travel?  
 Because this involves [relativistic speed](https://en.wikipedia.org/wiki/Relativistic_speed), "*fast*" or *velocity* will be different over time for measurements taken from Earth compared to measurements taken from the spacecraft.  
 Assume the "lighthugger" accelerates a 1g (*Earth’s gravity*) -- 9.80665 meters/second.  
