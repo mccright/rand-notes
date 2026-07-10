@@ -1,6 +1,6 @@
 # Space travel under constant acceleration -- How *fast* does that mean?  
 
-See also: [wikipedia.org/wiki/Space_travel_under_constant_acceleration](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration)  
+Why did I write this (*using help from 'GPT 5.4 nano' via the free DuckDuckGo AI chat service*)?  I enjoy reading [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) and was wondering about time and distances while reading [Revelation Space](https://en.wikipedia.org/wiki/Revelation_Space) by Welsh author [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds).  
 
 ## How *fast* does a "*lighthugger*" spacecraft travel?  
 Because this involves [relativistic speed](https://en.wikipedia.org/wiki/Relativistic_speed), "*fast*" or *velocity* will be different over time for measurements taken from Earth compared to measurements taken from the accelerating spacecraft.  
@@ -111,4 +111,6 @@ And the *speed of light* (*c*) is 2.99792458e8\
 | 19 | 0.9610 | 2.88e<sup>8</sup> |
 | 20 | 0.9680 | 2.90e<sup>8</sup> |
 
+
+See also: [wikipedia.org/wiki/Space_travel_under_constant_acceleration](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration)  
 
