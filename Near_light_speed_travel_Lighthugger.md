@@ -2,10 +2,10 @@
 
 See also: [wikipedia.org/wiki/Space_travel_under_constant_acceleration](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration)  
 
-## How *fast* does a "lighthugger" spacecraft travel?  
-Because this involves [relativistic speed](https://en.wikipedia.org/wiki/Relativistic_speed), "*fast*" or *velocity* will be different over time for measurements taken from Earth compared to measurements taken from the spacecraft.  
-Assume the "lighthugger" accelerates a 1g (*Earth’s gravity*) -- 9.80665 meters/second.  
-And the *speed of light* (*c*) is \(2.99792458\times 10^8\  
+## How *fast* does a "*lighthugger*" spacecraft travel?  
+Because this involves [relativistic speed](https://en.wikipedia.org/wiki/Relativistic_speed), "*fast*" or *velocity* will be different over time for measurements taken from Earth compared to measurements taken from the accelerating spacecraft.  
+Assume the "*lighthugger*" accelerates at 1g (*Earth’s gravity*) -- 9.80665 meters/second.  
+And the *speed of light* (*c*) is 2.99792458e8\  
 
 
 ### How long would a "*20-year*" trip take from the perspective of an individual on Earth compared to another individual on the lighthugger spacecraft?   
@@ -62,33 +62,33 @@ And the *speed of light* (*c*) is \(2.99792458\times 10^8\
 
 ### Velocity with constant acceleration of 1g at annually for 20 years using Earth coordinate time  
 
-| Earth time (years) | \(v/c\) | Speed (m/s) |
+| Earth time (years) | (v/c) | Speed (m/s) |
 |---:|---:|:---:|
-| 1 | 0.718 | \(2.15\times 10^8\) |
-| 2 | 0.899 | \(2.70\times 10^8\) |
-| 3 | 0.951 | \(2.85\times 10^8\) |
-| 4 | 0.972 | \(2.91\times 10^8\) |
-| 5 | 0.982 | \(2.94\times 10^8\) |
-| 6 | 0.988 | \(2.96\times 10^8\) |
-| 7 | 0.991 | \(2.97\times 10^8\) |
-| 8 | 0.993 | \(2.98\times 10^8\) |
-| 9 | 0.994 | \(2.98\times 10^8\) |
-| 10 | 0.995 | \(2.98\times 10^8\) |
-| 11 | 0.997 | \(2.99\times 10^8\) |
-| 12 | 0.997 | \(2.99\times 10^8\) |
-| 13 | 0.998 | \(2.99\times 10^8\) |
-| 14 | 0.998 | \(2.99\times 10^8\) |
-| 15 | 0.998 | \(2.99\times 10^8\) |
-| 16 | 0.998 | \(2.99\times 10^8\) |
-| 17 | 0.998 | \(2.99\times 10^8\) |
-| 18 | 0.999 | \(2.99\times 10^8\) |
-| 19 | 0.999 | \(2.99\times 10^8\) |
-| 20 | 0.999 | \(2.99\times 10^8\) |
+| 1 | 0.718 | 2.15e<sup>8</sup> |
+| 2 | 0.899 | 2.70e<sup>8</sup> |
+| 3 | 0.951 | 2.85e<sup>8</sup> |
+| 4 | 0.972 | 2.91e<sup>8</sup> |
+| 5 | 0.982 | 2.94e<sup>8</sup> |
+| 6 | 0.988 | 2.96e<sup>8</sup> |
+| 7 | 0.991 | 2.97e<sup>8</sup> |
+| 8 | 0.993 | 2.98e<sup>8</sup> |
+| 9 | 0.994 | 2.98e<sup>8</sup> |
+| 10 | 0.995 | 2.98e<sup>8</sup> |
+| 11 | 0.997 | 2.99e<sup>8</sup> |
+| 12 | 0.997 | 2.99e<sup>8</sup> |
+| 13 | 0.998 | 2.99e<sup>8</sup> |
+| 14 | 0.998 | 2.99e<sup>8</sup> |
+| 15 | 0.998 | 2.99e<sup>8</sup> |
+| 16 | 0.998 | 2.99e<sup>8</sup> |
+| 17 | 0.998 | 2.99e<sup>8</sup> |
+| 18 | 0.999 | 2.99e<sup>8</sup> |
+| 19 | 0.999 | 2.99e<sup>8</sup> |
+| 20 | 0.999 | 2.99e<sup>8</sup> |
 
 
 ### Velocity with constant acceleration of 1g at annually for 20 years using spacecraft proper time  
 
-| Proper time (years) | \(v/c\) | Speed (m/s) |
+| Proper time (years) | v/c\) | Speed (m/s) |
 |---:|---:|:---:|
 | 1 | 0.1026 | 3.07e7 |
 | 2 | 0.2031 | 6.09e7 |
