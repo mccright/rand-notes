@@ -4,8 +4,8 @@ Why did I write this (*using help from 'GPT 5.4 nano' via the free DuckDuckGo AI
 
 ## How *fast* does a "*lighthugger*" spacecraft travel?  
 Because [this](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration#Interstellar_travel) involves [relativistic speed](https://en.wikipedia.org/wiki/Relativistic_speed), "*fast*" or *velocity* will be different over time for measurements taken from Earth compared to measurements taken from the accelerating spacecraft.  
-Assume the "*lighthugger*" accelerates at 1g (*Earth’s gravity*) -- 9.80665 meters/second.  
-And the *speed of light* (*c*) is 2.99792458e<sup>8</sup>  
+Assume the "*lighthugger*" accelerates at 1g (*[Earth’s gravity](https://en.wikipedia.org/wiki/Earth_gravity)*) -- 9.80665 meters/second (21.93685 miles per hour).  
+And the *speed of light* (*c*) is 2.99792458e<sup>8</sup> (186,282 miles per second or 670,616,600 miles per hour)  
 
 
 ### How long would a "*20-year*" trip take from the perspective of an individual on Earth compared to another individual on the lighthugger spacecraft?   
@@ -62,7 +62,10 @@ And the *speed of light* (*c*) is 2.99792458e<sup>8</sup>
 
 ### Velocity with constant acceleration of 1g at annually for 20 years using Earth coordinate time  
 
-| Earth time (years) | (v/c) | Speed (m/s) |
+The distasnce calculations that you could deduce from this table can be [roughed out to](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration#Planetary_reference_frame):  
+>"As a rule of thumb, for a constant acceleration at 1 g (Earth gravity), the journey time, as measured on Earth, will be the distance in light years to the destination, plus 1 year. This rule of thumb will give answers that are slightly shorter than the exact calculated answer, but reasonably accurate."  
+
+| Earth time (years) | v/c | Speed (m/s) |
 |---:|---:|:---:|
 | 1 | 0.718 | 2.15e<sup>8</sup> |
 | 2 | 0.899 | 2.70e<sup>8</sup> |
@@ -88,7 +91,7 @@ And the *speed of light* (*c*) is 2.99792458e<sup>8</sup>
 
 ### Velocity with constant acceleration of 1g at annually for 20 years using spacecraft proper time  
 
-| Proper time (years) | v/c\) | Speed (m/s) |
+| Proper time (years) | v/c | Speed (m/s) |
 |---:|---:|:---:|
 | 1 | 0.1026 | 3.07e<sup>7</sup> |
 | 2 | 0.2031 | 6.09e<sup>7</sup> |
@@ -111,6 +114,7 @@ And the *speed of light* (*c*) is 2.99792458e<sup>8</sup>
 | 19 | 0.9610 | 2.88e<sup>8</sup> |
 | 20 | 0.9680 | 2.90e<sup>8</sup> |
 
+Why does the spacecraft never reach the speed of light?  See: *[Feasibility](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration#Feasibility)*  
 
 See also: [wikipedia.org/wiki/Space_travel_under_constant_acceleration](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration)  
 
