@@ -1,13 +1,18 @@
 # Random Artificial Intelligence & Machine Learning Notes  
 
-There is an AI *theme* applied to virtually anything at work.  My experience says that signals simple *hype* (or *executive echo chamber*) but my reading also suggests that this hum of *AI-everything* is ignored at our peril.  Maybe you have analogous sensations?  If not, maybe think some more...  
-Bill Gates said that AI is "almost like getting free white-collar workers" (Jan/Feb 2025 AARP Bulletin, p. 33).  
+There is an AI *theme* applied to virtually anything at work.  My experience says that signals simple *hype* about General Intelligence (or *executive echo chamber*) but my reading also suggests that this hum of *AI-everything* is ignored at our peril.  Maybe you have analogous sensations?  If not, maybe think some more...  
+Bill Gates said that AI is "almost like getting free white-collar workers" (Jan/Feb 2025 AARP Bulletin, p. 33). Ugg.  
 
 This is largely-neglected alpha interest work.  After percolating in this format for a while, I'll figure out how to better prioritize this reading and content.  **You can do better than to invest your time here**!  
 
 In fact, you might want to start at Hari Sekhon's excellent "[AI - Artificial Intelligence](https://github.com/HariSekhon/Knowledge-Base/blob/main/ai.md)"  
 Or, review '''statespersons''' (*[Alexander Yue](https://github.com/Alezander9)*) [Behavioral Evidence on LLM Identity](https://github.com/statespersons/AGI#research-behavioral-evidence-on-llm-identity), [What am I?](https://github.com/statespersons/AGI#the-question-im-working-on) and the rest of the pages listed under [Memory Structure](https://github.com/statespersons/AGI#memory-structure)  
 and if you need something more specific "[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)" or just https://prompts.chat/  
+
+## See How Various Models Perform -- And How Much They Cost  
+For a micro-example, see a comparison of how different AI models perform (and cost) on a given task that is easy for humans: https://arcprize.org/tasks/a3f84088.  
+There is a set of tests used to measure fluid intelligence or 'General Intelligence' called the "Abstraction and Reasoning Corpus for Artificial General Intelligence" (ARC-AGI) benchmark. It is outlined at: https://arcprize.org/arc-agi and I think it is a useful starting place for hunting down information about relative costs associated with a variety of widely-used models.  
+
 
 ## AI Data Center Resource Demands  
 An analysis from: [Prunelia Stuart](https://www.linkedin.com/in/pruneliastuart/)  Senior Program Project Manager | Hyperscale Data Centers | Tech, Construction & Change Management Expert | CAPEX Optimisation | Delivering Cross-Functional Projects at Scale  
