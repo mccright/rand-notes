@@ -350,3 +350,9 @@ FROM: https://www.openicpsr.org/openicpsr/192306/fcr:versions/V4/state_wealth_in
   
 To view the citation for the overall project, see http://doi.org/10.3886/E192306V4.  
 
+### Random   
+Coordinates for the "*center of Iowa*:"  Latitude: 42 degrees, 4 minutes, 37 seconds north. Longitude: 93 degrees, 29 minutes, 31 seconds west. (42.4.37 N, 93.29.31 W)  
+FROM: "[The exact center of Iowa was unknown. Until one student found it](https://www.desmoinesregister.com/story/news/local/columnists/courtney-crowder/2026/07/23/geographic-center-of-iowa-college-student-solved-mystery/90986875007/)." By Courtney Crowder, Des Moines Register, July 23, 2026.  
+42.0437, -93.2931
+
+
