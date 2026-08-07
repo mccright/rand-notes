@@ -267,14 +267,14 @@ Kevin Baskins [reported on 02 Nov 2025 that](https://enewspaper.desmoinesregiste
 >"From July 2024 through July 2025, Iowa lost 5,400 manufacturing jobs and is down nearly 11,000 jobs since June 2023."  
 
 * And still, Governor Kim Reynolds and her Republican legislature are focussed on *[Culture War](https://en.wikipedia.org/wiki/Culture_war)* issues and [tax cuts](https://en.wikipedia.org/wiki/Tax_cut) while remaining "on track to spend over a billion dollars more than the state expects to receive in revenue for the second year in a row," reported Stephen Gruber-Miller in the [13 Mar 2026 Des Moines Register](https://enewspaper.desmoinesregister.com?publink=2c3461884_1351ffd) even while "[tapping into the state’s surplus and multi-billion dollar Taxpayer Relief Fund to make up the difference](https://enewspaper.desmoinesregister.com?publink=3D1ff688d72_1352198)."  
-<a name="housing_in_iowa"></a>
 
 
 
-<a=name="jobs_in_iowa"></a>
+<a name="jobs_in_iowa"></a>
 ### Jobs In Iowa  
 Liam Halawith and Marissa Payne [wrote in the 2026-08-06 Des Moines Register](https://www.desmoinesregister.com/story/news/politics/elections/2026/08/06/miller-meeks-nunn-one-big-beautiful-bill-iowa-layoffs/91187168007/) that:  
 >"Iowa struggles with a [decline in manufacturing jobs](https://www.desmoinesregister.com/story/money/business/2026/06/30/job-losses-hit-whirlpool-iowa-plant-despite-tariffs/90736987007/), driven in part by a [sluggish agricultural economy](https://www.desmoinesregister.com/story/money/business/2025/10/28/iowa-manufacturing-losing-jobs-workforce-worry/86316377007/) ailing from [Trump's sweeping tariffs](https://www.desmoinesregister.com/story/money/agriculture/2026/02/19/iowa-farmers-dump-president-donald-trump-tariffs/88742069007/). The tariffs have [driven up prices](https://www.bls.gov/news.release/pdf/cpi.pdf) on all sorts of items, in turn spiking businesses' costs for materials and other goods.  Iowa shed 4,300 manufacturing jobs in the last 12 months, according to [Iowa Workforce Development](https://workforce.iowa.gov/press-release/2026-07-16/iowas-unemployment-rate-remains-32-percent-june) data — more than in any other sector. Recent layoffs have included manufacturers [such as Whirlpool Corp.](https://www.desmoinesregister.com/story/money/business/2026/07/15/wells-fargo-layoffs-whirlpool-iowa-june-job-losses/90840247007/), which has announced over 600 layoffs, and ongoing cutbacks at John Deere.  In 2024, before the 2025 tax law was passed, the state also saw manufacturing job losses leading the state's layoffs, according to [a report from the Common Sense Institute](https://www.commonsenseinstituteus.org/ResearchUploads/2024.12_Iowa_Jobs_Report_FINAL_.pdf). ...Iowa lost thousands of manufacturing jobs last year, and recently ranked 48th in economic growth."  
+
 
 
 <a name="food_n_hunger_in_iowa"></a>
@@ -294,6 +294,7 @@ Food insecurity in Iowa by the numbers (*By F. Amanda Tugade, 01-12-2024, [The D
 * And still, Governor Kim Reynolds and her Republican legislature are focussed on *[Culture War](https://en.wikipedia.org/wiki/Culture_war)* issues and [tax cuts](https://en.wikipedia.org/wiki/Tax_cut) while remaining "on track to spend over a billion dollars more than the state expects to receive in revenue for the second year in a row," reported Stephen Gruber-Miller in the [13 Mar 2026 Des Moines Register](https://enewspaper.desmoinesregister.com?publink=2c3461884_1351ffd) even while "[tapping into the state’s surplus and multi-billion dollar Taxpayer Relief Fund to make up the difference](https://enewspaper.desmoinesregister.com?publink=3D1ff688d72_1352198)."  
 
 
+<a name="housing_in_iowa"></a>
 ### Housing  
 (September 2022) Polk County is seeing a rise in the number of people who are homeless. According to a point-in-time count conducted by Homeward, the county’s homelessness planning organization, the population increased by 23% in the last year. And the number of people who are unsheltered in Polk County has nearly doubled since January. 
 https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0 and https://www.homewardiowa.org/informationandstatistics   
