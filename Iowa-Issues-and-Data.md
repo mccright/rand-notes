@@ -1,5 +1,5 @@
-# Iowa Issues and Data  
-*This is an early draft of topics of concern.*  
+# Iowa Issues and Data -- Under Brandstadt/Reynolds and their Legislature  
+*Notable topics of concern -- rough draft.*  
 
 By many measures over the last decade Iowa's Governors and legislature succeeded in weakening Iowa's education, manufacturing base, environment, civil rights, elections, health and municipal infrastructure and operations.  Sure, some can cite isolated statistics that imply *goodness*, but overall, too many Iowans seem poorer, sicker and have fewer opportunities for social & economic success.  That trend continues and the state seems to be driving younger workers away from Iowa.  The [Iowa Business Council reported](https://www.iowabusinesscouncil.org/news/dashboard2026/) in [March 2026](https://www.iowabusinesscouncil.org/UserDocs/2026_competitive_dashboard.pdf#page=9) that Iowa "ranks 38th in the nation for outward migration meaning it has a greater percentage of its population departing than all but 12 of the other states" [*see Kevin Baskins, "Iowa population, health care lag in competitiveness report" [Des Moines Register, 2026-03-15, page 6C](https://enewspaper.desmoinesregister.com?publink=0e1180343_1351fff)] and worse, [IBC reported that](https://www.iowabusinesscouncil.org/UserDocs/2026_competitive_dashboard.pdf#page=9):  
 >"Currently, Iowa ranks 47th (*third worst in the nation*) in outmigration of 25-29 year-olds with a bachelor’s degree or higher. This fact has a profound impact on the state’s economy with a loss in both state GDP and cumulative personal income."  
@@ -11,6 +11,31 @@ Nick El Hajj, Des Moines Register [reported](https://enewspaper.desmoinesregiste
 >"Iowa’s population grew 4.7% from 2010 to 2020, but 68 of 99 counties lost population, according to 2020 U.S. Census data."  
 
 
+### Sections  
+* [Water in Iowa](#water_in_iowa)  
+* [Lead Poisoning](#lead_poisoning_in_iowa)  
+* [Health Care](#health_care_in_iowa)  
+* [Incarceration in Iowa](#incarceration_in_iowa)  
+* [Banning Books and Restricting Access to Libraries](#iowa_book_banning)  
+* [Iowa Legislature's/Governor's "Don't say gay" Law & Follow-on Gender-Related Hostility](#iowas_dont_say_gay)  
+* [Iowa Legislature's/Governor's "Don't Come Here" Law & Follow-on Hostility](#dont_come_here)  
+* [Too Many Iowa Leaders Attack "Iowa Nice."](#attacking_iowa_nice)  
+* [School Absenteeism](#school_absenteeism)  
+* [Jobs In Iowa](#jobs_in_iowa)  
+* [Food/Hunger](#food_n_hunger_in_iowa)  
+* [Housing](#housing_in_iowa)  
+* [Child Care](#child_care_in_iowa)  
+* [Representation in Washington](#representation_in_washington)  
+* [Iowa Wealth Inequality Data, 1960-2020](#iowa_wealth_inequality_data)  
+* [Iowa Elections](#iowa_elections)  
+* [Internet Connectivity](#internet_connectivity)  
+* [Finding Information About Iowa](#finding_information_about_iowa)  
+* [Other](#other)  
+* [Random](#random)  
+
+
+
+<a name="water_in_iowa"></a>
 ### Water in Iowa  
 * A [2019 University of Iowa study](https://desmoinesregister-ia.newsmemory.com?selDate=20221020&goTo=A007&artid=1) found Iowa leads the country in manure waste. A [2025 study, “Currents of Change,” also found that this "nitrate problem is uniquely Iowan"](https://iowacapitaldispatch.com/2025/06/25/polk-county-water-report-pins-unhealthy-rivers-on-ag-pollution/). (*In January 2025, Donnelle Eller wrote [in the Des Moines Register](https://desmoinesregister-ia.newsmemory.com?publink=1fb42590c_134f82c) that "Iowa [is] the nation’s top producers of corn, pork, eggs and ethanol, second-largest soybean grower and seventh-largest beef and turkey producer."*)  
 * [751 rivers, streams, lakes, reservoirs and wetlands are considered impaired](https://desmoinesregister-ia.newsmemory.com?selDate=20221020&goTo=A007&artid=1) -- roughly half of Iowa’s waterways that were assessed.  
@@ -35,6 +60,7 @@ Gov. Kim Reynolds [responded to summer 2025 water quality protesters saying](htt
 * The [Iowa Department of Natural Resources](https://www.iowadnr.gov/) (DNR) 2025-01-31 [Cami Koons wrote in the Iowa Capital Dispatch](https://iowacapitaldispatch.com/briefs/water-advocates-challenge-dnr-final-decision-on-permit-for-cattle-facility-near-bloody-run-creek/) about DNR's final decision on Permit no. 10172-R1 to Supreme Beef for a 10,000-head confined-animal feeding operation (*cattle*) near [Bloody Run Creek](https://www.iowadnr.gov/Fishing/Where-to-Fish/Trout-Streams/Stream-Details?lakeCode=TBR22) and the porous bedrock of [the “driftless” region](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCeGFF8x83dnxz6nMLTQ58IWwEoPs1LknoxeLyYWgBDZAfzDbm0Eh72hy8E8KgvjmtB6fh85nM40ISu6BZhYqDf64T6jBZ824D6CpPiBf0f-P6qkJPq0jaTXSxDRbNbPWeXlShV5S5up_KPH4fzAt3BwTALJ9BVkrniTwJsj23-DGqa4tzAPuFpWo2FA/s751/4E5A04AE-688A-4538-911F-C16059FC5DBD.jpeg) of [northeast Iowa](https://www.iowadnr.gov/Portals/idnr/uploads/water/wells/IGWS%20Karst%20Map.pdf). The permit grants "Supreme Beef Llc (Jared Walz)" to extract "21.90 Million Gallons Per Year (MGY)  @ 100.00 GPM" (*Supreme Beef reported extracting more than 19 MGY in each of 2022, 2023 & 2024*) from the Jordan aquifer (*to access the permit, search for 10172 at the DNR [Water Allocation Compliance and Online Permitting (WACOP) search page](https://programs.iowadnr.gov/wacop/Home/PermitSearch)*). Much of that water ends up in an excrement slurry that is used on farmland (*where rain can wash some portion of it into waterways which can result in the kinds of imparements described above and into ground water/aquifers that feed drinking water wells*), which is not good for anyone. Chris Jones, a chemist and research engineer at the University of Iowa Institute of Hydraulic Research (IIHR), and the head of the Iowa Water Quality Information System since 2015, [installed a sensing station in Bloody Run](https://en.wikipedia.org/wiki/Bloody_Run_(Iowa)) to monitor its water quality and then published what he learned.  [Wikipedia reports that](https://en.wikipedia.org/wiki/Bloody_Run_(Iowa)#Pollution) Jones was repeatedly threatened by Republican politicians, particularly [Dan Zumbach](https://en.wikipedia.org/wiki/Dan_Zumbach) (*who was the father-in-law of the co-owner of Supreme Beef*), for his research, and left the University of Iowa on May 16, 2023. Nobody "*wins*" in scenarios like this -- and Iowans, Iowa ecosystems, Iowa waterways, Iowa drinking water, and those downstream suffer.  Iowa Legislature voted on defunding the water quality sensor network, attempting to blind Iowan's view into the levels of poison delivered into Iowa's waterways and aiming to eliminate opportunities to identify water quality trends...  As I write this sentence on 01 Jan 2026, USGS "[Sensor ID : 05482500](https://iwqis.iowawis.org/app/?iwqis=/sensors-map/05482500)" (on the North Raccoon River near Jefferson, IA) upstream from my drinking water utility's water source reports that "Nitrate + Nitrite as N: 17.1 mg/L" -- almost twice the drinking water threshold.  
 
 
+<a name="lead_poisoning_in_iowa"></a>
 ### Lead Poisoning  
 The CDC says there is no safe level for lead in blood. Exposure at any level has been shown to cause irreversible harm to children, including damage to the brain and nervous systems, slowed growth and development, learning and behavior problems, and hearing and speech difficulty.  
 
@@ -49,31 +75,8 @@ At the same time, he said, enforcement “is weakening or absent in most parts o
 FROM: "Few options exist to remove lead paint, despite risk to kids." By Lee Rood, [desmoinesregister-ia.newsmemory.com?selDate=20221023&goTo=A001&artid=1](https://desmoinesregister-ia.newsmemory.com?selDate=20221023&goTo=A001&artid=1)  
 
 
-### Housing  
-(September 2022) Polk County is seeing a rise in the number of people who are homeless. According to a point-in-time count conducted by Homeward, the county’s homelessness planning organization, the population increased by 23% in the last year. And the number of people who are unsheltered in Polk County has nearly doubled since January. 
-https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0 and https://www.homewardiowa.org/informationandstatistics   
-(October 2022 - Polk County) 521 households are on the waitlist to find affordable housing in the county.  
-[Update March 2026](https://www.homewardiowa.org/data): 768 unsheltered individuals in Polk County, Iowa -- 3rd year of record highs. 
-[Update June 2026](https://www.homewardiowa.org/data): 835 unsheltered individuals in Polk County, Iowa, a 7.2% increase from 2025. 
-  
 
-
-### Food/Hunger  
-Food insecurity in Iowa by the numbers (*By F. Amanda Tugade, 01-12-2024, [The Des Moines Register](https://desmoinesregister-ia.newsmemory.com?publink=0114326e8_134d555)*)  
-● The average cost of a meal in Iowa is $4.  
-● More than 344,000 Iowans are food insecure. More than 30% — roughly 110,000 — are children.  
-● 1 in 9 adults — and 1 in 6 children — do not have enough to eat or know where their next meal is coming from.  
-  * Working is not the core issue.  Gov. Reynolds organized a task force that [found](https://desmoinesregister-ia.newsmemory.com?publink=051a3bdd8_134f960):  
->"Iowa is a national leader in the share of households with all parents working but has too few options for child care: 23 percent of Iowans — and nearly 35 percent of rural Iowans — live in a “child care desert,” the Governor’s Economic Recovery Advisory Board reported."  
-● Families with children spend an average of $331 a week on groceries or 41% more than families without kids.  
-● The average amount of extra money Iowans experiencing food insecurity need to cover food costs is roughly $245 million.  
-● To qualify for any food assistance (*in Iowa*), a single person’s gross monthly limit is $1,632 (*$19,584/yr*), according to the Iowa Department of Health and Human Services.  
-  ● The U.S. Bureau of Economic Analysis (BEA) [reported December 12, 2024](https://www.bea.gov/news/2024/real-personal-consumption-expenditures-state-and-real-personal-income-state-and) that Iowan's [Real Personal Income](https://www.bea.gov/resources/methodologies/rpp) fell 2.0% in 2023 - the worst showing compared to all the other 49 states. That should be read in the context of (at the time) Iowa being ranked by WalletHub found "[among top 10 states with highest tax rates](https://desmoinesregister-ia.newsmemory.com?publink=0c3e87246_134f8ea) [*when "factoring in the real estate tax, vehicle property tax, income tax and sales and excise tax." Analysis of the WalletHub study found in [April 2024](https://www.cpapracticeadvisor.com/2024/12/01/how-the-50-states-rank-by-tax-burden/103495/) Iowa ranked 14th highest with a total tax burden of 9.21%, in [2025](https://www.cpapracticeadvisor.com/2025/04/01/how-the-50-states-rank-by-tax-burden-updated-for-2025/158094/) Iowa ranked 17th highest with a total tax burden of 9.23% and in [2026](https://wallethub.com/edu/states-with-highest-lowest-tax-burden/20494) Iowa ranked 12th highest with a total tax burden of 9.21%.*].  
-● Even as table-food farmers across Iowa are already invested in the 2025 season, on 10 March 2025 Don McDowell, the Iowa Department of Agriculture’s spokesman, said "[it should not come as a surprise](https://desmoinesregister-ia.newsmemory.com?publink=0cd6474f2_134f8ec)" Iowa Department of Agriculture notified participants in two federal programs that buys local food for thousands of children across Iowa would lose $11.3 million in funding for 2025 through 2028. I assume from the context of McDowell's comments that he meant that Iowa's children and table-food farmers and their communities are not nearly as important as scoring short term *points* against perceived political enemies.  The cuts eliminated programs that provided locally grown food to "[135 Iowa school districts, 300 farmers and 951 locations such as pantries, churches and early care sites in 98 counties that distribute local food, according to the Iowa Valley Resource Conservation and Development, a nonprofit that works with farmers, schools and other local food groups.](https://desmoinesregister-ia.newsmemory.com?publink=0cd6474f2_134f8ec)" in Iowa.  
- * The high cost of food hits lower income / lower wealth people most:  See: [Food at home in U.S. city average, all urban consumers, seasonally adjusted](https://data.bls.gov/dataViewer/view/timeseries/CUSR0000SAF11) and [Food spending and share of after-tax income spent on food across U.S. households](https://ers.usda.gov/sites/default/files/_laserfiche/Charts/58371/food-prices_fig10.png?v=96744)  
-* And still, Governor Kim Reynolds and her Republican legislature are focussed on *[Culture War](https://en.wikipedia.org/wiki/Culture_war)* issues and [tax cuts](https://en.wikipedia.org/wiki/Tax_cut) while remaining "on track to spend over a billion dollars more than the state expects to receive in revenue for the second year in a row," reported Stephen Gruber-Miller in the [13 Mar 2026 Des Moines Register](https://enewspaper.desmoinesregister.com?publink=2c3461884_1351ffd) even while "[tapping into the state’s surplus and multi-billion dollar Taxpayer Relief Fund to make up the difference](https://enewspaper.desmoinesregister.com?publink=3D1ff688d72_1352198)."  
-
-
+<a name="health_care_in_iowa"></a>
 ### Health Care  
 There are MANY indicators of health.  Just one is the level of cancers experienced by given populations.  The [Iowa Cancer Registry](https://shri.public-health.uiowa.edu/) and the [National Cancer Institute](https://seer.cancer.gov/), part of the [National Institutes of Health](https://www.nih.gov/) report that Iowa’s cancer rate second highest in the U.S. and rising.  That is not good for any Iowans and seems to indicate that we have some serious health concerns in the state.  Iowa Cancer Registry's "[2025 Cancer in Iowa](https://shri.public-health.uiowa.edu/wp-content/uploads/2025/02/cancer-in-iowa-2025.pdf)" report starts with:  
 >"Iowa continues to have the second highest age-adjusted rate of new cancers diagnosed and is one of only two states with a rising age-adjusted rate of new cancers."  
@@ -123,12 +126,8 @@ and that:
 (*If you need help with an aging abuse situation, see: your local area agency on aging ― at [LifelongLinks,org](https://lifelonglinks.org/), the [Iowa Victim Service Call Center](https://www.survivorshelpline.org/) or call the DHHS 24/7 at 1-800-362-2178*)  
 
 
-### Child Care  
-In February 2025, [Kevin Baskins (for the Des Moines Register) reported](https://desmoinesregister-ia.newsmemory.com?publink=16f59f917_134f880) that: 
->"Working Iowans with children spend an average of about 15% of their income before taxes on child care at licensed centers, more than double the 7% national average, according to Iowa Childcare Resource and Referral. And availability is limited amid a statewide labor shortage, particularly in rural areas."  
-  
 
-
+<a name="incarceration_in_iowa"></a>
 ### Incarceration in Iowa  
 The Iowa Department of Corrections (DoC) consistently reports operating above its capacity for inmates. As of May 3, Iowa's prisons were 27% overcrowded, with [8,894 inmates compared with a capacity of 6,990](https://doc-search.iowa.gov/dailystatistics) and that Iowa's [recidivism rate at its lowest point in a decade: 32.8%](https://doc.iowa.gov/media/744/download?inline#page=19).  The Iowa DoC reported [spending $480,439,551.73 ($480M) in 2025](https://doc.iowa.gov/media/744/download?inline#page=21) -- a material portion of State of Iowa (*tax payer*) annual spending.  [FBI data show](https://www.desmoinesregister.com/story/news/politics/2026/05/02/iowa-legislature-approves-3-strikes-law-steeper-sentences-repeat-felony-offenders/89908941007/) property crime and violent crime have also fallen in Iowa over the last ten years.  In that context, during the 2025 session Iowa Republicans passed what they called a "*tough on crime*" bills -- [House File 2542](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=hf2542) that imposed longer mandatory sentences and added a new "three-strikes" component to sentencing, along with [Senate File 2399](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF%202399) that increased bail amounts in the uniform bond schedule and made it more difficult to deviate from that bond schedule. Stephen Gruber-Miller [explained in the 5 May 2026 Des Moines Register](https://enewspaper.desmoinesregister.com?publink=196196eb2_13520bd) that "The bill says anyone convicted of a third felony would be sentenced as a habitual offender and would face a mandatory seven-year prison sentence. After serving a minimum of seven years, they would become eligible for parole."  
 
@@ -164,6 +163,8 @@ According to the Iowa Department of Corrections (DOC), on June 30, 2025, there w
 | Iowa CBC | 27,726 | 74.7% | 25.3% | 69.4% | 18.4% | 1.7% | 1.3% | 8.7% | 0.5% |
   
 
+
+<a name="iowa_book_banning"></a>
 ### Banning Books and Restricting Access to Libraries  
 In May 2023, Gov. [Kim Reynolds signed the ambiguous and fuzzy Senate File 496](https://www.legis.iowa.gov/legislation/BillBook?ba=SF%20496&ga=90), that bans books (except "*religious books*") depicting sex acts from public schools -- threatening teachers and administrators with harsh penalties for non-compliance with their vague demands -- and resulting in the removal of more than 1,300 books from Iowa public schools.  After a 5 month delay, the Iowa State Board of Education published an equally-vague "Notice of Intended Action" -- under the heading of "Eliminating Achievement and Opportunity Gaps" -- of [changes to Iowa School rules for “General Accreditation Standards”](https://educate.iowa.gov/sites/default/files/2023-11/2023-11-15SBE-Rules-Chapter12.pdf) in November 2023.  
 See the fruits of Iowa's book banning elected officials in the database "[Library books removed in Iowa school districts](https://databases.desmoinesregister.com/database-books-removed-from-libraries-in-iowa-school-districts/)." by Tim Webber, Samantha Hernandez and [The Des Moines Register](https://www.desmoinesregister.com).  As of 2024-03-17, The Des Moines Register database includes roughly 1,820 instances of banned "[books — 615 of which are unique titles — removed from schools since the law went into effect July 1 (2023)](https://www.desmoinesregister.com/story/news/politics/iowa-poll/2024/03/17/iowa-poll-half-say-new-book-ban-law-for-public-schools-goes-too-far-senate-file-496-lgbtq/72775250007/)."  
@@ -180,6 +181,8 @@ The group "Iowa Safe Schools" along with a number of parents and students challe
 * And still, Governor Kim Reynolds and her Republican legislature are focussed on *[Culture War](https://en.wikipedia.org/wiki/Culture_war)* issues and [tax cuts](https://en.wikipedia.org/wiki/Tax_cut) while remaining "on track to spend over a billion dollars more than the state expects to receive in revenue for the second year in a row," reported Stephen Gruber-Miller in the [13 Mar 2026 Des Moines Register](https://enewspaper.desmoinesregister.com?publink=2c3461884_1351ffd) even while "[tapping into the state’s surplus and multi-billion dollar Taxpayer Relief Fund to make up the difference](https://enewspaper.desmoinesregister.com?publink=3D1ff688d72_1352198)."  
 
 
+
+<a name="iowas_dont_say_gay"></a>
 ### Iowa Legislature's/Governor's "Don't say gay" Law & Follow-on Gender-Related Hostility  
 In May 2023, Gov. [Kim Reynolds signed Senate File 496](https://www.legis.iowa.gov/legislation/BillBook?ba=SF%20496&ga=90), that prohibits "[any program, curriculum, test, survey, questionnaire, promotion, or instruction related to gender identity and sexual orientation](https://www.legis.iowa.gov/docs/publications/LGE/90/Attachments/SF496_GovLetter.pdf#page=13)"  
 in Iowa schools (*also see additional references on pages 1, 2, 3, 7, 11 and 13*). If any student "[requests an accommodation that is intended to affirm the student's gender identity](https://www.legis.iowa.gov/docs/publications/LGE/90/attachments/SF496_GovLetter.pdf#page=11)," their teacher (*or any "licensed practitioner employed by the school district"*) "[shall report the student's request to an administrator employed by the school district, and the administrator shall report the student's request to the student's parent or guardian.](https://www.legis.iowa.gov/docs/publications/LGE/90/attachments/SF496_GovLetter.pdf#page=11)"  The Governor's action also removed all mentions of "HPV," the availability of a "vaccine to prevent HPV," and references to "acquired immune deficiency syndrome" from the content required by "[health education](https://www.legis.iowa.gov/docs/publications/LGE/90/attachments/SF496_GovLetter.pdf#page=6)" and by "instruction in human growth and development](https://www.legis.iowa.gov/docs/publications/LGE/90/attachments/SF496_GovLetter.pdf#page=8)"  After a 5 month delay, the Iowa State Board of Education published a "Notice of Intended Action" -- under the heading of "Eliminating Achievement and Opportunity Gaps" -- of [changes to Iowa School rules for “General Accreditation Standards”](https://educate.iowa.gov/sites/default/files/2023-11/2023-11-15SBE-Rules-Chapter12.pdf) in November 2023.  
@@ -216,6 +219,7 @@ Iowa Republicans specifically highlight "the important government objectives of 
 * And still, Governor Kim Reynolds and her Republican legislature are focussed on *[Culture War](https://en.wikipedia.org/wiki/Culture_war)* issues and [tax cuts](https://en.wikipedia.org/wiki/Tax_cut) while remaining "on track to spend over a billion dollars more than the state expects to receive in revenue for the second year in a row," reported Stephen Gruber-Miller in the [13 Mar 2026 Des Moines Register](https://enewspaper.desmoinesregister.com?publink=2c3461884_1351ffd) even while "[tapping into the state’s surplus and multi-billion dollar Taxpayer Relief Fund to make up the difference](https://enewspaper.desmoinesregister.com?publink=3D1ff688d72_1352198)."  
 
 
+<a name="dont_come_here"></a>
 ### Iowa Legislature's/Governor's "Don't Come Here" Law & Follow-on Hostility  
 With [Senate File 2340](https://www.legis.iowa.gov/publications/search/document?fq=id:1448304&q=%22Senate+File+2340%22) the Iowa Legislature and Governor created a new crime of "illegal reentry into state by certain aliens" and "[empowered **Iowa** prosecutors to bring charges in state court and **state** judges to order deportations](https://desmoinesregister-ia.newsmemory.com?publink=069409522_134f828)." Governor Reynolds [signed this bill into law 10 April 2024](https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF2340).  It says that anyone who has previously been deported, removed or denied admission to the United States and then enters Iowa, can be sent to prison in Iowa for up to 10 years and the judge in the case would have to order the convicted person to return to "the country they had come from." It also requires that anyone convicted of "[Illegal reentry into state by certain aliens](https://www.legis.iowa.gov/publications/search/document?fq=id:1448304&q=%22Senate+File+2340%22)" "shall not be eligible for a deferred judgment, deferred sentence, or suspended sentence."  
 
@@ -244,6 +248,7 @@ Who will want to bring their family to Iowa *where the government is trying to i
   
 
 
+<a name="attacking_iowa_nice"></a>
 ### Too Many Iowa Leaders Attack "Iowa Nice."  
 If you have read down the page to this paragraph, you probably already know that [Iowa nice](https://en.wikipedia.org/wiki/Iowa_nice) is, at least in part, a myth...  
 President-elect Trump recently said that he would deport everyone in the U.S. without up-to-date federal government permission to be in the country, including any of their children who were born in the U.S.  Iowa Gov. Kim Reynolds has been a Trump and Trumpism enthusiast after the arrival of Covid-19 in 2020 [*[except for a short infatuation with Ron DeSantis in the pre-caucus 2024 Presidential campaign](https://www.politico.com/news/magazine/2024/01/19/kim-reynolds-trump-endorsements-00136372)*].  She [sent](https://apnews.com/article/iowa-guard-troops-texas-border-ce4b6127b24ecef7be46feeeb16af2e4) Iowa National Guard troops to Texas twice (*along with smaller groups of Iowa Department of Public Safety officers and Iowa State Patrol troopers*) to, in part, help Gov. Greg Abbott drive up the rate of death and maiming among populations attempting to cross the Rio Grand river by helping to ensure more [razor wire](https://en.wikipedia.org/wiki/Razor_wire) barriers were installed.  In mid-December 2024, Reynolds has pledged to [deploy "every tool"](https://desmoinesregister-ia.newsmemory.com?publink=1158e9da5_134d562) at her disposal to support Trump's (*and Tom Homan's*) mass deportation promises.  
@@ -262,33 +267,62 @@ Kevin Baskins [reported on 02 Nov 2025 that](https://enewspaper.desmoinesregiste
 >"From July 2024 through July 2025, Iowa lost 5,400 manufacturing jobs and is down nearly 11,000 jobs since June 2023."  
 
 * And still, Governor Kim Reynolds and her Republican legislature are focussed on *[Culture War](https://en.wikipedia.org/wiki/Culture_war)* issues and [tax cuts](https://en.wikipedia.org/wiki/Tax_cut) while remaining "on track to spend over a billion dollars more than the state expects to receive in revenue for the second year in a row," reported Stephen Gruber-Miller in the [13 Mar 2026 Des Moines Register](https://enewspaper.desmoinesregister.com?publink=2c3461884_1351ffd) even while "[tapping into the state’s surplus and multi-billion dollar Taxpayer Relief Fund to make up the difference](https://enewspaper.desmoinesregister.com?publink=3D1ff688d72_1352198)."  
+<a name="housing_in_iowa"></a>
 
 
+
+<a=name="jobs_in_iowa"></a>
+### Jobs In Iowa  
+Liam Halawith and Marissa Payne [wrote in the 2026-08-06 Des Moines Register](https://www.desmoinesregister.com/story/news/politics/elections/2026/08/06/miller-meeks-nunn-one-big-beautiful-bill-iowa-layoffs/91187168007/) that:  
+>"Iowa struggles with a [decline in manufacturing jobs](https://www.desmoinesregister.com/story/money/business/2026/06/30/job-losses-hit-whirlpool-iowa-plant-despite-tariffs/90736987007/), driven in part by a [sluggish agricultural economy](https://www.desmoinesregister.com/story/money/business/2025/10/28/iowa-manufacturing-losing-jobs-workforce-worry/86316377007/) ailing from [Trump's sweeping tariffs](https://www.desmoinesregister.com/story/money/agriculture/2026/02/19/iowa-farmers-dump-president-donald-trump-tariffs/88742069007/). The tariffs have [driven up prices](https://www.bls.gov/news.release/pdf/cpi.pdf) on all sorts of items, in turn spiking businesses' costs for materials and other goods.  Iowa shed 4,300 manufacturing jobs in the last 12 months, according to [Iowa Workforce Development](https://workforce.iowa.gov/press-release/2026-07-16/iowas-unemployment-rate-remains-32-percent-june) data — more than in any other sector. Recent layoffs have included manufacturers [such as Whirlpool Corp.](https://www.desmoinesregister.com/story/money/business/2026/07/15/wells-fargo-layoffs-whirlpool-iowa-june-job-losses/90840247007/), which has announced over 600 layoffs, and ongoing cutbacks at John Deere.  In 2024, before the 2025 tax law was passed, the state also saw manufacturing job losses leading the state's layoffs, according to [a report from the Common Sense Institute](https://www.commonsenseinstituteus.org/ResearchUploads/2024.12_Iowa_Jobs_Report_FINAL_.pdf). ...Iowa lost thousands of manufacturing jobs last year, and recently ranked 48th in economic growth."  
+
+
+<a name="food_n_hunger_in_iowa"></a>
+### Food/Hunger  
+Food insecurity in Iowa by the numbers (*By F. Amanda Tugade, 01-12-2024, [The Des Moines Register](https://desmoinesregister-ia.newsmemory.com?publink=0114326e8_134d555)*)  
+● The average cost of a meal in Iowa is $4.  
+● More than 344,000 Iowans are food insecure. More than 30% — roughly 110,000 — are children.  
+● 1 in 9 adults — and 1 in 6 children — do not have enough to eat or know where their next meal is coming from.  
+  * Working is not the core issue.  Gov. Reynolds organized a task force that [found](https://desmoinesregister-ia.newsmemory.com?publink=051a3bdd8_134f960):  
+>"Iowa is a national leader in the share of households with all parents working but has too few options for child care: 23 percent of Iowans — and nearly 35 percent of rural Iowans — live in a “child care desert,” the Governor’s Economic Recovery Advisory Board reported."  
+● Families with children spend an average of $331 a week on groceries or 41% more than families without kids.  
+● The average amount of extra money Iowans experiencing food insecurity need to cover food costs is roughly $245 million.  
+● To qualify for any food assistance (*in Iowa*), a single person’s gross monthly limit is $1,632 (*$19,584/yr*), according to the Iowa Department of Health and Human Services.  
+  ● The U.S. Bureau of Economic Analysis (BEA) [reported December 12, 2024](https://www.bea.gov/news/2024/real-personal-consumption-expenditures-state-and-real-personal-income-state-and) that Iowan's [Real Personal Income](https://www.bea.gov/resources/methodologies/rpp) fell 2.0% in 2023 - the worst showing compared to all the other 49 states. That should be read in the context of (at the time) Iowa being ranked by WalletHub found "[among top 10 states with highest tax rates](https://desmoinesregister-ia.newsmemory.com?publink=0c3e87246_134f8ea) [*when "factoring in the real estate tax, vehicle property tax, income tax and sales and excise tax." Analysis of the WalletHub study found in [April 2024](https://www.cpapracticeadvisor.com/2024/12/01/how-the-50-states-rank-by-tax-burden/103495/) Iowa ranked 14th highest with a total tax burden of 9.21%, in [2025](https://www.cpapracticeadvisor.com/2025/04/01/how-the-50-states-rank-by-tax-burden-updated-for-2025/158094/) Iowa ranked 17th highest with a total tax burden of 9.23% and in [2026](https://wallethub.com/edu/states-with-highest-lowest-tax-burden/20494) Iowa ranked 12th highest with a total tax burden of 9.21%.*].  
+● Even as table-food farmers across Iowa are already invested in the 2025 season, on 10 March 2025 Don McDowell, the Iowa Department of Agriculture’s spokesman, said "[it should not come as a surprise](https://desmoinesregister-ia.newsmemory.com?publink=0cd6474f2_134f8ec)" Iowa Department of Agriculture notified participants in two federal programs that buys local food for thousands of children across Iowa would lose $11.3 million in funding for 2025 through 2028. I assume from the context of McDowell's comments that he meant that Iowa's children and table-food farmers and their communities are not nearly as important as scoring short term *points* against perceived political enemies.  The cuts eliminated programs that provided locally grown food to "[135 Iowa school districts, 300 farmers and 951 locations such as pantries, churches and early care sites in 98 counties that distribute local food, according to the Iowa Valley Resource Conservation and Development, a nonprofit that works with farmers, schools and other local food groups.](https://desmoinesregister-ia.newsmemory.com?publink=0cd6474f2_134f8ec)" in Iowa.  
+ * The high cost of food hits lower income / lower wealth people most:  See: [Food at home in U.S. city average, all urban consumers, seasonally adjusted](https://data.bls.gov/dataViewer/view/timeseries/CUSR0000SAF11) and [Food spending and share of after-tax income spent on food across U.S. households](https://ers.usda.gov/sites/default/files/_laserfiche/Charts/58371/food-prices_fig10.png?v=96744)  
+* And still, Governor Kim Reynolds and her Republican legislature are focussed on *[Culture War](https://en.wikipedia.org/wiki/Culture_war)* issues and [tax cuts](https://en.wikipedia.org/wiki/Tax_cut) while remaining "on track to spend over a billion dollars more than the state expects to receive in revenue for the second year in a row," reported Stephen Gruber-Miller in the [13 Mar 2026 Des Moines Register](https://enewspaper.desmoinesregister.com?publink=2c3461884_1351ffd) even while "[tapping into the state’s surplus and multi-billion dollar Taxpayer Relief Fund to make up the difference](https://enewspaper.desmoinesregister.com?publink=3D1ff688d72_1352198)."  
+
+
+### Housing  
+(September 2022) Polk County is seeing a rise in the number of people who are homeless. According to a point-in-time count conducted by Homeward, the county’s homelessness planning organization, the population increased by 23% in the last year. And the number of people who are unsheltered in Polk County has nearly doubled since January. 
+https://desmoinesregister-ia.newsmemory.com?selDate=20221030&goTo=A001&artid=0 and https://www.homewardiowa.org/informationandstatistics   
+(October 2022 - Polk County) 521 households are on the waitlist to find affordable housing in the county.  
+[Update March 2026](https://www.homewardiowa.org/data): 768 unsheltered individuals in Polk County, Iowa -- 3rd year of record highs. 
+[Update June 2026](https://www.homewardiowa.org/data): 835 unsheltered individuals in Polk County, Iowa, a 7.2% increase from 2025. 
+  
+
+
+<a name="child_care_in_iowa"></a>
+### Child Care  
+In February 2025, [Kevin Baskins (for the Des Moines Register) reported](https://desmoinesregister-ia.newsmemory.com?publink=16f59f917_134f880) that: 
+>"Working Iowans with children spend an average of about 15% of their income before taxes on child care at licensed centers, more than double the 7% national average, according to Iowa Childcare Resource and Referral. And availability is limited amid a statewide labor shortage, particularly in rural areas."  
+  
+
+
+<a name="representation_in_washington"></a>
 ### Representation in Washington  
 [Laura Belin](https://www.bleedingheartland.com/author/laura-belin/) [wrote about](https://www.bleedingheartland.com/2025/01/19/who-had-joni-ernsts-ear-and-who-didnt-on-hegseth-nomination/) how in previous confirmation hearings U.S. Senator [Joni Ernst](https://en.wikipedia.org/wiki/Joni_Ernst) (R. IA) held senior military nominees to a standard that "demands the highest levels of trust and responsibility, of course sound judgment, and an impeccable moral compass."  But Sen. Ernst required none of those in the recent hearings for [Pete Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth)’s confirmation in the Senate Armed Services Committee and actively "discounted facts that raised doubts about his fitness while playing up a testimonial from someone with a stake in the outcome."  
 
 
+<a name="school_absenteeism"></a>
 ### School Absenteeism  
 Chronic absenteeism is having missed at least 10% of school days or instructional hours.  In late 2024 the statewide average for chronic absenteeism in Iowa is [21% of the student population](https://desmoinesregister-ia.newsmemory.com?publink=031f19f7d_134d563) -- a number that represents additional challenges in the future for too many of those students, and illustrates weaknesses in student/family support systems.  During the 2024 legislative session, Iowa Republicans introduced [Senate File 2435](https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF2435) emphasizing charging and prosecuting parents of "Truant" students -- in Section 15, county attorneys are made responsible for enforcement of Iowa's truancy laws ("[has been absent from school, for any reason, for at least twenty percent of the days or hours in the grading period" [beginning on page 25](https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF2435).  
 
 
-### Finding Information:  
-* The Iowa Legislature [https://www.legis.iowa.gov/](https://www.legis.iowa.gov/)  
-* Searching for what Iowa Legislators filed: [https://www.legis.iowa.gov/publications/search](https://www.legis.iowa.gov/publications/search) or [https://www.legis.iowa.gov/legislation](https://www.legis.iowa.gov/legislation)  
-* Legiscan IA [https://legiscan.com/IA](https://legiscan.com/IA)  
-* Iowa Data Center [https://www.iowadatacenter.org/index.php/quick-facts/iowa-quick-facts](https://www.iowadatacenter.org/index.php/quick-facts/iowa-quick-facts)  
 
-
-### Other:  
-* "[Income Trends in Iowa: 1949 - 2023](https://indicators.extension.iastate.edu/Indicators/Census/Median%20Income%20Trends%20%20Iowa%201949-2023.pdf)." by Sandra Charvat Burke, Iowa State University Extension and Outreach.  That supports the quote below from an article by Courtney Crowder the [26 Nov. 2025 Des Moines Register](https://enewspaper.desmoinesregister.com?publink=0cdbf90c0_134fc1a):  
->"More and more Iowans are one crisis away from being in poverty, according to research from the United Way that dovetails with anecdotal evidence from Harrington’s member agencies.  In Iowa, the number of households below the federal poverty level increased by 6 percentage points between 2010 and 2023, the research found. And the number of households where employed workers’ incomes totaled more than the poverty level but less than the basic cost of living grew by 27%."  
-* The U.S. Bureau of Economic Analysis (BEA) reported December 12, 2024 that "[Real personal income](https://www.bea.gov/resources/methodologies/rpp) for the nation increased 2.1 percent in 2023," but relative to all other states "Iowa had the largest decline in real personal income, at –2.0 percent." [RPI by state](https://www.bea.gov/news/2024/real-personal-consumption-expenditures-state-and-real-personal-income-state-and)  
-* "the four biggest oil companies — Exxon Mobile, Shell, Chevron, and Total Energies — have made over $330 billion in profits in just the past three years." [By Jonas Magram, DMR, 2024-03-10, page F3](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F003&artid=2&editionStart=Des%20Moines%20Register)  
-* "Tuition alone at Iowa State University has risen 236% since 2001; inflation in that period is 73%. Iowa students have some of the worst loan debt burdens in the nation." [By Lucas Grundmeier, DMR, 2024-03-10, page F1](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F001&artid=2&editionStart=Des%20Moines%20Register)  
-* Since 2001, the Federal Crop Insurance Program’s "total payments to Iowa farmers have grown by over 630%, from about $3 billion a year to over $19 billion in 2022." [By Jonas Magram, DMR, 2024-03-10, page F3](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F003&artid=2&editionStart=Des%20Moines%20Register)  
-* "As legislative session opens, is Iowa on the road to growth? Economists are doubtful" [By Kevin Baskins, DMR, 2025-01-16](https://www.desmoinesregister.com/story/money/business/2025/01/16/economists-say-iowa-lags-growth-despite-legislature-efforts-workforce/77700065007/)  
-
-### Wealth Inequality Data For The Iowa, 1960-2020  
+<a name="iowa_wealth_inequality_data"></a>
+### Iowa Wealth Inequality Data, 1960-2020  
 
 | year | state | obs | households | wealth_mean | wealth_median | wealth_top1 | wealth_top.1 | wealth_top.01 | wealth_top.001 | wealth_top10 | wealth_bottom50 | wealth_gini | wealth_sd | p90 | p10 | income_mean | house_value_mean | own | rent | own_outright | own_mortgage | college | white | black | hispanic | female | household_size | age | mean_sd | top1_sd | top.1_sd | top.01_sd | top.001_sd | top10_sd | bottom50_sd | top5_sd | top.5_sd | gini_sd |
 |:----:|:----:|:-----:|:--------:|:---------:|:---------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -306,7 +340,8 @@ FROM: https://www.openicpsr.org/openicpsr/192306/fcr:versions/V4/state_wealth_in
 To view the citation for the overall project, see http://doi.org/10.3886/E192306V4.  
 
 
-### Elections  
+<a name="iowa_elections"></a>
+### Iowa Elections  
 A non-scientific review of Iowa legislator's recently filed legislation tagged as about "elections" shows that the following topics (*in no particular order*) were topics that legislators were attempting to change: ```boards, commissions, and councils, elections and politics, government entities, voting, absentee voting, ballots, canvasses of votes, canvassing for votes, proxy voting, runoff elections, voter registration, voting systems examiners board, voting and write-in voting```.  
 
 * Iowa legislators showed **a lot** of interest in mucking with elections in 2021-2022 sessions.  A [search of their "Legislative Documents" site](https://www.legis.iowa.gov/publications/search?tab=true&rows=10&start=0&sort=score%20desc&q=elections&fq=-status%3A%22Reserved%22%20AND%20-status%3A%22Repealed%22%20AND%20-status%3A%22Rescinded%22&fq=(l1%3A%22leg%3A0978%7C89th%20GA%202nd%20Session%22%20OR%20l1%3A%22leg%3A0979%7C89th%20GA%201st%20Session%22)) shows **855** individual pieces of legislation filed in one status or another (*many of those did not pass in the 2021-2022 sessions*). For example, here are three at *random*:  
@@ -319,7 +354,9 @@ A non-scientific review of Iowa legislator's recently filed legislation tagged a
 The hype surrounding Republican "theories" about non-citizen voting along with a couple very close elections resulted in the passage of [House File 928](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF928), overhauling Iowa’s election recount procedures and [House File 954](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF954), also bans ranked-choice voting in Iowa and makes it harder for third-party groups such as Libertarians to qualify as major political parties -- both signed into law by Gov. Reynolds on June 2, 2025.  [Gruber-Miller reported](https://desmoinesregister-ia.newsmemory.com?publink=1e838aa14_134fa0f) that Iowa Secretary of State Paul Pate, a Republican, "praised lawmakers and Reynolds for enacting the legislation, saying the laws 'add additional layers of integrity to our robust election procedures.'"  This new legislation makes it legal for election workers to ask voters about their citizenship status at the polls -- expect this new tool to be used for targeted racial profiling, discrimination and voter intimidation (*who needs [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States) when you can just drive away opposition voters from the polling places?*)...  
 
 
-## Internet Connectivity  
+
+<a name="internet_connectivity"></a>
+### Internet Connectivity  
 I read wildly varying characterizations of Internet connectivity across the state of Iowa.  Because Internet connectivity is an important input to the success of education, business, and governing (democracy) of the state, it is critical that we have an unambiguous, trustworthy, shared understanding of its current state.  
 'Ookla for Good' maintains an open data set that includes data on *Intetnet speeds* and *coverage* across the United States, including Iowa for both mobile and fixed Internet connections.  They gather their data via their *speedtest* application. Using this link: [https://www.ookla.com/ookla-for-good/open-data](https://www.ookla.com/ookla-for-good/open-data) narrow the scope to "Iowa, United States" and choose a data set.  When comparing Q3 2023 (similar to Q4 2021) fixed and mobile Internet coverage data for Iowa against Missouri, Wisconsin or Illinois (*or a number of other states*), too much of Iowa that is outside urban areas still looks like a digital wasteland. 	
   * Not only is connectivity **coverage** limited in Iowa, **upload/download speeds** are limited as well.  In Q3 2023 Iowa was 36th for mobile and 44th for fixed connection download speeds (*mobile speeds being far, far below measured speeds in Illinois, Minnesota, and Missouri, and fixed speeds falling even below Nebraska, South Dakota, Mississippi, West Virginia, and Maine*). In Q4 2023 Iowa dropped to 37th for median download speeds (in Q4 2021 Iowa was also 44th, *8th from the slowest*, in the nation with median download speed of 38.81 Mbps and median upload 7.72 Mbps).   [https://www.speedtest.net/global-index/united-states#market-analysis](https://www.speedtest.net/global-index/united-states#market-analysis).  This connectivity sloth is in spite of Iowa Governor Reynolds saying for years that Internet access is a priority for her administration...  
@@ -352,6 +389,28 @@ sudo speedtest-cli
   * If **SpeedTest* is just wrong for you (*for any reason*), you might try [fast](https://fast.com/) from [NetFlix](https://netflixtechblog.com/building-fast-com-4857fe0f8adb). [https://fast.com/](https://fast.com/)
 
 
+
+<a name="finding_information_about_iowa"></a>
+### Finding Information About Iowa:  
+* The Iowa Legislature [https://www.legis.iowa.gov/](https://www.legis.iowa.gov/)  
+* Searching for what Iowa Legislators filed: [https://www.legis.iowa.gov/publications/search](https://www.legis.iowa.gov/publications/search) or [https://www.legis.iowa.gov/legislation](https://www.legis.iowa.gov/legislation)  
+* Legiscan IA [https://legiscan.com/IA](https://legiscan.com/IA)  
+* Iowa Data Center [https://www.iowadatacenter.org/index.php/quick-facts/iowa-quick-facts](https://www.iowadatacenter.org/index.php/quick-facts/iowa-quick-facts)  
+
+
+
+<a name="other"></a>
+### Other:  
+* "[Income Trends in Iowa: 1949 - 2023](https://indicators.extension.iastate.edu/Indicators/Census/Median%20Income%20Trends%20%20Iowa%201949-2023.pdf)." by Sandra Charvat Burke, Iowa State University Extension and Outreach.  That supports the quote below from an article by Courtney Crowder the [26 Nov. 2025 Des Moines Register](https://enewspaper.desmoinesregister.com?publink=0cdbf90c0_134fc1a):  
+>"More and more Iowans are one crisis away from being in poverty, according to research from the United Way that dovetails with anecdotal evidence from Harrington’s member agencies.  In Iowa, the number of households below the federal poverty level increased by 6 percentage points between 2010 and 2023, the research found. And the number of households where employed workers’ incomes totaled more than the poverty level but less than the basic cost of living grew by 27%."  
+* The U.S. Bureau of Economic Analysis (BEA) reported December 12, 2024 that "[Real personal income](https://www.bea.gov/resources/methodologies/rpp) for the nation increased 2.1 percent in 2023," but relative to all other states "Iowa had the largest decline in real personal income, at –2.0 percent." [RPI by state](https://www.bea.gov/news/2024/real-personal-consumption-expenditures-state-and-real-personal-income-state-and)  
+* "the four biggest oil companies — Exxon Mobile, Shell, Chevron, and Total Energies — have made over $330 billion in profits in just the past three years." [By Jonas Magram, DMR, 2024-03-10, page F3](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F003&artid=2&editionStart=Des%20Moines%20Register)  
+* "Tuition alone at Iowa State University has risen 236% since 2001; inflation in that period is 73%. Iowa students have some of the worst loan debt burdens in the nation." [By Lucas Grundmeier, DMR, 2024-03-10, page F1](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F001&artid=2&editionStart=Des%20Moines%20Register)  
+* Since 2001, the Federal Crop Insurance Program’s "total payments to Iowa farmers have grown by over 630%, from about $3 billion a year to over $19 billion in 2022." [By Jonas Magram, DMR, 2024-03-10, page F3](https://desmoinesregister-ia.newsmemory.com?selDate=20240310&goTo=F003&artid=2&editionStart=Des%20Moines%20Register)  
+* "As legislative session opens, is Iowa on the road to growth? Economists are doubtful" [By Kevin Baskins, DMR, 2025-01-16](https://www.desmoinesregister.com/story/money/business/2025/01/16/economists-say-iowa-lags-growth-despite-legislature-efforts-workforce/77700065007/)  
+
+
+<a name="random"></a>
 ### Random   
 Coordinates for the "*center of Iowa*:"  Latitude: 42 degrees, 4 minutes, 37 seconds north. Longitude: 93 degrees, 29 minutes, 31 seconds west. (42.4.37 N, 93.29.31 W)  
 FROM: "[The exact center of Iowa was unknown. Until one student found it](https://www.desmoinesregister.com/story/news/local/columnists/courtney-crowder/2026/07/23/geographic-center-of-iowa-college-student-solved-mystery/90986875007/)." By Courtney Crowder, Des Moines Register, July 23, 2026.  
