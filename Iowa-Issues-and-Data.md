@@ -147,7 +147,7 @@ The U.S. Census permits people to identify their race and ethnicity. The table b
 |:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:---------:|:--------------:|:---------:|:----------:|
 |National Census | 340.1 million | 49.5% | 50.5% | 59.8% | 12.1% | 6.3% | 0.1% | 1.0% | 20.0% | 13.2% |
 |Iowa Census | 3.2 million | 50.1% | 49.9% | 83.2% | 4.2% | 2.6% | 0.1% | 0.3% | 7.8% | 7.0% |
-  
+
 The most recent data published from the U.S. Department of Justice (DOJ) estimates that there was a total of 1.2 million sentenced prisoners in federal or state prisons on December 31, 2023. The table below provides national statistics for offenders in prison on December 31, 2023, who have been sentenced to more than one year of incarceration.  
 According to the Iowa Department of Corrections (DOC), on June 30, 2025, there were 8,431 inmates in Iowa prisons. The table below provides data from the DOC showing the gender and racial composition of the Iowa prison population. From: [Iowa Legislative Services Agency January 12, 2026 Minority Impact Statements](https://www.legis.iowa.gov/docs/publications/CIMI/1595034.pdf):  
 |          | Total Prison Population | Male | Female | White | Black or African American | Asian/Pacific Islander | American Indian/Alaska Native | Hispanic | Other or Unknown |
@@ -161,7 +161,7 @@ According to the Iowa Department of Corrections (DOC), on June 30, 2025, there w
 |          | Total CBC Population | Male | Female | White | Black or African American | Asian/Pacific Islander | American Indian/Alaska Native | Hispanic | Other or Unknown |
 |:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:---------:|:--------------:|:---------:|:----------:|
 | Iowa CBC | 27,726 | 74.7% | 25.3% | 69.4% | 18.4% | 1.7% | 1.3% | 8.7% | 0.5% |
-  
+
 
 
 <a name="iowa_book_banning"></a>
