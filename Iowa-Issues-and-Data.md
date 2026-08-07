@@ -143,6 +143,7 @@ Bryan Widenhouse, state legislative affairs manager for FAMM, a national nonpart
 Iowa law enforcement, legal systems and prison systems already ensure that the "Black or African American" population in Iowa is strongly **over-represented** in the population of incarcerated people.  Iowa Republican's latest *get-tough-on-crime* legislation seems, at least in part, aimed at maintaining or increasing that over-representation.  
 
 The U.S. Census permits people to identify their race and ethnicity. The table below provides the latest census estimates as of December 31, 2024. The population estimate for Iowa was 3.2 million. In addition, approximately 12.9% of Iowa’s population had at least one disability in 2023. From: [Iowa Legislative Services Agency January 12, 2026 Minority Impact Statements](https://www.legis.iowa.gov/docs/publications/CIMI/1595034.pdf):  
+
 |          | Total Population | Male | Female | White | Black or African American | Asian/Pacific Islander | American Indian/Alaska Native | Hispanic | Two or More Races |
 |:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:---------:|:--------------:|:---------:|:----------:|
 |National Census | 340.1 million | 49.5% | 50.5% | 59.8% | 12.1% | 6.3% | 0.1% | 1.0% | 20.0% | 13.2% |
@@ -150,6 +151,7 @@ The U.S. Census permits people to identify their race and ethnicity. The table b
 
 The most recent data published from the U.S. Department of Justice (DOJ) estimates that there was a total of 1.2 million sentenced prisoners in federal or state prisons on December 31, 2023. The table below provides national statistics for offenders in prison on December 31, 2023, who have been sentenced to more than one year of incarceration.  
 According to the Iowa Department of Corrections (DOC), on June 30, 2025, there were 8,431 inmates in Iowa prisons. The table below provides data from the DOC showing the gender and racial composition of the Iowa prison population. From: [Iowa Legislative Services Agency January 12, 2026 Minority Impact Statements](https://www.legis.iowa.gov/docs/publications/CIMI/1595034.pdf):  
+
 |          | Total Prison Population | Male | Female | White | Black or African American | Asian/Pacific Islander | American Indian/Alaska Native | Hispanic | Other or Unknown |
 |:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:---------:|:--------------:|:---------:|:----------:|
 |Nat'l Prison Pop | 1,210,308 | 92.9% | 7.1% | 30.6% | 32.6% | 1.3% | 1.6% | 23.4% | 0.0% |
@@ -158,6 +160,7 @@ According to the Iowa Department of Corrections (DOC), on June 30, 2025, there w
 The "Black or African American" population in Iowa (4.2% of the total) is 27.5% of the people incarcerated in Iowa prisons -- or 6.5 times greater than their representation in the Iowa population.  
 
 According to the Iowa Department of Corrections (DOC), on June 30, 2025, there were 27,726 Iowa offenders under supervision in **Community-Based Corrections (CBC)**. Data from the DOC showing the gender and racial composition of the CBC offender population is included in the table below. From: [Iowa Legislative Services Agency January 12, 2026 Minority Impact Statements](https://www.legis.iowa.gov/docs/publications/CIMI/1595034.pdf):  
+
 |          | Total CBC Population | Male | Female | White | Black or African American | Asian/Pacific Islander | American Indian/Alaska Native | Hispanic | Other or Unknown |
 |:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:---------:|:--------------:|:---------:|:----------:|
 | Iowa CBC | 27,726 | 74.7% | 25.3% | 69.4% | 18.4% | 1.7% | 1.3% | 8.7% | 0.5% |
