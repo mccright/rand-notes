@@ -255,6 +255,9 @@ Thank you [International Society of Automation](https://www.isa.org/getmedia/5be
 |1 cubic yard |27 cubic feet (ft³) |
 |1 cubic yard |0.764559 cubic meters (m³) |
 
+* Cubic Yards = ([Length in Feet × Width in Feet × Depth in Inches](https://www.mwatoday.com/waste-recycling/yard-waste/grow-gold-compost/)) ÷ 324
+
+
 <a name="volume_units_table_ii"></a>
 ### Volume Units Table II  
 |Centimeter cube|Meter cube|Liter |Inch cube|Foot cube|US gallons|Imperial gallons |US barrel (oil)|
