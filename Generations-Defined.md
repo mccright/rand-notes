@@ -5,16 +5,16 @@
 <!-- The ditaa '-E' prevents the separation of common edges of shapes. 
 https://github.com/stathissideris/ditaa -->  
 ```ditaa {cmd=true args=["-E"]}
-The Generations Defined<sup>[Note 1](#note_1)</sup>                   Generation age
+The Generations Defined(1)                       Generation age
   +-------+-------+-------+-------+-------+-----+ in 2026
   |       |       |       |       |       |     |
-  |       |       |       |       Born 2025-... |Generation Beta<sup>[Note 2](#note_2)</sup>
+  |       |       |       |       Born 2025-... |Generation Beta(2)
   |       |       |       |       |       |     |ages 0-1
   |       |       |       |       |       |     |
-  |       |       |       |     Born 2010-2025  |Generation Alpha<sup>[Note 2](#note_2)</sup>
+  |       |       |       |     Born 2010-2025  |Generation Alpha(3)
   |       |       |       |       |       |     |ages 0-16
   |       |       |       |       |       |     |
-  |       |       |      Born 1997-2012   |     |Generation Z
+  |       |       |      Born 1997-2012   |     |Generation Z(4)
   |       |       |       |       |       |     |ages 14-29
   |       |       |       |       |       |     |
   |       |       |  Born 1981-96 |       |     |Millennials
@@ -41,11 +41,13 @@ There is considerable variation in how various organizations represent the bound
 
 #### Notes:  
 <a name="note_1"></a>
-**Note 1**: None of these date boundaries are supported by a comprehensive concensus, and their names are not always expressed using the same words. No official body determines generational boundaries, and you may see slightly different date ranges for any given group. This chart is just my reminder about the date-ranges and names of these groupings.  
+**Note 1**: None of these date boundaries are supported by a comprehensive concensus, and their names are not always expressed using the same words.  No official body determines generational boundaries, and you may see slightly different date ranges for any given group. This chart is just my reminder about the date-ranges and names of these groupings.  
 <a name="note_2"></a>
-**Note 2**: Generation Beta, often shortened to Gen Beta, is [the proposed name](https://mccrindle.com.au/article/generation-beta-defined/) for the demographic cohort succeeding Generation Alpha. 
-* Generation Alpha is also sometimes called *Generation Covid*  
-* Generation Z is also sometimes called *iGeneration*, *Zoomers*, *post-Millennials*, or *Homelanders*...  
+**Note 2**: `Generation Beta`, sometimes shortened to `Gen Beta`, is [the proposed name](https://mccrindle.com.au/article/generation-beta-defined/) for the demographic cohort succeeding `Generation Alpha`.  
+<a name="note_3"></a>
+**Note 3**: `Generation Alpha` is also sometimes called `Generation Covid`.  Depending on your source, it may be defined as startinging anywhere between 2010 and 2013.  
+<a name="note_4"></a>
+**Note 4**: `Generation Z` is also sometimes called `iGeneration`, `Zoomers`, `post-Millennials`, or `Homelanders`...  Depending on your source, it may be defined as ending anywhere between 2010 and 2013.  
 
 #### Sources:  
 * Market Segments -- Doing Consumer Research: A Resource Guide (*U.S. Library of Congress Research Guide*) 
