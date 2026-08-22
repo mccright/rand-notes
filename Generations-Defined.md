@@ -32,7 +32,7 @@ The Generations Defined(1)                       Generation age
 1920    1940    1960    1980    2000    2020  2026
 ```
 
-An SVG image file of the table above is available [here](https://raw.githubusercontent.com/mccright/rand-notes/refs/heads/master/images/gentest.svg)  
+An SVG image file of the table above is available [here](https://raw.githubusercontent.com/mccright/rand-notes/refs/heads/master/images/gen_2026_figure.svg)  
 <!-- 
 <a href="https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/ft_19-01-17_generations_2019/"><img src="https://www.pewresearch.org/wp-content/uploads/2019/01/FT_19.01.17_generations_2019.png?w=640"></a>  
 -->  
