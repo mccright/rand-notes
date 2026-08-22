@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 650 500" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect x="0" y="0" width="100%" height="100%" fill="none" stroke="none"></rect>
+    <foreignObject x="1" y="1" width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="width:100%; height:100%; overflow-y:auto; color: auto; font-size: 14px;">
+        <pre>The Generations Defined                          Generation age
+  +-------+-------+-------+-------+-------+-----+ in 2026
+  |       |       |       |       |       |     |
+  |       |       |       |       Born 2025-... |Generation Beta
+  |       |       |       |       |       |     |ages 0-1
+  |       |       |       |       |       |     |
+  |       |       |       |     Born 2010-2025  |Generation Alpha
+  |       |       |       |       |       |     |ages 0-16
+  |       |       |       |       |       |     |
+  |       |       |      Born 1997-2012   |     |Generation Z
+  |       |       |       |       |       |     |ages 14-29
+  |       |       |       |       |       |     |
+  |       |       |  Born 1981-96 |       |     |Millennials
+  |       |       |       |       |       |     |ages 30-45
+  |       |       |       |       |       |     |
+  |       |   Born 1965-80|       |       |     |Generation X
+  |       |       |       |       |       |     |ages 46-61
+  |       |       |       |       |       |     |
+  |       Born 1946-64    |       |       |     |Boomers
+  |       |       |       |       |       |     |ages 62-80
+  |       |       |       |       |       |     |
+  |Born 1928-45   |       |       |       |     |Silent Generation
+  |       |       |       |       |       |     |ages 81-98
+  +-------+-------+-------+-------+-------+-----+
+1920    1940    1960    1980    2000    2020  2026
+
+</pre>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
