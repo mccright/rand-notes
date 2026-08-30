@@ -7,6 +7,7 @@ This is a holding pen for abbreviations that I run into -- but only infrequently
 |ACGIH |American Conference of Governmental Industrial Hygienists |Emergency Response |
 |AEGL |Acute Exposure Guideline Level |Emergency Response |
 |AOR |Area of responsibility |U.S. Dept. of Defense |
+|Balun |[An acronym for BALanced to UNbalanced](https://www.dxengineering.com/techarticles/balunsandfeedlinechokes/baluns-choosing-the-correct-balun), describing a circuit behavior in a transmission line, source or load. Most communications applications deal with two-terminal sources, transmission lines, and loads. This includes coaxial cables, open wire lines and systems working against earth or a ground plane as the "second conductor." |
 |BC  |Body Composition |*many*, U.S. Dept. of Defense |
 |BF  |Body Fat |*many*, U.S. Dept. of Defense |
 |BMI |Body Mass Index |*many*, U.S. Dept. of Defense |
