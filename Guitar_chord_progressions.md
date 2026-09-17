@@ -96,6 +96,8 @@
 * [Basic Guitar Chord Progressions](https://www.guitar-skill-builder.com/Guitar-chord-progressions.html)  
 * [Navigating the Emotional Landscape Through Chord Progressions](https://guitargrit.com/exploring-guitar-chord-emotions-major-vs-minor/)  
 * [Circle of fifths](https://en.wikipedia.org/wiki/Circle_of_fifths)  
+* [Chord Progression Generator](https://github.com/dylanleigh/dl-misc-scripts/blob/master/chordprog.py) in Python  
+* [Generate a pseudorandom chord progression and piano/bass composition to go with it](https://github.com/dylanleigh/PseudoRandomRhythmSection/tree/master) in Python [*requires [music21](https://github.com/cuthbertLab/music21) and you may want to experiments with [music21-tools](https://github.com/cuthbertLab/music21-tools) as well*]  
 
 ## Guitar Fret Board  
   
