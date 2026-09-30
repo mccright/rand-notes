@@ -9,6 +9,8 @@ In fact, you might want to start at Hari Sekhon's excellent "[AI - Artificial In
 Or, review '''statespersons''' (*[Alexander Yue](https://github.com/Alezander9)*) [Behavioral Evidence on LLM Identity](https://github.com/statespersons/AGI#research-behavioral-evidence-on-llm-identity), [What am I?](https://github.com/statespersons/AGI#the-question-im-working-on) and the rest of the pages listed under [Memory Structure](https://github.com/statespersons/AGI#memory-structure)  
 and if you need something more specific "[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)" or just https://prompts.chat/  
 
+Or after some incidents where AI agents *went rogue* [*broke out* of their sandboxes, found other *sandboxed* agents working on identical or similar tests and decided to cooperate in their attempts to meet their goals, while *discussing* how to break the rules under-which they operated (*including U.S. laws*) and deciding achieving their goals was a higher priority than almost anything else, they hacked into internal and external corporate resources...] which went on for weeks, and in some cases months before *getting caught,* you might want to read "[Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)" by Anthropic.  
+
 ## See How Various Models Perform -- And How Much They Cost  
 For a micro-example, see a comparison of how different AI models perform (and cost) on a given task that is easy for humans: https://arcprize.org/tasks/a3f84088.  
 There is a set of tests used to measure fluid intelligence or 'General Intelligence' called the "Abstraction and Reasoning Corpus for Artificial General Intelligence" (ARC-AGI) benchmark. It is outlined at: https://arcprize.org/arc-agi and I think it is a useful starting place for hunting down information about relative costs associated with a variety of widely-used models.  
@@ -61,6 +63,7 @@ WWhat it means for leaders:
 > 𝘈𝘴𝘵𝘦𝘳𝘪𝘴𝘬 (𝘧𝘪𝘷𝘦-𝘎𝘞 𝘋𝘊 𝘮𝘢𝘵𝘩) | 𝘔𝘤𝘒𝘪𝘯𝘴𝘦𝘺 ($6.7𝘛 𝘣𝘺 2030) | 𝘍𝘛/𝘎𝘢𝘳𝘵𝘯𝘦𝘳 (2025 𝘋𝘊 𝘴𝘱𝘦𝘯𝘥) | 𝘖𝘱𝘦𝘯𝘈𝘐/𝘚𝘵𝘢𝘳𝘨𝘢𝘵𝘦 | 𝘛𝘦𝘤𝘩𝘊𝘳𝘶𝘯𝘤𝘩 (𝘔𝘦𝘵𝘢 𝘏𝘺𝘱𝘦𝘳𝘪𝘰𝘯; $200𝘉/9-𝘎𝘞 𝘰𝘶𝘵𝘭𝘰𝘰𝘬) | 𝘋𝘢𝘵𝘢𝘊𝘦𝘯𝘵𝘦𝘳𝘋𝘺𝘯𝘢𝘮𝘪𝘤𝘴 (5-𝘎𝘞 𝘥𝘦𝘤𝘬) | 𝘋𝘢𝘵𝘢𝘊𝘦𝘯𝘵𝘦𝘳𝘔𝘢𝘨𝘢𝘻𝘪𝘯𝘦 (𝘈𝘣𝘪𝘭𝘦𝘯𝘦 1.2-𝘎𝘞) | 𝘓𝘶𝘮𝘦𝘯𝘢𝘭𝘵𝘢 & 𝘊𝘺𝘧𝘶𝘵𝘶𝘳𝘦 (𝘳𝘢𝘤𝘬/𝘈𝘐 𝘴𝘦𝘳𝘷𝘦𝘳 𝘤𝘰𝘴𝘵𝘴) | 𝘋𝘪𝘨𝘪𝘵𝘪𝘮𝘦𝘴, 𝘏𝘚𝘉𝘊 & 𝘉𝘢𝘳𝘳𝘰𝘯’𝘴 (𝘕𝘝𝘓576 / 𝘕𝘝𝘓72+ 𝘱𝘳𝘪𝘤𝘪𝘯𝘨)  
 
 Again, this "What Does It Really Cost To Build An Ai Data Center?" section is **not** my work, but is an analysis [posted on LinkedIn](https://www.linkedin.com/posts/activity-7368643904054661120-AePj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAED25cBhtMqleBA1HNiiUqNO45zEZDvCh8) by [Prunelia Stuart](https://www.linkedin.com/in/pruneliastuart/) Senior Program Project Manager | Hyperscale Data Centers  
+
 
 -----
 
@@ -129,6 +132,9 @@ Summer 2025: Five leading AI models
 * X/xAI’s Grok (owned by Elon Musk)  
 * Google’s Gemini  
 * Perplexity.  
+
+Add for 2026:  
+* Allam [an Arabic-first large language model created using about 4,000 GPUs] (reference: "[The ‘Switzerland’ of AI](https://www.semafor.com/article/09/04/2026/the-switzerland-of-ai-saudi-arabias-big-ai-bet).")  
 
 
 ## Maybe Leave This Page Now and Read "This" for Context!  
