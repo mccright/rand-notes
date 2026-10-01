@@ -17,6 +17,18 @@ The 2023 poverty guidelines are in effect as of January 19, 2023. [Federal Regis
 |7 |$45,420|$11,355|$22,710|$34,065|$90,840|$136,260|$181,680|
 |8 |$50,560|$12,640|$25,280|$37,920|$101,120|$151,680|$202,240|
 
+### 2026 POVERTY GUIDELINES FOR THE 48 CONTIGUOUS STATES AND THE DISTRICT OF COLUMBIA  
+|# in family/household | Poverty guideline **annual** income |.25 x|.50 x|.75 x| 2 x | 3 x | 4 x |
+|1 |$15,960 | | | | | | |
+|2 |$21,640 | |$10,820 |$16,230 |$43,280 |$64,920 |$86,560 |
+|3 |$27,320 | | | | | | |
+|4 |$33,000 | | | | | | |
+|5 |$38,680 | | | | | | |
+|6 |$44,360 | | | | | | |
+|7 |$50,040 | | | | | | |
+|8 |$55,720 | | | | | | |
+
+
 Data from: https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines  
 
 |# in family/household | Poverty guideline **monthly** income |.25 x|.50 x|.75 x| 2 x | 3 x | 4 x |
