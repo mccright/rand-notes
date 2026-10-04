@@ -25,13 +25,59 @@ graph TD;
   Root-->Node2;
   Node2-->Node3;
 ```
-  
+
+Another example:  
+```terminal
+'''mermaid
+erDiagram
+    organization ||--o{ portfolio: has
+    organization ||--o{ crypto-address: has
+    organization ||--o{ organization-member: has
+    portfolio||--|{ wallet: has
+    portfolio||--|{ order: has
+    portfolio||--|{ loan: has
+    wallet ||--o{ deposit-target: has
+    loan ||--o{ collateral: requires
+    collateral ||--o{ wallet: has
+    organization-member ||--o{ user: has
+    user {
+      string email
+      string APIkey
+      int pin
+    }
+'''
+```
+
+*renders as*  
+```mermaid 
+erDiagram
+    organization ||--o{ portfolio: has
+    organization ||--o{ crypto-address: has
+    organization ||--o{ organization-member: has
+    portfolio||--|{ wallet: has
+    portfolio||--|{ order: has
+    portfolio||--|{ loan: has
+    wallet ||--o{ deposit-target: has
+    loan ||--o{ collateral: requires
+    collateral ||--o{ wallet: has
+    organization-member ||--o{ user: has
+    user {
+      string email
+      string APIkey
+      int pin
+    }
+```
+
+
+
 #### There are a broad spectrum of use cases where diagramming with Marmaid is a good fit.  
   
-* Mermaid JS [https://github.com/mermaid-js/mermaid/releases/latest](https://github.com/mermaid-js/mermaid/releases/latest)  
-* Mermaid integrations [https://github.com/mermaid-js/mermaid/blob/develop/docs/integrations.md](https://github.com/mermaid-js/mermaid/blob/develop/docs/integrations.md)  
-* Mermaid server [https://github.com/TomWright/mermaid-server](https://github.com/TomWright/mermaid-server)  
-* Linux Format Article: "[Dynamic diagrams with Mermaid](https://www.pressreader.com/australia/linux-format/20210309/281715502348881)." by Mihalis Tsoukalos - source code available at [https://www.linuxformat.com/archives?issue=274](https://www.linuxformat.com/archives?issue=274)  
+* Mermaid cheatsheet [mermaideditor.com/cheatsheet](https://mermaideditor.com/cheatsheet)  
+* Mermaid JS [github.com/mermaid-js/mermaid/releases/latest](https://github.com/mermaid-js/mermaid/releases/latest)  
+* Mermaid integrations [github.com/mermaid-js/mermaid/blob/develop/docs/integrations.md](https://github.com/mermaid-js/mermaid/blob/develop/docs/integrations.md)  
+* Mermaid server [github.com/TomWright/mermaid-server](https://github.com/TomWright/mermaid-server)  
+* Linux Format Article: "[Dynamic diagrams with Mermaid](https://www.pressreader.com/australia/linux-format/20210309/281715502348881)." by Mihalis Tsoukalos - source code available at [linuxformat.com/archives?issue=274](https://www.linuxformat.com/archives?issue=274)  
+
 
 
 #### There is also some alternative tooling:  
