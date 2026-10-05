@@ -68,6 +68,7 @@ erDiagram
     }
 ```
 
+Help from: [mermaidflow.app/docs/syntax/entity-relationship-diagram](https://www.mermaidflow.app/docs/syntax/entity-relationship-diagram)  
 
 
 #### There are a broad spectrum of use cases where diagramming with Marmaid is a good fit.  
