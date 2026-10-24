@@ -52,7 +52,7 @@ https://clemensjarnach.github.io/02-articles/2023-05-02-article.html
 |<div class="DarkGray"> </div> | DarkGray | #A9A9A9 | rgb(169, 169, 169) |
 |<div class="Gray"> </div> | Gray | #808080 | rgb(128, 128, 128) |
 |<div class="DimGray"> </div> | DimGray | #696969 | rgb(105, 105, 105) |
-|<div class="LightSlateGray"> </div> | LightSlateGray | #778899 | rgb(119, 136, 153) |
+|<style="background-color: LightSlateGray"> </style> | LightSlateGray | #778899 | rgb(119, 136, 153) |
 |<div class="SlateGray"> </div> | SlateGray | #708090 | rgb(112, 128, 144) |
 |<div class="DarkSlateGray"> </div> | DarkSlateGray | #2F4F4F | rgb(47, 79, 79) |
 |<div class="Black"> </div> | Black | #000000 | rgb(0, 0, 0) |
