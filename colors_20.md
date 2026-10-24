@@ -28,33 +28,30 @@ Try:
 https://clemensjarnach.github.io/02-articles/2023-05-02-article.html  
 
 
-<style>
-/*  Gray HTML Color Names   */
-
-    .Gainsboro { background-color: #DCDCDC; }
-    .LightGray { background-color: #D3D3D3; }
-    .Silver { background-color: #C0C0C0; }
-    .DarkGray { background-color: #A9A9A9; }
-    .Gray { background-color: #808080; }
-    .DimGray { background-color: #696969; }
-    .LightSlateGray { background-color: #778899; }
-    .SlateGray { background-color: #708090; }
-    .DarkSlateGray { background-color: #2F4F4F; }
-    .Black { background-color: #000000; }
-
+<style type="text/css">
+.Gainsboro{background-color:#DCDCDC;}
+.LightGray{background-color:#D3D3D3;}
+.Silver{background-color:#C0C0C0;}
+.DarkGray{background-color:#A9A9A9;}
+.Gray{background-color:#808080;}
+.DimGray{background-color:#696969;}
+.LightSlateGray{background-color:#778899;}
+.SlateGray{background-color:#708090;}
+.DarkSlateGray{background-color:#2F4F4F;}
+.Black{background-color:#000000;}
 </style>
 
 |Color Sample | Name | Hex Code | RGB Code |
 |:------------|:-----|:---------|:---------|
-|<td style="background-color:Gainsboro">&nbsp;&nbsp;&nbsp;</td> | Gainsboro | #DCDCDC | rgb(220, 220, 220) |
-|<td style="background-color:LightGray">&nbsp;&nbsp;&nbsp;</td> | LightGray | #D3D3D3 | rgb(211, 211, 211) |
-|<td style="background-color:Silver">&nbsp;&nbsp;&nbsp;</td> | Silver | #C0C0C0 | rgb(192, 192, 192) |
-|<td style="background-color:DarkGray">&nbsp;&nbsp;&nbsp;</td> | DarkGray | #A9A9A9 | rgb(169, 169, 169) |
-|<td style="background-color:Gray">&nbsp;&nbsp;&nbsp;</td> | Gray | #808080 | rgb(128, 128, 128) |
-|<td style="background-color:DimGray">&nbsp;&nbsp;&nbsp;</td> | DimGray | #696969 | rgb(105, 105, 105) |
-|<td style="background-color:LightSlateGray">&nbsp;&nbsp;&nbsp;</td> | LightSlateGray | #778899 | rgb(119, 136, 153) |
-|<td style="background-color:SlateGray">&nbsp;&nbsp;&nbsp;</td> | SlateGray | #708090 | rgb(112, 128, 144) |
-|<td style="background-color:DarkSlateGray">&nbsp;&nbsp;&nbsp;</td> | DarkSlateGray | #2F4F4F | rgb(47, 79, 79) |
-|<td style="background-color:Black">&nbsp;&nbsp;&nbsp;</td> | Black | #000000 | rgb(0, 0, 0) |
+|<div class="Gainsboro"> </div>| Gainsboro | #DCDCDC | rgb(220, 220, 220) |
+|<div class="LightGray">&nbsp;&nbsp;&nbsp;</div>| LightGray | #D3D3D3 | rgb(211, 211, 211) |
+|<div class="Silver"> </div>| Silver | #C0C0C0 | rgb(192, 192, 192) |
+|<div class="DarkGray"> </div>| DarkGray | #A9A9A9 | rgb(169, 169, 169) |
+|<div class="Gray"> </div>| Gray | #808080 | rgb(128, 128, 128) |
+|<div class="DimGray"> </div>| DimGray | #696969 | rgb(105, 105, 105) |
+|<div class="LightSlateGray"> </div>| LightSlateGray | #778899 | rgb(119, 136, 153) |
+|<div class="SlateGray"> </div>| SlateGray | #708090 | rgb(112, 128, 144) |
+|<div class="DarkSlateGray"> </div>| DarkSlateGray | #2F4F4F | rgb(47, 79, 79) |
+|<div class="Black"> </div>| Black | #000000 | rgb(0, 0, 0) |
 
 
