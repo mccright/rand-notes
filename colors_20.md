@@ -28,6 +28,9 @@ Try:
 https://clemensjarnach.github.io/02-articles/2023-05-02-article.html  
 
 
+#### Trying https://github.github.com/gfm/#example-141  
+(*does not work...*)
+
 <style type="text/css">
 .Gainsboro{background-color:#DCDCDC;}
 .LightGray{background-color:#D3D3D3;}
