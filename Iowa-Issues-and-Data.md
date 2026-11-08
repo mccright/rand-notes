@@ -304,7 +304,7 @@ Liam Halawith and Marissa Payne [wrote in the 2026-08-06 Des Moines Register](ht
 <a name="food_n_hunger_in_iowa"></a>
 ### Food/Hunger  
 Food insecurity in Iowa by the numbers (*By F. Amanda Tugade, 01-12-2024, [The Des Moines Register](https://desmoinesregister-ia.newsmemory.com?publink=0114326e8_134d555)*)  
-● The average cost of a meal in Iowa is $4.  
+● The average cost of a meal in Iowa is $4. (*That number is from almost three years ago. Inflation has made an average meal more expensive since then.*)  
 ● More than 344,000 Iowans are food insecure. More than 30% — roughly 110,000 — are children.  
 ● 1 in 9 adults — and 1 in 6 children — do not have enough to eat or know where their next meal is coming from.  
   * Working is not the core issue.  Gov. Reynolds organized a task force that [found](https://desmoinesregister-ia.newsmemory.com?publink=051a3bdd8_134f960):  
@@ -348,7 +348,7 @@ Chronic absenteeism is having missed at least 10% of school days or instructiona
 
 
 <a name="iowa_wealth_inequality_data"></a>
-### Iowa Wealth Inequality Data, 1960-2020  
+### Iowa Wealth and "Wealth Inequality Data, 1960-2020"  
 
 Race and gender are foundational determinants of how wealth is distributed in Iowa, and wealth is increasingly concentrated in fewer households over time across the state.  
 
@@ -363,12 +363,17 @@ Race and gender are foundational determinants of how wealth is distributed in Io
 | 2020 | Iowa | 13251 | 1,276,121 | $466,054.813 | $140,016.988 | 0.323 | 0.168 | 0.087 | 0.045 | 0.636 | 0.048 | 0.799 | 1374746.588 | 882626.797 | 0 | 85201.038 | 137215.878 | 0.727 | 0.273 | 0.298 | 0.428 | 0.415 | 0.932 | 0.014 | 0.015 | 0.515 | 2.304 | 55.522 | 19033.349 | 0.026 | 0.015 | 0.008 | 0.004 | 0.016 | 0.002 | 0.021 | 0.024 | 0.015 |
 
 FROM: https://www.openicpsr.org/openicpsr/192306/fcr:versions/V4/state_wealth_inequality.csv (downloaded 2025-11-27)  
- Suss, Joel, Connor, Dylan, and Kemeny, Tom. GEOWEALTH-US: Spatial wealth inequality data for the United States, 1960-2020: state_wealth_inequality.csv. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2024-02-22. https://doi.org/10.3886/E192306V4-147761
-  
+ Suss, Joel, Connor, Dylan, and Kemeny, Tom. GEOWEALTH-US: Spatial wealth inequality data for the United States, 1960-2020: state_wealth_inequality.csv. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2024-02-22. https://doi.org/10.3886/E192306V4-147761.  This data has been updated and is now at version 4.1. See: Suss, Joel, Dylan Shane Connor, and Tom Kemeny. “GEOWEALTH-US: Spatial Wealth Inequality Data for the United States, 1960-2020.” Ann Arbor, MI: Inter-university Consortium for Political and Social Research (ICPSR) [distributor], August 2, 2026. https://www.icpsr.umich.edu/sites/icpsr/view/studies/192306/versions/V4.1. (downloaded 2026-11-06)    
 To view the citation for the overall project, see http://doi.org/10.3886/E192306V4.  
 
 ALICE is an acronym for 'Asset Limited, Income Constrained, Employed.' It refers to 'households that earn more than the federal poverty level, but less than the basic cost of living for the county.' It is defined and used by the U.S. Census Bureau, [American Community Survey](https://www.census.gov/programs-surveys/acs) to identify *the working poor*.  Their [2026 report (2024 data)](https://www.unitedforalice.org/Attachments/AllReports/state-of-alice-report-iowa-2026.pdf) found that:  
 >In Iowa, the ALICE Household Survival Budget was $27,732 for a single adult and $74,616 for a family of four with two adults, an infant, and a preschooler — much higher than the FPL ($15,060 for a single adult and $31,200 for a family of four). ...34% (448,993) of households were below the ALICE Threshold. Despite some ups and downs, the number of ALICE households in Iowa trended upward overall between 2010 and 2024 while the number of households in poverty held relatively steady. More recently (between 2022 and 2024), the number of ALICE households declined while the number in poverty remained flat.  ...In 2024, the groups with the highest percentage of households below the Threshold included Black households (58%) and American Indian/Alaska Native households (50%); households headed by people under age 25 (56%) and age 65 and over (44%); and single-parent-headed households (67% single-female-headed, 41% single-male-headed). In Iowa, there was also a notable increase over time (2010–2024) in the total number of households headed by someone age 65+, as well as the number of age 65+ households living below the ALICE Threshold.  
+
+On Nov. 6, 2026, [Donnelle Eller reported](https://www.desmoinesregister.com/story/money/agriculture/2026/11/06/iowa-farmers-corn-soybeans-2026-harvest-future/92458903007/) that despite high average crop productivity, farmers are earning less this year and are pessimistic about 2027:  
+>Even with near-record government assistance — at $3.29 billion this year — Iowa farm income is forecast to decline 2% this year from 2025, according to a University of Missouri preliminary forecast.  
+>That decline is smaller than the USDA forecast of 2.6% this year. But Iowa farm income in 2027 could tumble as much as 12%, depending on whether growers receive one-time federal government payments that are outside normal assistance, said Alejandro Plastina, a University of Missouri associate professor.  
+>Overall, U.S. farmers are forecast to receive $47.4 billion in government payments this year, a record amount and nearly 70% more than they received in 2025. The spike is driven by $28 billion in one-time supplemental payments to offset trade disruptions and cover disaster losses in 2023 and 2024 as well as a $13.8 billion boost in crop insurance payouts for 2025.  
+>Plastina's forecast for Iowa doesn't include $8 billion the Trump administration announced last month it would send to farmers to offset diesel prices that have at times been double those in 2025.  
 
 
 <a name="iowa_elections"></a>
