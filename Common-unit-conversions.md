@@ -103,6 +103,10 @@ I use this resource locally when reading, hoping to reduce my network I/O and my
 |1 Astronomical Unit|0.0000158125 light years|
 |1 light year|5878625373184 miles|
 |1 light year|9460730472580.8 kilometers|
+|1 light day |16094799360 miles|
+|1 light day |25902067680 kilometers|
+|1 light hour|670616640 miles|
+|1 light hour|1079252820 kilometers|
 |1 light minute|11176944 miles|
 |1 light minute|17987547 kilometers|
 |1 light second|186282.40 miles|
